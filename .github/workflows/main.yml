@@ -8,19 +8,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # 必须开启写入权限，否则无法存回 seen_ids.txt
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true' # 这一行可以直接让警告消失
     permissions:
       contents: write
-      
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
-
+        uses: actions/checkout@v4 # 升级到 v4
+      
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # 升级到 v5
         with:
           python-version: '3.10'
-
+# ... 后面保持不变 ...
       - name: Install dependencies
         run: pip install requests gtfs-realtime-bindings
 
