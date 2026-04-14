@@ -9,22 +9,16 @@ TTC_ALERTS_URL = "https://bustime.ttc.ca/gtfsrt/alerts"
 DB_FILE = "seen_ids.txt"
 # ============================================
 
-def load_seen_alerts():
-    # 增加保护：如果文件不存在，返回空集合而不是报错
-    if not os.path.exists(DB_FILE):
-        return set()
-    try:
-        with open(DB_FILE, "r", encoding="utf-8") as f:
-            return set(f.read().splitlines())
-    except:
-        return set()
-
-def save_seen_alerts(seen_set):
-    with open(DB_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(seen_set))
-
 def check_alerts():
-    seen_alerts = load_seen_alerts()
+    # 1. 尝试读取已发送的历史，如果文件不存在就给个空的 set
+    seen_alerts = set()
+    if os.path.exists(DB_FILE):
+        try:
+            with open(DB_FILE, "r", encoding="utf-8") as f:
+                seen_alerts = set(f.read().splitlines())
+        except:
+            pass
+
     new_alerts_found = False
     
     try:
@@ -38,13 +32,14 @@ def check_alerts():
                 header = alert.header_text.translation[0].text if alert.header_text.translation else "TTC Alert"
                 desc = alert.description_text.translation[0].text if alert.description_text.translation else "No details."
                 
+                # 指纹去重
                 fingerprint = f"{header}|{desc}"
                 
                 if fingerprint not in seen_alerts:
                     seen_alerts.add(fingerprint)
                     new_alerts_found = True
                     
-                    # 颜色和分类
+                    # 地铁红色，其他蓝色
                     subway_keywords = ["Line 1", "Line 2", "Line 4", "Subway"]
                     embed_color = 14297372 if any(k in header or k in desc for k in subway_keywords) else 3447003
                     
@@ -59,21 +54,19 @@ def check_alerts():
                         }]
                     }
                     requests.post(WEBHOOK_URL, json=payload)
-                    print(f"Sent: {header[:50]}")
+                    print(f"Sent alert: {header[:50]}")
 
+        # 2. 如果有新警报，保存并更新文件
         if new_alerts_found:
-            save_seen_alerts(seen_alerts)
+            with open(DB_FILE, "w", encoding="utf-8") as f:
+                f.write("\n".join(seen_alerts))
+            print("Database updated.")
             return True
             
     except Exception as e:
         print(f"Error: {e}")
+    
     return False
 
 if __name__ == "__main__":
-    # 第一次运行启动通知
-    if not os.path.exists(DB_FILE):
-        try:
-            requests.post(WEBHOOK_URL, json={"content": "🚀 **TTC Tracker First-Time Setup Complete.**"})
-        except: pass
-        
     check_alerts()
