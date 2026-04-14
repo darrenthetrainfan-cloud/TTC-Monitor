@@ -10,7 +10,6 @@ DB_FILE = "seen_ids.txt"
 # ============================================
 
 def check_alerts():
-    # 1. 尝试读取已发送的历史，如果文件不存在就给个空的 set
     seen_alerts = set()
     if os.path.exists(DB_FILE):
         try:
@@ -32,17 +31,33 @@ def check_alerts():
                 header = alert.header_text.translation[0].text if alert.header_text.translation else "TTC Alert"
                 desc = alert.description_text.translation[0].text if alert.description_text.translation else "No details."
                 
-                # 指纹去重
                 fingerprint = f"{header}|{desc}"
                 
                 if fingerprint not in seen_alerts:
                     seen_alerts.add(fingerprint)
                     new_alerts_found = True
                     
-                    # 地铁红色，其他蓝色
-                    subway_keywords = ["Line 1", "Line 2", "Line 4", "Subway"]
-                    embed_color = 14297372 if any(k in header or k in desc for k in subway_keywords) else 3447003
+                    # --- 自动配色逻辑（6号线修正为灰色） ---
+                    content = (header + desc).lower()
                     
+                    # 默认颜色：TTC 红色 (Bus/Streetcar)
+                    embed_color = 14297372 
+
+                    # 优先级 1: 无障碍设施 -> 蓝色 (Blue)
+                    if any(x in content for x in ["elevator", "escalator", "wheel-trans", "accessibility"]):
+                        embed_color = 3447003 
+                    # 优先级 2: 地铁/轻轨线路
+                    elif any(x in content for x in ["line 1", "yonge-university"]):
+                        embed_color = 16766720  # 黄色
+                    elif any(x in content for x in ["line 2", "bloor-danforth"]):
+                        embed_color = 3066993   # 绿色
+                    elif any(x in content for x in ["line 4", "sheppard"]):
+                        embed_color = 10181046  # 紫色
+                    elif any(x in content for x in ["line 5", "eglinton"]):
+                        embed_color = 16750848  # 橙色
+                    elif any(x in content for x in ["line 6", "finch west"]):
+                        embed_color = 8421504   # 灰色 (Official Line 6 Color)
+
                     payload = {
                         "username": "TTC Tracker",
                         "avatar_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/TTC.svg/1200px-TTC.svg.png",
@@ -54,13 +69,11 @@ def check_alerts():
                         }]
                     }
                     requests.post(WEBHOOK_URL, json=payload)
-                    print(f"Sent alert: {header[:50]}")
+                    print(f"Sent: {header[:50]} (Color: {embed_color})")
 
-        # 2. 如果有新警报，保存并更新文件
         if new_alerts_found:
             with open(DB_FILE, "w", encoding="utf-8") as f:
                 f.write("\n".join(seen_alerts))
-            print("Database updated.")
             return True
             
     except Exception as e:
