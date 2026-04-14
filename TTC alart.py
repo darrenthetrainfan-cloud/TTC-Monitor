@@ -1,6 +1,7 @@
 import requests
 import time
 import os
+import re
 from google.transit import gtfs_realtime_pb2
 
 # ================= 配置区域 =================
@@ -37,16 +38,17 @@ def check_alerts():
                     seen_alerts.add(fingerprint)
                     new_alerts_found = True
                     
-                    # --- 自动配色逻辑（6号线修正为灰色） ---
+                    # --- 增强型自动化配色逻辑 ---
                     content = (header + desc).lower()
                     
-                    # 默认颜色：TTC 红色 (Bus/Streetcar)
+                    # 默认颜色：TTC 红色 (通用/Bus)
                     embed_color = 14297372 
 
-                    # 优先级 1: 无障碍设施 -> 蓝色 (Blue)
+                    # 1. 无障碍设施 (Elevator/Escalator) -> 蓝色
                     if any(x in content for x in ["elevator", "escalator", "wheel-trans", "accessibility"]):
                         embed_color = 3447003 
-                    # 优先级 2: 地铁/轻轨线路
+                    
+                    # 2. 地铁线路识别
                     elif any(x in content for x in ["line 1", "yonge-university"]):
                         embed_color = 16766720  # 黄色
                     elif any(x in content for x in ["line 2", "bloor-danforth"]):
@@ -56,7 +58,15 @@ def check_alerts():
                     elif any(x in content for x in ["line 5", "eglinton"]):
                         embed_color = 16750848  # 橙色
                     elif any(x in content for x in ["line 6", "finch west"]):
-                        embed_color = 8421504   # 灰色 (Official Line 6 Color)
+                        embed_color = 8421504   # 灰色
+                    
+                    # 3. Streetcar（特指 500-599 路）-> 也是红色，但我们可以确保它不被误判
+                    elif re.search(r'\b5\d{2}\b', content) or "streetcar" in content:
+                        embed_color = 14297372  # 保持红色
+                    
+                    # 4. Bus -> 保持红色
+                    elif "bus" in content:
+                        embed_color = 14297372
 
                     payload = {
                         "username": "TTC Tracker",
@@ -69,7 +79,7 @@ def check_alerts():
                         }]
                     }
                     requests.post(WEBHOOK_URL, json=payload)
-                    print(f"Sent: {header[:50]} (Color: {embed_color})")
+                    print(f"Sent: {header[:50]}")
 
         if new_alerts_found:
             with open(DB_FILE, "w", encoding="utf-8") as f:
