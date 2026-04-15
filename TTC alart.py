@@ -34,6 +34,38 @@ def send_to_discord(header, desc, status_type):
         
     content = (header + desc).lower()
     
+    # --- 标题精简逻辑 ---
+    # 如果有冒号，只取冒号前面的文字；如果没有，就用原本的标题
+    short_header = header.split(':')[0].strip() if ':' in header else header
+
+    # 状态分流：警报 vs 恢复
+    if status_type == "alert":
+        title = f"🚨 {short_header}"
+        color = get_color_for_alert(content)
+        # 把原本完整的 header 放到描述的第一行，这样信息不会丢失
+        description = f"**{header}**\n\n**New Alert Details:**\n{desc}"
+    else:
+        title = f"✅ Resolved: {short_header}"
+        color = 5763719  # 绿色
+        description = f"**{header}**\n\n**This issue has been cleared.**\n~~{desc}~~"
+
+    payload = {
+        "username": "TTC Tracker",
+        # 已删掉 avatar_url，将自动使用你设置好的 Webhook 头像
+        "embeds": [{
+            "title": title,
+            "description": description,
+            "color": color,
+            "timestamp": time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())
+        }]
+    }
+    
+    try:
+        requests.post(WEBHOOK_URL, json=payload)
+        print(f"Sent {status_type}: {short_header}")
+    except Exception as e:
+        print(f"Failed to send Discord message: {e}")
+        
     # 状态分流：警报 vs 恢复
     if status_type == "alert":
         title = f"🚨 {header[:200]}"
