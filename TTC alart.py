@@ -47,8 +47,7 @@ def send_to_discord(header, desc, status_type):
 
     payload = {
         "username": "TTC Tracker",
-        "avatar_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/TTC.svg/1200px-TTC.svg.png",
-        "embeds": [{
+               "embeds": [{
             "title": title,
             "description": description,
             "color": color,
