@@ -65,38 +65,7 @@ def send_to_discord(header, desc, status_type):
         print(f"Sent {status_type}: {short_header}")
     except Exception as e:
         print(f"Failed to send Discord message: {e}")
-        
-    # 状态分流：警报 vs 恢复
-    if status_type == "alert":
-        title = f"🚨 {header[:200]}"
-        color = get_color_for_alert(content)
-        description = f"**New Alert Details:**\n{desc}"
-    else:
-        title = f"✅ TTC Resolved: {header[:200]}"
-        color = 5763719  # 恢复通知专属绿色
-        # 在恢复通知中，给描述加上删除线，表示已失效
-        description = f"**This issue has been cleared.**\n~~{desc}~~"
 
-    payload = {
-        "username": "TTC Tracker",
-               "embeds": [{
-            "title": title,
-            "description": description,
-            "color": color,
-            "timestamp": time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())
-        }]
-    }
-    
-    try:
-        requests.post(WEBHOOK_URL, json=payload)
-        print(f"Sent {status_type}: {header[:50]}")
-    except Exception as e:
-        print(f"Failed to send Discord message: {e}")
-
-def check_alerts():
-    if not WEBHOOK_URL:
-        print("Error: DISCORD_WEBHOOK is not set!")
-        return False
 
     # 1. 翻开“记事本”，看看上一分钟有哪些没解决的警报
     old_alerts = {}
