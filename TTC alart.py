@@ -5,12 +5,18 @@ import re
 from google.transit import gtfs_realtime_pb2
 
 # ================= 配置区域 =================
-WEBHOOK_URL = "https://discord.com/api/webhooks/1493694754821505126/74HdOARTigkDHORW2psEDUzYp89IX25Hq0jqn6KZPu1sV1t2-G2n5R1E3rxCP91WDRuC"
+# 从 GitHub Secrets 中安全地读取 Webhook 链接
+WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK")
 TTC_ALERTS_URL = "https://bustime.ttc.ca/gtfsrt/alerts"
 DB_FILE = "seen_ids.txt"
 # ============================================
 
 def check_alerts():
+    # 如果没设置环境变量，直接报错提醒，防止脚本白跑
+    if not WEBHOOK_URL:
+        print("Error: DISCORD_WEBHOOK environment variable is not set!")
+        return False
+
     seen_alerts = set()
     if os.path.exists(DB_FILE):
         try:
@@ -41,14 +47,11 @@ def check_alerts():
                     # --- 增强型自动化配色逻辑 ---
                     content = (header + desc).lower()
                     
-                    # 默认颜色：TTC 红色 (通用/Bus)
+                    # 默认颜色：TTC 红色
                     embed_color = 14297372 
 
-                    # 1. 无障碍设施 (Elevator/Escalator) -> 蓝色
                     if any(x in content for x in ["elevator", "escalator", "wheel-trans", "accessibility"]):
                         embed_color = 3447003 
-                    
-                    # 2. 地铁线路识别
                     elif any(x in content for x in ["line 1", "yonge-university"]):
                         embed_color = 16766720  # 黄色
                     elif any(x in content for x in ["line 2", "bloor-danforth"]):
@@ -59,12 +62,8 @@ def check_alerts():
                         embed_color = 16750848  # 橙色
                     elif any(x in content for x in ["line 6", "finch west"]):
                         embed_color = 8421504   # 灰色
-                    
-                    # 3. Streetcar（特指 500-599 路）-> 也是红色，但我们可以确保它不被误判
                     elif re.search(r'\b5\d{2}\b', content) or "streetcar" in content:
-                        embed_color = 14297372  # 保持红色
-                    
-                    # 4. Bus -> 保持红色
+                        embed_color = 14297372
                     elif "bus" in content:
                         embed_color = 14297372
 
@@ -82,8 +81,10 @@ def check_alerts():
                     print(f"Sent: {header[:50]}")
 
         if new_alerts_found:
+            # 只保留最近的 200 条记录，防止文件无限增大
+            to_save = list(seen_alerts)[-200:]
             with open(DB_FILE, "w", encoding="utf-8") as f:
-                f.write("\n".join(seen_alerts))
+                f.write("\n".join(to_save))
             return True
             
     except Exception as e:
