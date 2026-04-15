@@ -4,7 +4,6 @@ Greenwood: Escalator 10D3E out o|||Greenwood: Escalator out of service from Line
 Dupont: Escalator 2S7E out of se|||Dupont: Escalator out of service from Dupont St north side entrance to concourse due to construction. Escalator is expected to be back in service May 1, 2026.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
 Osgoode: Escalator 5Y2E out of s|||Osgoode: Escalator out of service from concourse to Line 1 platform due to a technical problem.
-Line 1 Yonge-University: Delays|||Line 1 Yonge-University: Delays northbound at Cedarvale station while we deal with a trespasser on the tracks.
 Wilson: Escalator 8S6E out of se|||Wilson: Escalator out of service from Wilson Ave north side entrance and concourse to underpass (to bus platform) due to a technical problem.
 Bessarion: Escalator 57P4E out o|||Bessarion: Escalator out of service from Line 4 platform to concourse due to a technical problem.
 Finch: Escalator 22Y10E out of s|||Finch: Escalator out of service from GO and YRT bus platform to Fares concourse while we perform maintenance. Escalator is expected to be back in service April 30, 2026.
@@ -14,6 +13,7 @@ Dundas West: Elevator 8B2L out o|||
 Don Mills: Escalator 61P2E out o|||Don Mills: Escalator out of service from bus platform to concourse due to a technical problem. Escalator is expected to be back in service April 17, 2026.
 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
 Bathurst: Escalator 3B1E out of|||Bathurst: Escalator out of service from concourse to Bathurst St east side entrance while we perform maintenance.
+75 Sherbourne: Detour via Welles|||75 Sherbourne: Detour via Wellesley St E, Jarvis St and Bloor St E due to police activity.
 Pioneer Village: Escalator 13S6E|||Pioneer Village: Escalator out of service from Line 1 platform to lower south concourse while we perform maintenance. Escalator is expected to be back in service April 16, 2026.
 Old Mill: Escalator 13B2E out of|||Old Mill: Escalator out of service from Line 2 Kennedy platform to Old Mill Trail entrance while we perform maintenance. Escalator is expected to be back in service April 16, 2026.
 Dupont: Escalator 2S5E out of se|||Dupont: Escalator out of service from concourse to Dupont St south side entrance while we perform maintenance. Escalator is expected to be back in service April 15, 2026.
