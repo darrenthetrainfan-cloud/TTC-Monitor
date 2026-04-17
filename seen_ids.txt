@@ -1,8 +1,8 @@
 Dupont: Escalator 2S8E out of se|||Dupont: Escalator out of service from concourse to Dupont St north side entrance due to construction. Escalator is expected to be back in service May 1, 2026.
-504A King: No service between Qu|||504A King: No service between Queen St West at Roncesvalles Ave East Side and King St West at Shaw St due to a collision.
+Dufferin: Elevator 6B3L out of s|||
 Finch: Elevator 22Y3L out of ser|||
 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
-Dufferin: Elevator 6B2L out of s|||
+Spadina: Elevator 2B2L out of se|||
 501 Queen: Streetcars are not st|||501 Queen: Streetcars are not stopping near Queen St West at Jameson Ave due to a security incident.
 Jane: Elevator 12B2L out of serv|||
 Bathurst: Escalator 3B1E out of|||Bathurst: Escalator out of service from concourse to Bathurst St east side entrance while we perform maintenance.
@@ -10,6 +10,7 @@ Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concour
 Greenwood: Escalator 10D3E out o|||Greenwood: Escalator out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service April 17, 2026.
 Dupont: Escalator 2S7E out of se|||Dupont: Escalator out of service from Dupont St north side entrance to concourse due to construction. Escalator is expected to be back in service May 1, 2026.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
+Woodbine: Elevator 12D2L out of|||
 Queen's Quay (Union): Elevator 2|||
 512 St Clair: Streetcars have be|||512 St Clair: Streetcars have been replaced by buses between Gunns Loop at St Clair Ave West and St Clair Station due to a watermain break.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
