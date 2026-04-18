@@ -3,7 +3,6 @@ Bloor-Yonge: Elevator 13Y2L out|||Bloor-Yonge: Elevator out of service between n
 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
 Don Mills: Elevator 61P3L out of|||Don Mills: Elevator out of service between concourse and Line 4 platform while we perform maintenance.
 506 Carlton: No service between|||506 Carlton: No service between College St at Ossington Ave and Carlton St at Parliament St due to a blocked track.
-511 Bathurst: No service between|||511 Bathurst: No service between Bathurst St at College St and Bathurst Station at Bay 6 due to a collision.
 Bathurst: Escalator 3B1E out of|||Bathurst: Escalator out of service from concourse to Bathurst St east side entrance while we perform maintenance.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
 Dupont: Escalator 2S7E out of se|||Dupont: Escalator out of service from Dupont St north side entrance to concourse due to construction. Escalator is expected to be back in service May 1, 2026.
