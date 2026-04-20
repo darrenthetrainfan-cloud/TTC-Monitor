@@ -4,6 +4,7 @@ Sheppard West: Elevator 9S2L out|||Sheppard West: Elevator out of service betwee
 Main Street: Elevator 13D2L out|||Main Street: Elevator out of service between concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service April 20, 2026.
 124 Sunnybrook: No service near|||124 Sunnybrook: No service near Hospital Rd at Wellness Way East Side - Sunnybrook Main Entr due to construction.
 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
+Downsview Park: Elevator 10S2L o|||Downsview Park: Elevator out of service between Vitti St east side entrance and concourse due to a technical problem.
 Sherbourne: Elevator 4D1L out of|||Sherbourne: Elevator out of service between Sherbourne Street entrance, concourse and Line 2 Kennedy (eastbound) while we perform maintenance.
 88A South Leaside: Detour via Ha|||88A South Leaside: Detour via Hanna Ave and Southvale Dr due to a collision.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
@@ -14,7 +15,7 @@ Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1
 512 St Clair: No service between|||512 St Clair: No service between Gunns Loop at St Clair Ave West and St Clair Station at Bay 2 due to a watermain break. Shuttle buses are running between Gunns Loop at St Clair Ave West and St Clair Station at Bay 2.
 156 Millwood: Detour via Sutherl|||156 Millwood: Detour via Sutherland Dr, Hanna Ave and Southvale Dr due to a collision.
 St Andrew: Elevator 6Y2L out of|||St Andrew: Elevator out of service between concourse and Line 1 centre platform while we perform maintenance.
-Line 6 Finch West: No service be|||Line 6 Finch West: No service between Driftwood and Rowntree Mills stations due to construction. Shuttle buses are running between Driftwood and Rowntree Mills.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 Finch: Escalator 22Y11E out of s|||Finch: Escalator out of service from Fares concourse to GO and YRT bus platform while we perform maintenance. Escalator is expected to be back in service April 30, 2026.
+Line 6 Finch West: No service be|||Line 6 Finch West: No service between Signet Arrow and Rowntree Mills stations due to City of Toronto emergency work. Shuttle buses are running between Driftwood and Rowntree Mills.
 Finch: Escalator 22Y10E out of s|||Finch: Escalator out of service from GO and YRT bus platform to Fares concourse while we perform maintenance. Escalator is expected to be back in service April 30, 2026.
