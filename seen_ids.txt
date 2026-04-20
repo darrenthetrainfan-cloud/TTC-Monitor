@@ -6,7 +6,6 @@ Sherbourne: Elevator 4D1L out of|||Sherbourne: Elevator out of service between S
 Main Street: Elevator 13D1L out|||Main Street: Elevator out of service between Main St east side entrance, concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service April 20, 2026.
 Bathurst: Escalator 3B1E out of|||Bathurst: Escalator out of service from concourse to Bathurst St east side entrance while we perform maintenance.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
-Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass at St Andrew station due to a security incident.
 Sherbourne: Elevator 4D2L out of|||Sherbourne: Elevator out of service between concourse and Line 2 Kipling (westbound) while we perform maintenance.
 Dupont: Escalator 2S7E out of se|||Dupont: Escalator out of service from Dupont St north side entrance to concourse due to construction. Escalator is expected to be back in service May 1, 2026.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
