@@ -1,8 +1,6 @@
 Dupont: Escalator 2S8E out of se|||Dupont: Escalator out of service from concourse to Dupont St north side entrance due to construction. Escalator is expected to be back in service May 1, 2026.
 Kennedy: Elevator 16D1L out of s|||Kennedy: Elevator out of service between Transway Cresent entrance and bus platform B and concourse while we perform maintenance.
-Line 1 Yonge-University: Delays|||Line 1 Yonge-University: Delays northbound at Downsview Park station while we respond to an emergency alarm.
 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
-511 Bathurst: Detour northbound|||511 Bathurst: Detour northbound via College St, Spadina Ave and Spadina Station while we respond to a medical emergency.
 Kennedy: Elevator 16D2L out of s|||Kennedy: Elevator out of service between concourse and Line 2 centre platform while we perform maintenance.
 Scarborough Centre: Elevator 6RT|||Scarborough Centre: Elevator out of service between concourse and Scarborough Town Centre entrance and bus platform while we perform maintenance.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
@@ -10,6 +8,7 @@ Dupont: Escalator 2S7E out of se|||Dupont: Escalator out of service from Dupont 
 Lawrence: Elevator 19Y2L out of|||Lawrence: Elevator out of service between Concourse, Line 1, and bus platform while we perform maintenance. Elevator is expected to be back in service April 21, 2026.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
 Yorkdale: Elevator 7S1L out of s|||Yorkdale: Elevator out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service April 21, 2026.
+511 Bathurst: Detour via College|||511 Bathurst: Detour via College St, Spadina Station and Spadina Station while we respond to a medical emergency.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 Finch: Escalator 22Y11E out of s|||Finch: Escalator out of service from Fares concourse to GO and YRT bus platform while we perform maintenance. Escalator is expected to be back in service April 30, 2026.
 Finch: Escalator 22Y10E out of s|||Finch: Escalator out of service from GO and YRT bus platform to Fares concourse while we perform maintenance. Escalator is expected to be back in service April 30, 2026.
