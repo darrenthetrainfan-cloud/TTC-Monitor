@@ -14,3 +14,4 @@ Kipling: Elevator 16B2L out of s|||Kipling: Elevator out of service between bus 
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 Finch: Escalator 22Y11E out of s|||Finch: Escalator out of service from Fares concourse to GO and YRT bus platform while we perform maintenance. Escalator is expected to be back in service April 30, 2026.
 Finch: Escalator 22Y10E out of s|||Finch: Escalator out of service from GO and YRT bus platform to Fares concourse while we perform maintenance. Escalator is expected to be back in service April 30, 2026.
+505 Dundas: Detour eastbound via|||505 Dundas: Detour eastbound via Dundas St E and Broadview Ave while we deal with a disruptive customer.
