@@ -3,7 +3,6 @@ Bloor-Yonge: Elevator 13Y2L out|||Bloor-Yonge: Elevator out of service between n
 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
 Queen's Park: Elevator 3Y2L out|||Queen's Park: Elevator out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service April 22, 2026.
 504 King: Detour via Dufferin St|||504 King: Detour via Dufferin St, Queen St E and Shaw St due to a security incident.
-Mount Dennis: Elevator 6 out of|||Mount Dennis: Elevator out of service between concourse and bus terminal while we perform maintenance.
 Lansdowne: Elevator 7B1L out of|||Lansdowne: Elevator out of service between Lansdowne Avenue east side entrance and concourse while we perform maintenance. Elevator is expected to be back in service April 22, 2026.
 925 Don Mills Express: Delays be|||925 Don Mills Express: Delays between Don Mills Rd at Gateway Blvd (South) North Side and Don Mills Rd at Eglinton Ave East due to traffic congestion.
 Davisville: Elevator 17Y1L out o|||Davisville: Elevator out of service between Davisville Ave south side entrance and concourse while we perform maintenance.
@@ -12,7 +11,6 @@ Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concour
 Dupont: Escalator 2S7E out of se|||Dupont: Escalator out of service from Dupont St north side entrance to concourse due to construction. Escalator is expected to be back in service May 1, 2026.
 45B Kipling: Detour northbound v|||45B Kipling: Detour northbound via Bethridge Rd and Martin Grove Rd due to a collision.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
-Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass at Yorkdale station due to a security incident.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 Finch: Escalator 22Y11E out of s|||Finch: Escalator out of service from Fares concourse to GO and YRT bus platform while we perform maintenance. Escalator is expected to be back in service April 30, 2026.
 York Mills: Elevator 20Y1L out o|||York Mills: Elevator out of service between concourse and Line 1 centre platform while we perform maintenance.
