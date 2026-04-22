@@ -8,7 +8,7 @@ Keelesdale: Elevator 2 out of se|||Keelesdale: Elevator out of service between c
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
 Dupont: Escalator 2S7E out of se|||Dupont: Escalator out of service from Dupont St north side entrance to concourse due to construction. Escalator is expected to be back in service May 1, 2026.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
-Glencairn: Elevator 5S1L out of|||Glencairn: Elevator out of service between Glencairn Avenue entrance and concourse while we perform maintenance. Elevator is expected to be back in service April 22, 2026.
+Glencairn: Elevator 5S2L out of|||Glencairn: Elevator out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service April 22, 2026.
 Finch: Elevator 22Y4L out of ser|||Finch: Elevator out of service between Passenger Pick-up and Drop-off entrance and fares concourse while we perform maintenance. Elevator is expected to be back in service April 22, 2026.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 Finch: Escalator 22Y11E out of s|||Finch: Escalator out of service from Fares concourse to GO and YRT bus platform while we perform maintenance. Escalator is expected to be back in service April 30, 2026.
