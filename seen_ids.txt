@@ -10,6 +10,7 @@ Bay: Elevator out of service bet|||Bay: Elevator out of service between street a
 Dupont: Escalator 2S7E out of se|||Dupont: Escalator out of service from Dupont St north side entrance to concourse due to construction. Escalator is expected to be back in service May 1, 2026.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
 Don Valley: Elevator 1 out of se|||Don Valley: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance.
+511 Bathurst: No service between|||511 Bathurst: No service between Bathurst St at Dundas St West - Toronto Western Hospital and Bathurst St at Bloor St West due to traffic congestion.
 13 Avenue Rd: Detour via College|||13 Avenue Rd: Detour via College St, Bay St and Wellesley Ave due to a collision.
 38 Highland Creek: Detour eastbo|||38 Highland Creek: Detour eastbound via Ellesmere Rd and Conlins Rd due to a collision.
 Spadina: Elevator 2B1L out of se|||Spadina: Elevator out of service between Spadina Rd east side entrance and concourse due to a technical problem.
