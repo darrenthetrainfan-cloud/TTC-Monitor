@@ -1,11 +1,13 @@
 Dupont: Escalator 2S8E out of se|||Dupont: Escalator out of service from concourse to Dupont St north side entrance due to construction. Escalator is expected to be back in service May 1, 2026.
-Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
-Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
 Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Hakimi Lebovic and Birchmount stations due to a collision. Shuttle buses are running between Pharmacy and Kennedy.
-Dupont: Escalator 2S7E out of se|||Dupont: Escalator out of service from Dupont St north side entrance to concourse due to construction. Escalator is expected to be back in service May 1, 2026.
-Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
+94 Wellesley: Buses are not stop|||94 Wellesley: Bypass near Wellesley Station at Bus Bay 1 while we respond to a security incident.
+Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass at Wellesley station due to a security incident.
 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
 Don Mills: Elevator 61P6L out of|||Don Mills: Elevator out of service between Fairview Mall entrance and bus platform while we perform maintenance.
 Finch West: Elevator 11S2L out o|||Finch West: Elevator out of service between Keele St west side entrance and concourse while we perform maintenance.
-Have proof of payment ready for|||Have proof of payment ready for inspection.
 505 Dundas: Detour via Parliamen|||505 Dundas: Detour via Parliament St, Gerrard St E and Broadview Ave due to emergency sewer repairs.
+Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
+Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
+Dupont: Escalator 2S7E out of se|||Dupont: Escalator out of service from Dupont St north side entrance to concourse due to construction. Escalator is expected to be back in service May 1, 2026.
+Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
+Have proof of payment ready for|||Have proof of payment ready for inspection.
