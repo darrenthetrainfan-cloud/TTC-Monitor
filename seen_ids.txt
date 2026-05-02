@@ -1,21 +1,12 @@
-113 Danforth: Buses are not stop|||113 Danforth: Bypass between Main Street Station at Bus Bay 2 and Main Street Station at Bus Bay 4 while we respond to a security incident.
-135 Gerrard: Buses are not stopp|||135 Gerrard: Bypass between Main Street Station at Bus Bay 2 and Main Street Station at Bus Bay 4 while we respond to a security incident.
-504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
-Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Victoria Park and Woodbine stations due to a security incident. Shuttle buses are on the way.
-Finch West: Elevator 11S2L out o|||Finch West: Elevator out of service between Keele St west side entrance and concourse while we perform maintenance.
-64 Main: Buses are not stopping|||64 Main: Bypass between Main Street Station at Bus Bay 2 and Main Street Station at Bus Bay 4 while we respond to a security incident.
-Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
-Line 1 Yonge-University: There i|||There is no subway service on Line 1 Yonge-University between Finch and Sheppard-Yonge stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume May 3.
 42 Cummer: Detour eastbound via|||42 Cummer: Detour eastbound via Harold Evans Cres, Temple Ave and Victoria Park Ave due to traffic congestion.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
 Royal York: Elevator 14B2L out o|||Royal York: Elevator out of service between west concourse and Line 2 westbound platform while we perform maintenance.
 48 Rathburn: Detour via Mill Rd,|||48 Rathburn: Detour via Mill Rd, Laver Rd and Elmcrest Rd due to a blocked road.
 Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
-20 Cliffside: Buses are not stop|||20 Cliffside: Bypass between Main Street Station at Bus Bay 2 and Main Street Station at Bus Bay 4 while we respond to a security incident.
-87 Cosburn: Buses are not stoppi|||87 Cosburn: Bypass between Main Street Station at Bus Bay 2 and Main Street Station at Bus Bay 4 while we respond to a security incident.
-62 Mortimer: Buses are not stopp|||62 Mortimer: Bypass between Main Street Station at Bus Bay 2 and Main Street Station at Bus Bay 4 while we respond to a security incident.
-23 Dawes: Buses are not stopping|||23 Dawes: Bypass between Main Street Station at Bus Bay 2 and Main Street Station at Bus Bay 4 while we respond to a security incident.
+504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
 Laird: Elevator 1 out of service|||Laird: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance.
+Finch West: Elevator 11S2L out o|||Finch West: Elevator out of service between Keele St west side entrance and concourse while we perform maintenance.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
-506 Carlton: No service between|||506 Carlton: No service between Main Street Station at Bay 7 and Gerrard St East at Coxwell Ave due to a security incident.
+Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
+Line 1 Yonge-University: There i|||There is no subway service on Line 1 Yonge-University between Finch and Sheppard-Yonge stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume May 3.
