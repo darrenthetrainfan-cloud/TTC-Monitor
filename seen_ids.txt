@@ -1,12 +1,13 @@
-Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
-Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
-Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
 34 Eglinton: Detour eastbound vi|||34 Eglinton: Detour eastbound via Livingston Rd and Times Rd due to a blocked road.
 34 Eglinton: Detour westbound vi|||34 Eglinton: Detour westbound via Livingston Rd, Dufferin St and Eglinton Ave W due to a blocked road.
 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
+504 King: Detour eastbound via B|||504 King: Detour eastbound via Bathurst St, Queens Quay W and Spadina Ave while we fix a mechanical problem.
 St George: Elevator 1Y1L out of|||St George: Elevator out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform while we perform maintenance.
-Laird: Elevator 1 out of service|||Laird: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance.
 Finch West: Elevator 11S2L out o|||Finch West: Elevator out of service between Keele St west side entrance and concourse while we perform maintenance.
-Have proof of payment ready for|||Have proof of payment ready for inspection.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
 Line 1 Yonge-University: There i|||There is no subway service on Line 1 Yonge-University between Finch and Sheppard-Yonge stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume May 3.
+Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
+Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
+Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
+Laird: Elevator 1 out of service|||Laird: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance.
+Have proof of payment ready for|||Have proof of payment ready for inspection.
