@@ -2,7 +2,6 @@ Rosedale: Elevator 14Y1L out of|||Rosedale: Elevator out of service between Cres
 Mount Pleasant: Elevator 2 out o|||Mount Pleasant: Elevator out of service between Eglinton Avenue west side entrance and concourse due to a technical problem.
 202 Cherry Beach: Detour via Har|||202 Cherry Beach: Detour via Harbour St and Yonge St due to an event.
 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
-Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound at Hakimi Lebovic station while the maintainer fixes a door problem.
 184 Ancaster Park: Detour eastbo|||184 Ancaster Park: Detour eastbound via Regent Rd and Maniza Rd due to construction.
 St George: Elevator 1Y1L out of|||St George: Elevator out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform while we perform maintenance.
 Finch West: Elevator 11S2L out o|||Finch West: Elevator out of service between Keele St west side entrance and concourse while we perform maintenance.
@@ -12,7 +11,6 @@ Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concour
 Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
 Line 5 Eglinton: Delays eastboun|||Line 5 Eglinton: Delays eastbound at Hakimi Lebovic station due to a medical emergency.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
-504 King: No service between Duf|||504 King: No service between Dufferin Gate Loop and Dufferin St at King St West due to a collision.
 Queen's Quay (Union): Elevator 2|||Queen's Quay (Union): Elevator out of service between Bay Street west side entrance and westbound streetcars while we perform maintenance. Elevator is expected to be back in service May 8, 2026.
 511 Bathurst: No service between|||511 Bathurst: No service between Exhibition Loop and Fleet St at Fort York Blvd East Side due to an event.
 929 Dufferin Express: No service|||929 Dufferin Express: No service between Dufferin St at Springhurst Ave and Dufferin St at Liberty St due to a collision.
