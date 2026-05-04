@@ -7,6 +7,7 @@ Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between 
 Dundas West: Elevator 8B2L out o|||Dundas West: Elevator out of service between concourse and Line 2 westbound platform while we perform maintenance.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
 Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
+504 King: No service between Kin|||504 King: No service between King St West at Spadina Ave West Side and King St West at Dufferin St due to a blocked track. Shuttle buses are running between King St West at Spadina Ave West Side and King St West at Dufferin St.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
 Queen's Quay (Union): Elevator 2|||Queen's Quay (Union): Elevator out of service between Bay Street west side entrance and westbound streetcars while we perform maintenance. Elevator is expected to be back in service May 8, 2026.
 512 St Clair: No service between|||512 St Clair: No service between St Clair Ave West at Oakwood Ave East Side and St Clair Station at Bay 2 while we deal with an operational problem. Shuttle buses are running between St Clair Ave West at Oakwood Ave East Side and St Clair Station at Bay 2.
