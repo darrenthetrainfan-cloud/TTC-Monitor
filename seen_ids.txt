@@ -1,25 +1,17 @@
-504 King: No service near Erinda|||504 King: No service near Erindale Ave at Broadview Ave due to a security incident.
 Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Ossington and Broadview stations due to a security incident. Shuttle buses are on the way.
-8 Broadview: Buses are not stopp|||8 Broadview: Bypass near Broadview Station at Bus Bay 4 while we respond to a security incident.
-Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.
-505 Dundas: No service near Erin|||505 Dundas: No service near Erindale Ave at Broadview Ave due to a security incident.
-Finch West: Elevator 11S2L out o|||Finch West: Elevator out of service between Keele St west side entrance and concourse while we perform maintenance.
-62 Mortimer: Buses are not stopp|||62 Mortimer: Bypass near Broadview Station at Bus Bay 4 while we respond to a security incident.
-Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
-Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
-Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
-Vaughan Metropolitan Centre: Ele|||Vaughan Metropolitan Centre: Elevator out of service between Millway Ave west side entrance and concourse while we perform maintenance.
-25 Don Mills: Buses are not stop|||25 Don Mills: Bypass near Broadview Station at Bus Bay 4 while we respond to a security incident.
-87 Cosburn: Buses are not stoppi|||87 Cosburn: Bypass near Broadview Station at Bus Bay 4 while we respond to a security incident.
 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
-100 Flemingdon Park: Buses are n|||100 Flemingdon Park: Bypass near Broadview Station at Bus Bay 4 while we respond to a security incident.
 101 Downsview Park: Detour via S|||101 Downsview Park: Detour via Sheppard Ave W and Bakersfield St due to construction.
 Line 2 Bloor-Danforth: Trains ar|||Line 2 Bloor-Danforth: Bypass at Broadview station due to a security incident.
+Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.
+Finch West: Elevator 11S2L out o|||Finch West: Elevator out of service between Keele St west side entrance and concourse while we perform maintenance.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
 110 Islington South: Detour via|||110 Islington South: Detour via Birmingham St due to a blocked road.
+Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
+Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
 108A Driftwood: Detour via St Re|||108A Driftwood: Detour via St Regis Cres, Bakersfield St and Sheppard Ave W due to construction.
 506 Carlton: No service between|||506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a collision.
-925 Don Mills Express: Buses are|||925 Don Mills Express: Bypass near Broadview Station at Bus Bay 4 while we respond to a security incident.
+Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
 Union: Elevator 2HF1L out of ser|||Union: Elevator out of service between Bay Street west side entrance and westbound streetcars while we perform maintenance. Elevator is expected to be back in service May 8, 2026.
+Vaughan Metropolitan Centre: Ele|||Vaughan Metropolitan Centre: Elevator out of service between Millway Ave west side entrance and concourse while we perform maintenance.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance while we perform maintenance.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
