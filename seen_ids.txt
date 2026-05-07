@@ -5,6 +5,7 @@ Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Oss
 Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.
 Finch West: Elevator 11S2L out o|||Finch West: Elevator out of service between Keele St west side entrance and concourse while we perform maintenance.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
+Pioneer Village: Elevator 13S3L|||Pioneer Village: Elevator out of service between lower south concourse and Line 1 centre platform or upper south concourse while we perform maintenance.
 Keelesdale: Elevator 2 out of se|||Keelesdale: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance.
 Sherbourne: Elevator 4D1L out of|||Sherbourne: Elevator out of service between Sherbourne Street entrance, concourse and Line 2 Kennedy (eastbound) while we perform maintenance.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
