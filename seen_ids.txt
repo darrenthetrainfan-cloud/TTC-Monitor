@@ -2,6 +2,7 @@
 121 Esplanade-River: Detour west|||121 Esplanade-River: Detour westbound via Front St E, Cherry St, Eastern Ave and Front St E due to a fire.
 Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Jane and Christie stations while we respond to an injury on the tracks. Shuttle buses are running between Jane and Christie.
 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
+996 Wilson Express: Detour westb|||996 Wilson Express: Detour westbound via Jane St and Beverly Hills Dr due to a collision.
 Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.
 Finch West: Elevator 11S2L out o|||Finch West: Elevator out of service between Keele St west side entrance and concourse while we perform maintenance.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
@@ -11,9 +12,9 @@ Bay: Elevator out of service bet|||Bay: Elevator out of service between street a
 506 Carlton: No service between|||506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a collision.
 Queen's Quay: Elevator 2HF1L out|||Queen's Quay: Elevator out of service between Bay Street west side entrance and westbound streetcars while we perform maintenance. Elevator is expected to be back in service May 8, 2026.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
-96 Wilson: Detour westbound via|||96 Wilson: Detour westbound via Jane St and Beverly Hills Dr due to a collision.
 Vaughan Metropolitan Centre: Ele|||Vaughan Metropolitan Centre: Elevator out of service between Millway Ave west side entrance and concourse while we perform maintenance.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance while we perform maintenance.
+96 Wilson: Detour westbound via|||96 Wilson: Detour westbound via Jane St and Beverly Hills Dr due to a collision.
 118 Thistle Down: Detour westbou|||118 Thistle Down: Detour westbound via Wilson Ave, William Cragg Dr, Jane St and Wilson Ave due to a collision.
 165 Weston Rd North: Detour west|||165 Weston Rd North: Detour westbound via Wilson Ave, Jane St and Beverly Hills Dr due to a collision.
 202 Cherry Beach: Detour via Par|||202 Cherry Beach: Detour via Parliament St, Lakeshore Blvd E and Cherry St due to a blocked road.
