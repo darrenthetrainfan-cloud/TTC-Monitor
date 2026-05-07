@@ -1,4 +1,5 @@
 31 Greenwood: Detour northbound|||31 Greenwood: Detour northbound via Eastern Ave, Laing St and Queen St E due to construction.
+511 Bathurst: Detour via Dundas|||511 Bathurst: Detour via Dundas St W, Spadina Ave, Queens Quay W and Exhibition Station while we fix a mechanical problem.
 Warden: Elevator 15D2L out of se|||Warden: Elevator out of service between concourse and Warden Avenue entrance while we perform maintenance.
 Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Ossington and Broadview stations due to a security incident. Shuttle buses are on the way.
 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
@@ -13,7 +14,6 @@ Bay: Elevator out of service bet|||Bay: Elevator out of service between street a
 506 Carlton: No service between|||506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a collision.
 Queen's Quay: Elevator 2HF1L out|||Queen's Quay: Elevator out of service between Bay Street west side entrance and westbound streetcars while we perform maintenance. Elevator is expected to be back in service May 8, 2026.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
-511 Bathurst: Detour southbound|||511 Bathurst: Detour southbound via Queens Quay W, Spadina Ave, Queen St W and Bathurst St while we fix a mechanical problem.
 Vaughan Metropolitan Centre: Ele|||Vaughan Metropolitan Centre: Elevator out of service between Millway Ave west side entrance and concourse while we perform maintenance.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance while we perform maintenance.
 506 Carlton: Delays eastbound ne|||506 Carlton: Delays eastbound near Gerrard St East at River St due to traffic congestion.
