@@ -1,4 +1,5 @@
 31 Greenwood: Detour northbound|||31 Greenwood: Detour northbound via Eastern Ave, Laing St and Queen St E due to construction.
+505 Dundas: Detour westbound via|||505 Dundas: Detour westbound via Gerrard St E and Parliament St while we fix a mechanical problem.
 Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Ossington and Broadview stations due to a security incident. Shuttle buses are on the way.
 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
 Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.
@@ -14,4 +15,5 @@ Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1
 83 Jones: Detour via Commissione|||83 Jones: Detour via Commissioners St, Carlaw Ave, Lakeshore Blvd E and Leslie St due to a blocked road.
 Vaughan Metropolitan Centre: Ele|||Vaughan Metropolitan Centre: Elevator out of service between Millway Ave west side entrance and concourse while we perform maintenance.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance while we perform maintenance.
+Bloor-Yonge: Elevator 3D1L out o|||Bloor-Yonge: Elevator out of service between Line 1 northbound platform and Line 2 centre platform while we perform maintenance.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
