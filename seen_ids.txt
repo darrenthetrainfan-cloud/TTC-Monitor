@@ -9,6 +9,7 @@ Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concour
 Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
 506 Carlton: No service between|||506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a collision.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
+512 St Clair: Delays between Gun|||512 St Clair: Delays between Gunns Loop at St Clair Ave West and St Clair West Station at Bay 3 due to traffic congestion.
 Vaughan Metropolitan Centre: Ele|||Vaughan Metropolitan Centre: Elevator out of service between Millway Ave west side entrance and concourse while we perform maintenance.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance while we perform maintenance.
 Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance. Elevator is expected to be back in service May 13, 2026.
