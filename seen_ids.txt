@@ -1,4 +1,3 @@
-123 Sherway: Detour via Horner A|||123 Sherway: Detour via Horner Ave, Foch Ave and Woodbury Rd due to a fire.
 Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Islington and Jane stations while we fix a mechanical problem.
 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
@@ -7,7 +6,6 @@ Bay: Elevator out of service bet|||Bay: Elevator out of service between street a
 506 Carlton: No service between|||506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a collision.
 Queen's Quay: Elevator 2HF1L out|||Queen's Quay: Elevator out of service between Bay Street west side entrance and westbound streetcars while we perform maintenance. Elevator is expected to be back in service May 8, 2026.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
-110 Islington South: Detour via|||110 Islington South: Detour via Thirtieth St, Lakeshore Ave and Long Branch Ave due to a fire.
 Vaughan Metropolitan Centre: Ele|||Vaughan Metropolitan Centre: Elevator out of service between Millway Ave west side entrance and concourse while we perform maintenance.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance while we perform maintenance.
 Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance. Elevator is expected to be back in service May 13, 2026.
