@@ -2,8 +2,8 @@ Please look both ways for traffi|||Please look both ways for traffic before exit
 59 Maple Leaf: Detour eastbound|||59 Maple Leaf: Detour eastbound via Dufferin St, Wenderly Dr, Marlee Ave and Lawrence Ave W due to a collision.
 935 Jane Express: No service nea|||935 Jane Express: No service near Jane Station at Bus Bay 4 due to scheduled subway closure.
 Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Islington and Jane stations while we fix a mechanical problem.
+503 Kingston Rd: Detour westboun|||503 Kingston Rd: Detour westbound via Broadview Ave, Logan, Eastern Ave and Broadview Ave due to a security incident.
 67 Pharmacy: Detour via Victoria|||67 Pharmacy: Detour via Victoria Park Ave and Donside Dr due to construction.
-501 Queen: Streetcars are not st|||501 Queen: Streetcars are not stopping westbound from Queen St East at Coxwell Ave to Queen St East at Broadview Ave while we respond to a medical emergency.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
 Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
@@ -19,6 +19,7 @@ Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between up
 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
 52 Lawrence West: Detour eastbou|||52 Lawrence West: Detour eastbound via Dufferin St, Wenderly Dr, Marlee Ave and Lawrence Ave W due to a collision.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
+501 Queen: Streetcars are not st|||501 Queen: Streetcars are not stopping westbound from Queen St East at Coxwell Ave to Queen St East at Broadview Ave due to a security incident.
 506 Carlton: No service between|||506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a collision.
 84 Sheppard West: Detour westbou|||84 Sheppard West: Detour westbound via Dufferin St, Steeprock Dr and Chesswood Dr due to a collision.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance while we perform maintenance.
