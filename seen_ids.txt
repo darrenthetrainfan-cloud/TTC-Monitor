@@ -2,8 +2,8 @@ Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between up
 Please look both ways for traffi|||Please look both ways for traffic before exiting.
 Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Islington and Jane stations while we fix a mechanical problem.
 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
+89 Weston: Detour northbound via|||89 Weston: Detour northbound via Lawrence Ave W and Little Ave due to a collision.
 51 Leslie: Detour via Lawrence A|||51 Leslie: Detour via Lawrence Ave E and Don Mills Rd E due to a collision.
-89 Weston: Detour via Weston Rd,|||89 Weston: Detour via Weston Rd, Church Ave, Rosemount Ave and Lawrence Ave W due to a collision.
 97 Yonge: Detour via Gerrard St|||97 Yonge: Detour via Gerrard St W, Bay St and College St due to a collision.
 154 Curran Hall: Detour via Mark|||154 Curran Hall: Detour via Markham Rd and Ellesmere Rd due to a collision.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
@@ -11,6 +11,7 @@ Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concour
 Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
 506 Carlton: No service between|||506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a collision.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
+89 Weston: Detour southbound via|||89 Weston: Detour southbound via Weston Rd, Church Ave, Rosemount Ave and Lawrence Ave W due to a collision.
 Vaughan Metropolitan Centre: Ele|||Vaughan Metropolitan Centre: Elevator out of service between Millway Ave west side entrance and concourse while we perform maintenance.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance while we perform maintenance.
 158 Trethewey: Detour via Lawren|||158 Trethewey: Detour via Lawrence Ave W and Little Ave due to a collision.
