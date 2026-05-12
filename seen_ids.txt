@@ -11,6 +11,7 @@ Bay: Elevator out of service bet|||Bay: Elevator out of service between street a
 506 Carlton: No service between|||506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a collision.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
 Warden: Elevator 15D2L out of se|||Warden: Elevator out of service between concourse and Warden Avenue entrance while we perform maintenance.
+127 Davenport: Detour westbound|||127 Davenport: Detour westbound via Davenport Rd and Spadina Ave due to construction.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance while we perform maintenance.
 Queen's Quay (Union): Elevator 2|||Queen's Quay (Union): Elevator out of service between Bay Street west side entrance and westbound streetcars while we perform maintenance.
 97 Yonge: Detour northbound via|||97 Yonge: Detour northbound via Gerrard St W, Bay St and College St due to a collision.
