@@ -1,124 +1,114 @@
 import requests
 import time
 import os
+import re
 from google.transit import gtfs_realtime_pb2
+from bs4 import BeautifulSoup
 
 # ================= 配置区域 =================
 WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK")
 DB_FILE = "seen_ids.txt"
 
-MONITOR_CONFIGS = {
-    "TTC": {
-        "url": "https://bustime.ttc.ca/gtfsrt/alerts",
-        "headers": {}
-    },
-    "GO Transit": {
-        # 换用 Transitland 的公共镜像，避开 Metrolinx 官网的 HTML 拦截
-        "url": "https://data.transit.land/api/v2/feeds/f-dpz-gotransit/realtime/alerts",
-        "headers": {"User-Agent": "Mozilla/5.0"}
-    }
-}
+# 网页爬取配置 (GO Transit)
+GO_URL = "https://www.gotransit.com/en/service-updates/service-alerts"
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"}
+
 # ============================================
 
-def get_embed_color(agency, content):
-    content = content.lower()
+def get_embed_color(agency, text):
+    text = text.lower()
     if agency == "TTC":
-        if "line 1" in content: return 16766720  # Yellow
-        if "line 2" in content: return 3066993   # Green
-        return 14297372  # Red
-    
+        if "line 1" in text: return 16766720
+        if "line 2" in text: return 3066993
+        return 14297372
     if agency == "GO Transit":
-        if "lakeshore" in content: return 18791   # Dark Green
-        if "kitchener" in content: return 3447003 # Light Blue
-        if "milton" in content: return 16738657   # Orange
-        return 5763719  # GO Green
+        if "lakeshore" in text: return 18791
+        if "kitchener" in text: return 3447003
+        return 5763719
     return 3447003
 
-def send_to_discord(agency, raw_header, desc, status_type):
+def send_to_discord(agency, title_text, desc_text, status):
     if not WEBHOOK_URL: return
-    short_header = raw_header.split(':')[0].strip() if ':' in raw_header else raw_header
+    color = get_embed_color(agency, title_text + desc_text)
     
-    if status_type == "alert":
-        title = f"🚨 {agency} | {short_header}"
-        color = get_embed_color(agency, raw_header + desc)
-        msg_desc = f"**New Alert Details:**\n{desc}"
-    else:
-        title = f"✅ {agency} Resolved | {short_header}"
-        color = 5763719
-        msg_desc = f"**This issue has been cleared.**\n~~{desc}~~"
-
     payload = {
         "username": f"{agency} Tracker",
         "embeds": [{
-            "title": title, "description": msg_desc, "color": color,
-            "footer": {"text": "Real-time Updates"},
+            "title": f"{'🚨' if status == 'alert' else '✅'} {agency} | {title_text[:200]}",
+            "description": f"{desc_text[:2000]}" if status == "alert" else "This issue has been resolved.",
+            "color": color if status == "alert" else 5763719,
             "timestamp": time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())
         }]
     }
-    try:
-        requests.post(WEBHOOK_URL, json=payload, timeout=10)
-    except: pass
+    requests.post(WEBHOOK_URL, json=payload, timeout=10)
 
-def check_all_agencies():
+def check_ttc():
+    alerts = {}
+    try:
+        r = requests.get("https://bustime.ttc.ca/gtfsrt/alerts", timeout=20)
+        feed = gtfs_realtime_pb2.FeedMessage()
+        feed.ParseFromString(r.content)
+        for entity in feed.entity:
+            if entity.HasField('alert'):
+                h = entity.alert.header_text.translation[0].text
+                d = entity.alert.description_text.translation[0].text
+                alerts[f"TTC:{h.strip()}"] = d.strip()
+        print("Successfully synced TTC")
+    except Exception as e: print(f"TTC Error: {e}")
+    return alerts
+
+def check_go_web():
+    alerts = {}
+    try:
+        # 直接爬取网页内容
+        r = requests.get(GO_URL, headers=HEADERS, timeout=30)
+        soup = BeautifulSoup(r.text, 'html.parser')
+        
+        # 根据 GO Transit 官网结构寻找警报卡片 (可能需要根据官网变动微调选择器)
+        # 这里的选择器尝试抓取包含警报标题的元素
+        items = soup.find_all(class_=re.compile("service-alert", re.I))
+        
+        for item in items:
+            title = item.get_text(separator=" ").strip()
+            if title:
+                # 网页爬虫通常很难拿到详细描述，我们将标题作为 ID
+                alerts[f"GO Transit:{title[:100]}"] = title
+        
+        print(f"Successfully synced GO Transit (Web) - Found {len(alerts)} alerts")
+    except Exception as e:
+        print(f"GO Transit Web Error: {e}")
+    return alerts
+
+def main():
+    # 读取旧数据
     old_alerts = {}
     if os.path.exists(DB_FILE):
         with open(DB_FILE, "r", encoding="utf-8") as f:
             for line in f:
                 if "|||" in line:
-                    parts = line.strip().split("|||", 1)
-                    if len(parts) == 2: old_alerts[parts[0]] = parts[1]
+                    k, v = line.strip().split("|||", 1)
+                    old_alerts[k] = v
 
+    # 获取新数据
     current_alerts = {}
-    fetch_success_agencies = []
+    current_alerts.update(check_ttc())
+    current_alerts.update(check_go_web())
 
-    for agency, config in MONITOR_CONFIGS.items():
-        try:
-            response = requests.get(config["url"], headers=config["headers"], timeout=25)
-            
-            # 解决 image_2c35c0.png 的核心逻辑：判断是否为有效的 Protobuf
-            if response.status_code == 200 and "text/html" not in response.headers.get("Content-Type", ""):
-                feed = gtfs_realtime_pb2.FeedMessage()
-                feed.ParseFromString(response.content)
-                
-                for entity in feed.entity:
-                    if entity.HasField('alert'):
-                        h = entity.alert.header_text.translation[0].text if entity.alert.header_text.translation else "No Title"
-                        d = entity.alert.description_text.translation[0].text if entity.alert.description_text.translation else ""
-                        
-                        h_clean = h.replace('\n', ' ').replace('\r', '').strip()
-                        d_clean = d.replace('\n', ' ').replace('\r', '').strip()
-                        
-                        if h_clean:
-                            current_alerts[f"{agency}:{h_clean}"] = d_clean
-                
-                fetch_success_agencies.append(agency)
-                print(f"Successfully synced {agency}")
-            else:
-                print(f"Error: {agency} returned non-GTFS data (HTTP {response.status_code})")
-        except Exception as e:
-            print(f"Exception during {agency}: {e}")
-
-    # 发送逻辑
+    # 比较发送
     for k, v in current_alerts.items():
         if k not in old_alerts:
-            ag, hd = k.split(':', 1)
-            send_to_discord(ag, hd, v, "alert")
+            agency, title = k.split(":", 1)
+            send_to_discord(agency, title, v, "alert")
 
     for k, v in old_alerts.items():
-        ag = k.split(':')[0]
-        if ag in fetch_success_agencies and k not in current_alerts:
-            hd = k.split(':', 1)[1]
-            send_to_discord(ag, hd, v, "recovery")
+        if k not in current_alerts and k.split(":")[0] in ["TTC", "GO Transit"]:
+            agency, title = k.split(":", 1)
+            send_to_discord(agency, title, v, "recovery")
 
-    # 写入 DB
-    final_db = current_alerts.copy()
-    for k, v in old_alerts.items():
-        if k.split(':')[0] not in fetch_success_agencies:
-            final_db[k] = v
-
+    # 保存
     with open(DB_FILE, "w", encoding="utf-8") as f:
-        for k, v in final_db.items():
+        for k, v in current_alerts.items():
             f.write(f"{k}|||{v}\n")
 
 if __name__ == "__main__":
-    check_all_agencies()
+    main()
