@@ -14,6 +14,7 @@ TTC:Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from con
 TTC:Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
 TTC:506 Carlton: No service between|||506 Carlton: No service between Main Street Station at Bay 7 and Gerrard St East at Coxwell Ave due to a blocked track.
 TTC:Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
+TTC:121 Esplanade-River: Detour east|||121 Esplanade-River: Detour eastbound via Eastern Ave and Old Foundry Road due to construction.
 TTC:Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance while we perform maintenance.
 TTC:Queen's Quay (Union): Elevator 2|||Queen's Quay (Union): Elevator out of service between Bay Street west side entrance and westbound streetcars while we perform maintenance.
 TTC:97 Yonge: Detour northbound via|||97 Yonge: Detour northbound via Gerrard St W, Bay St and College St due to a collision.
