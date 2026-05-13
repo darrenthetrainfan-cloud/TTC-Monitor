@@ -13,12 +13,9 @@ MONITOR_CONFIGS = {
         "headers": {}
     },
     "GO Transit": {
-        # GO Transit 公共 GTFS-R 接口，通常无需 API Key
-        "url": "https://api.metrolinx.com/gtfs/v1/realtime/alerts",
-        "headers": {
-            "Accept": "application/x-protobuf",
-            "User-Agent": "Mozilla/5.0" 
-        }
+        # 换用 Transitland 的公共镜像，避开 Metrolinx 官网的 HTML 拦截
+        "url": "https://data.transit.land/api/v2/feeds/f-dpz-gotransit/realtime/alerts",
+        "headers": {"User-Agent": "Mozilla/5.0"}
     }
 }
 # ============================================
@@ -28,39 +25,33 @@ def get_embed_color(agency, content):
     if agency == "TTC":
         if "line 1" in content: return 16766720  # Yellow
         if "line 2" in content: return 3066993   # Green
-        if "line 4" in content: return 10181046  # Purple
         return 14297372  # Red
     
     if agency == "GO Transit":
-        # 根据路线关键词分配 GO 官方颜色
-        if "lakeshore" in content: return 18791   # Lakeshore West/East (Dark Green)
-        if "kitchener" in content: return 3447003 # Kitchener (Light Blue)
-        if "milton" in content: return 16738657   # Milton (Orange)
-        if "barrie" in content: return 2123412    # Barrie (Navy)
-        if "stouffville" in content: return 10181046 # Stouffville (Purple)
-        return 5763719  # GO Green (Default)
-    
+        if "lakeshore" in content: return 18791   # Dark Green
+        if "kitchener" in content: return 3447003 # Light Blue
+        if "milton" in content: return 16738657   # Orange
+        return 5763719  # GO Green
     return 3447003
 
 def send_to_discord(agency, raw_header, desc, status_type):
     if not WEBHOOK_URL: return
-    # 提取短标题，避免 Discord 标题过长
     short_header = raw_header.split(':')[0].strip() if ':' in raw_header else raw_header
     
     if status_type == "alert":
         title = f"🚨 {agency} | {short_header}"
         color = get_embed_color(agency, raw_header + desc)
-        description = f"**New Alert Details:**\n{desc}"
+        msg_desc = f"**New Alert Details:**\n{desc}"
     else:
         title = f"✅ {agency} Resolved | {short_header}"
-        color = 5763719 # 绿色
-        description = f"**This issue has been cleared.**\n~~{desc}~~"
+        color = 5763719
+        msg_desc = f"**This issue has been cleared.**\n~~{desc}~~"
 
     payload = {
         "username": f"{agency} Tracker",
         "embeds": [{
-            "title": title, "description": description, "color": color,
-            "footer": {"text": f"{agency} Real-time Updates"},
+            "title": title, "description": msg_desc, "color": color,
+            "footer": {"text": "Real-time Updates"},
             "timestamp": time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())
         }]
     }
@@ -75,34 +66,27 @@ def check_all_agencies():
             for line in f:
                 if "|||" in line:
                     parts = line.strip().split("|||", 1)
-                    if len(parts) == 2:
-                        old_alerts[parts[0]] = parts[1]
+                    if len(parts) == 2: old_alerts[parts[0]] = parts[1]
 
     current_alerts = {}
     fetch_success_agencies = []
 
     for agency, config in MONITOR_CONFIGS.items():
         try:
-            response = requests.get(config["url"], headers=config["headers"], timeout=20)
+            response = requests.get(config["url"], headers=config["headers"], timeout=25)
             
-            # 安全检查：防止返回 HTML 导致解析崩溃
-            if "text/html" in response.headers.get("Content-Type", ""):
-                print(f"Error: {agency} returned HTML. Check URL.")
-                continue
-
-            if response.status_code == 200:
+            # 解决 image_2c35c0.png 的核心逻辑：判断是否为有效的 Protobuf
+            if response.status_code == 200 and "text/html" not in response.headers.get("Content-Type", ""):
                 feed = gtfs_realtime_pb2.FeedMessage()
                 feed.ParseFromString(response.content)
                 
                 for entity in feed.entity:
                     if entity.HasField('alert'):
-                        # 提取多语言文本（默认为第一条）
-                        h_t = entity.alert.header_text.translation[0].text if entity.alert.header_text.translation else ""
-                        d_t = entity.alert.description_text.translation[0].text if entity.alert.description_text.translation else ""
+                        h = entity.alert.header_text.translation[0].text if entity.alert.header_text.translation else "No Title"
+                        d = entity.alert.description_text.translation[0].text if entity.alert.description_text.translation else ""
                         
-                        # 清洗掉换行符，防止破坏 TXT 数据库
-                        h_clean = h_t.replace('\n', ' ').replace('\r', '').strip()
-                        d_clean = d_t.replace('\n', ' ').replace('\r', '').strip()
+                        h_clean = h.replace('\n', ' ').replace('\r', '').strip()
+                        d_clean = d.replace('\n', ' ').replace('\r', '').strip()
                         
                         if h_clean:
                             current_alerts[f"{agency}:{h_clean}"] = d_clean
@@ -110,11 +94,11 @@ def check_all_agencies():
                 fetch_success_agencies.append(agency)
                 print(f"Successfully synced {agency}")
             else:
-                print(f"Error: {agency} HTTP {response.status_code}")
+                print(f"Error: {agency} returned non-GTFS data (HTTP {response.status_code})")
         except Exception as e:
             print(f"Exception during {agency}: {e}")
 
-    # 发送通知逻辑
+    # 发送逻辑
     for k, v in current_alerts.items():
         if k not in old_alerts:
             ag, hd = k.split(':', 1)
@@ -126,7 +110,7 @@ def check_all_agencies():
             hd = k.split(':', 1)[1]
             send_to_discord(ag, hd, v, "recovery")
 
-    # 汇总写入数据库
+    # 写入 DB
     final_db = current_alerts.copy()
     for k, v in old_alerts.items():
         if k.split(':')[0] not in fetch_success_agencies:
