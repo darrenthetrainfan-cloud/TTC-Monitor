@@ -5,7 +5,7 @@ from google.transit import gtfs_realtime_pb2
 
 # ================= 配置区域 =================
 WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK")
-# 这里的 API Key 会自动从 GitHub Secrets 读取
+# 这里的 API Key 会从 GitHub Secrets 自动读取
 API_KEY = os.environ.get("TRANSIT_API_KEY") 
 DB_FILE = "seen_ids.txt"
 
@@ -15,12 +15,16 @@ MONITOR_CONFIGS = {
         "headers": {}
     },
     "YRT": {
-        # 使用 Transitland 的实时数据分发接口
+        # Transitland 提供的 YRT 实时警报接口
         "url": "https://data.transit.land/api/v2/feeds/f-yrt~rt/realtime/alerts",
         "headers": {"x-api-key": API_KEY}
     }
 }
 # ============================================
+
+def get_color(agency):
+    # YRT 蓝色，TTC 默认红色
+    return 3066993 if agency == "YRT" else 14297372
 
 def send_to_discord(agency, raw_header, desc, status_type):
     if not WEBHOOK_URL: return
@@ -28,11 +32,11 @@ def send_to_discord(agency, raw_header, desc, status_type):
     
     if status_type == "alert":
         title = f"🚨 {agency} | {short_header}"
-        color = 3066993 if agency == "YRT" else 14297372
+        color = get_color(agency)
         description = f"**New Alert Details:**\n{desc}"
     else:
         title = f"✅ {agency} Resolved | {short_header}"
-        color = 5763719
+        color = 5763719 # 绿色表示恢复
         description = f"**This issue has been cleared.**\n~~{desc}~~"
 
     payload = {
@@ -48,7 +52,10 @@ def send_to_discord(agency, raw_header, desc, status_type):
     except: pass
 
 def check_all_agencies():
-    if not WEBHOOK_URL: return
+    if not WEBHOOK_URL: 
+        print("Error: DISCORD_WEBHOOK not found.")
+        return
+
     old_alerts = {}
     if os.path.exists(DB_FILE):
         with open(DB_FILE, "r", encoding="utf-8") as f:
@@ -62,11 +69,20 @@ def check_all_agencies():
 
     for agency, config in MONITOR_CONFIGS.items():
         try:
-            # 携带 API Key 请求
+            # 安全检查：如果 YRT 没拿到 API Key 就跳过，防止解析错误
+            if agency == "YRT" and not API_KEY:
+                print("Skip YRT: TRANSIT_API_KEY environment variable is missing.")
+                continue
+
             response = requests.get(config["url"], headers=config["headers"], timeout=20)
             
+            # 解决 image_387c5f.png 的解析报错：检查是否为有效的 Protobuf 数据
+            if "text/html" in response.headers.get("Content-Type", ""):
+                print(f"Error: {agency} API returned HTML (likely invalid API Key or Auth error).")
+                continue
+            
             if response.status_code != 200:
-                print(f"{agency} Fetch Failed: HTTP {response.status_code}")
+                print(f"Error: {agency} HTTP {response.status_code}")
                 continue
 
             feed = gtfs_realtime_pb2.FeedMessage()
@@ -74,38 +90,40 @@ def check_all_agencies():
             
             for entity in feed.entity:
                 if entity.HasField('alert'):
-                    # 彻底解决 f-string 语法限制 (image_38ed35.png)
-                    h_text = entity.alert.header_text.translation[0].text if entity.alert.header_text.translation else ""
-                    d_text = entity.alert.description_text.translation[0].text if entity.alert.description_text.translation else ""
+                    # 彻底修复 image_38ed35.png 的语法错误
+                    h_raw = entity.alert.header_text.translation[0].text if entity.alert.header_text.translation else ""
+                    d_raw = entity.alert.description_text.translation[0].text if entity.alert.description_text.translation else ""
                     
-                    # 在大括号外部清洗字符串
-                    h_clean = h_text.replace('\n', ' ').replace('\r', '').strip()
-                    d_clean = d_text.replace('\n', ' ').replace('\r', '').strip()
+                    # 在大括号外清洗文本
+                    h_clean = h_raw.replace('\n', ' ').replace('\r', '').strip()
+                    d_clean = d_raw.replace('\n', ' ').replace('\r', '').strip()
                     
                     if h_clean:
                         current_alerts[f"{agency}:{h_clean}"] = d_clean
             
             fetch_success_agencies.append(agency)
+            print(f"Successfully synced {agency}")
         except Exception as e:
-            print(f"Error processing {agency}: {e}")
+            print(f"Exception during {agency} process: {e}")
 
-    # 对比与发送通知 (代码逻辑同前)
+    # 1. 发现新警报
     for k, v in current_alerts.items():
         if k not in old_alerts:
             ag, hd = k.split(':', 1)
             send_to_discord(ag, hd, v, "alert")
 
+    # 2. 发现已解决的警报 (仅对比成功抓取的机构)
     for k, v in old_alerts.items():
         ag = k.split(':')[0]
         if ag in fetch_success_agencies and k not in current_alerts:
             hd = k.split(':', 1)[1]
             send_to_discord(ag, hd, v, "recovery")
 
-    # 更新数据库
+    # 3. 汇总并写入数据库
     final_db = current_alerts.copy()
     for k, v in old_alerts.items():
         if k.split(':')[0] not in fetch_success_agencies:
-            final_db[k] = v
+            final_db[k] = v # 保留失败机构的旧警报，避免误报“恢复”
 
     with open(DB_FILE, "w", encoding="utf-8") as f:
         for k, v in final_db.items():
