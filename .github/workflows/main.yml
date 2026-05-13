@@ -31,8 +31,11 @@ jobs:
 
       - name: Run script
         env:
-          # 关键修改：从 GitHub Secrets 读取 Webhook
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }} 
+          # 保持原有的 Webhook
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          # 关键新增：将你拿到的 API Key 注入环境变量
+          # 请确保你在 GitHub Repo Settings -> Secrets -> Actions 里添加了名为 TRANSIT_API_KEY 的 Secret
+          TRANSIT_API_KEY: ${{ secrets.TRANSIT_API_KEY }} 
         run: python "TTC alart.py"
 
       - name: Commit and push changes
