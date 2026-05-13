@@ -6,17 +6,6 @@ from google.transit import gtfs_realtime_pb2
 # ================= 配置区域 =================
 WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK")
 DB_FILE = "seen_ids.txt"
-
-# 最终筛选出的最稳接口
-MONITOR_CONFIGS = {
-    "TTC": {
-        "url": "https://bustime.ttc.ca/gtfsrt/alerts"
-    },
-    "YRT": {
-        # 换回这个由社区维护的、无防火墙限制的标准源
-        "url": "https://api.transitfeeds.com/v1/getGtfsRealtime?key=NON_PROFIT_KEY&feed_id=yrt/560&type=alerts"
-    }
-}
 # ============================================
 
 def get_color_for_alert(agency, content):
@@ -40,7 +29,7 @@ def send_to_discord(agency, raw_header, desc, status_type):
         description = f"**New Alert Details:**\n{desc}"
     else:
         title = f"✅ {agency} Resolved | {short_header}"
-        color = 5763719 # 绿色
+        color = 5763719
         description = f"**This issue has been cleared.**\n~~{desc}~~"
 
     payload = {
@@ -66,52 +55,69 @@ def check_all_agencies():
                     old_alerts[key] = d
 
     current_alerts = {}
-    fetch_success_agencies = [] # 记录哪些机构抓取成功了
+    fetch_success_agencies = []
 
-    for agency, config in MONITOR_CONFIGS.items():
+    # 1. 抓取 TTC (Protobuf 格式)
+    try:
+        ttc_res = requests.get("https://bustime.ttc.ca/gtfsrt/alerts", timeout=15)
+        feed = gtfs_realtime_pb2.FeedMessage()
+        feed.ParseFromString(ttc_res.content)
+        for entity in feed.entity:
+            if entity.HasField('alert'):
+                h = entity.alert.header_text.translation[0].text
+                d = entity.alert.description_text.translation[0].text
+                current_alerts[f"TTC:{h.replace('\n', ' ').strip()}"] = d.replace('\n', ' ').strip()
+        fetch_success_agencies.append("TTC")
+    except Exception as e: print(f"TTC Error: {e}")
+
+    # 2. 抓取 YRT (直接抓官网 JSON 接口，避开 Protobuf 解析错误)
+    try:
+        yrt_res = requests.get("https://opendata.york.ca/api/v2/feeds/f-dpz-yrt/realtime/alerts", timeout=15)
+        # 即使官网 API 偶尔抽风返回 JSON，我们也通过通用逻辑处理
+        if yrt_res.status_code == 200:
+            data = yrt_res.json()
+            # Transitland/OpenData 提供的标准 JSON 格式解析
+            for item in data.get('entities', []):
+                alert = item.get('alert', {})
+                h = alert.get('header_text', {}).get('translation', [{}])[0].get('text', 'YRT Alert')
+                d = alert.get('description_text', {}).get('translation', [{}])[0].get('text', '')
+                current_alerts[f"YRT:{h.replace('\n', ' ').strip()}"] = d.replace('\n', ' ').strip()
+            fetch_success_agencies.append("YRT")
+    except:
+        # 如果 JSON 接口也挂了，尝试最后的标准 REST 接口
         try:
-            response = requests.get(config["url"], timeout=15)
+            yrt_res = requests.get("https://api.transitfeeds.com/v1/getGtfsRealtime?key=NON_PROFIT_KEY&feed_id=yrt/560&type=alerts", timeout=15)
             feed = gtfs_realtime_pb2.FeedMessage()
-            feed.ParseFromString(response.content)
-            
+            feed.ParseFromString(yrt_res.content)
             for entity in feed.entity:
                 if entity.HasField('alert'):
                     h = entity.alert.header_text.translation[0].text
                     d = entity.alert.description_text.translation[0].text
-                    h_clean = h.replace('\n', ' ').strip()
-                    d_clean = d.replace('\n', ' ').strip()
-                    current_alerts[f"{agency}:{h_clean}"] = d_clean
-            fetch_success_agencies.append(agency)
-        except Exception as e:
-            print(f"Error fetching {agency}: {e}")
+                    current_alerts[f"YRT:{h.replace('\n', ' ').strip()}"] = d.replace('\n', ' ').strip()
+            fetch_success_agencies.append("YRT")
+        except Exception as e: print(f"YRT Error: {e}")
 
-    # 3. 核心改进：只对抓取成功的机构进行对比
-    # 找新出现的
+    # 3. 对比发出通知 (包括已解决通知)
     for h_key, d in current_alerts.items():
         if h_key not in old_alerts:
-            agency_name, actual_header = h_key.split(':', 1)
-            send_to_discord(agency_name, actual_header, d, "alert")
+            agency, head = h_key.split(':', 1)
+            send_to_discord(agency, head, d, "alert")
 
-    # 找消失的（已解决）
     for h_key, d in old_alerts.items():
-        agency_name = h_key.split(':')[0]
-        # 关键：只有当该机构这次抓取成功，但警报消失了，才发 Resolved
-        if agency_name in fetch_success_agencies and h_key not in current_alerts:
-            actual_header = h_key.split(':', 1)[1]
-            send_to_discord(agency_name, actual_header, d, "recovery")
+        agency = h_key.split(':')[0]
+        if agency in fetch_success_agencies and h_key not in current_alerts:
+            head = h_key.split(':', 1)[1]
+            send_to_discord(agency, head, d, "recovery")
 
-    # 4. 增量更新记忆文件
-    # 我们不能简单覆盖，要把抓取失败的机构的旧记忆保留下来，防止误报 Resolved
-    new_db_content = current_alerts.copy()
+    # 4. 保存记忆
+    new_db = current_alerts.copy()
     for h_key, d in old_alerts.items():
-        agency_name = h_key.split(':')[0]
-        if agency_name not in fetch_success_agencies:
-            new_db_content[h_key] = d
-
-    if new_db_content != old_alerts:
+        if h_key.split(':')[0] not in fetch_success_agencies:
+            new_db[h_key] = d
+    
+    if new_db != old_alerts:
         with open(DB_FILE, "w", encoding="utf-8") as f:
-            for h, d in new_db_content.items():
-                f.write(f"{h}|||{d}\n")
+            for h, d in new_db.items(): f.write(f"{h}|||{d}\n")
 
 if __name__ == "__main__":
     check_all_agencies()
