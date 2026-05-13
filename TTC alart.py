@@ -13,7 +13,7 @@ MONITOR_CONFIGS = {
         "url": "https://bustime.ttc.ca/gtfsrt/alerts"
     },
     "YRT": {
-        "url": "https://viva6.yrt.ca/gtfsrt/alerts"
+        "url": "http://api.metrolinx.com/gtfsrt/alerts/yrt"
     }
 }
 # ============================================
