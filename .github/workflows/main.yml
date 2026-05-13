@@ -1,4 +1,4 @@
-name: Run Transit Tracker
+name: Run TTC and GO Tracker
 
 on:
   workflow_dispatch:
@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 获取完整历史以方便 rebase
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,7 +28,6 @@ jobs:
       - name: Run script
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          TRANSLINK_API_KEY: ${{ secrets.TRANSLINK_API_KEY }} 
         run: python "TTC alart.py"
 
       - name: Commit and push changes
@@ -34,11 +35,11 @@ jobs:
           git config --global user.name "Transit-Bot"
           git config --global user.email "bot@github.com"
           
-          # 鲁棒性改进：拉取最新更改，即使有本地修改也强制 rebase
+          # 先暂存修改
           git add seen_ids.txt || exit 0
-          git commit -m "Update seen alerts" || echo "No changes"
+          git commit -m "Update seen alerts" || echo "No changes to commit"
           
-          # 针对 image_3877c3.png 的报错修复：使用 fetch + rebase
-          git fetch origin main
-          git rebase origin/main
+          # 针对 image_3877c3.png 报错的终极修复：
+          # 即使有冲突，也会尝试拉取并重新排在最新提交之后
+          git pull --rebase origin main
           git push origin main
