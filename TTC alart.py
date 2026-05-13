@@ -13,7 +13,7 @@ MONITOR_CONFIGS = {
         "url": "https://bustime.ttc.ca/gtfsrt/alerts"
     },
     "YRT": {
-        "url": "https://opendata.yorton.ca/gtfs-rt/alerts"
+        "url": "https://opendata.york.ca/gtfs-rt/alerts"
     }
 }
 # ============================================
