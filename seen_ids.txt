@@ -5,7 +5,6 @@ TTC:504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Q
 TTC:511 Bathurst: Delays between Bat|||511 Bathurst: Delays between Bathurst St at Lennox St and Bathurst St at Harbord St due to construction.
 TTC:Line 6 Finch West: No service be|||Line 6 Finch West: No service between Driftwood and Milvan Rumike stations due to police activity.
 TTC:Please look both|||Please look both ways for traffic before exiting
-TTC:510 Spadina: Delays between Spad|||510 Spadina: Delays between Spadina Station Streetcar Platform and Union Station Streetcar Platform while we complete maintenance work.
 TTC:Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
 TTC:505 Dundas: Delays between Dunda|||505 Dundas: Delays between Dundas West Station at Bay 5 and Broadview Station at Bay 6 while we deal with an operational problem.
 TTC:Sheppard-Yonge: Elevator 51P2L o|||Sheppard-Yonge: Elevator out of service between bus platform and North Tunnel while we perform maintenance.
