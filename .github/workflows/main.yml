@@ -42,6 +42,8 @@ jobs:
         run: |
           git config --global user.name "TTC-Bot"
           git config --global user.email "bot@github.com"
+          # 先拉取远程更改，防止 [rejected] main -> main (fetch first)
+          git pull --rebase origin main
           git add seen_ids.txt || exit 0
           git commit -m "Update seen alerts" || exit 0
           git push
