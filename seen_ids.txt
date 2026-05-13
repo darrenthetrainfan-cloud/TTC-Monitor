@@ -12,6 +12,7 @@ TTC:Sheppard-Yonge: Elevator 51P2L o|||Sheppard-Yonge: Elevator out of service b
 TTC:127 Davenport: Detour eastbound|||127 Davenport: Detour eastbound via Bathurst St, Dupont St and Spadina Rd due to construction.
 TTC:Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
 TTC:Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
+TTC:202 Cherry Beach: Detour eastbou|||202 Cherry Beach: Detour eastbound via Eastern Ave and Cherry St due to construction.
 TTC:506 Carlton: No service between|||506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a collision.
 TTC:Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
 TTC:121 Esplanade-River: Detour east|||121 Esplanade-River: Detour eastbound via Eastern Ave and Old Foundry Road due to construction.
