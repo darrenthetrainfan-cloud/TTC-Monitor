@@ -1,21 +1,21 @@
 name: Transit Tracker Bot
 
 on:
-  workflow_dispatch: # 允许手动触发
+  workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *' # 每 5 分钟运行一次
+    - cron: '*/5 * * * *'
 
 jobs:
   run-bot:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 必须开启，否则无法更新 seen_ids.txt
+      contents: write
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # 获取完整历史以确保 rebase 成功
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -25,7 +25,6 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install requests gtfs-realtime-bindings beautifulsoup4
-          # beautifulsoup4 用于处理 GO Transit 的 HTML 备选方案
 
       - name: Run Transit Script
         env:
@@ -37,14 +36,13 @@ jobs:
           git config --global user.name "Transit-Bot"
           git config --global user.email "bot@github.com"
           
-          # 检查是否有文件更新
+          # 暂存并提交数据库更新
           git add seen_ids.txt || exit 0
           
-          # 如果有更新则提交，没有则跳过
-          if git commit -m "chore: update alert database"; then
-            # 关键修复：先拉取并重排提交顺序，防止 image_3877c3.png 中的冲突报错
+          if git commit -m "Update alert database"; then
+            # 解决推送冲突的核心：拉取并重排
             git pull --rebase origin main
             git push origin main
           else
-            echo "No changes to seen_ids.txt, skipping push."
+            echo "No changes to commit."
           fi
