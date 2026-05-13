@@ -1,4 +1,4 @@
-name: Run TTC and GO Tracker
+name: Transit Tracker Bot
 
 on:
   workflow_dispatch:
@@ -6,40 +6,36 @@ on:
     - cron: '*/5 * * * *'
 
 jobs:
-  build:
+  run-bot:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # 获取完整历史以方便 rebase
+          fetch-depth: 0
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Install dependencies
+      - name: Install
         run: pip install requests gtfs-realtime-bindings
 
-      - name: Run script
+      - name: Run
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: python "TTC alart.py"
 
-      - name: Commit and push changes
+      - name: Sync Repo
         run: |
           git config --global user.name "Transit-Bot"
           git config --global user.email "bot@github.com"
-          
-          # 先暂存修改
           git add seen_ids.txt || exit 0
-          git commit -m "Update seen alerts" || echo "No changes to commit"
-          
-          # 针对 image_3877c3.png 报错的终极修复：
-          # 即使有冲突，也会尝试拉取并重新排在最新提交之后
+          git commit -m "chore: update alert database" || echo "No changes"
+          # 关键：先 pull 再 push，确保不会因 seen_ids.txt 冲突
           git pull --rebase origin main
           git push origin main
