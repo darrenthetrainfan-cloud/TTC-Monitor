@@ -8,7 +8,6 @@ TTC:Please look both|||Please look both ways for traffic before exiting
 TTC:510 Spadina: Delays between Spad|||510 Spadina: Delays between Spadina Station Streetcar Platform and Union Station Streetcar Platform while we complete maintenance work.
 TTC:Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
 TTC:505 Dundas: Delays between Dunda|||505 Dundas: Delays between Dundas West Station at Bay 5 and Broadview Station at Bay 6 while we deal with an operational problem.
-TTC:Line 1 Yonge-University: Delays|||Line 1 Yonge-University: Delays southbound at St Clair station while we respond to an emergency alarm.
 TTC:Sheppard-Yonge: Elevator 51P2L o|||Sheppard-Yonge: Elevator out of service between bus platform and North Tunnel while we perform maintenance.
 TTC:127 Davenport: Detour eastbound|||127 Davenport: Detour eastbound via Bathurst St, Dupont St and Spadina Rd due to construction.
 TTC:Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
