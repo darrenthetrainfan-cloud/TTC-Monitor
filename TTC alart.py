@@ -13,7 +13,7 @@ MONITOR_CONFIGS = {
         "url": "https://bustime.ttc.ca/gtfsrt/alerts"
     },
     "YRT": {
-        "url": "http://api.metrolinx.com/gtfsrt/alerts/yrt"
+        "url": "https://data.transit.land/api/v2/feeds/f-dpz-yrt/realtime/alerts"
     }
 }
 # ============================================
