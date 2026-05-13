@@ -1,22 +1,20 @@
 TTC:St Clair: Elevator 16Y2L out of|||St Clair: Elevator out of service between concourse and Line 1 northbound platform due to construction. Elevator is expected to be back in service May 15, 2026.
-TTC:Please look both ways for traffi|||Please look both ways for traffic before exiting.
 TTC:Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Islington and Jane stations while we fix a mechanical problem.
-TTC:43 Kennedy: Detour southbound vi|||43 Kennedy: Detour southbound via Huntingwood Dr, Midland Ave and Havendale Rd due to a collision.
+TTC:Eglinton: Elevator 4 out of serv|||Eglinton: Elevator out of service between Eglinton Avenue south side entrance, Line 1 concourse, and Line 5 upper concourse west side due to a technical problem.
 TTC:504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
 TTC:511 Bathurst: Delays between Bat|||511 Bathurst: Delays between Bathurst St at Lennox St and Bathurst St at Harbord St due to construction.
 TTC:Line 6 Finch West: No service be|||Line 6 Finch West: No service between Driftwood and Milvan Rumike stations due to police activity.
-TTC:Bathurst: Elevator 3B1L out of s|||Bathurst: Elevator out of service between Bathurst St east side entrance, concourse and Line 2 westbound platform while we perform maintenance.
+TTC:Please look both|||Please look both ways for traffic before exiting
+TTC:510 Spadina: Delays between Spad|||510 Spadina: Delays between Spadina Station Streetcar Platform and Union Station Streetcar Platform while we complete maintenance work.
 TTC:Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
 TTC:505 Dundas: Delays between Dunda|||505 Dundas: Delays between Dundas West Station at Bay 5 and Broadview Station at Bay 6 while we deal with an operational problem.
+TTC:Sheppard-Yonge: Elevator 51P2L o|||Sheppard-Yonge: Elevator out of service between bus platform and North Tunnel while we perform maintenance.
 TTC:127 Davenport: Detour eastbound|||127 Davenport: Detour eastbound via Bathurst St, Dupont St and Spadina Rd due to construction.
 TTC:Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
 TTC:Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
 TTC:506 Carlton: No service between|||506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a collision.
 TTC:Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
-TTC:Keele: Elevator 9B2L out of serv|||Keele: Elevator out of service between Keele St entrance and bus platform to Line 2 Kipling (Eastbound) while we perform maintenance.
 TTC:Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance while we perform maintenance.
-TTC:169 Huntingwood: Detour via Birc|||169 Huntingwood: Detour via Birchmount Rd, Finch Ave E and Kennedy Ave due to a collision.
 TTC:Queen's Quay (Union): Elevator 2|||Queen's Quay (Union): Elevator out of service between Bay Street west side entrance and westbound streetcars while we perform maintenance.
 TTC:97 Yonge: Detour northbound via|||97 Yonge: Detour northbound via Gerrard St W, Bay St and College St due to a collision.
-TTC:506 Carlton: Detour eastbound vi|||506 Carlton: Detour eastbound via Church St, Queen St E and Broadview Ave due to a blocked track.
 TTC:Have proof of payment ready for|||Have proof of payment ready for inspection.
