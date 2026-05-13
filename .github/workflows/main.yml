@@ -1,4 +1,4 @@
-name: Run TTC Tracker
+name: Run Transit Tracker
 
 on:
   workflow_dispatch:
@@ -8,12 +8,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
-    # 彻底消除 Node.js 20 的黄色警告
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
-      
-    # 必须开启写入权限，否则无法存回 seen_ids.txt
     permissions:
       contents: write
 
@@ -31,19 +25,20 @@ jobs:
 
       - name: Run script
         env:
-          # 保持原有的 Webhook
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          # 关键新增：将你拿到的 API Key 注入环境变量
-          # 请确保你在 GitHub Repo Settings -> Secrets -> Actions 里添加了名为 TRANSIT_API_KEY 的 Secret
-          TRANSIT_API_KEY: ${{ secrets.TRANSIT_API_KEY }} 
+          TRANSLINK_API_KEY: ${{ secrets.TRANSLINK_API_KEY }} 
         run: python "TTC alart.py"
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "TTC-Bot"
+          git config --global user.name "Transit-Bot"
           git config --global user.email "bot@github.com"
-          # 先拉取远程更改，防止 [rejected] main -> main (fetch first)
-          git pull --rebase origin main
+          
+          # 鲁棒性改进：拉取最新更改，即使有本地修改也强制 rebase
           git add seen_ids.txt || exit 0
-          git commit -m "Update seen alerts" || exit 0
-          git push
+          git commit -m "Update seen alerts" || echo "No changes"
+          
+          # 针对 image_3877c3.png 的报错修复：使用 fetch + rebase
+          git fetch origin main
+          git rebase origin/main
+          git push origin main
