@@ -9,7 +9,7 @@ DB_FILE = "seen_ids.txt"
 
 # 在这里填入你拿到的 API 信息
 # 如果是通过 Github Secrets 传入，建议使用 os.environ.get("TRANSIT_API_KEY")
-API_KEY = "你的_API_KEY_粘贴在这里" 
+API_KEY = os.environ.get("TRANSIT_API_KEY") 
 
 MONITOR_CONFIGS = {
     "TTC": {
