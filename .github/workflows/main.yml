@@ -26,23 +26,17 @@ jobs:
         run: |
           pip install requests gtfs-realtime-bindings beautifulsoup4
 
-      - name: Run Transit Script
+      - name: Run Script
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: python "TTC alart.py"
 
-      - name: Sync and Push Changes
+      - name: Sync and Push
         run: |
           git config --global user.name "Transit-Bot"
           git config --global user.email "bot@github.com"
-          
-          # 暂存并提交数据库更新
           git add seen_ids.txt || exit 0
-          
-          if git commit -m "Update alert database"; then
-            # 解决推送冲突的核心：拉取并重排
+          if git commit -m "update database"; then
             git pull --rebase origin main
             git push origin main
-          else
-            echo "No changes to commit."
           fi
