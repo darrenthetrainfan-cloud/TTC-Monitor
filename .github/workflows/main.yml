@@ -1,4 +1,4 @@
-name: Transit Tracker Bot
+name: Transit Monitor
 
 on:
   workflow_dispatch:
@@ -6,37 +6,38 @@ on:
     - cron: '*/5 * * * *'
 
 jobs:
-  run-bot:
+  run-sync:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Install Dependencies
-        run: |
-          pip install requests gtfs-realtime-bindings beautifulsoup4
+      - name: Install
+        run: pip install requests gtfs-realtime-bindings beautifulsoup4
 
-      - name: Run Script
+      - name: Run
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: python "TTC alart.py"
 
-      - name: Sync and Push
+      - name: Push Changes
         run: |
           git config --global user.name "Transit-Bot"
           git config --global user.email "bot@github.com"
           git add seen_ids.txt || exit 0
-          if git commit -m "update database"; then
+          
+          # 针对 image_3877c3.png 的核心修复：先 commit 再 pull --rebase
+          if git commit -m "update seen alerts"; then
             git pull --rebase origin main
             git push origin main
           fi
