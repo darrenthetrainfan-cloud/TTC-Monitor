@@ -1,21 +1,22 @@
-TTC:St Clair: Elevator 16Y2L out of|||St Clair: Elevator out of service between concourse and Line 1 northbound platform due to construction. Elevator is expected to be back in service May 15, 2026.
-TTC:Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Islington and Jane stations while we fix a mechanical problem.
-TTC:Eglinton: Elevator 4 out of serv|||Eglinton: Elevator out of service between Eglinton Avenue south side entrance, Line 1 concourse, and Line 5 upper concourse west side due to a technical problem.
-TTC:504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
-TTC:511 Bathurst: Delays between Bat|||511 Bathurst: Delays between Bathurst St at Lennox St and Bathurst St at Harbord St due to construction.
-TTC:Line 6 Finch West: No service be|||Line 6 Finch West: No service between Driftwood and Milvan Rumike stations due to police activity.
-TTC:Please look both|||Please look both ways for traffic before exiting
-TTC:Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
-TTC:505 Dundas: Delays between Dunda|||505 Dundas: Delays between Dundas West Station at Bay 5 and Broadview Station at Bay 6 while we deal with an operational problem.
-TTC:Sheppard-Yonge: Elevator 51P2L o|||Sheppard-Yonge: Elevator out of service between bus platform and North Tunnel while we perform maintenance.
-TTC:127 Davenport: Detour eastbound|||127 Davenport: Detour eastbound via Bathurst St, Dupont St and Spadina Rd due to construction.
-TTC:Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
-TTC:Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
-TTC:202 Cherry Beach: Detour eastbou|||202 Cherry Beach: Detour eastbound via Eastern Ave and Cherry St due to construction.
-TTC:506 Carlton: No service between|||506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a collision.
-TTC:Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
-TTC:121 Esplanade-River: Detour east|||121 Esplanade-River: Detour eastbound via Eastern Ave and Old Foundry Road due to construction.
-TTC:Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance while we perform maintenance.
-TTC:Queen's Quay (Union): Elevator 2|||Queen's Quay (Union): Elevator out of service between Bay Street west side entrance and westbound streetcars while we perform maintenance.
-TTC:97 Yonge: Detour northbound via|||97 Yonge: Detour northbound via Gerrard St W, Bay St and College St due to a collision.
-TTC:Have proof of payment ready for|||Have proof of payment ready for inspection.
+TTC:97 St Clair: Elevator 16Y2L out of|||St Clair: Elevator out of service between concourse and Line 1 northbound platform due to construction. Elevator is expected to be back in service May 15, 2026.
+TTC:Queen's Quay: Elevator 2HF1L out|||Queen's Quay: Elevator out of service between Bay Street west side entrance and westbound streetcars while we perform maintenance.
+TTC:100 Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Ossington and Broadview stations due to a security incident. Shuttle buses are on the way.
+TTC:127 127 Davenport: Detour eastbound|||127 Davenport: Detour eastbound via Bathurst St, Dupont St and Spadina Ave due to construction.
+TTC:114 114 Queens Quay East: Detour eas|||114 Queens Quay East: Detour eastbound via Yonge St due to construction.
+TTC:504 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
+TTC:508 Line 1 Yonge-University: Delays|||Line 1 Yonge-University: Delays northbound from Union to Summerhill stations due to track conditions.
+TTC:84 Line 6 Finch West: No service be|||Line 6 Finch West: No service between Driftwood and Milvan Rumike stations due to police activity.
+TTC:202 Please look both|||Please look both ways for traffic before exiting
+TTC:149 Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Islington and Jane stations while we fix a mechanical problem.
+TTC:97 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
+TTC:72 72 Pape: Detour southbound via E|||72 Pape: Detour southbound via Eastern Ave, Leslie St and Commissioners St due to construction.
+TTC:13 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
+TTC:937 Line 6 Finch West: Delays westbo|||Line 6 Finch West: Delays westbound at Rowntree Mills station while the maintainer fixes a brake problem.
+TTC:97 Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
+TTC:506 506 Carlton: No service between|||506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a collision.
+TTC:127 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
+TTC:505 505 Dundas: Delays near Dundas W|||505 Dundas: Delays near Dundas West Station at Bay 5 due to traffic congestion.
+TTC:114 114 Queens Quay East: Detour wes|||114 Queens Quay East: Detour westbound via Yonge St due to construction.
+TTC:72 72 Pape: Detour northbound via C|||72 Pape: Detour northbound via Carlaw Ave, Lakeshore Ave, Leslie St and Eastern Ave due to construction.
+TTC:97 97 Yonge: Detour northbound via|||97 Yonge: Detour northbound via Gerrard St W, Bay St and College St due to a collision.
+TTC:108 Have proof of payment ready for|||Have proof of payment ready for inspection.
