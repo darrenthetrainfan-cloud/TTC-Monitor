@@ -1,5 +1,5 @@
 TTC:97 St Clair: Elevator 16Y2L out of|||St Clair: Elevator out of service between concourse and Line 1 northbound platform due to construction. Elevator is expected to be back in service May 15, 2026.
-TTC:Queen's Quay: Elevator 2HF1L out|||Queen's Quay: Elevator out of service between Bay Street west side entrance and westbound streetcars while we perform maintenance.
+TTC: Queen's Quay: Elevator 2HF1L out|||Queen's Quay: Elevator out of service between Bay Street west side entrance and westbound streetcars while we perform maintenance.
 TTC:100 Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Ossington and Broadview stations due to a security incident. Shuttle buses are on the way.
 TTC:127 127 Davenport: Detour eastbound|||127 Davenport: Detour eastbound via Bathurst St, Dupont St and Spadina Ave due to construction.
 TTC:114 114 Queens Quay East: Detour eas|||114 Queens Quay East: Detour eastbound via Yonge St due to construction.
