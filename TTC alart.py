@@ -1,144 +1,134 @@
 import requests
 import time
 import os
-import re
 from google.transit import gtfs_realtime_pb2
-from bs4 import BeautifulSoup
 
 # ================= 配置区域 =================
 WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK")
+TTC_ALERTS_URL = "https://bustime.ttc.ca/gtfsrt/alerts"
 DB_FILE = "seen_ids.txt"
-
-# 备用的 GO Transit 警报聚合页面
-GO_URL = "https://www.gotransit.com/en/service-updates/service-alerts"
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.5",
-    "Referer": "https://www.gotransit.com/"
-}
 # ============================================
 
-def get_embed_color(agency, text):
-    text = text.lower()
-    if agency == "TTC":
-        if "line 1" in text: return 16766720
-        if "line 2" in text: return 3066993
-        return 14297372
-    if agency == "GO Transit":
-        if "lakeshore" in text: return 18791
-        if "kitchener" in text: return 3447003
-        return 5763719
-    return 3447003
+def get_color_for_alert(content):
+    """根据线路名称判断警报颜色，让 Discord 侧边条符合 TTC 标准"""
+    embed_color = 14297372 # 默认 TTC 红色
+    if any(x in content for x in ["elevator", "escalator", "wheel-trans", "accessibility"]):
+        embed_color = 3447003  # 蓝色
+    elif any(x in content for x in ["line 1", "yonge-university"]):
+        embed_color = 16766720  # 黄色
+    elif any(x in content for x in ["line 2", "bloor-danforth"]):
+        embed_color = 3066993   # 绿色
+    elif any(x in content for x in ["line 4", "sheppard"]):
+        embed_color = 10181046  # 紫色
+    elif any(x in content for x in ["line 5", "eglinton"]):
+        embed_color = 16750848  # 橙色
+    elif any(x in content for x in ["line 6", "finch west"]):
+        embed_color = 8421504   # 灰色
+    return embed_color
 
-def send_to_discord(agency, route_info, desc_text, status):
-    if not WEBHOOK_URL: return
-    color = get_embed_color(agency, route_info + desc_text)
+def send_to_discord(raw_header, desc, status_type):
+    """发送格式化后的消息到 Discord"""
+    if not WEBHOOK_URL:
+        return
+        
+    content = (raw_header + desc).lower()
     
+    # 标题精简逻辑：只保留冒号前面的文字 (例如: Line 1 Yonge-University)
+    short_header = raw_header.split(':')[0].strip() if ':' in raw_header else raw_header
+
+    # 状态分流：警报 vs 恢复
+    if status_type == "alert":
+        title = f"🚨 {short_header}"
+        color = get_color_for_alert(content)
+        # 这里移除了重复且显示不全的 raw_header，直接显示详细内容
+        description = f"**New Alert Details:**\n{desc}"
+    else:
+        title = f"✅ Resolved: {short_header}"
+        color = 5763719  # 恢复通知固定使用绿色
+        description = f"**This issue has been cleared.**\n~~{desc}~~"
+
     payload = {
-        "username": f"{agency} Tracker",
+        "username": "TTC Tracker",
+        # 不传 avatar_url，强制使用你在 Discord Webhook 设置里手动上传的头像
         "embeds": [{
-            "title": f"{'🚨' if status == 'alert' else '✅'} {agency} | {route_info}",
-            "description": (desc_text[:1500] + '...') if len(desc_text) > 1500 else desc_text,
-            "color": color if status == "alert" else 5763719,
+            "title": title,
+            "description": description,
+            "color": color,
+            "footer": {"text": "TTC Real-time Alerts"},
             "timestamp": time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())
         }]
     }
-    requests.post(WEBHOOK_URL, json=payload, timeout=15)
-
-def check_ttc():
-    alerts = {}
+    
     try:
-        r = requests.get("https://bustime.ttc.ca/gtfsrt/alerts", timeout=20)
-        feed = gtfs_realtime_pb2.FeedMessage()
-        feed.ParseFromString(r.content)
-        for entity in feed.entity:
-            if entity.HasField('alert'):
-                # 优化标题：线路编号 + 标题
-                rid = entity.alert.informed_entity[0].route_id if entity.alert.informed_entity else ""
-                h = entity.alert.header_text.translation[0].text if entity.alert.header_text.translation else ""
-                d = entity.alert.description_text.translation[0].text if entity.alert.description_text.translation else ""
-                alerts[f"TTC:{rid} {h}".strip()] = d.strip()
-        print(f"TTC: Found {len(alerts)} alerts.")
-    except Exception as e: print(f"TTC Error: {e}")
-    return alerts
+        requests.post(WEBHOOK_URL, json=payload, timeout=10)
+        print(f"Successfully sent {status_type}: {short_header}")
+    except Exception as e:
+        print(f"Failed to send Discord message: {e}")
 
-def check_go_web():
-    alerts = {}
-    try:
-        # 使用 Session 保持状态，增加通过率
-        session = requests.Session()
-        r = session.get(GO_URL, headers=HEADERS, timeout=30)
-        
-        if r.status_code != 200:
-            print(f"GO Transit Web Access Failed: HTTP {r.status_code}")
-            return alerts
+def check_alerts():
+    if not WEBHOOK_URL:
+        print("Error: DISCORD_WEBHOOK is not set!")
+        return False
 
-        soup = BeautifulSoup(r.text, 'html.parser')
-        # GO 页面结构经常变化，这里使用更通用的选择器：查找所有包含警报关键字的 div
-        cards = soup.select('div[class*="alert"], div[class*="ServiceAlert"], section[class*="update"]')
-        
-        for card in cards:
-            title_elem = card.find(['h3', 'h4', 'span'], class_=re.compile(r'title|name|header', re.I))
-            if title_elem:
-                title = title_elem.get_text().strip()
-                desc = card.get_text(separator=" ").strip()
-                if title and len(title) > 3:
-                    alerts[f"GO Transit:{title[:80]}"] = desc
-        
-        # 如果还是抓不到，尝试匹配所有加粗文本作为标题 (兜底方案)
-        if not alerts:
-            for bold in soup.find_all('strong'):
-                txt = bold.get_text().strip()
-                if len(txt) > 5 and any(kw in txt.lower() for kw in ['line', 'bus', 'train', 'delay']):
-                    alerts[f"GO Transit:{txt[:80]}"] = txt
-
-        print(f"GO Transit: Found {len(alerts)} alerts.")
-    except Exception as e: print(f"GO Transit Error: {e}")
-    return alerts
-
-def main():
+    # 1. 加载旧警报（用于对比，判断谁恢复了）
     old_alerts = {}
     if os.path.exists(DB_FILE):
-        with open(DB_FILE, "r", encoding="utf-8") as f:
-            for line in f:
-                if "|||" in line:
-                    k, v = line.strip().split("|||", 1)
-                    old_alerts[k] = v
+        try:
+            with open(DB_FILE, "r", encoding="utf-8") as f:
+                for line in f:
+                    if "|||" in line:
+                        h, d = line.strip().split("|||", 1)
+                        old_alerts[h] = d
+        except Exception as e:
+            print(f"Database Read Error: {e}")
 
-    curr_ttc = check_ttc()
-    curr_go = check_go_web()
-    curr_all = {**curr_ttc, **curr_go}
+    current_alerts = {}
+    has_changes = False
+    
+    try:
+        # 伪装 Header 降低被封风险
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0"}
+        response = requests.get(TTC_ALERTS_URL, timeout=15, headers=headers)
+        feed = gtfs_realtime_pb2.FeedMessage()
+        feed.ParseFromString(response.content)
+        
+        # 2. 解析当前所有活跃警报，清洗掉换行符防止数据库格式崩坏
+        for entity in feed.entity:
+            if entity.HasField('alert'):
+                alert = entity.alert
+                header = alert.header_text.translation[0].text if alert.header_text.translation else "TTC Alert"
+                description = alert.description_text.translation[0].text if alert.description_text.translation else "No details."
+                
+                h_clean = header.replace("\n", " ").replace("\r", "").replace("|||", " ").strip()
+                d_clean = description.replace("\n", " ").replace("\r", "").strip()
+                current_alerts[h_clean] = d_clean
 
-    # 发送新警报
-    for k, v in curr_all.items():
-        if k not in old_alerts:
-            agency, info = k.split(":", 1)
-            send_to_discord(agency, info, v, "alert")
+        # 3. 核心对比逻辑
+        # 找出新出现的警报
+        for h, d in current_alerts.items():
+            if h not in old_alerts:
+                send_to_discord(h, d, "alert")
+                has_changes = True
 
-    # 发送恢复 (仅当该机构当前有成功抓取到数据时才对比，防止误报)
-    if curr_ttc:
-        for k, v in old_alerts.items():
-            if k.startswith("TTC:") and k not in curr_ttc:
-                send_to_discord("TTC", k.split(":", 1)[1], v, "recovery")
+        # 找出刚刚消失（恢复）的警报
+        for h, d in old_alerts.items():
+            if h not in current_alerts:
+                send_to_discord(h, d, "recovery")
+                has_changes = True
 
-    if curr_go:
-        for k, v in old_alerts.items():
-            if k.startswith("GO Transit:") and k not in curr_go:
-                send_to_discord("GO Transit", k.split(":", 1)[1], v, "recovery")
-
-    # 保存，同时保留抓取失败机构的旧数据
-    final_save = curr_all.copy()
-    if not curr_ttc:
-        for k, v in old_alerts.items():
-            if k.startswith("TTC:"): final_save[k] = v
-    if not curr_go:
-        for k, v in old_alerts.items():
-            if k.startswith("GO Transit:"): final_save[k] = v
-
-    with open(DB_FILE, "w", encoding="utf-8") as f:
-        for k, v in final_save.items():
-            f.write(f"{k}|||{v}\n")
+        # 4. 如果有变动，存回仓库
+        if has_changes:
+            with open(DB_FILE, "w", encoding="utf-8") as f:
+                for h, d in current_alerts.items():
+                    f.write(f"{h}|||{d}\n")
+            print("Memory updated.")
+        else:
+            print("No changes detected.")
+        return True
+            
+    except Exception as e:
+        print(f"Critical Error: {e}")
+    return False
 
 if __name__ == "__main__":
-    main()
+    check_alerts()
