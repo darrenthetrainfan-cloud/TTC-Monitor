@@ -54,7 +54,7 @@ def send_to_discord(raw_header, desc, status_type):
             "title": title,
             "description": description,
             "color": color,
-            "footer": {"text": "TTC Real-time Alerts"},
+            "footer": {"text": "TTC Alerts"},
             "timestamp": time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())
         }]
     }
