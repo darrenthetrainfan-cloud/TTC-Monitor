@@ -1,4 +1,5 @@
 Bayview: Elevator 55P4L out of s|||Bayview: Elevator out of service between Sheppard Ave E south side entrance and east concourse due to a technical problem.
+86 Scarborough: No service betwe|||86 Scarborough: No service between Meadowvale Rd at Sheppard Ave East North Side and Meadowvale Rd at Zoo Rd due to a blocked road.
 Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Islington and Jane stations while we fix a mechanical problem.
 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
 Union: Elevator 7Y1L out of serv|||Union: Elevator out of service between concourse and Line 1 Vaughan platform while we perform maintenance.
@@ -7,11 +8,13 @@ Please look both|||Please look both ways for traffic before exiting
 504 King: Detour westbound via D|||504 King: Detour westbound via Dufferin St, Queen St E and Shaw St due to a blocked track.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
 Eglinton: Elevator 3 out of serv|||Eglinton: Elevator out of service between Line 1 centre platform and Line 5 centre platform while we perform maintenance.
+85 Sheppard East: No service bet|||85 Sheppard East: No service between Meadowvale Rd at Sheppard Ave East North Side and Meadowvale Rd at Zoo Rd due to a blocked road.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
 Line 6 Finch West: No LRT servic|||Line 6 Finch West: No LRT service between Finch West and Humber College stations, from Friday, May 15 to Monday, May 18, due to planned work by Metrolinx. Shuttle buses are running.
 Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
 506 Carlton: No service between|||506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a collision.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
+200 Toronto Zoo: No service betw|||200 Toronto Zoo: No service between Meadowvale Rd at Sheppard Ave East North Side and Meadowvale Rd at Zoo Rd due to a blocked road.
 Victoria Park: Elevator 14D3L ou|||Victoria Park: Elevator out of service between concourse and Line 2 eastbound platform while we perform maintenance.
 Cedarvale: Elevator 3 out of ser|||Cedarvale: Elevator out of service between Eglinton Avenue north side west entrance and upper concourse while we perform maintenance.
 97 Yonge: Detour northbound via|||97 Yonge: Detour northbound via Gerrard St W, Bay St and College St due to a collision.
