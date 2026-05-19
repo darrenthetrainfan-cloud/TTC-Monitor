@@ -1,23 +1,24 @@
-Bayview: Elevator 55P4L out of s|||Bayview: Elevator out of service between Sheppard Ave E south side entrance and east concourse due to a technical problem.
 Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Islington and Jane stations while we fix a mechanical problem.
 Broadview: Elevator 6D1L out of|||Broadview: Elevator out of service between Broadview Ave entrance, concourse and Line 2 westbound platform while we perform maintenance.
 Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Mount Dennis and Cedarvale stations while the maintainer fixes a switch problem. Shuttle buses are on the way.
-504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
 Line 6 Finch West: No service be|||Line 6 Finch West: No service between Driftwood and Milvan Rumike stations due to police activity.
 Please look both|||Please look both ways for traffic before exiting
 Bloor-Yonge: Elevator 13Y1L out|||Bloor-Yonge: Elevator out of service between north concourse and Line 1 southbound platform while we perform maintenance.
-Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
 Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.
-989 Weston Express: Detour via E|||989 Weston Express: Detour via Eglinton Ave W and Jane St due to construction.
 Dundas West: Elevator 8B2L out o|||Dundas West: Elevator out of service between concourse and Line 2 westbound platform while we perform maintenance.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
 Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
-506 Carlton: No service between|||506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a collision.
+North York Centre: Elevator 23Y2|||North York Centre: Elevator out of service between concourse and Line 1 southbound platform while we perform maintenance.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
-89 Weston: Detour via Eglinton A|||89 Weston: Detour via Eglinton Ave W and Jane St due to construction.
-94 Wellesley: Detour eastbound v|||94 Wellesley: Detour eastbound via Jarvis St, Carlton St and Parliament St due to construction.
 39 Finch East: Detour via Boarhi|||39 Finch East: Detour via Boarhill Dr, Chartland Blvd S, Alexmuir Blvd and Shields Ave due to a collision.
 97 Yonge: Detour northbound via|||97 Yonge: Detour northbound via Gerrard St W, Bay St and College St due to a collision.
-Have proof of payment ready for|||Have proof of payment ready for inspection.
 171 Mount Dennis: Detour via Egl|||171 Mount Dennis: Detour via Eglinton Ave W and Jane St due to a fire.
+Bayview: Elevator 55P4L out of s|||Bayview: Elevator out of service between Sheppard Ave E south side entrance and east concourse due to a technical problem.
+504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
+Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
+989 Weston Express: Detour via E|||989 Weston Express: Detour via Eglinton Ave W and Jane St due to construction.
+506 Carlton: No service between|||506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a collision.
+89 Weston: Detour via Eglinton A|||89 Weston: Detour via Eglinton Ave W and Jane St due to construction.
+94 Wellesley: Detour eastbound v|||94 Wellesley: Detour eastbound via Jarvis St, Carlton St and Parliament St due to construction.
+Have proof of payment ready for|||Have proof of payment ready for inspection.
 71 Runnymede: Detour northbound|||71 Runnymede: Detour northbound via Eglinton Ave W, Black Creek Dr, Todd Baylis Blvd and Industry St due to a fire.
