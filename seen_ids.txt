@@ -12,6 +12,7 @@ Kipling: Elevator 16B1L out of s|||Kipling: Elevator out of service between Aukl
 97 Yonge: Detour northbound via|||97 Yonge: Detour northbound via Gerrard St W, Bay St and College St due to a collision.
 57 Midland: Detour via Boarhill|||57 Midland: Detour via Boarhill Dr, Chartland Blvd, Alexmuir Blvd and South Shields Ave due to a collision.
 Bayview: Elevator 55P4L out of s|||Bayview: Elevator out of service between Sheppard Ave E south side entrance and east concourse due to a technical problem.
+39 Finch East: Detour via Bishop|||39 Finch East: Detour via Bishop Ave, Maxome Ave and Finch Ave W due to a collision.
 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
 41 Keele: Detour northbound via|||41 Keele: Detour northbound via Lawrence Ave W, Culford Rd and Falstaff Ave due to a collision.
 8 Broadview: Detour via Coxwell|||8 Broadview: Detour via Coxwell Ave, Cosburn Ave and Woodbine Ave due to a collision.
