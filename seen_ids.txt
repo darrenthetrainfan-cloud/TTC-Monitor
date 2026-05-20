@@ -3,10 +3,9 @@ Bayview: Elevator 55P4L out of s|||Bayview: Elevator out of service between Shep
 96 Wilson: Detour via Lynmont Rd|||96 Wilson: Detour via Lynmont Rd, Milkwood Ave and Martin Grove Rd due to a blocked road.
 Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Islington and Jane stations while we fix a mechanical problem.
 504A King: Detour westbound via|||504A King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave due to a blocked track.
-Line 6 Finch West: No service be|||Line 6 Finch West: No service between Driftwood and Milvan Rumike stations due to police activity.
+Line 6 Finch West: No service be|||Line 6 Finch West: No service between Humber College and Tobermory stations due to a security incident.
 Please look both|||Please look both ways for traffic before exiting
 13 Avenue Rd: Detour southbound|||13 Avenue Rd: Detour southbound via Duplex Ave and Chaplin Cres due to construction.
-Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Laird and Mount Pleasant stations while the maintainer fixes a mechanical problem. Shuttle buses are running between Mount Pleasant and Laird.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
 Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.
 Dundas West: Elevator 8B2L out o|||Dundas West: Elevator out of service between concourse and Line 2 westbound platform while we perform maintenance.
@@ -14,7 +13,9 @@ Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concour
 Bay: Elevator out of service bet|||Bay: Elevator out of service between street and concourse while we perform maintenance.
 506 Carlton: No service between|||506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a collision.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
+Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Avenue and Don Valley stations while the maintainer fixes a mechanical problem. Shuttle buses are running.
 Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass at Finch West station due to a security incident.
 94 Wellesley: Detour eastbound v|||94 Wellesley: Detour eastbound via Jarvis St, Carlton St and Parliament St due to construction.
 97 Yonge: Detour northbound via|||97 Yonge: Detour northbound via Gerrard St W, Bay St and College St due to a collision.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
+Broadview: Elevator 6D1L out of|||Broadview: Elevator out of service between Broadview Ave entrance, concourse and Line 2 westbound platform while we perform maintenance.
