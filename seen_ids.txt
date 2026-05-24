@@ -1,7 +1,6 @@
 Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.
 Chaplin: Elevator 1 out of servi|||Chaplin: Elevator out of service between concourse and Line 5 centre platform due to a technical problem.
 Keele: Elevator 9B2L out of serv|||Keele: Elevator out of service between Keele St entrance and bus platform to Line 2 Kipling (Eastbound) while we perform maintenance.
-501 Queen: No service between Qu|||501 Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we respond to a medical emergency.
 Please look both|||Please look both ways for traffic before exiting
 73 Royal York: Detour via Weston|||73 Royal York: Detour via Weston Rd and Lawrence Ave W due to a blocked road.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
@@ -9,7 +8,6 @@ Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concour
 Eglinton: Elevator 3 out of serv|||Eglinton: Elevator out of service between Line 1 centre platform and Line 5 centre platform while we perform maintenance.
 Line 2 Bloor-Danforth: There is|||There is no subway service on Line 2 Bloor-Danforth between Woodbine and Kennedy stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume May 25.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
-68B Warden: Detour via Highway 7|||68B Warden: Detour via Highway 7, Roding St and 16th Ave due to an event.
 St Clair: Elevator 16Y1L out of|||St Clair: Elevator out of service between streetcar platform and St Clair Ave E south side entrance, concourse and Line 1 southbound platform while we perform maintenance.
 201 Bluffer's Park: No service b|||201 Bluffer's Park: No service between Scarborough Bluffs Beach Loop at Bluffers Park and Brimley Rd at Kingston Rd North Side due to a blocked road.
 505 Dundas: Detour eastbound via|||505 Dundas: Detour eastbound via Bathurst St, College St and Spadina Ave while we respond to a medical emergency.
