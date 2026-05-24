@@ -3,7 +3,6 @@ Chaplin: Elevator 1 out of servi|||Chaplin: Elevator out of service between conc
 Keele: Elevator 9B2L out of serv|||Keele: Elevator out of service between Keele St entrance and bus platform to Line 2 Kipling (Eastbound) while we perform maintenance.
 501 Queen: No service between Qu|||501 Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we respond to a medical emergency.
 Please look both|||Please look both ways for traffic before exiting
-505 Dundas: Detour via Bathurst|||505 Dundas: Detour via Bathurst St, College St and Spadina Ave while we respond to a medical emergency.
 73 Royal York: Detour via Weston|||73 Royal York: Detour via Weston Rd and Lawrence Ave W due to a blocked road.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
@@ -11,5 +10,6 @@ Line 2 Bloor-Danforth: There is|||There is no subway service on Line 2 Bloor-Dan
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
 St Clair: Elevator 16Y1L out of|||St Clair: Elevator out of service between streetcar platform and St Clair Ave E south side entrance, concourse and Line 1 southbound platform while we perform maintenance.
 201 Bluffer's Park: No service b|||201 Bluffer's Park: No service between Scarborough Bluffs Beach Loop at Bluffers Park and Brimley Rd at Kingston Rd North Side due to a blocked road.
+505 Dundas: Detour eastbound via|||505 Dundas: Detour eastbound via Bathurst St, College St and Spadina Ave while we respond to a medical emergency.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 59 Maple Leaf: Detour eastbound|||59 Maple Leaf: Detour eastbound via Cypress St, Woodward Ave and Pine Ave due to police activity.
