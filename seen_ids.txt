@@ -1,7 +1,6 @@
 Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.
 Chaplin: Elevator 1 out of servi|||Chaplin: Elevator out of service between concourse and Line 5 centre platform due to a technical problem.
 37 Islington: Detour northbound|||37 Islington: Detour northbound via The Westway, Kipling Ave and Kingsview Blvd due to a collision.
-68 Warden: Delays between Warden|||68 Warden: Delays between Warden Ave at Lawrence Ave East and Warden Ave at Ellesmere Rd due to construction.
 Please look both|||Please look both ways for traffic before exiting
 52 Lawrence West: Detour eastbou|||52 Lawrence West: Detour eastbound via Islington Ave, The Westway and Royal York Rd due to a collision.
 73 Royal York: Detour via Weston|||73 Royal York: Detour via Weston Rd and Lawrence Ave W due to a blocked road.
