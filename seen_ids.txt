@@ -9,12 +9,14 @@ Eglinton: Elevator 5 out of serv|||Eglinton: Elevator out of service between Lin
 Eglinton: Elevator 7 out of serv|||Eglinton: Elevator out of service between Line 1 concourse and line 5 upper concourse east side while we perform maintenance.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
+149 Etobicoke-Bloor: No service|||149 Etobicoke-Bloor: No service between Bloor St West at Old Mill Trail and Bloor St West at Jane St due to traffic congestion.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
-105 Dufferin North: Detour south|||105 Dufferin North: Detour southbound via Kennard Ave, Wilson Heights Blvd and Sheppard West Station due to police activity.
 935 Jane Express: No service nea|||935 Jane Express: No service near Jane Station at Bus Bay 4 due to Line 2 closure.
 Avenue: Elevator 2 out of servic|||Avenue: Elevator out of service between Eglinton Avenue north side, west entrance and concourse due to a technical problem.
+114 Queens Quay East: Delays nea|||114 Queens Quay East: Delays near Lake Shore Garage Loop due to traffic congestion.
 55 Warren Park: No service near|||55 Warren Park: No service near Jane Station at Bus Bay 2 due to Line 2 closure.
 Please look both ways|||Please look both ways for cyclists before exiting.
+46 Martin Grove: Detour southbou|||46 Martin Grove: Detour southbound via Humber Blvd, Kipling Ave and Racine Rd due to a collision.
 106 Sentinel: Delays between She|||106 Sentinel: Delays between Sheppard Ave West at Sentinel Rd and Sheppard West Station at Bus Bay 3 due to an event.
 505 Dundas: Detour via Dundas St|||505 Dundas: Detour via Dundas St W, Bathurst St, College St, Bay St and Dundas St W due to a road closure.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
