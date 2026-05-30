@@ -8,7 +8,6 @@ Keelesdale: Elevator 1 out of se|||Keelesdale: Elevator out of service between K
 27 Jane South: No service near J|||27 Jane South: No service near Jane Station at Bus Bay 5 due to Line 2 closure.
 27 Jane South: Delays near Jane|||27 Jane South: Delays near Jane Station at Bus Bay 5 due to traffic congestion.
 Eglinton: Elevator 7 out of serv|||Eglinton: Elevator out of service between Line 1 concourse and line 5 upper concourse east side while we perform maintenance.
-507 Long Branch: No service east|||507 Long Branch: No service eastbound from Long Branch Loop to Lake Shore Blvd West at Twenty Second St due to a collision.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
@@ -16,6 +15,7 @@ Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1
 Avenue: Elevator 2 out of servic|||Avenue: Elevator out of service between Eglinton Avenue north side, west entrance and concourse due to a technical problem.
 55 Warren Park: No service near|||55 Warren Park: No service near Jane Station at Bus Bay 2 due to Line 2 closure.
 Please look both ways|||Please look both ways for cyclists before exiting.
+501 Queen: Detour via Broadview|||501 Queen: Detour via Broadview Ave, Gerrard St E and Coxwell Ave due to police activity.
 505 Dundas: Detour via Dundas St|||505 Dundas: Detour via Dundas St W, Bathurst St, College St, Bay St and Dundas St W due to a road closure.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 Finch West: Elevator FWLRT-1 out|||Finch West: Elevator out of service between Finch Avenue South Side Entrance and Line 6 Concourse while we perform maintenance.
