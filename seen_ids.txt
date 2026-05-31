@@ -7,8 +7,8 @@ St George: Elevator 1Y2L out of|||St George: Elevator out of service between Bed
 Eglinton: Elevator 5 out of serv|||Eglinton: Elevator out of service between Line 5 upper concourse west side and Line 5 centre platform due to a technical problem.
 63 Ossington: Delays near Libert|||63 Ossington: Delays near Liberty St at Atlantic Ave due to traffic congestion.
 27 Jane South: No service near J|||27 Jane South: No service near Jane Station at Bus Bay 5 due to Line 2 closure.
+Leaside: Elevator 1 out of servi|||Leaside: Elevator out of service between concourse and Line 5 centre platform due to a technical problem.
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance.
-27 Jane South: Delays near Jane|||27 Jane South: Delays near Jane Station at Bus Bay 5 due to traffic congestion.
 506 Carlton: Delays between Main|||506 Carlton: Delays between Main Street Station at Bay 7 and High Park Loop due to traffic congestion.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
@@ -18,5 +18,5 @@ Avenue: Elevator 2 out of servic|||Avenue: Elevator out of service between Eglin
 55 Warren Park: No service near|||55 Warren Park: No service near Jane Station at Bus Bay 2 due to Line 2 closure.
 Please look both ways|||Please look both ways for cyclists before exiting.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
-13 Avenue Rd: Detour northbound|||13 Avenue Rd: Detour northbound via Elm St, Bay St and Wellesley St W due to police activity.
+27 Jane South: Delays near Jane|||27 Jane South: Delays near Jane Station at Bus Bay 5 due to traffic congestion.
 Finch West: Elevator FWLRT-1 out|||Finch West: Elevator out of service between Finch Avenue South Side Entrance and Line 6 Concourse while we perform maintenance.
