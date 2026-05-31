@@ -1,5 +1,4 @@
 Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.
-Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Aga Khan Park & Museum and Pharmacy stations while the maintainer fixes a switch problem. Shuttle buses are running between Aga Khan Park & Museum and Pharmacy.
 Line 2 Bloor-Danforth: There is|||There is no subway service on Line 2 Bloor-Danforth between Jane and Ossington stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume June 1.
 26 Dupont: No service near Jane|||26 Dupont: No service near Jane Station at Bus Bay 3 due to a closure on Line 2.
 St George: Elevator 1Y2L out of|||St George: Elevator out of service between Bedford Rd west side entrance and concourse due to a technical problem.
@@ -16,5 +15,7 @@ Bloor-Yonge: Elevator 13Y2L out|||Bloor-Yonge: Elevator out of service between n
 Avenue: Elevator 2 out of servic|||Avenue: Elevator out of service between Eglinton Avenue north side, west entrance and concourse due to a technical problem.
 55 Warren Park: No service near|||55 Warren Park: No service near Jane Station at Bus Bay 2 due to Line 2 closure.
 Please look both ways|||Please look both ways for cyclists before exiting.
+160 Bathurst North: Detour south|||160 Bathurst North: Detour southbound via Centre Rd and Bathurst St due to a collision.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 Finch West: Elevator FWLRT-1 out|||Finch West: Elevator out of service between Finch Avenue South Side Entrance and Line 6 Concourse while we perform maintenance.
+506 Carlton: No service between|||506 Carlton: No service between Main Street Station at Bay 7 and Gerrard St East at Coxwell Ave due to a collision.
