@@ -1,5 +1,4 @@
 Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.
-504A King: Detour westbound via|||504A King: Detour westbound via King St E, Broadview Ave, Dundas St E and Church St due to a blocked track.
 Eglinton: Elevator 5 out of serv|||Eglinton: Elevator out of service between Line 5 upper concourse west side and Line 5 centre platform due to a technical problem.
 Spadina: Elevator 2B1L out of se|||Spadina: Elevator out of service between Spadina Rd east side entrance and concourse while we perform maintenance.
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance.
@@ -10,7 +9,6 @@ Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1
 503 Kingston Rd: Detour westboun|||503 Kingston Rd: Detour westbound via Sherbourne Street, Richmond St E and Church St due to a blocked track.
 Avenue: Elevator 2 out of servic|||Avenue: Elevator out of service between Eglinton Avenue north side, west entrance and concourse due to a technical problem.
 Please look both ways|||Please look both ways for cyclists before exiting.
-504B King: Detour westbound via|||504B King: Detour westbound via Broadview Ave, Dundas St E and Church St due to a blocked track.
-Line 2 Bloor-Danforth: Delays ea|||Line 2 Bloor-Danforth: Delays eastbound at Chester station while we respond to an emergency alarm.
+Line 2 Bloor-Danforth: Delays ea|||Line 2 Bloor-Danforth: Delays eastbound at Chester station while we respond to a medical emergency.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 Finch West: Elevator FWLRT-1 out|||Finch West: Elevator out of service between Finch Avenue South Side Entrance and Line 6 Concourse while we perform maintenance.
