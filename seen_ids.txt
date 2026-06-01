@@ -1,5 +1,3 @@
-26 Dupont: No service near Jane|||26 Dupont: No service near Jane Station at Bus Bay 3 due to a closure on Line 2.
-27 Jane South: No service near J|||27 Jane South: No service near Jane Station at Bus Bay 5 due to Line 2 closure.
 Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.
 St George: Elevator 1Y2L out of|||St George: Elevator out of service between Bedford Rd west side entrance and concourse while we perform maintenance.
 Eglinton: Elevator 5 out of serv|||Eglinton: Elevator out of service between Line 5 upper concourse west side and Line 5 centre platform due to a technical problem.
@@ -7,11 +5,8 @@ Eglinton: Elevator 5 out of serv|||Eglinton: Elevator out of service between Lin
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
-55 Warren Park: No service near|||55 Warren Park: No service near Jane Station at Bus Bay 2 due to Line 2 closure.
-52 Lawrence West: Detour via Jan|||52 Lawrence West: Detour via Jane St, Maple Leaf Dr and Culford Rd due to a collision.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
 Avenue: Elevator 2 out of servic|||Avenue: Elevator out of service between Eglinton Avenue north side, west entrance and concourse due to a technical problem.
-935 Jane Express: No service nea|||935 Jane Express: No service near Jane Station at Bus Bay 4 due to a closure on Line 2.
 Please look both ways|||Please look both ways for cyclists before exiting.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 27 Jane South: Delays near Jane|||27 Jane South: Delays near Jane Station at Bus Bay 5 due to traffic congestion.
