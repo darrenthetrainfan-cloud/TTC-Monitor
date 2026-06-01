@@ -1,12 +1,13 @@
 Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.
 21 Brimley: Detour via Ellesmere|||21 Brimley: Detour via Ellesmere Rd and Mccowan Rd due to a collision.
+63 Ossington: Detour northbound|||63 Ossington: Detour northbound via Liberty St, Dufferin St and Queen St W due to construction.
 St George: Elevator 1Y2L out of|||St George: Elevator out of service between Bedford Rd west side entrance and concourse while we perform maintenance.
-63 Ossington: Detour northbound|||63 Ossington: Detour northbound via Liberty St, Jefferson Ave and King St due to construction.
 Eglinton: Elevator 5 out of serv|||Eglinton: Elevator out of service between Line 5 upper concourse west side and Line 5 centre platform due to a technical problem.
 133 Neilson: Detour via Ellesmer|||133 Neilson: Detour via Ellesmere Rd and Mccowan Rd due to a collision.
 63 Ossington: Delays near Libert|||63 Ossington: Delays near Liberty St at Atlantic Ave due to traffic congestion.
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance.
 129 Mccowan North: Detour via Mi|||129 Mccowan North: Detour via Midland Ave, Progress Ave and Brimley Rd due to a collision.
+Line 2 Bloor-Danforth: Trains ar|||Line 2 Bloor-Danforth: Bypass at St George station due to a security incident.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
