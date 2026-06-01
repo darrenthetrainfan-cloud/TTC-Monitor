@@ -4,10 +4,12 @@ Eglinton: Elevator 5 out of serv|||Eglinton: Elevator out of service between Lin
 63 Ossington: Delays near Libert|||63 Ossington: Delays near Liberty St at Atlantic Ave due to traffic congestion.
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance.
 132 Milner: Detour westbound via|||132 Milner: Detour westbound via Burrows Hall Blvd, Lapsley Rd, Sheppard Ave E and Markham Rd due to a collision.
+509 Harbourfront: Streetcars are|||509 Harbourfront: Streetcars are not stopping near Queens Quay/Ferry Docks Station due to a security incident.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
 Avenue: Elevator 2 out of servic|||Avenue: Elevator out of service between Eglinton Avenue north side, west entrance and concourse due to a technical problem.
+510 Spadina: Streetcars are not|||510 Spadina: Streetcars are not stopping near Queens Quay/Ferry Docks Station due to a security incident.
 Please look both ways|||Please look both ways for cyclists before exiting.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 27 Jane South: Delays near Jane|||27 Jane South: Delays near Jane Station at Bus Bay 5 due to traffic congestion.
