@@ -1,14 +1,12 @@
-Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.
-St George: Elevator 1Y2L out of|||St George: Elevator out of service between Bedford Rd west side entrance and concourse while we perform maintenance.
-Eglinton: Elevator 5 out of serv|||Eglinton: Elevator out of service between Line 5 upper concourse west side and Line 5 centre platform due to a technical problem.
-504 King: Detour westbound via S|||504 King: Detour westbound via Spadina Ave, Dundas St W and Dundas West Station due to police activity.
-336 Finch West: Detour via Westo|||336 Finch West: Detour via Weston Rd, Steeles Ave W and Islington Ave due to a collision.
-501 Queen: Detour westbound via|||501 Queen: Detour westbound via Spadina Ave, Dundas St E, Howard Park Ave and Roncesvalles Ave due to police activity.
-Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
+Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
+St George: Elevator 1Y2L out of|||St George: Elevator out of service between Bedford Rd west side entrance and concourse while we perform maintenance.
 Avenue: Elevator 2 out of servic|||Avenue: Elevator out of service between Eglinton Avenue north side, west entrance and concourse due to a technical problem.
+Eglinton: Elevator 5 out of serv|||Eglinton: Elevator out of service between Line 5 upper concourse west side and Line 5 centre platform due to a technical problem.
 Please look both ways|||Please look both ways for cyclists before exiting.
+336 Finch West: Detour via Westo|||336 Finch West: Detour via Weston Rd, Steeles Ave W and Islington Ave due to a collision.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
+Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance.
 Finch West: Elevator FWLRT-1 out|||Finch West: Elevator out of service between Finch Avenue South Side Entrance and Line 6 Concourse while we perform maintenance.
