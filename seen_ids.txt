@@ -4,6 +4,7 @@ Spadina: Elevator 2B1L out of se|||Spadina: Elevator out of service between Spad
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance.
 506 Carlton: No service between|||506 Carlton: No service between College St at Lansdowne Ave and Howard Park Ave at Parkside Dr while we deal with an operational problem.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
+Line 4 Sheppard: No service betw|||Line 4 Sheppard: No service between Bayview and Don Mills stations due to a security incident.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
 Forest Hill: Elevator 2 out of s|||Forest Hill: Elevator out of service between Eglinton Avenue north east side entrance and concourse while we perform maintenance.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
