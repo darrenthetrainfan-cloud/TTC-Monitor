@@ -1,7 +1,6 @@
 Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.
 TMU: Elevator out of service bet|||TMU: Elevator out of service between Toronto Eaton Centre entrance, Line 1 Vaughan via Union platform, and underpass while we perform maintenance.
 65 Parliament: Detour southbound|||65 Parliament: Detour southbound via Front St E and Lower Sherbourne St due to a road closure.
-Line 1 Yonge-University: Delays|||Line 1 Yonge-University: Delays southbound at Osgoode station while we respond to a medical emergency.
 Spadina: Elevator 2B1L out of se|||Spadina: Elevator out of service between Spadina Rd east side entrance and concourse while we perform maintenance.
 65 Parliament: Detour northbound|||65 Parliament: Detour northbound via Queens Quay E, Lower Jarvis St and Front St E due to a road closure.
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance.
