@@ -1,7 +1,5 @@
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-Cedarvale: Elevator 4S2L out of|||Cedarvale: Elevator out of service between bus terminal entrance and Line 1 Finch via southbound platform while we perform maintenance.
 Kipling: Elevator 16B3L out of s|||Kipling: Elevator out of service between concourse and west passenger pick-up and drop-off entrance due to a technical problem.
-9 Bellamy: Buses are not stoppin|||9 Bellamy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 York Mills: Elevator 20Y2L out o|||York Mills: Elevator out of service between concourse and bus platform while we perform maintenance.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Caledonia: Elevator 2 out of ser|||Caledonia: Elevator out of service between Eglinton Avenue north side entrance and concourse while we perform maintenance.
