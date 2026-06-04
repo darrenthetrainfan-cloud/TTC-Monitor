@@ -1,7 +1,6 @@
 Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform due to a technical problem.
 TMU: Elevator out of service bet|||TMU: Elevator out of service between Toronto Eaton Centre entrance, Line 1 Vaughan via Union platform, and underpass while we perform maintenance.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
-110 Islington South: Detour nort|||110 Islington South: Detour northbound via Meadowvale Dr and Green Lanes due to a collision.
 Sherbourne: Elevator 4D1L out of|||Sherbourne: Elevator out of service between Sherbourne Street entrance, concourse and Line 2 Kennedy (eastbound) due to a technical problem.
 St Patrick: Elevator out of serv|||St Patrick: Elevator out of service between 480 University Ave entrance and concourse while we perform maintenance.
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance.
@@ -11,6 +10,5 @@ Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concour
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
 Please look both ways|||Please look both ways for cyclists before exiting.
 43 Kennedy: Detour northbound vi|||43 Kennedy: Detour northbound via Havendale Rd, Midland Ave and Finch Ave E due to a collision.
-149 Etobicoke-Bloor: Detour via|||149 Etobicoke-Bloor: Detour via Islington Ave, Meadowvale Dr, Green Lanes and Bloor St W due to a collision.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 Finch West: Elevator FWLRT-1 out|||Finch West: Elevator out of service between Finch Avenue South Side Entrance and Line 6 Concourse while we perform maintenance.
