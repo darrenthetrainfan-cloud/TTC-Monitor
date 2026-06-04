@@ -2,7 +2,6 @@ Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between up
 TMU: Elevator out of service bet|||TMU: Elevator out of service between Toronto Eaton Centre entrance, Line 1 Vaughan via Union platform, and underpass while we perform maintenance.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
 Kipling: Elevator 16B3L out of s|||Kipling: Elevator out of service between concourse and west passenger pick-up and drop-off entrance due to a technical problem.
-St Patrick: Elevator out of serv|||St Patrick: Elevator out of service between 480 University Ave entrance and concourse while we perform maintenance.
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
