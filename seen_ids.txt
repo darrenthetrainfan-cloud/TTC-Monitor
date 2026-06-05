@@ -1,9 +1,9 @@
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-Downsview Park: Elevator 10S1L o|||Downsview Park: Elevator out of service between concourse and Line 1 centre platform while we perform maintenance.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+168 Symington: No service betwee|||168 Symington: No service between Rogers Rd at Bicknell Ave and Black Creek Dr at Weston Rd due to a fire.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.
@@ -22,9 +22,10 @@ Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between 
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Mount Dennis: Elevator 2 out of|||Mount Dennis: Elevator out of service between bus platform and concourse due to a technical problem.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
+161 Rogers Rd: No service betwee|||161 Rogers Rd: No service between Rogers Rd at Bicknell Ave and Black Creek Dr at Weston Rd due to a fire.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-168 Symington: No service betwee|||168 Symington: No service between Rogers Rd at Bicknell Ave and Black Creek Dr at Weston Rd due to a fire.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+501 Queen: Detour westbound via|||501 Queen: Detour westbound via King St E, Church St and Richmond St E due to a security incident.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
