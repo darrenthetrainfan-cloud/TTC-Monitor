@@ -13,9 +13,9 @@ Museum: Escalator 2Y1E out of se|||Museum: Escalator out of service from concour
 Line 2 Bloor-Danforth: Delays ea|||Line 2 Bloor-Danforth: Delays eastbound at Warden station due to an opertional issue.
 Spadina: Escalator 1S5E out of s|||Spadina: Escalator out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+Line 6 Finch West: No service we|||Line 6 Finch West: No service westbound from Milvan Rumike to Driftwood stations while the maintainer fixes a mechanical problem.
 Please look both ways|||Please look both ways for cyclists before exiting.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-512 St Clair: No service between|||512 St Clair: No service between Gunns Loop at St Clair Ave West and St Clair West Station at Bay 3 due to overhead wire issue. Shuttle buses are on the way.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Finch West: Elevator FWLRT-1 out|||Finch West: Elevator out of service between Finch Avenue South Side Entrance and Line 6 Concourse while we perform maintenance.
@@ -25,6 +25,7 @@ Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between up
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+512 St Clair: Streetcars have be|||512 St Clair: Streetcars have been replaced by buses between Gunns Loop at St Clair Ave West and St Clair Station due to emergency overhead repairs.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Kipling: Elevator 16B2L out of s|||Kipling: Elevator out of service between bus platform and Line 2 centre platform due to a technical problem.
