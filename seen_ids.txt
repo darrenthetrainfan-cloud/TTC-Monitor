@@ -23,6 +23,7 @@ Mount Dennis: Elevator 2 out of|||Mount Dennis: Elevator out of service between 
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+Bloor-Yonge: Elevator 13Y4L out|||Bloor-Yonge: Elevator out of service between south concourse and Line 1 northbound platform while we perform maintenance.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 501 Queen: Detour westbound via|||501 Queen: Detour westbound via King St E, Church St and Richmond St E due to a security incident.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
