@@ -1,4 +1,5 @@
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+Line 6 Finch West: No service be|||Line 6 Finch West: No service between Tobermory and Milvan Rumike stations while the maintainer fixes a switch problem. Shuttle buses are on the way to operate between Tobermory and Milvan Rumike.
 Kipling: Elevator 16B3L out of s|||Kipling: Elevator out of service between concourse and west passenger pick-up and drop-off entrance due to a technical problem.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -21,6 +22,7 @@ Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between up
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+50 Burnhamthorpe: Detour eastbou|||50 Burnhamthorpe: Detour eastbound via Blaketon Rd, Lorene Dr and Laurel Ave due to a collision.
 512 St Clair: Streetcars have be|||512 St Clair: Streetcars have been replaced by buses between Gunns Loop at St Clair Ave West and St Clair Station due to emergency overhead repairs.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
