@@ -22,6 +22,7 @@ Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between 
 Eglinton: Elevator 7 out of serv|||Eglinton: Elevator out of service between Line 1 concourse and line 5 upper concourse east side while we perform maintenance.
 42 Cummer: Detour via Milliken B|||42 Cummer: Detour via Milliken Blvd, Passmore Ave and Midland Ave due to a road closure.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+53 Steeles East: Detour westboun|||53 Steeles East: Detour westbound via Warden Ave, Denison Ave and Woodbine Ave due to a collision.
 Mount Dennis: Elevator 2 out of|||Mount Dennis: Elevator out of service between bus platform and concourse due to a technical problem.
 353 Steeles: Detour westbound vi|||353 Steeles: Detour westbound via Warden Ave, Denison St and Woodbine Ave due to a collision.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
