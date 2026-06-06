@@ -24,7 +24,6 @@ Eglinton: Elevator 7 out of serv|||Eglinton: Elevator out of service between Lin
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Mount Dennis: Elevator 2 out of|||Mount Dennis: Elevator out of service between bus platform and concourse due to a technical problem.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
-Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Cedarvale and Mount Dennis stations due to a security incident.
 53 Steeles East: Detour westboun|||53 Steeles East: Detour westbound via Warden Ave, Denison Ave and Esna Park Dr due to a collision.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
