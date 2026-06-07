@@ -1,7 +1,6 @@
 29 Dufferin: Detour via Bloor St|||29 Dufferin: Detour via Bloor St W, Bathurst St and Queen St W due to an event.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 42 Cummer: Detour via Milliken B|||42 Cummer: Detour via Milliken Blvd, Passmore Ave and Midland Ave due to a road closure.
-504 King: Detour eastbound via B|||504 King: Detour eastbound via Bathurst St, Queens Quay W and Spadina Ave while we fix a mechanical problem.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -24,10 +23,10 @@ Line 1 Yonge-University: There i|||There is no subway service on Line 1 Yonge-Un
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 16 Mccowan: Detour southbound vi|||16 Mccowan: Detour southbound via Brimley Rd, Ellesmere Rd, Packard Blvd and Brimorton Dr due to a collision.
 Mount Dennis: Elevator 2 out of|||Mount Dennis: Elevator out of service between bus platform and concourse due to a technical problem.
-506 Carlton: Delays between High|||506 Carlton: Delays between High Park Loop and College St at Bathurst St due to traffic congestion.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+506 Carlton: Delays between High|||506 Carlton: Delays between High Park Loop and College St at Bathurst St due to traffic congestion.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
