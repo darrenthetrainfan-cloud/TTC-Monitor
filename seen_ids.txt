@@ -1,5 +1,6 @@
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 42 Cummer: Detour via Milliken B|||42 Cummer: Detour via Milliken Blvd, Passmore Ave and Midland Ave due to a road closure.
+504 King: Detour eastbound via B|||504 King: Detour eastbound via Bathurst St, Queens Quay W and Spadina Ave while we fix a mechanical problem.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -12,13 +13,13 @@ Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service betwee
 Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.
 Please look both ways|||Please look both ways for cyclists before exiting.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+29 Dufferin: Detour via College|||29 Dufferin: Detour via College St, Bathurst St and Queen St W due to an event.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Finch West: Elevator FWLRT-1 out|||Finch West: Elevator out of service between Finch Avenue South Side Entrance and Line 6 Concourse while we perform maintenance.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-29 Dufferin: Detour via College|||29 Dufferin: Detour via College St, Ossington Ave and Queen St W due to an event.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Mount Dennis: Elevator 2 out of|||Mount Dennis: Elevator out of service between bus platform and concourse due to a technical problem.
 506 Carlton: Delays between High|||506 Carlton: Delays between High Park Loop and College St at Bathurst St due to traffic congestion.
