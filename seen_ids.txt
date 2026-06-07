@@ -1,4 +1,5 @@
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+27 Jane South: Buses are not sto|||27 Jane South: Bypass near Jane Station at Bus Bay 5 due to Toronto Fire activity.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 St George: Elevator 1Y1L out of|||St George: Elevator out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform due to a technical problem.
@@ -17,6 +18,7 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 Finch West: Elevator FWLRT-1 out|||Finch West: Elevator out of service between Finch Avenue South Side Entrance and Line 6 Concourse while we perform maintenance.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Laird: Elevator 1 out of service|||Laird: Elevator out of service between concourse and Line 5 centre platform due to a technical problem.
+935 Jane Express: Buses are not|||935 Jane Express: Bypass near Jane Station at Bus Bay 4 due to Toronto Fire activity.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
 Line 1 Yonge-University: There i|||There is no subway service on Line 1 Yonge-University between St George and Sheppard West stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume June 8.
 42 Cummer: Detour via Midland Av|||42 Cummer: Detour via Midland Ave, Passmore Ave and Milliken Blvd due to construction.
