@@ -16,6 +16,7 @@ Kennedy: Elevator 16D3L out of s|||Kennedy: Elevator out of service between bus 
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Finch West: Elevator FWLRT-1 out|||Finch West: Elevator out of service between Finch Avenue South Side Entrance and Line 6 Concourse while we perform maintenance.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+505 Dundas: Detour via Bay St, C|||505 Dundas: Detour via Bay St, College St and Church St due to police activity.
 Laird: Elevator 1 out of service|||Laird: Elevator out of service between concourse and Line 5 centre platform due to a technical problem.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
 Line 1 Yonge-University: There i|||There is no subway service on Line 1 Yonge-University between St George and Sheppard West stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume June 8.
