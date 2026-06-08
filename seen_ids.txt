@@ -25,7 +25,6 @@ Line 1 Yonge-University: There i|||There is no subway service on Line 1 Yonge-Un
 Leaside: Elevator 1 out of servi|||Leaside: Elevator out of service between concourse and Line 5 centre platform due to a technical problem.
 Mount Dennis: Elevator 2 out of|||Mount Dennis: Elevator out of service between bus platform and concourse due to a technical problem.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
-82 Rosedale: Detour via Bloor St|||82 Rosedale: Detour via Bloor St E, Yonge St and Church St due to police activity.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
