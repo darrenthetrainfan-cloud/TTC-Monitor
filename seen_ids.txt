@@ -27,7 +27,6 @@ Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between 
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform due to a technical problem.
 York Mills: Elevator 20Y2L out o|||York Mills: Elevator out of service between concourse and bus platform while we perform maintenance.
-501 Queen: Detour via Church St|||501 Queen: Detour via Church St and King St E due to a collision.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
 Queen: Elevator 9Y2L out of serv|||Queen: Elevator out of service between underpass and Line 1 northbound platform while we perform maintenance.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
