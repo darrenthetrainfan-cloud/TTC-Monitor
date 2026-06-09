@@ -9,7 +9,6 @@ Caledonia: Elevator 2 out of ser|||Caledonia: Elevator out of service between Eg
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-511 Bathurst: No service southbo|||511 Bathurst: No service southbound from Fleet St at Bathurst St West Side to Exhibition Loop due to a collision.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Coxwell: Elevator 11D1L out of s|||Coxwell: Elevator out of service between Strathmore Blvd entrance, concourse and Line 2 eastbound platform while we perform maintenance.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -19,6 +18,7 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Broadview: Elevator 6D1L out of|||Broadview: Elevator out of service between Broadview Ave entrance, concourse and Line 2 westbound platform due to a technical problem.
 Royal York: Elevator 14B2L out o|||Royal York: Elevator out of service between west concourse and Line 2 westbound platform due to a technical problem.
+509 Harbourfront: No service bet|||509 Harbourfront: No service between Fleet St at Bathurst St West Side and Manitoba Dr at Strachan Ave West Side due to a collision.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -35,4 +35,5 @@ Queen: Elevator 9Y2L out of serv|||Queen: Elevator out of service between underp
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+511 Bathurst: No service between|||511 Bathurst: No service between Fleet St at Bathurst St West Side and Manitoba Dr at Strachan Ave West Side due to a collision.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
