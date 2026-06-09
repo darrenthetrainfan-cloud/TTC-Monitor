@@ -1,22 +1,21 @@
-Caledonia: Elevator 2 out of ser|||Caledonia: Elevator out of service between Eglinton Avenue north side entrance and concourse while we perform maintenance.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-114 Queens Quay East: Detour wes|||114 Queens Quay East: Detour westbound via Yonge St, King St W and Bay St due to a collision.
 112 West Mall: Detour via Ashfie|||112 West Mall: Detour via Ashfield Dr due to construction.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-121 Esplanade-River: Detour west|||121 Esplanade-River: Detour westbound via Yonge St, King St W and Bay St due to a collision.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Coxwell: Elevator 11D1L out of s|||Coxwell: Elevator out of service between Strathmore Blvd entrance, concourse and Line 2 eastbound platform while we perform maintenance.
+Caledonia: Elevator 2 out of ser|||Caledonia: Elevator out of service between Eglinton Avenue north side entrance and concourse while we perform maintenance.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Oakwood: Elevator 1 out of servi|||Oakwood: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance.
 Please look both ways|||Please look both ways for cyclists before exiting.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Broadview: Elevator 6D1L out of|||Broadview: Elevator out of service between Broadview Ave entrance, concourse and Line 2 westbound platform due to a technical problem.
+Scarborough Centre: Elevator 6RT|||Scarborough Centre: Elevator out of service between concourse and Scarborough Town Centre entrance and bus platform due to a technical problem.
 Royal York: Elevator 14B2L out o|||Royal York: Elevator out of service between west concourse and Line 2 westbound platform due to a technical problem.
 509 Harbourfront: No service bet|||509 Harbourfront: No service between Fleet St at Bathurst St West Side and Manitoba Dr at Strachan Ave West Side due to a collision.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
