@@ -22,6 +22,7 @@ Finch West: Elevator FWLRT-1 out|||Finch West: Elevator out of service between F
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Laird: Elevator 1 out of service|||Laird: Elevator out of service between concourse and Line 5 centre platform due to a technical problem.
 Victoria Park: Elevator 14D3L ou|||Victoria Park: Elevator out of service between concourse and Line 2 eastbound platform while we perform maintenance.
+Line 2 Bloor-Danforth: Delays ea|||Line 2 Bloor-Danforth: Delays eastbound at Bloor-Yonge station while we respond to an emergency alarm.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
 Line 1 Yonge-University: There i|||Line 1 Yonge-University: There is limited subway service between Lawrence West and Wilson stations due to structural maintenance. Shuttle buses are running between Lawrence West and Sheppard West stations to supplement service.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
