@@ -13,7 +13,6 @@ Coxwell: Elevator 11D1L out of s|||Coxwell: Elevator out of service between Stra
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 York Mills: Elevator 20Y2L out o|||York Mills: Elevator out of service between concourse and bus platform while we perform maintenance.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.
 Please look both ways|||Please look both ways for cyclists before exiting.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -27,8 +26,6 @@ Line 1 Yonge-University: There i|||Line 1 Yonge-University: There is limited sub
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 1 Yonge-University: No serv|||Line 1 Yonge-University: No service between Lawrence and Bloor-Yonge stations due to a fire. Shuttle buses are on the way.
-Leaside: Elevator 1 out of servi|||Leaside: Elevator out of service between concourse and Line 5 centre platform due to a technical problem.
-Mount Dennis: Elevator 2 out of|||Mount Dennis: Elevator out of service between bus platform and concourse due to a technical problem.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
