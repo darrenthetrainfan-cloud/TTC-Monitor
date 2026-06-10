@@ -13,7 +13,6 @@ Coxwell: Elevator 11D1L out of s|||Coxwell: Elevator out of service between Stra
 Oakwood: Elevator 1 out of servi|||Oakwood: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance.
 Please look both ways|||Please look both ways for cyclists before exiting.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-Broadview: Elevator 6D1L out of|||Broadview: Elevator out of service between Broadview Ave entrance, concourse and Line 2 westbound platform due to a technical problem.
 Scarborough Centre: Elevator 6RT|||Scarborough Centre: Elevator out of service between concourse and Scarborough Town Centre entrance and bus platform due to a technical problem.
 Royal York: Elevator 14B2L out o|||Royal York: Elevator out of service between west concourse and Line 2 westbound platform due to a technical problem.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -23,7 +22,6 @@ Victoria Park: Elevator 14D3L ou|||Victoria Park: Elevator out of service betwee
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-York Mills: Elevator 20Y2L out o|||York Mills: Elevator out of service between concourse and bus platform while we perform maintenance.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
 Queen: Elevator 9Y2L out of serv|||Queen: Elevator out of service between underpass and Line 1 northbound platform while we perform maintenance.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
