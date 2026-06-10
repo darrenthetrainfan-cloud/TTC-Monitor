@@ -1,5 +1,6 @@
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+960 Steeles West Express: Detour|||960 Steeles West Express: Detour eastbound via Steeles Ave W, Westminster Ave, Conley St, Thurman Rd and Steeles Ave W due to a blocked road.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -22,5 +23,6 @@ Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kenned
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+60 Steeles West: Detour eastboun|||60 Steeles West: Detour eastbound via Steeles Ave W, Westminster Ave, Conley St, Thurman Rd and Steeles Ave W due to a blocked road.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
