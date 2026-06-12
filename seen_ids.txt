@@ -3,13 +3,11 @@ Have proof of payment ready for|||Have proof of payment ready for inspection.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-Eglinton: Elevator 3 out of serv|||Eglinton: Elevator out of service between Line 1 centre platform and Line 5 centre platform due to a technical problem.
 Please look both ways|||Please look both ways for cyclists before exiting.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-65 Parliament: Detour southbound|||65 Parliament: Detour southbound via Front St E and Lower Sherbourne St due to construction.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -23,6 +21,7 @@ Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service betwee
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+65 Parliament: Detour southbound|||65 Parliament: Detour southbound via Front St E and Lower Sherbourne St due to construction.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
