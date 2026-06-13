@@ -2,6 +2,7 @@ Have proof of payment ready for|||Have proof of payment ready for inspection.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 509 Harbourfront: Streetcars are|||509 Harbourfront: Streetcars are not stopping westbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
 511 Bathurst: Streetcars are not|||511 Bathurst: Streetcars are not stopping near Exhibition Loop due to FIFA World Cup route adjustments.
+80 Queensway: Detour via Sherway|||80 Queensway: Detour via Sherway Gardens Rd, Sherway Dr, The West Mall, Evans Ave, Sherway Gt, Sherway Gardens Rd and The Queensway due to the Ride to Conquer Cancer.
 80 Queensway: Detour eastbound v|||80 Queensway: Detour eastbound via Colborne Lodge Dr, The Queensway, Roncesvalles Ave and Bloor St W due to police activity.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -14,8 +15,6 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 123C Sherway: Detour southbound|||123C Sherway: Detour southbound via The Queensway, The West Mall, Southgate Ave, Sherway Gardens Rd, Sherway Gt and Evans Ave due to The ride to Conquer Cancer.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
-80 Queensway: Detour via Sherway|||80 Queensway: Detour via Sherway Gardens Rd, Sherway Dr, The West Mall, Evans Ave, Sherway Gt, Sherway Gardens Rd and The Queensway due to the Ride to Conquer Cancer.
-49 Bloor West: Detour westbound|||49 Bloor West: Detour westbound via The West Mall, Burnhamthorpe Rd and Mill Rd due to the Ride to Conquer Cancer.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -25,6 +24,7 @@ Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between c
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+161 Rogers Rd: Detour via Davenp|||161 Rogers Rd: Detour via Davenport Rd, Dufferin St and Rogers Rd due to the Portugal Day Parade.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 123C Sherway: Detour northbound|||123C Sherway: Detour northbound via The West Mall, Southgate Ave, Sherway Gardens Rd, Sherway Gt, Evans Ave, The East Mall and North Queen St due to The ride to Conquer Cancer.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
@@ -33,4 +33,5 @@ Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between 
 306 Carlton: No service between|||306 Carlton: No service between College St at Lansdowne Ave and High Park Loop due to a blocked track.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
+49 Bloor West: Detour westbound|||49 Bloor West: Detour westbound via The West Mall, Burnhamthorpe Rd and Mill Rd due to the Ride to Conquer Cancer.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
