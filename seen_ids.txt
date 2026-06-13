@@ -1,4 +1,5 @@
 Have proof of payment ready for|||Have proof of payment ready for inspection.
+161 Rogers Rd: Detour westbound|||161 Rogers Rd: Detour westbound via Davenport Rd, Dufferin St and Rogers Rd due to the Portugal Day Parade.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 509 Harbourfront: Streetcars are|||509 Harbourfront: Streetcars are not stopping westbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
 511 Bathurst: Streetcars are not|||511 Bathurst: Streetcars are not stopping near Exhibition Loop due to FIFA World Cup route adjustments.
@@ -11,7 +12,6 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 5 Eglinton: Delays westboun|||Line 5 Eglinton: Delays westbound from Kennedy to Mount Dennis stations while the maintainer fixes a mechanical problem.
-161 Rogers Rd: Detour eastbound|||161 Rogers Rd: Detour eastbound via Caledonia Rd, Davenport Rd and Rogers Rd due to the Portugal Day Parade.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -22,11 +22,10 @@ Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between c
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+161 Rogers Rd: Detour eastbound|||161 Rogers Rd: Detour eastbound via Rogers Rd, Dufferin St, Davenport Rd and Dovercourt Rd due to the Portugal Day Parade.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Hakimi Lebovic and Birchmount stations due to blocked track.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
-161 Rogers Rd: Detour westbound|||161 Rogers Rd: Detour westbound via Davenport Rd, Old Weston Rd and Rogers Rd due to the Portugal Day Parade.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
