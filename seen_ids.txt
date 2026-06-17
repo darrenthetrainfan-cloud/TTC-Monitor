@@ -28,9 +28,7 @@ Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service betwee
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-504 King: No service between Kin|||504 King: No service between King St East at Church St West Side and King St West at Queen St West while we deal with a disruptive customer.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-84 Sheppard West: Delays between|||84 Sheppard West: Delays between Sheppard Ave West at William R Allen Rd West Side and Sheppard Ave West at Keele St due to the Post Malone Concert.
 Line 1 Yonge-University: No serv|||Line 1 Yonge-University: No service between Pioneer Village and Sheppard West stations due to a security incident.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
