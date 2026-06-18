@@ -15,10 +15,11 @@ Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between c
 Victoria Park: Elevator 14D2L ou|||Victoria Park: Elevator out of service between concourse and Line 2 westbound platform while we perform maintenance.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 501 Queen: Detour westbound via|||501 Queen: Detour westbound via Parliament St, King St E and Church St due to a security incident.
+511 Bathurst: Detour southbound|||511 Bathurst: Detour southbound via Dundas St W, Spadina Ave and King St W due to a traffic light problem.
+511 Bathurst: Detour northbound|||511 Bathurst: Detour northbound via King St W, Spadina Ave and Queen St W due to a traffic light problem.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-Line 1 Yonge-University: Delays|||Line 1 Yonge-University: Delays southbound at Summerhill station while we respond to an emergency alarm.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -29,7 +30,6 @@ Avenue: Elevator 2 out of servic|||Avenue: Elevator out of service between Eglin
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-511 Bathurst: Detour via King St|||511 Bathurst: Detour via King St W, Spadina Ave and Dundas St W due to a traffic light problem.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 1 Yonge-University: No serv|||Line 1 Yonge-University: No service between Pioneer Village and Sheppard West stations due to a security incident.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
