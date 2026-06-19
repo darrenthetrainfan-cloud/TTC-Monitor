@@ -6,7 +6,6 @@ Cedarvale: Elevator 6 out of ser|||Cedarvale: Elevator out of service between up
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Please look both ways|||Please look both ways for cyclists before exiting.
-154 Curran Hall: No service west|||154 Curran Hall: No service westbound from Orton Park Rd at Brimorton Dr to Scarborough Golf Club Rd at Lawrence Ave East due to a road closure.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -24,6 +23,7 @@ Laird: Elevator 2 out of service|||Laird: Elevator out of service between Eglint
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance. Elevator is expected to be back in service July 10, 2026.
 504 King: Detour westbound via S|||504 King: Detour westbound via Shaw St, Queen St W and Roncesvalles Ave while we deal with an operational problem.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+154 Curran Hall: No service betw|||154 Curran Hall: No service between Orton Park Rd at Brimorton Dr and Scarborough Golf Club Rd at Lawrence Ave East due to construction.
 504 King: Detour eastbound via D|||504 King: Detour eastbound via Dufferin St, Queen St W and Shaw St while we deal with an operational problem.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
