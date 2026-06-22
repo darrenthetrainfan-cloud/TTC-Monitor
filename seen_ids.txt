@@ -29,4 +29,5 @@ Eglinton: Elevator 7 out of serv|||Eglinton: Elevator out of service between Lin
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 1 Yonge-University: No serv|||Line 1 Yonge-University: No service between Pioneer Village and Sheppard West stations due to a security incident.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
+67 Pharmacy: Detour northbound v|||67 Pharmacy: Detour northbound via Victoria Park Ave and Donside Dr due to construction.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
