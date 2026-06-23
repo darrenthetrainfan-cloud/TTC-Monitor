@@ -2,10 +2,10 @@ Have proof of payment ready for|||Have proof of payment ready for inspection.
 108A Driftwood: Detour via Arlet|||108A Driftwood: Detour via Arleta Ave, Sheppard Ave W, Sentinel Rd and Grandravine Dr due to construction.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 511 Bathurst: Streetcars are not|||511 Bathurst: Streetcars are not stopping southbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
-Line 6 Finch West: No service be|||Line 6 Finch West: No service between Driftwood and Signet Arrow stations due to a collision blocking the tracks. Shuttle buses are on the way.
 927 Highway 27 Express: Detour s|||927 Highway 27 Express: Detour southbound via Humber College Blvd, Finch Ave W and Highway 27 due to construction.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+Line 6 Finch West: No service be|||Line 6 Finch West: No service between Driftwood and Milvan Rumike stations due to a collision blocking the tracks. Shuttle buses are running.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Please look both ways|||Please look both ways for cyclists before exiting.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -14,6 +14,7 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
 509 Harbourfront: Streetcars are|||509 Harbourfront: Streetcars are not stopping westbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
+105 Dufferin North: Detour north|||105 Dufferin North: Detour northbound via Dolomite Dr, Alness St and Steeles Ave W due to a collision.
 Humber College: Elevator 2 out o|||Humber College: Elevator out of service between Humber College South Entrance and Line 6 Centre Platform while we perform an inspection.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 Wilson: Elevator 8S3L out of ser|||Wilson: Elevator out of service between concourse, lower bus platform and upper bus platform while we perform maintenance.
