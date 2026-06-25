@@ -1,11 +1,12 @@
 Have proof of payment ready for|||Have proof of payment ready for inspection.
+507 Long Branch: Streetcars are|||507 Long Branch: Streetcars are not stopping near Humber Loop at The Queensway due to a collision.
 104 Faywood: Detour northbound v|||104 Faywood: Detour northbound via Kennard Ave, Shaftesbury St and Overbrook Pl due to construction.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 511 Bathurst: Streetcars are not|||511 Bathurst: Streetcars are not stopping southbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
-104 Faywood: Detour southbound v|||104 Faywood: Detour southbound via Kennard Ave, Shaftesbury Ave and Overbrook Pl due to construction.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+104 Faywood: Detour southbound v|||104 Faywood: Detour southbound via Kennard Ave, Shaftesbury St and Overbrook Pl due to construction.
 Please look both ways|||Please look both ways for cyclists before exiting.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -14,7 +15,6 @@ Jane: Elevator 12B3L out of serv|||Jane: Elevator out of service between concour
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
 509 Harbourfront: Streetcars are|||509 Harbourfront: Streetcars are not stopping westbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
-507 Long Branch: No service near|||507 Long Branch: No service near Humber Loop at The Queensway due to a collision.
 Humber College: Elevator 2 out o|||Humber College: Elevator out of service between Humber College South Entrance and Line 6 Centre Platform while we perform an inspection.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 Wilson: Elevator 8S3L out of ser|||Wilson: Elevator out of service between concourse, lower bus platform and upper bus platform while we perform maintenance.
