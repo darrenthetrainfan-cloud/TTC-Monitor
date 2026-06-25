@@ -1,4 +1,5 @@
 104 Faywood: Detour via Wilmingt|||104 Faywood: Detour via Wilmington Ave, Kennard Ave and Wilson Heights Blvd due to construction.
+Line 2 Bloor-Danforth: Delays ea|||Line 2 Bloor-Danforth: Delays eastbound at Bloor-Yonge station while we respond to an emergency alarm.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 Humber College: Elevator A out o|||Humber College: Elevator out of service between Humber College North Entrance and Line 6 Centre Platform while we perform maintenance.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
@@ -11,6 +12,7 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass at Bloor-Yonge station due to a security incident.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
 509 Harbourfront: Streetcars are|||509 Harbourfront: Streetcars are not stopping westbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
 Humber College: Elevator 2 out o|||Humber College: Elevator out of service between Humber College South Entrance and Line 6 Centre Platform while we perform an inspection.
@@ -21,7 +23,6 @@ Cedarvale: Elevator 4S2L out of|||Cedarvale: Elevator out of service between bus
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-Line 5 Eglinton: Delays eastboun|||Line 5 Eglinton: Delays eastbound at Don Valley station due to a medical emergency.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 65 Parliament: Detour southbound|||65 Parliament: Detour southbound via Front St E and Sherbourne St due to construction.
@@ -31,6 +32,7 @@ Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service betwee
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
+Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Don Valley and Pharmacy stations due to a medical emergency.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 1 Yonge-University: No serv|||Line 1 Yonge-University: No service between Pioneer Village and Sheppard West stations due to a security incident.
