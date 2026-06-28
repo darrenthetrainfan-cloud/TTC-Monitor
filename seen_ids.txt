@@ -18,6 +18,7 @@ Queen: Elevator 9Y1L out of serv|||Queen: Elevator out of service between underp
 Humber College: Elevator 2 out o|||Humber College: Elevator out of service between Humber College South Entrance and Line 6 Centre Platform while we perform an inspection.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+60 Steeles West: Detour westboun|||60 Steeles West: Detour westbound via Islington Ave, Finch Ave W and Kipling Ave due to police activity.
 Cedarvale: Elevator 4S2L out of|||Cedarvale: Elevator out of service between bus terminal entrance and Line 1 Finch via southbound platform while we perform maintenance. Elevator is expected to be back in service July 3, 2026.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
