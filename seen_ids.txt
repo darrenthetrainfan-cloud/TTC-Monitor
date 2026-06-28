@@ -10,7 +10,6 @@ Bayview: Elevator 55P1L out of s|||Bayview: Elevator out of service between Bayv
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-505 Dundas: Detour eastbound via|||505 Dundas: Detour eastbound via Bathurst St, College St and Mccaul St due to a blocked track.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
 509 Harbourfront: Streetcars are|||509 Harbourfront: Streetcars are not stopping westbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
 Queen: Elevator 9Y1L out of serv|||Queen: Elevator out of service between underpass, Line 1 northbound platform, Line 1 southbound platform, and south concourse due to a technical problem.
@@ -34,8 +33,8 @@ Eglinton: Elevator 4 out of serv|||Eglinton: Elevator out of service between Egl
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+505 Dundas: Detour eastbound via|||505 Dundas: Detour eastbound via Bathurst St, Queen St W and Mccaul St due to a blocked track.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 1 Yonge-University: No serv|||Line 1 Yonge-University: No service between Pioneer Village and Sheppard West stations due to a security incident.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
-503 Kingston Rd: Detour eastboun|||503 Kingston Rd: Detour eastbound via Adelaide St W and Bay St due to an event.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
