@@ -10,7 +10,6 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-94 Wellesley: Detour via Sherbou|||94 Wellesley: Detour via Sherbourne St and Bloor St W due to a collision.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
 39 Finch East: Delays between Fi|||39 Finch East: Delays between Finch Ave East at Middlefield Rd and Finch Ave East at Milliken Blvd due to construction.
 202 Cherry Beach: Delays near Ne|||202 Cherry Beach: Delays near New Cherry St at Lake Shore Blvd East due to Special Events.
@@ -36,5 +35,4 @@ Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between 
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 1 Yonge-University: No serv|||Line 1 Yonge-University: No service between Pioneer Village and Sheppard West stations due to a security incident.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
-65 Parliament: Detour via Carlto|||65 Parliament: Detour via Carlton St, Sherbourne St and Bloor St E due to a collision.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
