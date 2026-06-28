@@ -32,6 +32,7 @@ Eglinton: Elevator 4 out of serv|||Eglinton: Elevator out of service between Egl
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Cedarvale: Elevator 3 out of ser|||Cedarvale: Elevator out of service between Eglinton Avenue north side west entrance and upper concourse due to a technical problem.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
+505 Dundas: Detour eastbound via|||505 Dundas: Detour eastbound via Bathurst St, Queen St W and Spadina Ave while we respond to a medical emergency.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 1 Yonge-University: No serv|||Line 1 Yonge-University: No service between Pioneer Village and Sheppard West stations due to a security incident.
