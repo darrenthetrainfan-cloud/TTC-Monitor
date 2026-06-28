@@ -10,6 +10,7 @@ Bayview: Elevator 55P1L out of s|||Bayview: Elevator out of service between Bayv
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+505 Dundas: Detour eastbound via|||505 Dundas: Detour eastbound via Bathurst St, College St and Mccaul St due to a blocked track.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
 509 Harbourfront: Streetcars are|||509 Harbourfront: Streetcars are not stopping westbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
 Queen: Elevator 9Y1L out of serv|||Queen: Elevator out of service between underpass, Line 1 northbound platform, Line 1 southbound platform, and south concourse due to a technical problem.
