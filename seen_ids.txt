@@ -4,7 +4,6 @@ Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between pl
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 511 Bathurst: Streetcars are not|||511 Bathurst: Streetcars are not stopping southbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-505 Dundas: Detour westbound via|||505 Dundas: Detour westbound via Broadview Ave, Gerrard St E and Parliament St while we deal with an operational problem.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Broadview: Elevator 6D1L out of|||Broadview: Elevator out of service between Broadview Ave entrance, concourse and Line 2 westbound platform while we perform maintenance.
@@ -24,12 +23,12 @@ Humber College: Elevator 2 out o|||Humber College: Elevator out of service betwe
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-504 King: Detour westbound via G|||504 King: Detour westbound via Gerrard St E and Parliament St while we deal with an operational problem.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Davisville: Elevator 17Y4L out o|||Davisville: Elevator out of service between bus platform and concourse while we perform maintenance.
 Line 6 Finch West: No service be|||Line 6 Finch West: No service between Finch West and Humber College stations while maintainers fix a communication issue. Shuttle buses are running between Finch West and Humber College.
 Oakwood: Elevator 2 out of servi|||Oakwood: Elevator out of service between concourse and Eglinton Avenue north side entrance while we perform maintenance.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Eglinton and Forest Hill stations due to a medical emergency.
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance. Elevator is expected to be back in service July 10, 2026.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
