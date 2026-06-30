@@ -4,6 +4,7 @@ Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between pl
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 511 Bathurst: Streetcars are not|||511 Bathurst: Streetcars are not stopping southbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+505 Dundas: Detour westbound via|||505 Dundas: Detour westbound via Broadview Ave, Gerrard St E and Parliament St while we deal with an operational problem.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Please look both ways|||Please look both ways for cyclists before exiting.
@@ -23,6 +24,7 @@ Cedarvale: Elevator 4S2L out of|||Cedarvale: Elevator out of service between bus
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+504 King: Detour westbound via G|||504 King: Detour westbound via Gerrard St E and Parliament St while we deal with an operational problem.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Davisville: Elevator 17Y4L out o|||Davisville: Elevator out of service between bus platform and concourse while we perform maintenance.
 Line 6 Finch West: No service be|||Line 6 Finch West: No service between Finch West and Humber College stations while maintainers fix a communication issue. Shuttle buses are running between Finch West and Humber College.
