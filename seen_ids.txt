@@ -8,7 +8,6 @@ Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between pl
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Please look both ways|||Please look both ways for cyclists before exiting.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-171 Mount Dennis: Detour northbo|||171 Mount Dennis: Detour northbound via Eglinton Ave W, Black Creek Dr and Todd Baylis Blvd due to a gas leak.
 Bayview: Elevator 55P1L out of s|||Bayview: Elevator out of service between Bayview Ave east side entrance and west concourse due to a technical problem.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -19,14 +18,12 @@ Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between c
 Queen: Elevator 9Y1L out of serv|||Queen: Elevator out of service between underpass, Line 1 northbound platform, Line 1 southbound platform, and south concourse due to a technical problem.
 Humber College: Elevator 2 out o|||Humber College: Elevator out of service between Humber College South Entrance and Line 6 Centre Platform while we perform an inspection.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
-71 Runnymede: Detour northbound|||71 Runnymede: Detour northbound via Eglinton Ave W, Black Creek Dr, Todd Baylis Blvd and Industry St due to a gas leak.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Cedarvale: Elevator 4S2L out of|||Cedarvale: Elevator out of service between bus terminal entrance and Line 1 Finch via southbound platform while we perform maintenance. Elevator is expected to be back in service July 3, 2026.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-89 Weston: Detour via Ray Ave, I|||89 Weston: Detour via Ray Ave, Industry St, Todd Baylis Blvd, Black Creek Blvd and Eglinton Ave W due to a gas leak.
 Davisville: Elevator 17Y4L out o|||Davisville: Elevator out of service between bus platform and concourse while we perform maintenance.
 Line 6 Finch West: No service be|||Line 6 Finch West: No service between Finch West and Humber College stations while maintainers fix a communication issue. Shuttle buses are running between Finch West and Humber College.
 Oakwood: Elevator 2 out of servi|||Oakwood: Elevator out of service between concourse and Eglinton Avenue north side entrance while we perform maintenance.
