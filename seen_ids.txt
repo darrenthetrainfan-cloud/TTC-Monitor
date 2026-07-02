@@ -10,7 +10,6 @@ Bayview: Elevator 55P4L out of s|||Bayview: Elevator out of service between Shep
 509 Harbourfront: Streetcars are|||509 Harbourfront: Streetcars are not stopping westbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
 Queen: Elevator 9Y1L out of serv|||Queen: Elevator out of service between underpass, Line 1 northbound platform, Line 1 southbound platform, and south concourse due to a technical problem.
 Humber College: Elevator 2 out o|||Humber College: Elevator out of service between Humber College South Entrance and Line 6 Centre Platform while we perform an inspection.
-59 Maple Leaf: Buses are not sto|||59 Maple Leaf: Bypass near Lawrence West Station while we respond to a security incident.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -27,8 +26,6 @@ Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between pl
 Downsview Park: Elevator 10S2L o|||Downsview Park: Elevator out of service between Vitti St east side entrance and concourse due to a technical problem.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Woodbine and Kennedy stations due to a Toronto Fire investigation.
-952 Lawrence West Express: Buses|||952 Lawrence West Express: Bypass near Lawrence West Station while we respond to a security incident.
-109 Ranee: Buses are not stoppin|||109 Ranee: Bypass near Lawrence West Station while we respond to a security incident.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 511 Bathurst: Delays between Bat|||511 Bathurst: Delays between Bathurst Station at Bay 6 and Fleet St at Bathurst St West Side due to weather conditions.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -39,8 +36,6 @@ Line 5 Eglinton: Delays between|||Line 5 Eglinton: Delays between Cedarvale and 
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 7 Bathurst: Detour via Wilson Av|||7 Bathurst: Detour via Wilson Ave, Avenue Rd, Lawrence Ave W and Bathurst St due to a blocked road.
 Don Valley: Elevator 2 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road east side entrance and bus terminal while we perform maintenance.
-Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass at Lawrence West station due to a security incident.
-52 Lawrence West: Buses are not|||52 Lawrence West: Bypass near Lawrence West Station while we respond to a security incident.
 79 Scarlett Rd: Delays near Scar|||79 Scarlett Rd: Delays near Scarlett Rd at Lawrence Ave West while we deal with an operational problem.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
