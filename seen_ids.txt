@@ -11,7 +11,6 @@ Bayview: Elevator 55P4L out of s|||Bayview: Elevator out of service between Shep
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
 509 Harbourfront: Streetcars are|||509 Harbourfront: Streetcars are not stopping westbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
-Line 2 Bloor-Danforth: Delays ea|||Line 2 Bloor-Danforth: Delays eastbound at Victoria Park station due to a security incident.
 Queen: Elevator 9Y1L out of serv|||Queen: Elevator out of service between underpass, Line 1 northbound platform, Line 1 southbound platform, and south concourse due to a technical problem.
 Humber College: Elevator 2 out o|||Humber College: Elevator out of service between Humber College South Entrance and Line 6 Centre Platform while we perform an inspection.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
@@ -22,6 +21,7 @@ Queen's Quay: Elevator 2HF1L out|||Queen's Quay: Elevator out of service between
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance. Elevator is expected to be back in service July 10, 2026.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+Cedarvale: Elevator 4 out of ser|||Cedarvale: Elevator out of service between Eglinton Avenue north side east entrance and upper concourse due to a technical problem.
 Line 5 Eglinton: Delays between|||Line 5 Eglinton: Delays between Sloane and Kennedy stations while the maintainer fixes a switch problem. Shuttle buses are running between Sloane and Kennedy.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
