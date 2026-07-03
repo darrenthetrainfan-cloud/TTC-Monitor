@@ -15,6 +15,7 @@ Scarborough Centre: Elevator 6RT|||Scarborough Centre: Elevator out of service b
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+504B King: No service between Ki|||504B King: No service between King St West at Dufferin St and King St West at Spadina Ave East Side due to traffic congestion.
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance. Elevator is expected to be back in service July 10, 2026.
 Don Mills: Elevator 61P6L out of|||Don Mills: Elevator out of service between Fairview Mall entrance and bus platform while we perform maintenance.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -32,7 +33,6 @@ Downsview Park: Elevator 10S2L o|||Downsview Park: Elevator out of service betwe
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 Line 5 Eglinton: Delays between|||Line 5 Eglinton: Delays between Mount Dennis and Kennedy stations while the maintainer fixes a signal problem.
-504 King: No service between Kin|||504 King: No service between King St West at Dufferin St and King St West at Spadina Ave East Side due to traffic congestion.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Don Valley: Elevator 2 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road east side entrance and bus terminal while we perform maintenance.
 79 Scarlett Rd: Delays near Scar|||79 Scarlett Rd: Delays near Scarlett Rd at Lawrence Ave West while we deal with an operational problem.
