@@ -3,6 +3,7 @@ Have proof of payment ready for|||Have proof of payment ready for inspection.
 17 Birchmount: Detour northbound|||17 Birchmount: Detour northbound via Riseborough Ave and Masseyfield Gt due to construction.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 511 Bathurst: Streetcars are not|||511 Bathurst: Streetcars are not stopping southbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
+512 St Clair: No service between|||512 St Clair: No service between St Clair West Station at Bay 3 and St Clair Station at Bay 2 due to a collision. Shuttle buses are on the way.
 Downsview Park: Elevator 10S2L o|||Downsview Park: Elevator out of service between Vitti St east side entrance and concourse due to a technical problem.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance. Elevator is expected to be back in service July 6, 2026.
@@ -18,7 +19,6 @@ Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between c
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
 509 Harbourfront: Streetcars are|||509 Harbourfront: Streetcars are not stopping westbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
 86 Scarborough: Detour via Danfo|||86 Scarborough: Detour via Danforth Rd, Trudelle St and Mccowan Rd due to a collision.
-512 St Clair: No service between|||512 St Clair: No service between St Clair West Station at Bay 3 and St Clair Station at Bay 2 due to a collision.
 116 Morningside: Detour eastboun|||116 Morningside: Detour eastbound via Danforth Ave, Trudelle St and Mccowan Rd due to a collision.
 Humber College: Elevator 2 out o|||Humber College: Elevator out of service between Humber College South Entrance and Line 6 Centre Platform while we perform an inspection.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
@@ -37,4 +37,5 @@ Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between 
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
+97 Yonge: Detour via Pleasant Bl|||97 Yonge: Detour via Pleasant Blvd, Avoca Ave, St Clair Ave E, Mount Pleasant Rd and Davisville Ave due to a collision.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
