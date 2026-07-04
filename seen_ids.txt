@@ -1,12 +1,13 @@
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 511 Bathurst: Streetcars are not|||511 Bathurst: Streetcars are not stopping southbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
+395 York Mills: Detour via Lawre|||395 York Mills: Detour via Lawrence Ave E, East Ave and Island Rd due to a collision.
 Downsview Park: Elevator 10S2L o|||Downsview Park: Elevator out of service between Vitti St east side entrance and concourse due to a technical problem.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+34 Eglinton: Detour via Danforth|||34 Eglinton: Detour via Danforth Rd, Trudelle St and Mccowan Rd due to a blocked road.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance. Elevator is expected to be back in service July 6, 2026.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-86 Scarborough: Detour eastbound|||86 Scarborough: Detour eastbound via Danforth Rd, Trudelle St and Mccowan Rd due to a blocked road.
 Please look both ways|||Please look both ways for cyclists before exiting.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -16,7 +17,6 @@ Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between c
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
 509 Harbourfront: Streetcars are|||509 Harbourfront: Streetcars are not stopping westbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
 506 Carlton: No service between|||506 Carlton: No service between College St at McCaul St and College St at Bay St due to a collision.
-395 York Mills: Detour via Lawre|||395 York Mills: Detour via Lawrence Ave E and Island Rd due to a collision.
 Humber College: Elevator 2 out o|||Humber College: Elevator out of service between Humber College South Entrance and Line 6 Centre Platform while we perform an inspection.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -26,7 +26,6 @@ Humber College: Elevator 2 out o|||Humber College: Elevator out of service betwe
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Sheppard West: Elevator 9S2L out|||Sheppard West: Elevator out of service between bus platform, concourse and Line 1 platform due to a technical problem.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-334 Eglinton: Detour via Danfort|||334 Eglinton: Detour via Danforth Rd, Trudelle St and Mccowan Rd due to a blocked road.
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance. Elevator is expected to be back in service July 10, 2026.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Caledonia: Elevator 2 out of ser|||Caledonia: Elevator out of service between Eglinton Avenue north side entrance and concourse due to a technical problem.
@@ -34,5 +33,6 @@ Caledonia: Elevator 2 out of ser|||Caledonia: Elevator out of service between Eg
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+386 Scarborough: Detour via Danf|||386 Scarborough: Detour via Danforth Rd, Trudelle St and Mccowan Rd due to a blocked road.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
