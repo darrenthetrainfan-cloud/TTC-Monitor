@@ -1,7 +1,8 @@
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 511 Bathurst: Streetcars are not|||511 Bathurst: Streetcars are not stopping southbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
-395 York Mills: Detour via Lawre|||395 York Mills: Detour via Lawrence Ave E, East Ave and Island Rd due to a collision.
+95 York Mills: Detour via Lawren|||95 York Mills: Detour via Lawrence Ave E, East Ave and Island Rd due to a collision.
+86 Scarborough: Detour via Danfo|||86 Scarborough: Detour via Danforth Rd, Trudelle St and Mccowan Rd due to a blocked road.
 Downsview Park: Elevator 10S2L o|||Downsview Park: Elevator out of service between Vitti St east side entrance and concourse due to a technical problem.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 34 Eglinton: Detour via Danforth|||34 Eglinton: Detour via Danforth Rd, Trudelle St and Mccowan Rd due to a blocked road.
@@ -33,6 +34,5 @@ Caledonia: Elevator 2 out of ser|||Caledonia: Elevator out of service between Eg
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-386 Scarborough: Detour via Danf|||386 Scarborough: Detour via Danforth Rd, Trudelle St and Mccowan Rd due to a blocked road.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
