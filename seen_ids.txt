@@ -21,6 +21,7 @@ Kipling: Elevator 16B2L out of s|||Kipling: Elevator out of service between bus 
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+Line 1 Yonge-University: Delays|||Line 1 Yonge-University: Delays northbound at Finch West station while we fix a mechanical problem.
 927 Highway 27 Express: Detour n|||927 Highway 27 Express: Detour northbound via Highway 27, Belfield Rd, Attwell Dr and Farnboro Rd due to a collision.
 Eglinton: Elevator 3 out of serv|||Eglinton: Elevator out of service between Line 1 centre platform and Line 5 centre platform while we perform maintenance.
 35 Jane: Detour southbound via G|||35 Jane: Detour southbound via Gosford Blvd, Milo Park Gt and Jane St due to construction.
