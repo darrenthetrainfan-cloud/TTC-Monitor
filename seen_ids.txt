@@ -17,7 +17,6 @@ Kipling: Elevator 16B1L out of s|||Kipling: Elevator out of service between Aukl
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-501 Queen: Detour westbound via|||501 Queen: Detour westbound via Church St, Adelaide St E and York St while we respond to a medical emergency.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Cedarvale: Elevator 06-ELV-A out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
