@@ -22,6 +22,7 @@ Cedarvale: Elevator 06-ELV-A out|||Cedarvale: Elevator out of service between pl
 Eglinton: Elevator 3 out of serv|||Eglinton: Elevator out of service between Line 1 centre platform and Line 5 centre platform while we perform maintenance.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance. Elevator is expected to be back in service July 10, 2026.
+19 Bay: Detour via Yorkville Ave|||19 Bay: Detour via Yorkville Ave, Avenue Rd and Bloor St W due to police activity.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Cedarvale: Elevator 5 out of ser|||Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 southbound, and Line 5 centre platform while we perform maintenance.
 102 Markham Rd: Detour southboun|||102 Markham Rd: Detour southbound via Greenholm Crct and Lawrence Ave E due to a collision.
@@ -29,7 +30,6 @@ Cedarvale: Elevator 5 out of ser|||Cedarvale: Elevator out of service between up
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E north side entrance and north concourse due to a technical problem.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Humber College: Elevator 2 out o|||Humber College: Elevator out of service between Humber College South Entrance and Line 6 Centre Platform while we perform maintenance.
-19 Bay: No service between Bay S|||19 Bay: No service between Bay St at Charles St West and Bay St at Cumberland St - Bay Station due to a blocked road.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
 68 Warden: Delays between Warden|||68 Warden: Delays between Warden Ave at Ellesmere Rd and Warden Ave at Eglinton Ave East due to an event.
