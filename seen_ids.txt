@@ -2,9 +2,11 @@ Have proof of payment ready for|||Have proof of payment ready for inspection.
 68 Warden: Delays between Warden|||68 Warden: Delays between Warden Station and Warden Ave at Eglinton Ave East due to construction.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 511 Bathurst: Streetcars are not|||511 Bathurst: Streetcars are not stopping northbound near Fleet St at Strachan Ave due to FIFA World Cup route adjustments.
+166 Toryork: Detour eastbound vi|||166 Toryork: Detour eastbound via Peter Kaiser Gt, Hullmar Dr, Shoreham Dr and Ian Macdonald Blvd due to a collision.
 108 Driftwood: Detour westbound|||108 Driftwood: Detour westbound via Ian Macdonald Blvd and Shoreham Dr due to a collision.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
+960 Steeles West Express: Detour|||960 Steeles West Express: Detour eastbound via Peter Kaiser Gt, Hullmar Dr, Shoreham Dr and Ian Macdonald Blvd due to a collision.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Please look both ways|||Please look both ways for cyclists before exiting.
@@ -19,7 +21,6 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 18B Caledonia: Detour via Playfa|||18B Caledonia: Detour via Playfair Ave, Marianfeld Ave, Dufflaw Rd and Orfus Rd due to a Toronto Fire Investigation.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-166 Toryork: Detour eastbound vi|||166 Toryork: Detour eastbound via Peter Kaiser Gt, Hullmar Dr, Shoreham Dr and Ian Macdonald Blvd due to a collision.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 25 Don Mills: Delays between Ove|||25 Don Mills: Delays between Overlea Blvd at Millwood Rd East Side and Overlea Blvd at Thorncliffe Park Dr (West) due to construction.
 18A Caledonia: Detour via Duffer|||18A Caledonia: Detour via Dufferin St, Orfus Rd, Paul David St and Bentworth Ave due to a Toronto Fire investigation.
