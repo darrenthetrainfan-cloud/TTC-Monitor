@@ -1,12 +1,9 @@
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 511 Bathurst: Streetcars are not|||511 Bathurst: Streetcars are not stopping northbound near Fleet St at Strachan Ave due to FIFA World Cup route adjustments.
-45 Kipling: Detour southbound vi|||45 Kipling: Detour southbound via Kipling Ave, Steeles Ave W and Markbrook Lane due to a collision.
-85 Sheppard East: Detour westbou|||85 Sheppard East: Detour westbound via Malvern St, Mclevin Ave, Shorting Rd and Sheppard Ave E due to a collision.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-59 Maple Leaf: Detour westbound|||59 Maple Leaf: Detour westbound via Caledonia Rd, Castlefield Ave and Kincort St due to a collision.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Please look both ways|||Please look both ways for cyclists before exiting.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -25,7 +22,6 @@ Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Kee
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Laird and Don Valley stations while the maintainer fixes a mechanical problem. Shuttle buses are on the way.
-52 Lawrence West: Detour westbou|||52 Lawrence West: Detour westbound via Caledonia Rd, Castlefield Ave and Keele St due to a collision.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance. Elevator is expected to be back in service July 10, 2026.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
