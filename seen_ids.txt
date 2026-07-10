@@ -1,6 +1,7 @@
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 511 Bathurst: Streetcars are not|||511 Bathurst: Streetcars are not stopping northbound near Fleet St at Strachan Ave due to FIFA World Cup route adjustments.
+43 Kennedy: Delays near Kennedy|||43 Kennedy: Delays near Kennedy Rd at Lawrence Ave East due to a collision.
 17 Birchmount: Detour via Eglint|||17 Birchmount: Detour via Eglinton Ave E, Kennedy Rd and Ellesmere Rd due to a collision.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
@@ -27,6 +28,7 @@ Dundas West: Elevator 8B1L out o|||Dundas West: Elevator out of service between 
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 TMU: Elevator out of service bet|||TMU: Elevator out of service between 10 Dundas St E entrance and Line 1 Finch platform while we perform maintenance.
+Line 6 Finch West: No service be|||Line 6 Finch West: No service between Humber College and Mount Olive stations while the maintainer fixes a mechanical problem. Shuttle buses are on the way.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Humber College: Elevator 2 out o|||Humber College: Elevator out of service between Humber College South Entrance and Line 6 Centre Platform while we perform maintenance.
