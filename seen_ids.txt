@@ -40,3 +40,4 @@ Royal York: Elevator 14B3L out o|||Royal York: Elevator out of service between w
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+202 Cherry Beach: Detour via Yon|||202 Cherry Beach: Detour via Yonge St and Queens Quay W due to an event.
