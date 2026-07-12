@@ -6,6 +6,7 @@ Broadview: Elevator 6D1L out of|||Broadview: Elevator out of service between Bro
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+312 St Clair: Detour via Bathurs|||312 St Clair: Detour via Bathurst St, Davenport Rd and Oakwood Ave due to a Toronto Police Investigation.
 Please look both ways|||Please look both ways for cyclists before exiting.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -13,7 +14,6 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance. Elevator is expected to be back in service July 24, 2026.
 St Clair: Elevator 16Y2L out of|||St Clair: Elevator out of service between concourse and Line 1 northbound platform while we perform maintenance.
-71 Runnymede: Detour northbound|||71 Runnymede: Detour northbound via Lambton Ave, Guestville Ave, Dennis Ave and Weston Rd due to construction.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
 St Andrew: Elevator out of servi|||St Andrew: Elevator out of service between 145 King St W entrance and concourse while we perform maintenance.
 509 Harbourfront: Streetcars are|||509 Harbourfront: Streetcars are not stopping westbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
@@ -23,8 +23,6 @@ St Andrew: Elevator out of servi|||St Andrew: Elevator out of service between 14
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-71 Runnymede: Detour southbound|||71 Runnymede: Detour southbound via Weston Rd, York Ave, Guestville Ave and Lambton Ave due to construction.
-512 St Clair: Detour via Bathurs|||512 St Clair: Detour via Bathurst St, Davenport Rd and Oakwood Ave due to a Toronto Police Investigation.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
