@@ -1,7 +1,6 @@
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 511 Bathurst: Streetcars are not|||511 Bathurst: Streetcars are not stopping northbound near Fleet St at Strachan Ave due to FIFA World Cup route adjustments.
-Line 1 Yonge-University: Delays|||Line 1 Yonge-University: Delays southbound at Sheppard-Yonge station while we respond to an emergency alarm.
 50 Burnhamthorpe: Buses are not|||50 Burnhamthorpe: Bypass near Bloor St West at Aberfoyle Cres due to construction.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
@@ -9,6 +8,7 @@ Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between pl
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Please look both ways|||Please look both ways for cyclists before exiting.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+Line 1 Yonge-University: No serv|||Line 1 Yonge-University: No service between Finch and Sheppard-Yonge stations while we respond to a medical emergency. Shuttle buses are on the way.
 110 Islington South: Buses are n|||110 Islington South: Bypass near Bloor St West at Aberfoyle Cres due to construction.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -34,6 +34,7 @@ Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between c
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 TMU: Elevator out of service bet|||TMU: Elevator out of service between 10 Dundas St E entrance and Line 1 Finch platform while we perform maintenance.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+Coxwell: Elevator 11D1L out of s|||Coxwell: Elevator out of service between Strathmore Blvd entrance, concourse and Line 2 eastbound platform while we perform maintenance.
 Runnymede: Elevator 11B2L out of|||Runnymede: Elevator out of service between concourse and Line 2 westbound platform due to a technical problem.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Humber College: Elevator 2 out o|||Humber College: Elevator out of service between Humber College South Entrance and Line 6 Centre Platform while we perform maintenance.
