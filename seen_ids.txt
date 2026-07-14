@@ -1,7 +1,6 @@
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 511 Bathurst: Streetcars are not|||511 Bathurst: Streetcars are not stopping northbound near Fleet St at Strachan Ave due to FIFA World Cup route adjustments.
-Warden: Elevator 15D2L out of se|||Warden: Elevator out of service between concourse and Warden Avenue entrance while we perform maintenance.
 50 Burnhamthorpe: Buses are not|||50 Burnhamthorpe: Bypass near Bloor St West at Aberfoyle Cres due to construction.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
@@ -18,7 +17,6 @@ Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between St 
 937 Islington Express: Buses are|||937 Islington Express: Bypass southbound near Bloor St West at Aberfoyle Cres due to construction.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
 509 Harbourfront: Streetcars are|||509 Harbourfront: Streetcars are not stopping westbound near Manitoba Dr at Strachan Ave West Side due to FIFA World Cup route adjustments.
-41 Keele: Delays near Keele St a|||41 Keele: Delays near Keele St at Sheppard Ave West North Side due to construction.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 37 Islington: Buses are not stop|||37 Islington: Bypass southbound near Bloor St West at Aberfoyle Cres due to construction.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -27,6 +25,7 @@ Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between St 
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 14 Glencairn: Detour eastbound v|||14 Glencairn: Detour eastbound via Glenmount Ave and Viewmount Ave due to construction.
+41 Keele: Delays near Keele St a|||41 Keele: Delays near Keele St at Sheppard Ave West North Side due to construction.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 76 Royal York South: Detour via|||76 Royal York South: Detour via Struthers St, Dwight Ave and Lake Shore Blvd W due to a blocked road.
 149 Etobicoke-Bloor: Buses are n|||149 Etobicoke-Bloor: Bypass near Bloor St West at Aberfoyle Cres due to construction.
