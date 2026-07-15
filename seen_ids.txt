@@ -19,7 +19,6 @@ Dundas West: Elevator 8B2L out o|||Dundas West: Elevator out of service between 
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-Finch: Elevator 22Y2L out of ser|||Finch: Elevator out of service between bus concourse and fares concourse while we perform maintenance.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Main Street: Elevator 13D1L out|||Main Street: Elevator out of service between Main St east side entrance, concourse and Line 2 eastbound platform due to a technical problem.
