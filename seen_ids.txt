@@ -28,6 +28,8 @@ TMU: Elevator out of service bet|||TMU: Elevator out of service between 10 Dunda
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Humber College: Elevator 2 out o|||Humber College: Elevator out of service between Humber College South Entrance and Line 6 Centre Platform while we perform maintenance.
+Scarborough Centre: Elevator 6RT|||Scarborough Centre: Elevator out of service between concourse and Scarborough Town Centre entrance and bus platform while we perform maintenance.
+110 Islington South: Buses are n|||110 Islington South: Bypass near Bloor St West at Islington Ave due to construction.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
