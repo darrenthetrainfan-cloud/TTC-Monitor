@@ -1,6 +1,7 @@
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 511 Bathurst: Streetcars are not|||511 Bathurst: Streetcars are not stopping northbound near Fleet St at Strachan Ave due to FIFA World Cup route adjustments.
+29 Dufferin: Delays between Duff|||29 Dufferin: Delays between Dufferin Gate Loop and Wilson Station at Bus Bay 1A due to a collision.
 Downsview Park: Elevator 10S2L o|||Downsview Park: Elevator out of service between Vitti St east side entrance and concourse while we perform maintenance.
 76B Royal York South: Detour via|||76B Royal York South: Detour via Buckingham St and Newcastle St due to a Toronto fire investigation.
 Broadview: Elevator 6D1L out of|||Broadview: Elevator out of service between Broadview Ave entrance, concourse and Line 2 westbound platform due to a technical problem.
@@ -9,8 +10,8 @@ Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between pl
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Please look both ways|||Please look both ways for cyclists before exiting.
+Victoria Park: Elevator 14D2L ou|||Victoria Park: Elevator out of service between concourse and Line 2 westbound platform due to a technical problem.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-29 Dufferin: Delays between Duff|||29 Dufferin: Delays between Dufferin St at Bloor St West - Dufferin Station and Wilson Station at Bus Bay 1A due to a blocked road.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -27,7 +28,7 @@ Finch: Elevator 22Y4L out of ser|||Finch: Elevator out of service between Passen
 17 Birchmount: Detour southbound|||17 Birchmount: Detour southbound via Finch Ave E, Warden Ave, Huntingwood Dr and Birchmount Rd due to a collision.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 17 Birchmount: Detour northbound|||17 Birchmount: Detour northbound via Finch Ave E, Kennedy Ave and Mcnicoll Ave due to a collision.
-929 Dufferin Express: Delays bet|||929 Dufferin Express: Delays between Dufferin St at Bloor St West - Dufferin Station and Wilson Station at Bus Bay 1A due to a blocked road.
+929 Dufferin Express: Delays bet|||929 Dufferin Express: Delays between Dufferin Gate Loop and Wilson Station at Bus Bay 1A due to a collision.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
