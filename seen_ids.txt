@@ -20,6 +20,7 @@ York Mills: Elevator 20Y1L out o|||York Mills: Elevator out of service between c
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+Dufferin: Elevator 6B1L out of s|||Dufferin: Elevator out of service between Dufferin St west side entrance and concourse while we perform maintenance.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
