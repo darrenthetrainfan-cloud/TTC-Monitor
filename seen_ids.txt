@@ -1,4 +1,3 @@
-Christie: Elevator 4B2L out of s|||Christie: Elevator out of service between concourse and Line 2 Kennedy (eastbound) platform while we perform maintenance.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 511 Bathurst: Streetcars are not|||511 Bathurst: Streetcars are not stopping northbound near Fleet St at Strachan Ave due to FIFA World Cup route adjustments.
@@ -9,7 +8,6 @@ Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between pl
 Please look both ways|||Please look both ways for cyclists before exiting.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 165 Weston Rd North: Detour west|||165 Weston Rd North: Detour westbound via Finch Ave W, Signet Dr and Fenmar Dr due to a Toronto fire investigation.
-509 Harbourfront: Delays near Fl|||509 Harbourfront: Delays near Fleet St at Bathurst St West Side due to traffic congestion.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
