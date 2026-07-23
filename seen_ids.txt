@@ -7,7 +7,6 @@ Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between pl
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Please look both ways|||Please look both ways for cyclists before exiting.
-71 Runnymede: Detour southbound|||71 Runnymede: Detour southbound via St Clair Ave W, Jane St, Dundas St W and Runnymede Rd due to a blocked road.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 59 Maple Leaf: Detour via Church|||59 Maple Leaf: Detour via Church Ave, Pine Ave, Dalbeattie Ave and Gary Dr due to construction.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -17,7 +16,6 @@ Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service betwee
 165 Weston Rd North: Detour east|||165 Weston Rd North: Detour eastbound via Jane St, Giltspur Dr and Magellan Dr due to a collision.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
 509 Harbourfront: Streetcars are|||509 Harbourfront: Streetcars are not stopping eastbound near Fleet St at Strachan Ave due to FIFA World Cup route adjustments.
-79 Scarlett Rd: Detour southboun|||79 Scarlett Rd: Detour southbound via St Clair Ave W, Jane St, Dundas St W and Runnymede Rd due to a blocked road.
 69 Warden South: Detour southbou|||69 Warden South: Detour southbound via Gradwell Dr and Kingston Rd due to a collision.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
