@@ -10,7 +10,6 @@ Cedarvale: Elevator ELV04-D out|||Cedarvale: Elevator out of service between upp
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Please look both ways|||Please look both ways for cyclists before exiting.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-984 Sheppard West Express: Detou|||984 Sheppard West Express: Detour via Laura Rd, Clair Rd, Spenvalley Dr and Yatescastle Dr due to a collision.
 59 Maple Leaf: Detour via Church|||59 Maple Leaf: Detour via Church Ave, Pine Ave, Dalbeattie Ave and Gary Dr due to construction.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -33,5 +32,4 @@ Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between c
 Humber College: Elevator 2 out o|||Humber College: Elevator out of service between Humber College South Entrance and Line 6 Centre Platform while we perform maintenance.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
-504A King: Detour eastbound via|||504A King: Detour eastbound via Parliament St, Dundas St E and Broadview Ave while we deal with a disruptive customer.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
