@@ -2,6 +2,7 @@ Have proof of payment ready for|||Have proof of payment ready for inspection.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 511 Bathurst: Streetcars are not|||511 Bathurst: Streetcars are not stopping northbound near Fleet St at Strachan Ave due to FIFA World Cup route adjustments.
 North York Centre: Elevator out|||North York Centre: Elevator out of service between Empress Walk entrance and concourse while we perform maintenance.
+35 Jane: Detour northbound via G|||35 Jane: Detour northbound via Giltspur Dr, Magellan Dr, Sheppard Ave W, Yatescastle Dr, Spenvalley Dr and Jane St due to a collision.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -23,15 +24,14 @@ Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service betwee
 Cedarvale: Elevator 4S2L out of|||Cedarvale: Elevator out of service between bus terminal entrance and Line 1 Finch via southbound platform while we perform maintenance.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-Line 6 Finch West: No service be|||Line 6 Finch West: No service between Finch West and Tobermory stations while the maintainer fixes a switch problem. Shuttle buses are running between Finch West and Tobermory.
 120 Calvington: Detour via Gilts|||120 Calvington: Detour via Giltspur Dr and Magellan Dr due to a collision.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+Line 6 Finch West: Delays betwee|||Line 6 Finch West: Delays between Finch West and Tobermory stations while the maintainer fixes a switch problem. Shuttle buses are running between Finch West and Driftwood.
 201 Bluffer's Park: Detour via K|||201 Bluffer's Park: Detour via Kingston Rd, Gradwell Dr and Barkdene Hills due to a collision.
 84 Sheppard West: Detour eastbou|||84 Sheppard West: Detour eastbound via Jane St, Giltspur Dr and Magellan Dr due to a collision.
 984 Sheppard West Express: Detou|||984 Sheppard West Express: Detour eastbound via Jane St, Giltspur Dr and Magellan Dr due to a collision.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
-35 Jane: Detour northbound via J|||35 Jane: Detour northbound via Jane St, Giltspur Dr and Magellan Dr due to a collision.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
