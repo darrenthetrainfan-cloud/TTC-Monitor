@@ -29,4 +29,5 @@ Bayview: Elevator 55P4L out of s|||Bayview: Elevator out of service between Shep
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
+Bloor-Yonge: Elevator 13Y1L out|||Bloor-Yonge: Elevator out of service between north concourse and Line 1 southbound platform due to a technical problem.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
