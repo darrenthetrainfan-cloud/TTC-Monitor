@@ -7,7 +7,6 @@ Cedarvale: Elevator ELV02-B out|||Cedarvale: Elevator out of service between pla
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-505 Dundas: No service between B|||505 Dundas: No service between Broadview Ave at Gerrard St East and Dundas St East at Parliament St while we deal with an operational problem.
 Please look both ways|||Please look both ways for cyclists before exiting.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 935 Jane Express: Detour southbo|||935 Jane Express: Detour southbound via Trethewey Dr, Black Creek Dr and Eglinton Ave W due to a blocked road.
@@ -21,7 +20,6 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance. Elevator is expected to be back in service August 7, 2026.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-504 King: No service westbound f|||504 King: No service westbound from Broadview Ave at Gerrard St East to King St East at Parliament St due panto graph.
 89 Weston: Detour southbound via|||89 Weston: Detour southbound via Denison Ave, Black Creek Blvd and Eglinton Ave W due to a blocked road.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 89 Weston: Detour northbound via|||89 Weston: Detour northbound via Eglinton Ave W, Black Creek Dr, Trethewey Dr and Denison Ave due to a blocked road.
