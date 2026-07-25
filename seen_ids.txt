@@ -8,6 +8,7 @@ Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between pl
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Please look both ways|||Please look both ways for cyclists before exiting.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+Line 5 Eglinton: Delays eastboun|||Line 5 Eglinton: Delays eastbound at Eglinton station due to a track intrusion alarm.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -15,7 +16,6 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 Davisville: Elevator 17Y1L out o|||Davisville: Elevator out of service between Davisville Ave south side entrance and concourse while we perform maintenance.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-335 Jane: Detour via Trethewey D|||335 Jane: Detour via Trethewey Dr, Black Creek Blvd and Eglinton Ave W due to downed hydro wires.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance. Elevator is expected to be back in service August 7, 2026.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
