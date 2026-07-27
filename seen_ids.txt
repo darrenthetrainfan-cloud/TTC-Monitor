@@ -12,7 +12,6 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 305 Dundas: Detour via Parliamen|||305 Dundas: Detour via Parliament St, Gerrard St W and Broadview Ave due to police activity.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-Line 5 Eglinton: Delays eastboun|||Line 5 Eglinton: Delays eastbound at Chaplin station due to a disruptive customer.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 67 Pharmacy: Detour via Ellesmer|||67 Pharmacy: Detour via Ellesmere Rd, Victoria Park Ave, Lawrence Ave E, Pharmacy Ave and Donside Dr due to a collision.
@@ -36,4 +35,5 @@ Cedarvale: Elevator 4S1L out of|||Cedarvale: Elevator out of service between Bus
 Bloor-Yonge: Elevator 13Y1L out|||Bloor-Yonge: Elevator out of service between north concourse and Line 1 southbound platform while we perform maintenance.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
+Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Avenue and Laird stations while the maintainer fixes a track problem. Shuttle buses are on the way to operate between Avenue and Laird.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
