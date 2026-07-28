@@ -2,6 +2,7 @@ Have proof of payment ready for|||Have proof of payment ready for inspection.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 North York Centre: Elevator out|||North York Centre: Elevator out of service between Empress Walk entrance and concourse while we perform maintenance.
 82 Rosedale: Detour via South Dr|||82 Rosedale: Detour via South Dr, Sherbourne St, Bloor St E, Church St, Yonge St and Crescent Rd due to construction.
+88 South Leaside: Detour westbou|||88 South Leaside: Detour westbound via Vanderhoof Ave and Brentcliffe Rd due to construction.
 Rosedale: Elevator 14Y2L out of|||Rosedale: Elevator out of service between Cresent Road and Line 1 northbound platform while we perform maintenance.
 Cedarvale: Elevator ELV02-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -14,7 +15,6 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-156 Millwood: Detour southbound|||156 Millwood: Detour southbound via Vanderhoof Ave and Brentcliffe Rd due to a blocked road.
 67 Pharmacy: Detour via Ellesmer|||67 Pharmacy: Detour via Ellesmere Rd, Victoria Park Ave, Lawrence Ave E, Pharmacy Ave and Donside Dr due to a collision.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
@@ -25,7 +25,6 @@ Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service betwee
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 5 Eglinton: Delays eastboun|||Line 5 Eglinton: Delays eastbound at Pharmacy station due to communication issues.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-88 South Leaside: Detour westbou|||88 South Leaside: Detour westbound via Vanderhoof Ave and Brentcliffe Rd due to construction.
 Chaplin: Elevator ELV01-A out of|||Chaplin: Elevator out of service between concourse and Line 5 centre platform due to a technical problem.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
