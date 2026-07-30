@@ -3,7 +3,6 @@ Victoria Park: Elevator 14D2L ou|||Victoria Park: Elevator out of service betwee
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 North York Centre: Elevator out|||North York Centre: Elevator out of service between Empress Walk entrance and concourse while we perform maintenance.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-77 Swansea: Detour southbound vi|||77 Swansea: Detour southbound via Morningside Ave, South Kingsway, Ormskirk Ave, Southport St and The Queensway due to construction.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -25,7 +24,6 @@ Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service betwee
 Wellesley: Elevator 12Y1L out of|||Wellesley: Elevator out of service between Wellesley St entrance to Line 1 southbound platform while we perform maintenance.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
-77 Swansea: Detour northbound vi|||77 Swansea: Detour northbound via South Kingsway, Morningside Ave and Windermere Ave due to construction.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
