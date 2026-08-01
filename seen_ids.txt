@@ -21,7 +21,6 @@ Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service betwee
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-504 King: Detour via Parliament|||504 King: Detour via Parliament St, Queen St E and Broadview Ave due to a collision.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 4 Sheppard: There is no sub|||There is no subway service on Line 4 Sheppard between Sheppard-Yonge and Don Mills stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume August 1.
 84 Sheppard West: Delays between|||84 Sheppard West: Delays between Sheppard Ave West at Downsview Dells Park and Sheppard Ave West at Vitti St - Downsview Park Station due to VELD event.
@@ -31,6 +30,5 @@ Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between c
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Leaside and Avenue stations due to a disruptive customer. Shuttle buses are on the way.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-503 Kingston Rd: Detour via Parl|||503 Kingston Rd: Detour via Parliament St and Queen St E due to a collision.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
