@@ -6,6 +6,7 @@ Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between pl
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Please look both ways|||Please look both ways for cyclists before exiting.
+131 Nugget: Detour westbound via|||131 Nugget: Detour westbound via Midland Ave, Lawrence Ave E and Kennedy Rd due to police activity.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 305 Dundas: Detour via Parliamen|||305 Dundas: Detour via Parliament St, Gerrard St W and Broadview Ave due to police activity.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -25,6 +26,7 @@ Don Mills: Elevator 61P3L out of|||Don Mills: Elevator out of service between co
 Finch: Elevator out of service b|||Finch: Elevator out of service between GO and YRT bus platform and fares concourse due to a technical problem.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 Line 6 Finch West: There is no L|||There is no LRT service on Line 6 Finch West between Finch West and Humber College stations due to planned work by Metrolinx. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume at 4 p.m.
+38 Highland Creek: Detour westbo|||38 Highland Creek: Detour westbound via Midland Ave, Lawrence Ave E and Kennedy Rd due to police activity.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
