@@ -14,13 +14,13 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 25 Don Mills: Detour southbound|||25 Don Mills: Detour southbound via Donlands Ave and Oconnor Dr due to a blocked road.
 67 Pharmacy: Detour via Ellesmer|||67 Pharmacy: Detour via Ellesmere Rd, Victoria Park Ave, Lawrence Ave E, Pharmacy Ave and Donside Dr due to a collision.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
+202 Cherry Beach: No service bet|||202 Cherry Beach: No service between Front St East at Cherry St and Cherry St at Commissioners St due to traffic congestion.
 19 Bay: Detour northbound via Ki|||19 Bay: Detour northbound via King St, Yonge St and Queen St W due to a blocked road.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance. Elevator is expected to be back in service August 7, 2026.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-202 Cherry Beach: No service bet|||202 Cherry Beach: No service between Front St East at Cherry St and Cherry St at Commissioners St due to traffic congestion.
 Don Mills: Elevator 61P3L out of|||Don Mills: Elevator out of service between concourse and Line 4 platform while we perform maintenance.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -33,6 +33,7 @@ Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between c
 114 Queens Quay East: Detour eas|||114 Queens Quay East: Detour eastbound via Lakeshore Blvd E, Saulter St and Commissioners St due to an event.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+102 Markham Rd: Detour southboun|||102 Markham Rd: Detour southbound via Greenholm Circt and Lawrence Ave E due to a collision.
 Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Leaside and Avenue stations due to a disruptive customer. Shuttle buses are on the way.
 72 Pape: Detour southbound via D|||72 Pape: Detour southbound via Donlands Ave and Oconnor Dr due to a blocked road.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
