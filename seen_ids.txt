@@ -8,15 +8,17 @@ Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between pl
 Please look both ways|||Please look both ways for cyclists before exiting.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 305 Dundas: Detour via Parliamen|||305 Dundas: Detour via Parliament St, Gerrard St W and Broadview Ave due to police activity.
+19 Bay: Detour southbound via Qu|||19 Bay: Detour southbound via Queen St W, University Ave and King St due to a blocked road.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+19 Bay: Detour northbound via Ki|||19 Bay: Detour northbound via King St, Yonge St and Queen St W due to a blocked road.
 67 Pharmacy: Detour via Ellesmer|||67 Pharmacy: Detour via Ellesmere Rd, Victoria Park Ave, Lawrence Ave E, Pharmacy Ave and Donside Dr due to a collision.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
 202 Cherry Beach: No service bet|||202 Cherry Beach: No service between Front St East at Cherry St and Cherry St at Commissioners St due to traffic congestion.
-19 Bay: Detour northbound via Ki|||19 Bay: Detour northbound via King St, Yonge St and Queen St W due to a blocked road.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+114 Queens Quay East: Detour eas|||114 Queens Quay East: Detour eastbound via Lakeshore Blvd E, Saulter St and Commissioners St due to an event.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance. Elevator is expected to be back in service August 7, 2026.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -27,12 +29,9 @@ Don Mills: Elevator 61P3L out of|||Don Mills: Elevator out of service between co
 Finch: Elevator out of service b|||Finch: Elevator out of service between GO and YRT bus platform and fares concourse due to a technical problem.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-19 Bay: Detour southbound via Qu|||19 Bay: Detour southbound via Queen St W, University Ave and King St due to a blocked road.
-114 Queens Quay East: Detour eas|||114 Queens Quay East: Detour eastbound via Lakeshore Blvd E, Saulter St and Commissioners St due to an event.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Leaside and Avenue stations due to a disruptive customer. Shuttle buses are on the way.
-72 Pape: Detour southbound via D|||72 Pape: Detour southbound via Donlands Ave and Oconnor Dr due to a blocked road.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
