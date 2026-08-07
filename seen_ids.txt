@@ -14,6 +14,8 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 67 Pharmacy: Detour via Ellesmer|||67 Pharmacy: Detour via Ellesmere Rd, Victoria Park Ave, Lawrence Ave E, Pharmacy Ave and Donside Dr due to a collision.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
+Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Warden and Kennedy stations due to a security incident.
+St George: Elevator 1Y1L out of|||St George: Elevator out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform due to a technical problem.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -32,4 +34,5 @@ Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between c
 Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Leaside and Avenue stations due to a disruptive customer. Shuttle buses are on the way.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
+Line 5 Eglinton: Delays between|||Line 5 Eglinton: Delays between Mount Dennis and Kennedy stations While the maintainer fixes a communications issue.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
