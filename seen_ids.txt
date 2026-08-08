@@ -2,7 +2,9 @@ Have proof of payment ready for|||Have proof of payment ready for inspection.
 37 Islington: Detour via Queens|||37 Islington: Detour via Queens Plate Dr and Rexdale Blvd due to a demonstration.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 North York Centre: Elevator out|||North York Centre: Elevator out of service between Empress Walk entrance and concourse while we perform maintenance.
+154 Curran Hall: Delays between|||154 Curran Hall: Delays between Lawrence Ave East at Markham Rd and Lawrence Ave East at McCowan Rd due to construction.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+Line 2 Bloor-Danforth: Delays we|||Line 2 Bloor-Danforth: Delays westbound at Greenwood station while we respond to an emergency alarm.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -27,7 +29,6 @@ Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service betwee
 Pape: Elevator 8D1L out of servi|||Pape: Elevator out of service between Pape Ave entrance, concourse and Line 2 westbound platform while we perform maintenance.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-154 Curran Hall: Delays between|||154 Curran Hall: Delays between Lawrence Ave East at Markham Rd and Lawrence Ave East at McCowan Rd due to construction.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Leaside and Avenue stations due to a disruptive customer. Shuttle buses are on the way.
