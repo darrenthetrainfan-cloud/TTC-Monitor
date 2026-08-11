@@ -22,6 +22,7 @@ Bloor-Yonge: Elevator 13Y3L out|||Bloor-Yonge: Elevator out of service between s
 160 Bathurst North: Detour north|||160 Bathurst North: Detour northbound via Bathurst St, Centre Ave and North Promenade due to construction.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+87 Cosburn: Buses are not stoppi|||87 Cosburn: Bypass near East York Acres Parking Lot at Haldon Ave due to construction.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 78 St Andrews: Detour via Upper|||78 St Andrews: Detour via Upper Canada Dr, Lord Seaton Rd, Yorkminster Rd and Aldershot Cres due to a Toronto fire investigation.
