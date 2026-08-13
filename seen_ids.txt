@@ -2,20 +2,15 @@
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 North York Centre: Elevator out|||North York Centre: Elevator out of service between Empress Walk entrance and concourse while we perform maintenance.
-113 Danforth: Buses are not stop|||113 Danforth: Bypass between Victoria Park Station at Bus Bay 4 and Victoria Park Station at Bus Bay 6 while we respond to a security incident.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
-117 Birchmount South: Buses are|||117 Birchmount South: Bypass between Victoria Park Station at Bus Bay 4 and Victoria Park Station at Bus Bay 6 while we respond to a security incident.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-67 Pharmacy: Buses are not stopp|||67 Pharmacy: Bypass between Victoria Park Station at Bus Bay 4 and Victoria Park Station at Bus Bay 6 while we respond to a security incident.
 Please look both ways|||Please look both ways for cyclists before exiting.
-24 Victoria Park: Buses are not|||24 Victoria Park: Bypass between Victoria Park Station at Bus Bay 4 and Victoria Park Station at Bus Bay 6 while we respond to a security incident.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 305 Dundas: Detour via Parliamen|||305 Dundas: Detour via Parliament St, Gerrard St W and Broadview Ave due to police activity.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-924 Victoria Park Express: Buses|||924 Victoria Park Express: Bypass between Victoria Park Station at Bus Bay 4 and Victoria Park Station at Bus Bay 6 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 67 Pharmacy: Detour via Ellesmer|||67 Pharmacy: Detour via Ellesmere Rd, Victoria Park Ave, Lawrence Ave E, Pharmacy Ave and Donside Dr due to a collision.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
@@ -27,12 +22,10 @@ Victoria Park: Elevator 14D1L ou|||Victoria Park: Elevator out of service betwee
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Osgoode: Elevator out of service|||Osgoode: Elevator out of service between Four Seasons Centre entrance and concourse while we perform maintenance.
-20 Cliffside: Buses are not stop|||20 Cliffside: Bypass between Victoria Park Station at Bus Bay 4 and Victoria Park Station at Bus Bay 6 while we respond to a security incident.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-12 Kingston Rd: Buses are not st|||12 Kingston Rd: Bypass between Victoria Park Station at Bus Bay 4 and Victoria Park Station at Bus Bay 6 while we respond to a security incident.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Leaside and Avenue stations due to a disruptive customer. Shuttle buses are on the way.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -40,5 +33,4 @@ Royal York: Elevator 14B1L out o|||Royal York: Elevator out of service between R
 Kennedy: Elevator 16D2L out of s|||Kennedy: Elevator out of service between concourse and Line 2 centre platform while we perform maintenance.
 305 Dundas: No service between D|||305 Dundas: No service between Dundas St West at Lansdowne Ave and Dundas St West at Bloor St West while we respond to a medical emergency.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
-Line 2 Bloor-Danforth: Trains ar|||Line 2 Bloor-Danforth: Bypass at Victoria Park station due to a security incident.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
