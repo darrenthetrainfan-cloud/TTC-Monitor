@@ -18,6 +18,7 @@ Yorkdale: Elevator 7S1L out of s|||Yorkdale: Elevator out of service between con
 129 Mccowan North: Detour southb|||129 Mccowan North: Detour southbound via Huntingwood Dr, Brimley Rd and Sheppard Ave E due to a collision.
 67 Pharmacy: Detour via Ellesmer|||67 Pharmacy: Detour via Ellesmere Rd, Victoria Park Ave, Lawrence Ave E, Pharmacy Ave and Donside Dr due to a collision.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
+97 Yonge: Detour southbound via|||97 Yonge: Detour southbound via Wilson Ave, Avenue Rd and Fairlawn Ave due to a collision.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
