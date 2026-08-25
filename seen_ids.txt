@@ -14,7 +14,6 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 67 Pharmacy: Detour via Ellesmer|||67 Pharmacy: Detour via Ellesmere Rd, Victoria Park Ave, Lawrence Ave E, Pharmacy Ave and Donside Dr due to a collision.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
-83 Jones: Detour via Queen St E,|||83 Jones: Detour via Queen St E, Greenwood Ave and Dundas St W due to a collision.
 35 Jane: Delays between Jane St|||35 Jane: Delays between Jane St at Wilson Ave South Side and Jane St at Gordon Mackay Rd due to roadway paving.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -35,7 +34,6 @@ Don Valley: Elevator 3 out of se|||Don Valley: Elevator out of service between c
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Leaside and Avenue stations due to a disruptive customer. Shuttle buses are on the way.
 503 Kingston Rd: Detour westboun|||503 Kingston Rd: Detour westbound via Leslie St, Eastern Ave and Carlaw Ave due to a collision.
-501 Queen: Detour via Coxwell Av|||501 Queen: Detour via Coxwell Ave, Gerrard St E and Broadview Ave due to a collision.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 305 Dundas: No service between D|||305 Dundas: No service between Dundas St West at Lansdowne Ave and Dundas St West at Bloor St West while we respond to a medical emergency.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
