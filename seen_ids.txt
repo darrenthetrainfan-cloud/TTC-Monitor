@@ -26,7 +26,6 @@ Kennedy: Elevator 16D3L out of s|||Kennedy: Elevator out of service between bus 
 107 Alness-Chesswood: Detour nor|||107 Alness-Chesswood: Detour northbound via Sheppard Ave W and Kodiak Cres due to construction.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Rosedale: Elevator 14Y2L out of|||Rosedale: Elevator out of service between Cresent Road and Line 1 northbound platform while we perform maintenance.
-Line 1 Yonge-University: Delays|||Line 1 Yonge-University: Delays southbound at Rosedale station while we fix a mechanical problem.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Kennedy: Elevator out of service|||Kennedy: Elevator out of service between concourse and Line 5 centre platform west side while we perform maintenance.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
