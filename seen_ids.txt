@@ -9,6 +9,7 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 305 Dundas: Detour via Parliamen|||305 Dundas: Detour via Parliament St, Gerrard St W and Broadview Ave due to police activity.
 Eglinton: Elevator 7 out of serv|||Eglinton: Elevator out of service between Line 1 concourse and line 5 upper concourse east side while we perform maintenance. Elevator is expected to be back in service August 28, 2026.
+304 King: Detour via Shaw St and|||304 King: Detour via Shaw St and Queen St W due to a Toronto fire investigation.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -17,7 +18,6 @@ Eglinton: Elevator 7 out of serv|||Eglinton: Elevator out of service between Lin
 Sheppard-Yonge: Elevator 51P3L o|||Sheppard-Yonge: Elevator out of service between north concourse and north tunnel while we perform maintenance.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-304 King: Detour eastbound via S|||304 King: Detour eastbound via Shaw St and Queen St W due to a Toronto fire investigation.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
