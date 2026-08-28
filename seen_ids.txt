@@ -17,6 +17,7 @@ Eglinton: Elevator 7 out of serv|||Eglinton: Elevator out of service between Lin
 Sheppard-Yonge: Elevator 51P3L o|||Sheppard-Yonge: Elevator out of service between north concourse and north tunnel while we perform maintenance.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+304 King: Detour eastbound via S|||304 King: Detour eastbound via Shaw St and Queen St W due to a Toronto fire investigation.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
