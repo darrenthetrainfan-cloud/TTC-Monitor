@@ -23,12 +23,10 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 935 Jane Express: Detour northbo|||935 Jane Express: Detour northbound via Yorkgate Blvd, Gosford Blvd and Milo Park Gt due to a collision.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
-Sheppard West: Elevator 9S3L out|||Sheppard West: Elevator out of service between Sheppard Ave W north side entrance and concourse while we perform maintenance.
 511 Bathurst: Delays between Exh|||511 Bathurst: Delays between Exhibition Loop and Bathurst Station at Bay 6 due to traffic congestion.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-Queen's Park: Elevator 3Y2L out|||Queen's Park: Elevator out of service between concourse and Line 1 centre platform while we perform maintenance.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Leaside and Avenue stations due to a disruptive customer. Shuttle buses are on the way.
 St George: Elevator 1Y1L out of|||St George: Elevator out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform while we perform maintenance.
@@ -36,5 +34,6 @@ St George: Elevator 1Y1L out of|||St George: Elevator out of service between bus
 305 Dundas: No service between D|||305 Dundas: No service between Dundas St West at Lansdowne Ave and Dundas St West at Bloor St West while we respond to a medical emergency.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
 Don Valley: Elevator ELV02-B out|||Don Valley: Elevator out of service between concourse and Don Mills Road east side entrance and bus terminal while we perform maintenance.
+Dundas West: Elevator 8B1L out o|||Dundas West: Elevator out of service between Dundas St W entrance and bus platform, concourse and Line 2 eastbound platform while we perform maintenance.
 129 Mccowan North: Detour northb|||129 Mccowan North: Detour northbound via Sheppard Ave E, Shorting Rd, Nugget Ave and Mccowan Rd due to a traffic light problem.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
