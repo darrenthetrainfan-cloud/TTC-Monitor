@@ -41,6 +41,7 @@ Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass at St Patrick 
 Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Leaside and Avenue stations due to a disruptive customer. Shuttle buses are on the way.
 14 Glencairn: Detour westbound v|||14 Glencairn: Detour westbound via Avenue Rd, Eglinton Ave W and Bathurst St due to a blocked road.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+Osgoode: Elevator out of service|||Osgoode: Elevator out of service between Four Seasons Centre entrance and concourse while we perform maintenance.
 305 Dundas: No service between D|||305 Dundas: No service between Dundas St West at Lansdowne Ave and Dundas St West at Bloor St West while we respond to a medical emergency.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
 129 Mccowan North: Detour northb|||129 Mccowan North: Detour northbound via Sheppard Ave E, Shorting Rd, Nugget Ave and Mccowan Rd due to a traffic light problem.
