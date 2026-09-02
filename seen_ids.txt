@@ -10,6 +10,7 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 305 Dundas: Detour via Parliamen|||305 Dundas: Detour via Parliament St, Gerrard St W and Broadview Ave due to police activity.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+Line 2 Bloor-Danforth: There is|||There is no subway service on Line 2 Bloor-Danforth between St George and Broadview stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume September 2.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 107 Alness-Chesswood: Detour via|||107 Alness-Chesswood: Detour via Finch Ave W and Dufferin St due to an event.
@@ -37,6 +38,5 @@ Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Leaside a
 305 Dundas: No service between D|||305 Dundas: No service between Dundas St West at Lansdowne Ave and Dundas St West at Bloor St West while we respond to a medical emergency.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
 101 Downsview Park: Detour via K|||101 Downsview Park: Detour via Keele St due to an event.
-510 Spadina: No service between|||510 Spadina: No service between Queens Quay Loop at Lower Spadina Ave and Union Station Streetcar Platform due to the CNE.
 129 Mccowan North: Detour northb|||129 Mccowan North: Detour northbound via Sheppard Ave E, Shorting Rd, Nugget Ave and Mccowan Rd due to a traffic light problem.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
