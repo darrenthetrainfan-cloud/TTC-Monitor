@@ -13,6 +13,7 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+107 Alness-Chesswood: Detour via|||107 Alness-Chesswood: Detour via Finch Ave W and Dufferin St due to an event.
 Keele: Elevator 9B1L out of serv|||Keele: Elevator out of service between Keele St entrance and bus platform to Line 2 Kipling (Westbound) while we perform maintenance.
 67 Pharmacy: Detour via Ellesmer|||67 Pharmacy: Detour via Ellesmere Rd, Victoria Park Ave, Lawrence Ave E, Pharmacy Ave and Donside Dr due to a collision.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
@@ -32,9 +33,9 @@ Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between c
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 20 Cliffside: Detour westbound v|||20 Cliffside: Detour westbound via Birchmount Rd, Hollis Ave and Eastwood Ave due to construction.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Keele and Ossington stations while we respond to a medical emergency. Shuttle buses are on the way.
 68 Warden: Detour via Apple Cree|||68 Warden: Detour via Apple Creek Blvd and Clegg Rd due to construction.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Keele and Ossington stations while we respond to a medical emergency.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 305 Dundas: No service between D|||305 Dundas: No service between Dundas St West at Lansdowne Ave and Dundas St West at Bloor St West while we respond to a medical emergency.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
