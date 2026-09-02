@@ -17,6 +17,7 @@ Keele: Elevator 9B1L out of serv|||Keele: Elevator out of service between Keele 
 67 Pharmacy: Detour via Ellesmer|||67 Pharmacy: Detour via Ellesmere Rd, Victoria Park Ave, Lawrence Ave E, Pharmacy Ave and Donside Dr due to a collision.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
 Jane: Elevator 12B1L out of serv|||Jane: Elevator out of service between Jane St entrance and concourse while we perform maintenance.
+Line 5 Eglinton: Delays at Eglin|||Line 5 Eglinton: Delays at Eglinton station while the maintainer fixes a brake problem. Line 5 is owned by Metrolinx, maintained by Crosslinx Transit Solutions Maintenance and proudly operated by the TTC.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 Forest Hill: Elevator ELV01-A ou|||Forest Hill: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance. Elevator is expected to be back in service September 2, 2026.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -26,13 +27,12 @@ Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between 
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Finch: Elevator 22Y1L out of ser|||Finch: Elevator out of service between fares concourse and Line 1 centre platform while we perform maintenance.
-37 Islington: Buses are not stop|||37 Islington: Bypass near Woodbine Racetrack Loop (Main Entrance) due to a demonstration.
 Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+68 Warden: Detour via Apple Cree|||68 Warden: Detour via Apple Creek Blvd and Clegg Rd due to construction.
 20 Cliffside: Detour westbound v|||20 Cliffside: Detour westbound via Birchmount Rd, Hollis Ave and Eastwood Ave due to construction.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-68 Warden: Detour via Apple Cree|||68 Warden: Detour via Apple Creek Blvd and Clegg Rd due to construction.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Leaside and Avenue stations due to a disruptive customer. Shuttle buses are on the way.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
