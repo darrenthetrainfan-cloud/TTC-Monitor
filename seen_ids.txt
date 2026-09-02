@@ -36,6 +36,7 @@ Avenue: Elevator ELV02-B out of|||Avenue: Elevator out of service between Eglint
 Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass at St Patrick station due to flooding.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+512 St Clair: No service near St|||512 St Clair: No service near St Clair West Station at Bay 3 due to flooding.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Leaside and Avenue stations due to a disruptive customer. Shuttle buses are on the way.
 14 Glencairn: Detour westbound v|||14 Glencairn: Detour westbound via Avenue Rd, Eglinton Ave W and Bathurst St due to a blocked road.
