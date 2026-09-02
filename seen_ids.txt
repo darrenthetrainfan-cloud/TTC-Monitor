@@ -18,7 +18,6 @@ Kennedy: Elevator out of service|||Kennedy: Elevator out of service between conc
 61 Avenue Rd North: Detour via D|||61 Avenue Rd North: Detour via Duplex Ave and Glencairn Ave due to a flood.
 Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 18 Caledonia: Detour via Duffiel|||18 Caledonia: Detour via Duffield Rd, Orfus Rd and Caledonia due to a flood.
-Avenue: Elevator ELV02-B out of|||Avenue: Elevator out of service between Eglinton Avenue north side, west entrance and concourse while we perform maintenance.
 Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass northbound at Union station towards Finch due to flooding.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -30,7 +29,6 @@ Osgoode: Elevator out of service|||Osgoode: Elevator out of service between Four
 129 Mccowan North: Detour northb|||129 Mccowan North: Detour northbound via Sheppard Ave E, Shorting Rd, Nugget Ave and Mccowan Rd due to a traffic light problem.
 Vaughan Metropolitan Centre: Ele|||Vaughan Metropolitan Centre: Elevator out of service between Millway Ave west side entrance and concourse while we perform maintenance.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
-122 Graydon Hall: Detour westbou|||122 Graydon Hall: Detour westbound via Fenside Dr and Lynedock Cres due to construction.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 6 Finch West: No service be|||Line 6 Finch West: No service between Finch West and Humber College stations due to debris on the tracks.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
