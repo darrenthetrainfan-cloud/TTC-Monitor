@@ -15,6 +15,7 @@ Keele: Elevator 9B1L out of serv|||Keele: Elevator out of service between Keele 
 67 Pharmacy: Detour via Ellesmer|||67 Pharmacy: Detour via Ellesmere Rd, Victoria Park Ave, Lawrence Ave E, Pharmacy Ave and Donside Dr due to a collision.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
 Jane: Elevator 12B1L out of serv|||Jane: Elevator out of service between Jane St entrance and concourse while we perform maintenance.
+Line 2 Bloor-Danforth: Delays ea|||Line 2 Bloor-Danforth: Delays eastbound at Dundas West station while we respond to an emergency alarm.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 Forest Hill: Elevator ELV01-A ou|||Forest Hill: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance. Elevator is expected to be back in service September 2, 2026.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
