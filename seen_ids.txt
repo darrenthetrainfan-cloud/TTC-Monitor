@@ -9,6 +9,7 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 70 O'connor: Detour via Amsterda|||70 O'connor: Detour via Amsterdam Ave, Victoria Park Ave and O'connor Dr due to a flood.
 67 Pharmacy: Detour via Ellesmer|||67 Pharmacy: Detour via Ellesmere Rd, Victoria Park Ave, Lawrence Ave E, Pharmacy Ave and Donside Dr due to a collision.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
+101 Downsview Park: Detour south|||101 Downsview Park: Detour southbound via Keele St and Ashwarren Rd due to a blocked road.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -17,6 +18,7 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 Broadview: Elevator 6D1L out of|||Broadview: Elevator out of service between Broadview Ave entrance, concourse and Line 2 westbound platform while we perform maintenance.
 Kennedy: Elevator out of service|||Kennedy: Elevator out of service between concourse and Line 5 centre platform west side due to a technical problem.
 61 Avenue Rd North: Detour via D|||61 Avenue Rd North: Detour via Duplex Ave and Glencairn Ave due to a flood.
+106 Sentinel: Detour via Keele S|||106 Sentinel: Detour via Keele St and Dovehouse Ave due to a flood.
 Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 18 Caledonia: Detour via Duffiel|||18 Caledonia: Detour via Duffield Rd, Orfus Rd and Caledonia due to a flood.
 Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass northbound at Union station towards Finch due to flooding.
