@@ -33,6 +33,7 @@ Osgoode: Elevator out of service|||Osgoode: Elevator out of service between Four
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
 Laird: Elevator ELV02-B out of s|||Laird: Elevator out of service between Eglinton Avenue south side entrance and concourse while we perform maintenance.
+504 King: No service between Bro|||504 King: No service between Broadview Station at Bay 7 and Broadview Ave at Gerrard St East due to a collision.
 103 Mount Pleasant North: Detour|||103 Mount Pleasant North: Detour northbound via Berwick Ave and Yonge St due to a blocked road.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 305 Dundas: Detour via Parliamen|||305 Dundas: Detour via Parliament St, Gerrard St W and Broadview Ave due to police activity.
