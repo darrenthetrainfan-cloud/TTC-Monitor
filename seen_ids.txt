@@ -12,10 +12,9 @@ Bayview: Elevator 55P4L out of s|||Bayview: Elevator out of service between Shep
 Laird: Elevator ELV02-B out of s|||Laird: Elevator out of service between Eglinton Avenue south side entrance and concourse while we perform maintenance.
 Please look both ways|||Please look both ways for cyclists before exiting.
 103 Mount Pleasant North: Detour|||103 Mount Pleasant North: Detour northbound via Berwick Ave and Yonge St due to a blocked road.
+74 Mount Pleasant: Detour northb|||74 Mount Pleasant: Detour northbound via Berwick Ave and Yonge St due to a blocked road.
 108 Driftwood: Detour via Jane S|||108 Driftwood: Detour via Jane St, Stong Ct and Driftwood Ave due to a flood.
 82 Rosedale: Detour via Yonge St|||82 Rosedale: Detour via Yonge St, Pleasant Blvd, Avoca Ave, St Clair Ave E, Mt Pleasant Rd, Whitehall Rd and Maclennan Ave due to a blocked road.
-74 Mount Pleasant: Detour northb|||74 Mount Pleasant: Detour northbound via Berwick Ave and Yonge St due to a blocked road.
-203 High Park: No service betwee|||203 High Park: No service between Colborne Lodge Dr at Centre Rd and High Park Station at High Park Ave due to a blocked road.
 510 Spadina: No service between|||510 Spadina: No service between Queens Quay Loop at Lower Spadina Ave and Union Station Streetcar Platform due to the CNE.
 75 Sherbourne: Detour southbound|||75 Sherbourne: Detour southbound via Glen Rd and Elm Ave due to a blocked road.
 34 Eglinton: Detour westbound vi|||34 Eglinton: Detour westbound via Yonge St and Berwick Ave due to a blocked road.
