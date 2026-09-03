@@ -34,7 +34,6 @@ Eglinton: Elevator 3 out of serv|||Eglinton: Elevator out of service between Lin
 14 Glencairn: Detour westbound v|||14 Glencairn: Detour westbound via Avenue Rd, Eglinton Ave W and Bathurst St due to a blocked road.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Osgoode: Elevator out of service|||Osgoode: Elevator out of service between Four Seasons Centre entrance and concourse while we perform maintenance.
-960 Steeles West Express: Detour|||960 Steeles West Express: Detour via Futurity Gt, Viceroy, Dufferin St, Clark St, New Westminster Dr, Conley St and Thruman due to a flood.
 165 Weston Rd North: Detour via|||165 Weston Rd North: Detour via Dufferin St, Lawrence Ave W and Keele St due to a flood.
 129 Mccowan North: Detour northb|||129 Mccowan North: Detour northbound via Sheppard Ave E, Shorting Rd, Nugget Ave and Mccowan Rd due to a traffic light problem.
 103 Mount Pleasant North: Detour|||103 Mount Pleasant North: Detour via Mount Pleasant Rd and Lawrence Ave E due to police activity.
