@@ -10,7 +10,6 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 70 O'connor: Detour via Amsterda|||70 O'connor: Detour via Amsterdam Ave, Victoria Park Ave and O'connor Dr due to a flood.
 67 Pharmacy: Detour via Ellesmer|||67 Pharmacy: Detour via Ellesmere Rd, Victoria Park Ave, Lawrence Ave E, Pharmacy Ave and Donside Dr due to a collision.
-72 Pape: Detour via Overlea Blvd|||72 Pape: Detour via Overlea Blvd and Don Mills Rd due to a flood.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
 101 Downsview Park: Detour south|||101 Downsview Park: Detour southbound via Keele St and Ashwarren Rd due to a blocked road.
 Forest Hill: Elevator ELV01-A ou|||Forest Hill: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance. Elevator is expected to be back in service September 3, 2026.
@@ -26,7 +25,6 @@ Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between c
 18 Caledonia: Detour via Duffiel|||18 Caledonia: Detour via Duffield Rd, Orfus Rd and Caledonia due to a flood.
 96 Wilson: Detour via Dufferin S|||96 Wilson: Detour via Dufferin St, Lawrence Ave E and Keele St due to a flood.
 Eglinton: Elevator 4 out of serv|||Eglinton: Elevator out of service between Eglinton Avenue south side entrance, Line 1 concourse, and Line 5 upper concourse west side while we perform maintenance.
-Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass northbound at Union station towards Finch due to flooding.
 Eglinton: Elevator 3 out of serv|||Eglinton: Elevator out of service between Line 1 centre platform and Line 5 centre platform while we perform maintenance.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -42,7 +40,7 @@ Vaughan Metropolitan Centre: Ele|||Vaughan Metropolitan Centre: Elevator out of 
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
 Laird: Elevator ELV02-B out of s|||Laird: Elevator out of service between Eglinton Avenue south side entrance and concourse while we perform maintenance.
-100 Flemingdon Park: Detour via|||100 Flemingdon Park: Detour via Gateway Blvd and Don Mills Rd due to a flood.
+Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass northbound at Union station towards Finch due to flooding.
 21 Brimley: Buses are not stoppi|||21 Brimley: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 305 Dundas: Detour via Parliamen|||305 Dundas: Detour via Parliament St, Gerrard St W and Broadview Ave due to police activity.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
