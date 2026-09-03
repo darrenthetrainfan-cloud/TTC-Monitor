@@ -17,7 +17,6 @@ Kennedy: Elevator out of service|||Kennedy: Elevator out of service between conc
 Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Leaside and Avenue stations due to a disruptive customer. Shuttle buses are on the way.
 Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 96 Wilson: Detour via Dufferin S|||96 Wilson: Detour via Dufferin St, Lawrence Ave E and Keele St due to a flood.
-109 Ranee: Detour via Shermount|||109 Ranee: Detour via Shermount Ave, Fairholme Ave and Englemount Ave due to police activity.
 165 Weston Rd North: Detour west|||165 Weston Rd North: Detour westbound via Lovilla Blvd, Strathburn Blvd, Gaydon Ave and Weston Rd due to a collision.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -38,12 +37,10 @@ Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass northbound at 
 52 Lawrence West: Detour via Gle|||52 Lawrence West: Detour via Glenmount Ave, Dell Park Ave and Shermount Ave due to wire down.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-60 Steeles West: Detour eastboun|||60 Steeles West: Detour eastbound via Norfinch Dr, Finch Ave W and Jane St due to a collision.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 118 Thistle Down: Detour eastbou|||118 Thistle Down: Detour eastbound via Islington Ave, Barker Ave and Albion Rd due to a blocked road.
 55 Warren Park: Detour southboun|||55 Warren Park: Detour southbound via Gooch Ave, Magwood Crt and Varcity due to a blocked road.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-28 Bayview South: No service bet|||28 Bayview South: No service between Davisville Station at Bus Bay 5 and 550 Bayview Ave - Evergreen Brick Works due to a flood.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 84 Sheppard West: Detour via Che|||84 Sheppard West: Detour via Chesswood Dr, Carl Hall Road and John Drury Dr due to a flood.
 63 Ossington: Detour via Dupont|||63 Ossington: Detour via Dupont St, Dovercourt Rd, Davenport Rd and Oakwood Ave due to a flood.
