@@ -59,4 +59,5 @@ Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass northbound at 
 63 Ossington: Detour via Dupont|||63 Ossington: Detour via Dupont St, Dovercourt Rd, Davenport Rd and Oakwood Ave due to a flood.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
 305 Dundas: No service between D|||305 Dundas: No service between Dundas St West at Lansdowne Ave and Dundas St West at Bloor St West while we respond to a medical emergency.
+Line 1 Yonge-University: Delays|||Line 1 Yonge-University: Delays southbound at Spadina station while we fix a mechanical problem.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
