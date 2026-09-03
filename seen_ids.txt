@@ -45,7 +45,6 @@ Kennedy: Elevator out of service|||Kennedy: Elevator out of service between conc
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Union: Elevator 7Y1L out of serv|||Union: Elevator out of service between concourse and Line 1 Vaughan platform while we perform maintenance.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-Oakwood: Elevator ELV02-B out of|||Oakwood: Elevator out of service between concourse and Eglinton Avenue north side entrance due to a technical problem.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 55 Warren Park: Detour via Gooch|||55 Warren Park: Detour via Gooch Ave and Magwood Crt due to a blocked road.
 Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Leaside and Avenue stations due to a disruptive customer. Shuttle buses are on the way.
