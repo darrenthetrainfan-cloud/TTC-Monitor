@@ -27,6 +27,7 @@ Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between c
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 34 Eglinton: Detour westbound vi|||34 Eglinton: Detour westbound via Yonge St and Berwick Ave due to a blocked road.
+37 Islington: Buses are not stop|||37 Islington: Bypass near Woodbine Racetrack Loop (Main Entrance) due to a demonstration.
 129 Mccowan North: Detour northb|||129 Mccowan North: Detour northbound via Sheppard Ave E, Shorting Rd, Nugget Ave and Mccowan Rd due to a traffic light problem.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 34 Eglinton: Detour eastbound vi|||34 Eglinton: Detour eastbound via Duplex Ave due to a blocked road.
