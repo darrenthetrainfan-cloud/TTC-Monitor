@@ -1,6 +1,5 @@
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 59 Maple Leaf: Detour via Lawren|||59 Maple Leaf: Detour via Lawrence Ave W and Keele St due to a flood.
-96 Wilson: Detour via Wilson Ave|||96 Wilson: Detour via Wilson Ave, Keele St, Lawrence Ave W, Dufferin St and Wilson Ave due to flooding.
 34 Eglinton: Detour eastbound vi|||34 Eglinton: Detour eastbound via Berwick Ave, Soudan Ave and Mt Pleasant Rd due to a blocked road.
 36 Finch West: Detour via Keele|||36 Finch West: Detour via Keele St, Four Winds Dr, Tangiers Rd, York University Busway and Dufferin St due to flooding.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -19,7 +18,6 @@ Bayview: Elevator 55P1L out of s|||Bayview: Elevator out of service between Bayv
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 984 Sheppard West Express: Detou|||984 Sheppard West Express: Detour via John Drury Dr, Carl Hall Road and Chesswood Dr due to flooding.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-119 Torbarrie: Detour via Wilson|||119 Torbarrie: Detour via Wilson Ave, Keele St, Lawrence Ave W, Dufferin St and Wilson Ave due to flooding.
 Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 28 Bayview South: No service eas|||28 Bayview South: No service eastbound near Bayview Ave at Moore Ave due to a road closure.
 120 Calvington: Detour via Keele|||120 Calvington: Detour via Keele St, Lawrence Ave W and Dufferin St due to a flood.
@@ -35,7 +33,6 @@ Osgoode: Elevator out of service|||Osgoode: Elevator out of service between Four
 129 Mccowan North: Detour northb|||129 Mccowan North: Detour northbound via Sheppard Ave E, Shorting Rd, Nugget Ave and Mccowan Rd due to a traffic light problem.
 Vaughan Metropolitan Centre: Ele|||Vaughan Metropolitan Centre: Elevator out of service between Millway Ave west side entrance and concourse while we perform maintenance.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
-996 Wilson Express: Detour via W|||996 Wilson Express: Detour via Wilson Ave, Keele St, Lawrence Ave W, Dufferin St and Wilson Ave due to flooding.
 Bessarion: Elevator 57P1L out of|||Bessarion: Elevator out of service between Sheppard Ave E south side entrance and concourse while we perform maintenance.
 Rosedale: Elevator 14Y1L out of|||Rosedale: Elevator out of service between Cresent Road entrance and Line 1 sourthbound platform while we perform maintenance.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -45,7 +42,6 @@ Laird: Elevator ELV02-B out of s|||Laird: Elevator out of service between Eglint
 305 Dundas: Detour via Parliamen|||305 Dundas: Detour via Parliament St, Gerrard St W and Broadview Ave due to police activity.
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-165 Weston Rd North: Detour via|||165 Weston Rd North: Detour via Wilson Ave, Keele St, Lawrence Ave W, Dufferin St and Wilson Ave due to flooding.
 Kennedy: Elevator out of service|||Kennedy: Elevator out of service between concourse and Line 5 centre platform west side due to a technical problem.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
