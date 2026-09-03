@@ -1,5 +1,6 @@
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 184 Ancaster Park: Detour eastbo|||184 Ancaster Park: Detour eastbound via Plewes Rd and Ancaster Rd due to a blocked road.
+55 Warren Park: Detour southboun|||55 Warren Park: Detour southbound via Gooch Ave, Magwood Crt and Varcity due to a blocked road.
 510 Spadina: No service between|||510 Spadina: No service between Queens Quay Loop at Lower Spadina Ave and Union Station Streetcar Platform due to the CNE.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -17,9 +18,7 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 52 Lawrence West: Detour via Eag|||52 Lawrence West: Detour via Eaglemount, Glencairn Ave and Bathurst St due to wire down.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-Broadview: Elevator 6D1L out of|||Broadview: Elevator out of service between Broadview Ave entrance, concourse and Line 2 westbound platform while we perform maintenance.
 Kennedy: Elevator out of service|||Kennedy: Elevator out of service between concourse and Line 5 centre platform west side due to a technical problem.
-72 Pape: Buses are not stopping|||72 Pape: Bypass near Overlea Blvd at Thorncliffe Park Dr (West) due to a flood.
 61 Avenue Rd North: Detour via D|||61 Avenue Rd North: Detour via Duplex Ave and Glencairn Ave due to a flood.
 106 Sentinel: Detour via Keele S|||106 Sentinel: Detour via Keele St and Dovehouse Ave due to a flood.
 Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
@@ -49,7 +48,6 @@ Laird: Elevator ELV02-B out of s|||Laird: Elevator out of service between Eglint
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 46 Martin Grove: Detour northbou|||46 Martin Grove: Detour northbound via Llyod Manor and Princess Margaret Blvd due to a blocked road.
 509 Harbourfront: No service bet|||509 Harbourfront: No service between Queens Quay West at Lower Spadina Ave East Side and Union Station Streetcar Platform due to flooding.
-55 Warren Park: Detour southboun|||55 Warren Park: Detour southbound via Gooch Ave, Magwood Crt and Varcity due to a blocked road.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 203 High Park: No service betwee|||203 High Park: No service between Colborne Lodge Dr at Centre Rd and High Park Station at High Park Ave due to a blocked road.
 41 Keele: Detour via The Pond Rd|||41 Keele: Detour via The Pond Rd and Ian Macdonald Blvd due to a flood.
