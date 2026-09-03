@@ -29,7 +29,6 @@ Eglinton: Elevator 3 out of serv|||Eglinton: Elevator out of service between Lin
 36 Finch West: Detour via Tangie|||36 Finch West: Detour via Tangiers Rd, York University Busway and Dufferin St due to a flood.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-14 Glencairn: Detour westbound v|||14 Glencairn: Detour westbound via Avenue Rd, Eglinton Ave W and Bathurst St due to a blocked road.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Osgoode: Elevator out of service|||Osgoode: Elevator out of service between Four Seasons Centre entrance and concourse while we perform maintenance.
 165 Weston Rd North: Detour via|||165 Weston Rd North: Detour via Dufferin St, Lawrence Ave W and Keele St due to a flood.
