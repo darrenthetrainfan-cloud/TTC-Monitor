@@ -42,6 +42,7 @@ Laird: Elevator ELV02-B out of s|||Laird: Elevator out of service between Eglint
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Kennedy: Elevator out of service|||Kennedy: Elevator out of service between concourse and Line 5 centre platform west side due to a technical problem.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+Rosedale: Elevator 14Y1L out of|||Rosedale: Elevator out of service between Cresent Road entrance and Line 1 sourthbound platform while we perform maintenance.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 8 Broadview: No service between|||8 Broadview: No service between Broadview Ave at Erindale Ave and Broadview Ave at Browning Ave due to a collision.
