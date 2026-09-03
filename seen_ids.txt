@@ -11,6 +11,7 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 67 Pharmacy: Detour via Ellesmer|||67 Pharmacy: Detour via Ellesmere Rd, Victoria Park Ave, Lawrence Ave E, Pharmacy Ave and Donside Dr due to a collision.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
 101 Downsview Park: Detour south|||101 Downsview Park: Detour southbound via Keele St and Ashwarren Rd due to a blocked road.
+118 Thistle Down: Detour via Duf|||118 Thistle Down: Detour via Dufferin St, Highway 401 and Keele St due to a flood.
 Forest Hill: Elevator ELV01-A ou|||Forest Hill: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance. Elevator is expected to be back in service September 3, 2026.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 Bayview: Elevator 55P1L out of s|||Bayview: Elevator out of service between Bayview Ave east side entrance and west concourse while we perform maintenance.
@@ -54,9 +55,9 @@ Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass northbound at 
 46 Martin Grove: Detour northbou|||46 Martin Grove: Detour northbound via Llyod Manor and Princess Margaret Blvd due to a blocked road.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 203 High Park: No service betwee|||203 High Park: No service between Colborne Lodge Dr at Centre Rd and High Park Station at High Park Ave due to a blocked road.
+28 Bayview South: No service bet|||28 Bayview South: No service between Davisville Station at Bus Bay 5 and 550 Bayview Ave - Evergreen Brick Works due to a flood.
 41 Keele: Detour via The Pond Rd|||41 Keele: Detour via The Pond Rd and Ian Macdonald Blvd due to a flood.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-28 Bayview South: No service bet|||28 Bayview South: No service between Davisville Station at Bus Bay 5 and 550 Bayview Ave - Evergreen Brick Works due to a flood.
 108 Driftwood: Detour via Steele|||108 Driftwood: Detour via Steeles Ave W, Jane St and Finch Ave W due to a flood.
 63 Ossington: Detour via Dupont|||63 Ossington: Detour via Dupont St, Dovercourt Rd, Davenport Rd and Oakwood Ave due to a flood.
 Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Leaside and Avenue stations due to a disruptive customer. Shuttle buses are on the way.
