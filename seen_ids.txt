@@ -11,6 +11,7 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 67 Pharmacy: Detour via Ellesmer|||67 Pharmacy: Detour via Ellesmere Rd, Victoria Park Ave, Lawrence Ave E, Pharmacy Ave and Donside Dr due to a collision.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
 82 Rosedale: Detour via Yonge St|||82 Rosedale: Detour via Yonge St, Pleasant Blvd, Avoca Ave, St Clair Ave E, Mt Pleasant Rd, Whitehall Rd and Maclennan Ave due to a blocked road.
+203 High Park: No service betwee|||203 High Park: No service between Colborne Lodge Dr at Centre Rd and High Park Station at High Park Ave due to a blocked road.
 75 Sherbourne: Detour southbound|||75 Sherbourne: Detour southbound via Glen Rd and Elm Ave due to a blocked road.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 Bayview: Elevator 55P1L out of s|||Bayview: Elevator out of service between Bayview Ave east side entrance and west concourse while we perform maintenance.
@@ -34,7 +35,6 @@ Osgoode: Elevator out of service|||Osgoode: Elevator out of service between Four
 129 Mccowan North: Detour northb|||129 Mccowan North: Detour northbound via Sheppard Ave E, Shorting Rd, Nugget Ave and Mccowan Rd due to a traffic light problem.
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 Bessarion: Elevator 57P1L out of|||Bessarion: Elevator out of service between Sheppard Ave E south side entrance and concourse while we perform maintenance.
-929 Dufferin Express: Detour nor|||929 Dufferin Express: Detour northbound via Hillmount Ave, Marlee Ave and Glencairn Ave due to a blocked road.
 Rosedale: Elevator 14Y1L out of|||Rosedale: Elevator out of service between Cresent Road entrance and Line 1 sourthbound platform while we perform maintenance.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
@@ -44,9 +44,7 @@ Laird: Elevator ELV02-B out of s|||Laird: Elevator out of service between Eglint
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Bayview: Elevator 55P4L out of s|||Bayview: Elevator out of service between Sheppard Ave E south side entrance and east concourse while we perform maintenance.
-29 Dufferin: Detour northbound v|||29 Dufferin: Detour northbound via Hillmount Ave, Marlee Ave and Glencairn Ave due to a blocked road.
 101 Downsview Park: Detour via D|||101 Downsview Park: Detour via Drewry Ave, Carl Hall Road and Chesswood Dr due to a flood.
-203 High Park: No service betwee|||203 High Park: No service between Colborne Lodge Dr at Centre Rd and High Park Station at High Park Ave due to a blocked road.
 Kennedy: Elevator out of service|||Kennedy: Elevator out of service between concourse and Line 5 centre platform west side due to a technical problem.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
