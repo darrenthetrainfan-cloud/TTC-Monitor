@@ -23,6 +23,7 @@ Kennedy: Elevator out of service|||Kennedy: Elevator out of service between conc
 106 Sentinel: Detour via Keele S|||106 Sentinel: Detour via Keele St and Dovehouse Ave due to a flood.
 Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 18 Caledonia: Detour via Duffiel|||18 Caledonia: Detour via Duffield Rd, Orfus Rd and Caledonia due to a flood.
+96 Wilson: Detour via Dufferin S|||96 Wilson: Detour via Dufferin St, Lawrence Ave E and Keele St due to a flood.
 Eglinton: Elevator 4 out of serv|||Eglinton: Elevator out of service between Eglinton Avenue south side entrance, Line 1 concourse, and Line 5 upper concourse west side while we perform maintenance.
 Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass northbound at Union station towards Finch due to flooding.
 Eglinton: Elevator 3 out of serv|||Eglinton: Elevator out of service between Line 1 centre platform and Line 5 centre platform while we perform maintenance.
