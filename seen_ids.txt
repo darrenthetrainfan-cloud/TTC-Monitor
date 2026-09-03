@@ -20,6 +20,7 @@ Bayview: Elevator 55P1L out of s|||Bayview: Elevator out of service between Bayv
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 119 Torbarrie: Detour via Wilson|||119 Torbarrie: Detour via Wilson Ave, Keele St, Lawrence Ave W, Dufferin St and Wilson Ave due to flooding.
 Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
+120 Calvington: Detour via Keele|||120 Calvington: Detour via Keele St, Lawrence Ave W and Dufferin St due to a flood.
 74 Mount Pleasant: Detour northb|||74 Mount Pleasant: Detour northbound via Berwick Ave, Yonge St, Soudan Ave and Redpath Ave due to a blocked road.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Rosedale: Elevator 14Y2L out of|||Rosedale: Elevator out of service between Cresent Road and Line 1 northbound platform while we perform maintenance.
