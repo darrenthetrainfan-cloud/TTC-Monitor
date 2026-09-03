@@ -49,7 +49,6 @@ Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass northbound at 
 118 Thistle Down: Detour eastbou|||118 Thistle Down: Detour eastbound via Islington Ave, Barker Ave and Albion Rd due to a blocked road.
 60 Steeles West: Detour eastboun|||60 Steeles West: Detour eastbound via Norfinch Dr, Finch Ave W and Jane St due to a collision.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-46 Martin Grove: Detour northbou|||46 Martin Grove: Detour northbound via Llyod Manor and Princess Margaret Blvd due to a blocked road.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 28 Bayview South: No service bet|||28 Bayview South: No service between Davisville Station at Bus Bay 5 and 550 Bayview Ave - Evergreen Brick Works due to a flood.
 41 Keele: Detour via The Pond Rd|||41 Keele: Detour via The Pond Rd and Ian Macdonald Blvd due to a flood.
