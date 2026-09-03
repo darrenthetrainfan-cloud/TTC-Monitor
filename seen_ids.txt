@@ -42,7 +42,6 @@ Kennedy: Elevator out of service|||Kennedy: Elevator out of service between conc
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Union: Elevator 7Y1L out of serv|||Union: Elevator out of service between concourse and Line 1 Vaughan platform while we perform maintenance.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-Line 2 Bloor-Danforth: Trains ar|||Line 2 Bloor-Danforth: Bypass at Dufferin station due to a security incident.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Leaside and Avenue stations due to a disruptive customer. Shuttle buses are on the way.
 510 Spadina: No service between|||510 Spadina: No service between Queens Quay Loop at Lower Spadina Ave and Union Station Streetcar Platform due to the CNE.
