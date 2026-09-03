@@ -15,9 +15,9 @@ Forest Hill: Elevator ELV01-A ou|||Forest Hill: Elevator out of service between 
 Bayview: Elevator 55P1L out of s|||Bayview: Elevator out of service between Bayview Ave east side entrance and west concourse while we perform maintenance.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-52 Lawrence West: Detour via Eag|||52 Lawrence West: Detour via Eaglemount, Glencairn Ave and Bathurst St due to wire down.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Kennedy: Elevator out of service|||Kennedy: Elevator out of service between concourse and Line 5 centre platform west side due to a technical problem.
+Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Leaside and Avenue stations due to a disruptive customer. Shuttle buses are on the way.
 61 Avenue Rd North: Detour via D|||61 Avenue Rd North: Detour via Duplex Ave and Glencairn Ave due to a flood.
 106 Sentinel: Detour via Keele S|||106 Sentinel: Detour via Keele St and Dovehouse Ave due to a flood.
 Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
@@ -51,13 +51,12 @@ Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass northbound at 
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 46 Martin Grove: Detour northbou|||46 Martin Grove: Detour northbound via Llyod Manor and Princess Margaret Blvd due to a blocked road.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
-203 High Park: No service betwee|||203 High Park: No service between Colborne Lodge Dr at Centre Rd and High Park Station at High Park Ave due to a blocked road.
 28 Bayview South: No service bet|||28 Bayview South: No service between Davisville Station at Bus Bay 5 and 550 Bayview Ave - Evergreen Brick Works due to a flood.
 41 Keele: Detour via The Pond Rd|||41 Keele: Detour via The Pond Rd and Ian Macdonald Blvd due to a flood.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 108 Driftwood: Detour via Steele|||108 Driftwood: Detour via Steeles Ave W, Jane St and Finch Ave W due to a flood.
 63 Ossington: Detour via Dupont|||63 Ossington: Detour via Dupont St, Dovercourt Rd, Davenport Rd and Oakwood Ave due to a flood.
-Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Leaside and Avenue stations due to a disruptive customer. Shuttle buses are on the way.
+52 Lawrence West: Detour via Gle|||52 Lawrence West: Detour via Glenmount Ave, Dell Park Ave and Shermount Ave due to wire down.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
 305 Dundas: No service between D|||305 Dundas: No service between Dundas St West at Lansdowne Ave and Dundas St West at Bloor St West while we respond to a medical emergency.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
