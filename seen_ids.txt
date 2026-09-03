@@ -2,7 +2,6 @@ Have proof of payment ready for|||Have proof of payment ready for inspection.
 59 Maple Leaf: Detour via Lawren|||59 Maple Leaf: Detour via Lawrence Ave W and Keele St due to a flood.
 34 Eglinton: Detour eastbound vi|||34 Eglinton: Detour eastbound via Berwick Ave and Yonge St due to a blocked road.
 36 Finch West: Detour via Keele|||36 Finch West: Detour via Keele St, Four Winds Dr, Tangiers Rd, York University Busway and Dufferin St due to flooding.
-Line 6 Finch West: No service be|||Line 6 Finch West: No service between Finch West and Milvan Rumike stations as power has been shut down. We are investigating the cause and working to fix it as quickly as possible. Shuttle buses are on the way.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Please look both ways|||Please look both ways for cyclists before exiting.
@@ -21,6 +20,7 @@ Bayview: Elevator 55P1L out of s|||Bayview: Elevator out of service between Bayv
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 28 Bayview South: No service eas|||28 Bayview South: No service eastbound near Bayview Ave at Moore Ave due to a road closure.
+Line 6 Finch West: No service be|||Line 6 Finch West: No service between Finch West and Tobermory stations as power has been shut down. We are investigating the cause and working to fix it as quickly as possible. Shuttle buses are on the way.
 108 Driftwood: Detour via Jane S|||108 Driftwood: Detour via Jane St, Stong Ct and Driftwood Ave due to a flood.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Rosedale: Elevator 14Y2L out of|||Rosedale: Elevator out of service between Cresent Road and Line 1 northbound platform while we perform maintenance.
@@ -50,7 +50,6 @@ Union: Elevator 7Y1L out of serv|||Union: Elevator out of service between concou
 55 Warren Park: Detour via Gooch|||55 Warren Park: Detour via Gooch Ave and Magwood Crt due to a blocked road.
 Line 5 Eglinton: No service betw|||Line 5 Eglinton: No service between Leaside and Avenue stations due to a disruptive customer. Shuttle buses are on the way.
 510 Spadina: No service between|||510 Spadina: No service between Queens Quay Loop at Lower Spadina Ave and Union Station Streetcar Platform due to the CNE.
-162 Lawrence-Donway: Detour via|||162 Lawrence-Donway: Detour via Jedburgh Rd, Woburn Ave and Yonge St while we respond to a security incident.
 112 West Mall: Detour via Welles|||112 West Mall: Detour via Wellesworth Dr and Eringate Dr due to construction.
 305 Dundas: No service between D|||305 Dundas: No service between Dundas St West at Lansdowne Ave and Dundas St West at Bloor St West while we respond to a medical emergency.
 169 Huntingwood: Buses are not s|||169 Huntingwood: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
