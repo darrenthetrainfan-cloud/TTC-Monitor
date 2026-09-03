@@ -1,6 +1,6 @@
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 96 Wilson: Detour via Wilson Ave|||96 Wilson: Detour via Wilson Ave, Keele St, Lawrence Ave W, Dufferin St and Wilson Ave due to flooding.
-34 Eglinton: Detour eastbound vi|||34 Eglinton: Detour eastbound via Duplex Ave, Orchard View Blvd, Yonge St, Berwick Ave and Eglinton Ave due to a blocked road.
+34 Eglinton: Detour eastbound vi|||34 Eglinton: Detour eastbound via Berwick Ave, Soudan Ave and Mt Pleasant Rd due to a blocked road.
 36 Finch West: Detour via Keele|||36 Finch West: Detour via Keele St, Four Winds Dr, Tangiers Rd, York University Busway and Dufferin St due to flooding.
 996 Wilson Express: Buses are no|||996 Wilson Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 904 Sheppard-Kennedy Express: Bu|||904 Sheppard-Kennedy Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -8,10 +8,12 @@ Please look both ways|||Please look both ways for cyclists before exiting.
 129 Mccowan North: Buses are not|||129 Mccowan North: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 67 Pharmacy: Detour via Ellesmer|||67 Pharmacy: Detour via Ellesmere Rd, Victoria Park Ave, Lawrence Ave E, Pharmacy Ave and Donside Dr due to a collision.
 329 Dufferin: Detour southbound|||329 Dufferin: Detour southbound via Dufferin St, Viceroy, Futurity Gt and Gerry Fitzgerald Dr due to a collision.
+118 Thistle Down: Detour via Duf|||118 Thistle Down: Detour via Dufferin St, Lawrence Ave W and Keele St due to flooding.
 501 Queen: Detour eastbound via|||501 Queen: Detour eastbound via Spadina Ave and Adelaide St E while we respond to a medical emergency.
 Bayview: Elevator 55P1L out of s|||Bayview: Elevator out of service between Bayview Ave east side entrance and west concourse while we perform maintenance.
 95 York Mills: Buses are not sto|||95 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 84 Sheppard West: Detour via Joh|||84 Sheppard West: Detour via John Drury Dr, Carl Hall Road and Chesswood Dr due to flooding.
+505 Dundas: Detour eastbound via|||505 Dundas: Detour eastbound via Spadina Ave, Queen St W and Mccaul St while we respond to a medical emergency.
 43 Kennedy: Buses are not stoppi|||43 Kennedy: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 984 Sheppard West Express: Detou|||984 Sheppard West Express: Detour via John Drury Dr, Carl Hall Road and Chesswood Dr due to flooding.
 38 Highland Creek: Buses are not|||38 Highland Creek: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -19,6 +21,7 @@ Bayview: Elevator 55P1L out of s|||Bayview: Elevator out of service between Bayv
 Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 74 Mount Pleasant: Detour northb|||74 Mount Pleasant: Detour northbound via Berwick Ave, Yonge St, Soudan Ave and Redpath Ave due to a blocked road.
 316 Kingston Rd-Mccowan: Buses a|||316 Kingston Rd-Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
+Rosedale: Elevator 14Y2L out of|||Rosedale: Elevator out of service between Cresent Road and Line 1 northbound platform while we perform maintenance.
 134 Progress: Buses are not stop|||134 Progress: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 131 Nugget: Buses are not stoppi|||131 Nugget: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 130 Middlefield: Buses are not s|||130 Middlefield: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
@@ -29,6 +32,7 @@ Vaughan Metropolitan Centre: Ele|||Vaughan Metropolitan Centre: Elevator out of 
 506 Carlton: Detour via Ossingto|||506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a blocked track.
 996 Wilson Express: Detour via W|||996 Wilson Express: Detour via Wilson Ave, Keele St, Lawrence Ave W, Dufferin St and Wilson Ave due to flooding.
 Bessarion: Elevator 57P1L out of|||Bessarion: Elevator out of service between Sheppard Ave E south side entrance and concourse while we perform maintenance.
+Rosedale: Elevator 14Y1L out of|||Rosedale: Elevator out of service between Cresent Road entrance and Line 1 sourthbound platform while we perform maintenance.
 16 Mccowan: Buses are not stoppi|||16 Mccowan: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
 Laird: Elevator ELV02-B out of s|||Laird: Elevator out of service between Eglinton Avenue south side entrance and concourse while we perform maintenance.
