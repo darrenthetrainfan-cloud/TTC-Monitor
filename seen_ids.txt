@@ -52,7 +52,6 @@ Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass northbound at 
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 395 York Mills: Buses are not st|||395 York Mills: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 28 Bayview South: No service bet|||28 Bayview South: No service between Davisville Station at Bus Bay 5 and 550 Bayview Ave - Evergreen Brick Works due to a flood.
-41 Keele: Detour via The Pond Rd|||41 Keele: Detour via The Pond Rd and Ian Macdonald Blvd due to a flood.
 133 Neilson: Buses are not stopp|||133 Neilson: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 84 Sheppard West: Detour via Che|||84 Sheppard West: Detour via Chesswood Dr, Carl Hall Road and John Drury Dr due to a flood.
 108 Driftwood: Detour via Steele|||108 Driftwood: Detour via Steeles Ave W, Jane St and Finch Ave W due to a flood.
