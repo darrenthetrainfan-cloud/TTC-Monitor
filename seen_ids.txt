@@ -46,7 +46,6 @@ Laird: Elevator ELV02-B out of s|||Laird: Elevator out of service between Eglint
 132 Milner: Buses are not stoppi|||132 Milner: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 903 Kennedy Stn-Scarborough Expr|||903 Kennedy Stn-Scarborough Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 118 Thistle Down: Detour eastbou|||118 Thistle Down: Detour eastbound via Islington Ave, Barker Ave and Albion Rd due to a blocked road.
-11 Bayview: Detour northbound vi|||11 Bayview: Detour northbound via Lawrence Ave E, Yonge St and York Mills Rd due to a blocked road.
 939 Finch Express: Buses are not|||939 Finch Express: Bypass near Scarborough Centre Station at Bus Bay 9 while we respond to a security incident.
 46 Martin Grove: Detour northbou|||46 Martin Grove: Detour northbound via Llyod Manor and Princess Margaret Blvd due to a blocked road.
 509 Harbourfront: No service bet|||509 Harbourfront: No service between Queens Quay West at Lower Spadina Ave East Side and Union Station Streetcar Platform due to flooding.
