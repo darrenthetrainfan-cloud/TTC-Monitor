@@ -1,8 +1,9 @@
 Have proof of payment ready for|||Have proof of payment ready for inspection.
-Line 2 Bloor-Danforth: Delays ea|||Line 2 Bloor-Danforth: Delays eastbound at Bloor-Yonge station due to a security incident.
+94 Wellesley: Buses are not stop|||94 Wellesley: Bypass near Wellesley Station at Bus Bay 2 while we respond to a security incident.
 Bayview: Elevator 55P4L out of s|||Bayview: Elevator out of service between Sheppard Ave E south side entrance and east concourse while we perform maintenance.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
 122 Graydon Hall: Detour via Fen|||122 Graydon Hall: Detour via Fenside Dr and Lynedock Cres due to construction.
+320 Yonge: Buses are not stoppin|||320 Yonge: Bypass near Wellesley Station at Bus Bay 2 while we respond to a security incident.
 Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 7 Bathurst: Detour northbound vi|||7 Bathurst: Detour northbound via St Clair Ave W, Spadina Ave and Eglinton Ave W due to a collision.
 Laird: Elevator ELV02-B out of s|||Laird: Elevator out of service between Eglinton Avenue south side entrance and concourse while we perform maintenance.
@@ -10,5 +11,7 @@ Laird: Elevator ELV02-B out of s|||Laird: Elevator out of service between Eglint
 171 Mount Dennis: Detour via All|||171 Mount Dennis: Detour via Alliance Ave and Humber Blvd due to construction.
 7 Bathurst: Detour southbound vi|||7 Bathurst: Detour southbound via St Clair Ave W, Spadina Ave and Eglinton Ave W due to a collision.
 Please look both ways|||Please look both ways for cyclists before exiting.
+19 Bay: Buses are not stopping n|||19 Bay: Bypass near Wellesley Station at Bus Bay 2 while we respond to a security incident.
 Kennedy: Elevator out of service|||Kennedy: Elevator out of service between concourse and Line 5 centre platform west side due to a technical problem.
 St Andrew: Elevator 6Y2L out of|||St Andrew: Elevator out of service between concourse and Line 1 centre platform while we perform maintenance.
+97 Yonge: Buses are not stopping|||97 Yonge: Bypass near Wellesley Station at Bus Bay 2 while we respond to a security incident.
