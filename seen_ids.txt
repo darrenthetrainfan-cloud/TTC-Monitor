@@ -7,4 +7,5 @@ Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between pl
 Keelesdale: Elevator ELV02-B out|||Keelesdale: Elevator out of service between Keele Street north east side entrance and concourse while we perform maintenance.
 Kennedy: Elevator out of service|||Kennedy: Elevator out of service between concourse and Line 5 centre platform west side due to a technical problem.
 Please look both ways|||Please look both ways for cyclists before exiting.
+29C Dufferin: No service between|||29C Dufferin: No service between Princes' Gates Loop at Canada Blvd - CNE East Entrance and Dufferin St at Springhurst Ave due to an event.
 St Patrick: Elevator 4Y1L out of|||St Patrick: Elevator out of service between concourse and Line 1 centre platform while we perform maintenance.
