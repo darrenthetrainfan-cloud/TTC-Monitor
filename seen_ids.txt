@@ -12,4 +12,5 @@ Queen: Elevator 9Y1L out of serv|||Queen: Elevator out of service between underp
 29 Dufferin: No service between|||29 Dufferin: No service between Princes' Gates Loop at Canada Blvd - CNE East Entrance and Dufferin St at Springhurst Ave due to construction.
 86 Scarborough: Detour via Danfo|||86 Scarborough: Detour via Danforth Rd, Trudelle St and Bellamy Rd N due to a collision.
 9 Bellamy: Detour via Brimley Rd|||9 Bellamy: Detour via Brimley Rd, Danforth Rd and Lawrence Ave E due to a collision.
+67 Pharmacy: Detour southbound v|||67 Pharmacy: Detour southbound via Biscayne Blvd, Victoria Park Ave and Eglinton Ave E due to a Toronto fire investigation.
 St Patrick: Elevator 4Y1L out of|||St Patrick: Elevator out of service between concourse and Line 1 centre platform while we perform maintenance.
