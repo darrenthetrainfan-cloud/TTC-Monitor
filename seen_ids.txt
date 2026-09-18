@@ -1,12 +1,14 @@
-Spadina: Elevator 2B3L out of se|||Spadina: Elevator out of service between south concourse and Line 2 eastbound platform due to a technical problem.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
-Eglinton: Elevator 18Y2L out of|||Eglinton: Elevator out of service between concourse and Line 1 centre platform due to a technical problem.
-St Patrick: Elevator out of serv|||St Patrick: Elevator out of service between 480 University Ave entrance and concourse while we perform maintenance.
-43 Kennedy: Detour southbound vi|||43 Kennedy: Detour southbound via Steeles Ave E, Silver Star Blvd and Passmore Ave due to construction.
 37 Islington: No service near Wo|||37 Islington: No service near Woodbine Racetrack Loop (Main Entrance) due to a blocked road.
 TMU: Elevator out of service bet|||TMU: Elevator out of service between Toronto Eaton Centre entrance, Line 1 Vaughan via Union platform, and underpass while we perform maintenance.
 Laird: Elevator ELV02-B out of s|||Laird: Elevator out of service between Eglinton Avenue south side entrance and concourse while we perform maintenance. Elevator is expected to be back in service September 30, 2026.
-Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
+Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
 Please look both ways|||Please look both ways for cyclists before exiting.
+Spadina: Elevator 2B3L out of se|||Spadina: Elevator out of service between south concourse and Line 2 eastbound platform due to a technical problem.
+Eglinton: Elevator 18Y2L out of|||Eglinton: Elevator out of service between concourse and Line 1 centre platform due to a technical problem.
+168 Symington: Detour southbound|||168 Symington: Detour southbound via Weston Rd and Rogers Rd due to a blocked road.
+St Patrick: Elevator out of serv|||St Patrick: Elevator out of service between 480 University Ave entrance and concourse while we perform maintenance.
+161 Rogers Rd: Detour westbound|||161 Rogers Rd: Detour westbound via Weston Rd and Rogers Rd due to a blocked road.
+43 Kennedy: Detour southbound vi|||43 Kennedy: Detour southbound via Steeles Ave E, Silver Star Blvd and Passmore Ave due to construction.
 St Patrick: Elevator 4Y1L out of|||St Patrick: Elevator out of service between concourse and Line 1 centre platform due to a technical problem. Elevator is expected to be back in service October 9, 2026.
