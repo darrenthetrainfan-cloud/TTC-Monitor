@@ -1,14 +1,9 @@
 Have proof of payment ready for|||Have proof of payment ready for inspection.
-512 St Clair: No service between|||512 St Clair: No service between St Clair Station at Bay 3 and St Clair Ave West at Bathurst St East Side due to a collision.
-TMU: Elevator out of service bet|||TMU: Elevator out of service between Toronto Eaton Centre entrance, Line 1 Vaughan via Union platform, and underpass while we perform maintenance.
-334 Eglinton: Detour eastbound v|||334 Eglinton: Detour eastbound via Markham Rd and Kingston Rd due to a collision.
-Laird: Elevator ELV02-B out of s|||Laird: Elevator out of service between Eglinton Avenue south side entrance and concourse while we perform maintenance. Elevator is expected to be back in service September 30, 2026.
-Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
-Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
-386 Scarborough: Detour via Mark|||386 Scarborough: Detour via Markham Rd and Kingston Rd due to a collision.
-Please look both ways|||Please look both ways for cyclists before exiting.
 Eglinton: Elevator 18Y2L out of|||Eglinton: Elevator out of service between concourse and Line 1 centre platform due to a technical problem.
-334 Eglinton: Detour westbound v|||334 Eglinton: Detour westbound via Jane St, East Dr, Scarlett Rd, La Rose Ave and Royal York Rd due to construction.
 345 Kipling: No service southbou|||345 Kipling: No service southbound from Kipling Ave at Bloor St West to Kipling Ave at Olivewood Rd due to a blocked road.
-334 Eglinton: Detour via Mount P|||334 Eglinton: Detour via Mount Pleasant Rd, Soudan Ave and Bayview Ave due to construction.
+TMU: Elevator out of service bet|||TMU: Elevator out of service between Toronto Eaton Centre entrance, Line 1 Vaughan via Union platform, and underpass while we perform maintenance.
+Laird: Elevator ELV02-B out of s|||Laird: Elevator out of service between Eglinton Avenue south side entrance and concourse while we perform maintenance. Elevator is expected to be back in service September 30, 2026.
+Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
+Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
+Please look both ways|||Please look both ways for cyclists before exiting.
 St Patrick: Elevator 4Y1L out of|||St Patrick: Elevator out of service between concourse and Line 1 centre platform due to a technical problem. Elevator is expected to be back in service October 9, 2026.
