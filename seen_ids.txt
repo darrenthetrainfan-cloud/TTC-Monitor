@@ -10,4 +10,5 @@ Eglinton: Elevator 18Y2L out of|||Eglinton: Elevator out of service between conc
 42 Cummer: Detour eastbound via|||42 Cummer: Detour eastbound via Bishop Ave and Willowdale Ave due to construction.
 20 Cliffside: Detour via Danfort|||20 Cliffside: Detour via Danforth Rd, Falmouth Ave and Lorraine Ave due to a blocked road.
 73 Royal York: Detour via Jane S|||73 Royal York: Detour via Jane St, East Dr and Scarlett Rd due to construction.
+34 Eglinton: Detour eastbound vi|||34 Eglinton: Detour eastbound via Mount Pleasant Rd, Soudan Ave and Banff Rd due to a watermain break.
 St Patrick: Elevator 4Y1L out of|||St Patrick: Elevator out of service between concourse and Line 1 centre platform due to a technical problem. Elevator is expected to be back in service October 9, 2026.
