@@ -5,11 +5,11 @@ TMU: Elevator out of service bet|||TMU: Elevator out of service between Toronto 
 Laird: Elevator ELV02-B out of s|||Laird: Elevator out of service between Eglinton Avenue south side entrance and concourse while we perform maintenance. Elevator is expected to be back in service September 30, 2026.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
 Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between concourse and Don Mills Road west side entrance due to the Ontario Line construction. Elevator is expected to be back in service February 8, 2032.
-64 Main: Detour southbound via G|||64 Main: Detour southbound via Gerrard St E, Kimberley Ave, Swanwick Ave and Main St due to construction.
 43 Kennedy: Detour southbound vi|||43 Kennedy: Detour southbound via Steeles Ave E, Silver Star Blvd and Passmore Ave due to construction.
 Please look both ways|||Please look both ways for cyclists before exiting.
 Wellesley: Elevator 12Y1L out of|||Wellesley: Elevator out of service between Wellesley St entrance to Line 1 southbound platform while we perform maintenance.
-100 Flemingdon Park: Detour via|||100 Flemingdon Park: Detour via Mortimer Ave, Broadview Ave and O'connor Dr due to a collision.
 St Patrick: Elevator out of serv|||St Patrick: Elevator out of service between 480 University Ave entrance and concourse while we perform maintenance.
-64 Main: Detour northbound via S|||64 Main: Detour northbound via Swanwick Ave, Osborne Ave, Gerrard St E and Main St due to construction.
+100 Flemingdon Park: Detour via|||100 Flemingdon Park: Detour via Mortimer Ave, Broadview Ave and O'connor Dr due to a collision.
+Avenue: Elevator ELV02-B out of|||Avenue: Elevator out of service between Eglinton Avenue north side, west entrance and concourse due to a technical problem.
+101 Downsview Park: Detour via C|||101 Downsview Park: Detour via Chesswood Dr, Carl Hall Road and Downsview Park Blvd due to an event.
 St Patrick: Elevator 4Y1L out of|||St Patrick: Elevator out of service between concourse and Line 1 centre platform due to a technical problem. Elevator is expected to be back in service October 9, 2026.
