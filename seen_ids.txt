@@ -15,3 +15,4 @@ North York Centre: Elevator 23Y1|||North York Centre: Elevator out of service be
 Kennedy: Elevator 16D1L out of s|||Kennedy: Elevator out of service between Transway Cresent entrance and bus platform B and concourse while we perform maintenance.
 43 Kennedy: Detour southbound vi|||43 Kennedy: Detour southbound via Silver Star Blvd due to construction.
 St Patrick: Elevator 4Y1L out of|||St Patrick: Elevator out of service between concourse and Line 1 centre platform due to a technical problem. Elevator is expected to be back in service October 9, 2026.
+St Clair West: Elevator 3S1L out|||St Clair West: Elevator out of service between Heath St W north side entrance and north concourse while we perform maintenance.
