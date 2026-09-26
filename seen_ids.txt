@@ -2,7 +2,6 @@ Bloor-Yonge: Elevator 13Y1L out|||Bloor-Yonge: Elevator out of service between n
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 Broadview: Elevator 6D1L out of|||Broadview: Elevator out of service between Broadview Ave entrance, concourse and Line 2 westbound platform due to a technical problem.
 37A Islington: Buses are not sto|||37A Islington: Bypass near Woodbine Racetrack Loop (Main Entrance) due to a Protest.
-11 Bayview: Detour northbound vi|||11 Bayview: Detour northbound via Yonge St, Merton St and Mt Pleasant Rd due to construction.
 Bloor-Yonge: Elevator out of ser|||Bloor-Yonge: Elevator out of service between Bloor St E south side entrance and south concourse while we perform maintenance.
 TMU: Elevator out of service bet|||TMU: Elevator out of service between Toronto Eaton Centre entrance, Line 1 Vaughan via Union platform, and underpass while we perform maintenance.
 Laird: Elevator ELV02-B out of s|||Laird: Elevator out of service between Eglinton Avenue south side entrance and concourse while we perform maintenance. Elevator is expected to be back in service September 30, 2026.
@@ -13,3 +12,4 @@ Line 1 Yonge-University: There i|||There is no subway service on Line 1 Yonge-Un
 28 Bayview South: Detour eastbou|||28 Bayview South: Detour eastbound via Yonge St, Millwood Rd and Acacia Rd due to construction.
 29, 29C Dufferin: No service bet|||29, 29C Dufferin: No service between Princes' Gates Loop at Canada Blvd - CNE East Entrance and Dufferin St at Springhurst Ave due to an event.
 St Patrick: Elevator 4Y1L out of|||St Patrick: Elevator out of service between concourse and Line 1 centre platform due to a technical problem. Elevator is expected to be back in service October 9, 2026.
+Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Keele and Ossington stations due to a security incident.
