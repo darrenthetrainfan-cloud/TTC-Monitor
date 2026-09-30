@@ -1,5 +1,4 @@
 Have proof of payment ready for|||Have proof of payment ready for inspection.
-Line 1 Yonge-University: Trains|||Line 1 Yonge-University: Bypass at Queen station due to a security incident.
 512 St Clair: Delays between St|||512 St Clair: Delays between St Clair Station at Bay 2 and Gunns Loop at St Clair Ave West due to traffic congestion.
 Finch: Elevator 22Y1L out of ser|||Finch: Elevator out of service between fares concourse and Line 1 centre platform while we perform maintenance.
 TMU: Elevator out of service bet|||TMU: Elevator out of service between Toronto Eaton Centre entrance, Line 1 Vaughan via Union platform, and underpass while we perform maintenance.
@@ -9,3 +8,4 @@ Don Valley: Elevator ELV03-C out|||Don Valley: Elevator out of service between c
 Please look both ways|||Please look both ways for cyclists before exiting.
 43 Kennedy: Detour southbound vi|||43 Kennedy: Detour southbound via Milliken Blvd and Mcnicoll Ave due to construction.
 St Patrick: Elevator 4Y1L out of|||St Patrick: Elevator out of service between concourse and Line 1 centre platform due to a technical problem. Elevator is expected to be back in service October 9, 2026.
+510 Spadina: Streetcars are not|||510 Spadina: Streetcars are not stopping near Queens Quay Loop at Lower Spadina Ave while we respond to a medical emergency.
