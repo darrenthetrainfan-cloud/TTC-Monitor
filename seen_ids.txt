@@ -5,4 +5,5 @@ Finch: Elevator 22Y1L out of ser|||Finch: Elevator out of service between fares 
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
 112C West Mall: Detour northboun|||112C West Mall: Detour northbound via Carlingview Dr, Meteor Dr and Galaxy Blvd due to police activity.
 Please look both ways|||Please look both ways for cyclists before exiting.
+Line 1 Yonge-University: No serv|||Line 1 Yonge-University: No service between St Clair and Bloor-Yonge stations due to a security incident.
 St Patrick: Elevator 4Y1L out of|||St Patrick: Elevator out of service between concourse and Line 1 centre platform due to a technical problem. Elevator is expected to be back in service October 9, 2026.
