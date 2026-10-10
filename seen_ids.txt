@@ -1,4 +1,6 @@
 Have proof of payment ready for|||Have proof of payment ready for inspection.
+Line 2 Bloor-Danforth: Delays at|||Line 2 Bloor-Danforth: Delays at Dufferin station due to a security incident.
+Line 2 Bloor-Danforth: No servic|||Line 2 Bloor-Danforth: No service between Ossington and Kipling stations due to a security incident. Shuttle buses are running between Ossington and Kipling.
 Main Street: Elevator 13D1L out|||Main Street: Elevator out of service between Main St east side entrance, concourse and Line 2 eastbound platform while we perform maintenance.
 506 Carlton: Detour via Bay St,|||506 Carlton: Detour via Bay St, Dundas St E and Broadview Ave due to construction.
 St Patrick: Elevator 4Y1L out of|||St Patrick: Elevator out of service between concourse and Line 1 centre platform due to a technical problem. Elevator is expected to be back in service October 16, 2026.
@@ -6,3 +8,4 @@ Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between pl
 Line 1 Yonge-University: Delays|||Line 1 Yonge-University: Delays southbound at Wilson station due to a mechanical issue.
 306 Carlton: Detour via Bay St,|||306 Carlton: Detour via Bay St, Dundas St E and Broadview Ave due to construction.
 Please look both ways|||Please look both ways for cyclists before exiting.
+Line 2 Bloor-Danforth: There is|||There is no subway service on Line 2 Bloor-Danforth between Kipling and Jane stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume October 10.
