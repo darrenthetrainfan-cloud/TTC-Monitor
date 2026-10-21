@@ -1,13 +1,11 @@
 Main Street: Elevator 13D2L out|||Main Street: Elevator out of service between concourse and Line 2 westbound platform while we perform maintenance.
-Line 1 Yonge-University: Delays|||Line 1 Yonge-University: Delays northbound at College station due to an emergency alarm on board a train.
 Have proof of payment ready for|||Have proof of payment ready for inspection.
 Finch: Elevator 22Y1L out of ser|||Finch: Elevator out of service between fares concourse and Line 1 centre platform while we perform maintenance.
 63 Ossington: Detour via Geary A|||63 Ossington: Detour via Geary Ave, Dovercourt Rd and Hallam St due to a collision.
-Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
-60 Steeles West: Delays between|||60 Steeles West: Delays between Steeles Ave West at Dufferin St and Steeles Ave West at Keele St due to construction.
-Please look both ways|||Please look both ways for cyclists before exiting.
-158 Trethewey: Detour eastbound|||158 Trethewey: Detour eastbound via Cardell Ave and Fairglen Cres due to a Toronto fire investigation.
 504 King: Detour westbound via C|||504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.
 107 Alness-Chesswood: Detour nor|||107 Alness-Chesswood: Detour northbound via Kodiak Cres and Whitehorse Rd due to construction.
+Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
+60 Steeles West: Delays between|||60 Steeles West: Delays between Steeles Ave West at Dufferin St and Steeles Ave West at Keele St due to construction.
 960 Steeles West Express: Delays|||960 Steeles West Express: Delays between Steeles Ave West at Dufferin St and Steeles Ave West at Keele St due to construction.
 Don Valley: Elevator ELV02-B out|||Don Valley: Elevator out of service between concourse and Don Mills Road east side entrance and bus terminal due to a technical problem.
+Please look both ways|||Please look both ways for cyclists before exiting.
