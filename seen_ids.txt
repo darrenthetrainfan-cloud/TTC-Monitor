@@ -3,6 +3,7 @@ Finch: Elevator 22Y1L out of ser|||Finch: Elevator out of service between fares 
 51 Leslie: Detour northbound via|||51 Leslie: Detour northbound via Millwood Rd and Mcrae Dr due to police activity.
 St Clair West: Elevator 3S2L out|||St Clair West: Elevator out of service between bus and streetcar platform, south concourse and Line 1 southbound platform while we perform maintenance.
 504 King: Detour westbound via C|||504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.
+Line 1 Yonge-University: Delays|||Line 1 Yonge-University: Delays northbound at Bloor-Yonge station due to a security incident.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
 165 Weston Rd North: Detour east|||165 Weston Rd North: Detour eastbound via Beverly Hills Dr and Jane St due to a collision.
 149 Etobicoke-Bloor: Detour west|||149 Etobicoke-Bloor: Detour westbound via Prince Edward Dr N, Dundas St W and Islington Ave due to a demonstration.
