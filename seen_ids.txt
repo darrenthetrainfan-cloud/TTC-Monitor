@@ -6,5 +6,6 @@ Bessarion: Elevator 57P1L out of|||Bessarion: Elevator out of service between Sh
 304 King: Delays between King St|||304 King: Delays between King St West at Bathurst St East Side and King St West at Spadina Ave East Side due to planned work and congestion.
 504 King: Detour westbound via C|||504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.
 114 Queens Quay East: Detour wes|||114 Queens Quay East: Detour westbound via Yonge St, Wellington St W and Bay St due to a blocked road.
+116 Morningside: Detour westboun|||116 Morningside: Detour westbound via Casebridge Crt, Venture Dr, Water Tower Gt and Sheppard Ave E due to a collision.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
 Please look both ways|||Please look both ways for cyclists before exiting.
