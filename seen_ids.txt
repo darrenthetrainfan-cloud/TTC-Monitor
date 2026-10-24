@@ -7,7 +7,6 @@ Line 2 Bloor-Danforth: There is|||There is no subway service on Line 2 Bloor-Dan
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
 51 Leslie: Detour via O'connor D|||51 Leslie: Detour via O'connor Dr, Don Mills Rd and Overlea Blvd due to police activity.
 Please look both ways|||Please look both ways for cyclists before exiting.
-52 Lawrence West: Detour via Pin|||52 Lawrence West: Detour via Pine St, Church St and Culford Rd due to a collision.
 72 Pape: Detour northbound via O|||72 Pape: Detour northbound via O'connor Dr, Don Mills Rd and Overlea Blvd due to police activity.
 25 Don Mills: Detour via Donland|||25 Don Mills: Detour via Donlands Ave, O'connor Dr and Don Mills Rd due to police activity.
 504 King: Detour westbound via C|||504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.
