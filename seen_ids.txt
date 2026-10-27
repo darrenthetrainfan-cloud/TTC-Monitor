@@ -5,4 +5,3 @@ Line 1 Yonge-University: There i|||There is no subway service on Line 1 Yonge-Un
 Keelesdale: Elevator ELV01-A out|||Keelesdale: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance. Elevator is expected to be back in service October 27, 2026.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
 Please look both ways|||Please look both ways for cyclists before exiting.
-Line 1 Yonge-University: Delays|||Line 1 Yonge-University: Delays between St Andrew and St Clair West stations due to an operational issue.
