@@ -7,4 +7,5 @@ Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between pl
 Broadview: Elevator 6D2L out of|||Broadview: Elevator out of service between concourse and Line 2 eastbound platform while we perform maintenance.
 95 York Mills: Detour westbound|||95 York Mills: Detour westbound via Kennedy Rd, Sheppard Ave E and Birchmount Rd due to a Toronto fire investigation.
 Please look both ways|||Please look both ways for cyclists before exiting.
+97 Yonge: Detour northbound via|||97 Yonge: Detour northbound via Shuter St, Church Ave and Gerrard St E due to a blocked road.
 53 Steeles East: Detour via Maxo|||53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.
