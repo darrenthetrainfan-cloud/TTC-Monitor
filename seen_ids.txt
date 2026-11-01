@@ -9,4 +9,4 @@ Line 1 Yonge-University: Delays|||Line 1 Yonge-University: Delays northbound at 
 Broadview: Elevator 6D2L out of|||Broadview: Elevator out of service between concourse and Line 2 eastbound platform while we perform maintenance.
 95 York Mills: Detour westbound|||95 York Mills: Detour westbound via Kennedy Rd, Sheppard Ave E and Birchmount Rd due to a Toronto fire investigation.
 53 Steeles East: Detour via Maxo|||53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.
-504 King: Delays near King St We|||504 King: Delays near King St West at Spadina Ave East Side due to traffic congestion.
+504 King: Detour westbound via S|||504 King: Detour westbound via Spadina Ave, Queen St W and Shaw St due to traffic congestion.
