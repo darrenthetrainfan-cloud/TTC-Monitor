@@ -5,6 +5,7 @@ Line 1 Yonge-University: Delays|||Line 1 Yonge-University: Delays northbound at 
 984 Sheppard West Express: Buses|||984 Sheppard West Express: Bypass near Sheppard Ave West at Dufferin St - Sheppard West Station while we respond to a security incident.
 Cedarvale: Elevator 06-ELV-B out|||Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.
 Broadview: Elevator 6D2L out of|||Broadview: Elevator out of service between concourse and Line 2 eastbound platform while we perform maintenance.
+Leaside: Elevator ELV02-B out of|||Leaside: Elevator out of service between Eglinton Avenue north side entrance and concourse due to a technical problem.
 95 York Mills: Detour westbound|||95 York Mills: Detour westbound via Kennedy Rd, Sheppard Ave E and Birchmount Rd due to a Toronto fire investigation.
 Don Mills: Elevator 61P1L out of|||Don Mills: Elevator out of service between Sheppard Ave E north side entrance and concourse while we perform maintenance.
 Please look both ways|||Please look both ways for cyclists before exiting.
