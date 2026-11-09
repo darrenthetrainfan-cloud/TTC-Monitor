@@ -15,10 +15,6 @@
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
  },
- "511 Bathurst: Detour via Queen S": {
-  "desc": "511 Bathurst: Detour via Queen St E, Spadina Ave and King St E due to a collision.",
-  "header": "511 Bathurst: Detour via Queen S"
- },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
