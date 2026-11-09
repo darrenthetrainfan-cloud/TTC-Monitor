@@ -44,7 +44,7 @@ COLOR_RULES = [
 session = requests.Session()
 session.headers.update({"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0"})
 session.mount("https://", HTTPAdapter(max_retries=Retry(
-    total=3, backoff_factor=1, status_forcelist=(500, 502, 503, 504)
+    total=2, backoff_factor=1, status_forcelist=(500, 502, 503, 504)
 )))
 
 
@@ -116,7 +116,7 @@ def save_db(db):
 # ---------- 抓取 ----------
 def fetch_alerts():
     """返回 {key: {"header", "desc", "url"}}；失败抛异常，空 feed 返回 None 表示可疑"""
-    r = session.get(TTC_ALERTS_URL, timeout=15)
+    r = session.get(TTC_ALERTS_URL, timeout=(5, 15))
     r.raise_for_status()
     feed = gtfs_realtime_pb2.FeedMessage()
     feed.ParseFromString(r.content)
@@ -227,8 +227,10 @@ def check_alerts():
     try:
         current = fetch_alerts()
     except Exception as e:
-        print(f"Fetch Error: {e}")
-        return False
+        # TTC 偶尔连不上属于临时故障：跳过本次，等下一次定时运行，
+        # 并返回成功状态，避免 workflow 后面的 commit 步骤被跳过
+        print(f"Fetch failed, skipping this run: {e}")
+        return True
 
     if current is None:
         print("Feed returned no entities at all; skipping to avoid false 'resolved' spam.")
