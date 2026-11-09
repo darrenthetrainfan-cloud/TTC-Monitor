@@ -31,14 +31,21 @@ RED, BLUE, YELLOW, GREEN, PURPLE, ORANGE, GREY = (
 RESOLVED_GREEN = 5763719
 UPDATE_BLUE = 5793266
 
-# 按顺序匹配，用 \b 避免 "line 1" 误匹配 "line 10"
-COLOR_RULES = [
-    (BLUE,   r"elevator|escalator|wheel-trans|accessib"),
-    (YELLOW, r"\bline 1\b|yonge-university"),
-    (GREEN,  r"\bline 2\b|bloor-danforth"),
-    (PURPLE, r"\bline 4\b|sheppard"),
-    (ORANGE, r"\bline 5\b|eglinton"),
-    (GREY,   r"\bline 6\b|finch west"),
+NAVY = 2046611  # Blue Night 深蓝色 (#1F3A93)
+
+# 设施类（只看标题）
+FACILITY_RE = re.compile(r"elevator|escalator|wheel-trans|accessib")
+# 公交 / 有轨电车 / Blue Night：标题以线路号开头，例如 "36 Finch West: ..." "504A King: ..."
+ROUTE_RE = re.compile(r"^\s*(?:route\s*)?(\d{1,3})[a-z]?\b")
+# 地铁线路
+SUBWAY_LINE_RE = re.compile(r"\bline\s*([1-6])\b")
+SUBWAY_COLORS = {"1": YELLOW, "2": GREEN, "4": PURPLE, "5": ORANGE, "6": GREY}
+# 标题里没写 "Line N" 时的兜底名称（只用不会和公交线路重名的）
+SUBWAY_NAME_COLORS = [
+    (YELLOW, "yonge-university"),
+    (GREEN,  "bloor-danforth"),
+    (ORANGE, "eglinton crosstown"),
+    (GREY,   "finch west lrt"),
 ]
 
 session = requests.Session()
@@ -53,12 +60,34 @@ def truncate(text, limit):
     return text if len(text) <= limit else text[: limit - 1] + "…"
 
 
-def get_color(header, desc):
-    """先看标题，再看全文，防止描述里顺带提到别的线路导致颜色错误"""
-    for text in (header.lower(), f"{header} {desc}".lower()):
-        for color, pattern in COLOR_RULES:
-            if re.search(pattern, text):
-                return color
+def get_color(header, desc=""):
+    """
+    只根据标题判断，避免描述里顺带提到别的线路导致颜色错误。
+    优先级：设施 > Blue Night > 公交/街车 > 地铁 > 默认红
+    """
+    h = header.lower()
+
+    # 1. 设施类 -> 蓝色
+    if FACILITY_RE.search(h):
+        return BLUE
+
+    # 2. 以线路号开头 -> 公交 / 街车
+    m = ROUTE_RE.match(h)
+    if m:
+        # 300 系列（含 301/304/306/310 等夜间街车）是 Blue Night -> 深蓝
+        return NAVY if 300 <= int(m.group(1)) <= 399 else RED
+    if "blue night" in h:
+        return NAVY
+
+    # 3. 地铁 / LRT 线路 -> 各自颜色
+    m = SUBWAY_LINE_RE.search(h)
+    if m and m.group(1) in SUBWAY_COLORS:
+        return SUBWAY_COLORS[m.group(1)]
+    for color, name in SUBWAY_NAME_COLORS:
+        if name in h:
+            return color
+
+    # 4. 其他 -> TTC 红
     return RED
 
 
