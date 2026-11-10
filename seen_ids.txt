@@ -4,6 +4,10 @@
   "header": "31 Service Change"
  },
  "501 Queen: Detour eastbound via": {
+  "desc": "501 Queen: Detour eastbound via King St W, Dufferin St and Queen St W due to a blocked track.",
+  "header": "501 Queen: Detour eastbound via"
+ },
+ "501 Queen: Detour eastbound via #2": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
  },
