@@ -1,4 +1,8 @@
 {
+ "127 Davenport: Detour eastbound": {
+  "desc": "127 Davenport: Detour eastbound via Macpherson Ave, Kendal Ave and Davenport Rd due to construction.",
+  "header": "127 Davenport: Detour eastbound"
+ },
  "31 Service Change": {
   "desc": "Effective Monday, November 9, 31 Greenwood buses will divert via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
