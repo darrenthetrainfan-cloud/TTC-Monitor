@@ -19,6 +19,10 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
+ "69 Warden South: Detour southbou": {
+  "desc": "69 Warden South: Detour southbound via Hollis Ave and Birchcliff Ave due to construction.",
+  "header": "69 Warden South: Detour southbou"
+ },
  "75 Sherbourne: Detour northbound": {
   "desc": "75 Sherbourne: Detour northbound via Lakeshore Blvd E and Front St E due to construction.",
   "header": "75 Sherbourne: Detour northbound"
