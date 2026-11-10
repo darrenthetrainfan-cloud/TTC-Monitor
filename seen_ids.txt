@@ -50,9 +50,5 @@
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
- },
- "Queen's Park: Elevator 3Y1L out": {
-  "desc": "Queen's Park: Elevator out of service between College St northeast entrance and concourse while we perform maintenance.",
-  "header": "Queen's Park: Elevator 3Y1L out"
  }
 }
