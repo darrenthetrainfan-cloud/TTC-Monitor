@@ -23,14 +23,6 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
- "71 Runnymede: Detour northbound": {
-  "desc": "71 Runnymede: Detour northbound via Weston Rd, Black Creek Dr and Eglinton Ave W due to a collision.",
-  "header": "71 Runnymede: Detour northbound"
- },
- "89 Weston: Detour northbound via": {
-  "desc": "89 Weston: Detour northbound via Lambton Ave, Guestville Ave, Eglinton Ave E and Weston Rd due to a collision.",
-  "header": "89 Weston: Detour northbound via"
- },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
