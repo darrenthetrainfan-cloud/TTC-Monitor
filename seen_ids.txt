@@ -3,21 +3,9 @@
   "desc": "127 Davenport: Detour eastbound via Macpherson Ave, Kendal Ave and Davenport Rd due to construction.",
   "header": "127 Davenport: Detour eastbound"
  },
- "131 Nugget: Detour westbound via": {
-  "desc": "131 Nugget: Detour westbound via Midland Ave due to construction.",
-  "header": "131 Nugget: Detour westbound via"
- },
- "133 Neilson: Detour southbound v": {
-  "desc": "133 Neilson: Detour southbound via Midland Ave due to construction.",
-  "header": "133 Neilson: Detour southbound v"
- },
  "31 Service Change": {
   "desc": "Effective Monday, November 9, 31 Greenwood buses will divert via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
- },
- "38 Highland Creek: Detour westbo": {
-  "desc": "38 Highland Creek: Detour westbound via Midland Ave due to construction.",
-  "header": "38 Highland Creek: Detour westbo"
  },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
@@ -42,10 +30,6 @@
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
- },
- "938 Highland Creek Express: Deto": {
-  "desc": "938 Highland Creek Express: Detour westbound via Midland Ave due to construction.",
-  "header": "938 Highland Creek Express: Deto"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
