@@ -23,14 +23,6 @@
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
  },
- "505 Dundas: Detour eastbound via": {
-  "desc": "505 Dundas: Detour eastbound via Parliament St and Gerrard St E due to a blocked track.",
-  "header": "505 Dundas: Detour eastbound via"
- },
- "507 Long Branch: No service betw": {
-  "desc": "507 Long Branch: No service between Humber Loop at the Queensway and Lake Shore Blvd West at Kipling Ave due to a collision. Shuttle buses are running between Humber Loop at the Queensway and Lake Shore Blvd West at Kipling Ave.",
-  "header": "507 Long Branch: No service betw"
- },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
