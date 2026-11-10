@@ -55,6 +55,10 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
+ "Leslie: Elevator 59P1L out of se": {
+  "desc": "Leslie: Elevator out of service between bus platform, concourse and Line 4 centre platform while we perform maintenance.",
+  "header": "Leslie: Elevator 59P1L out of se"
+ },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
