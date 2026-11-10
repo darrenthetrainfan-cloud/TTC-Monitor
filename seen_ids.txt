@@ -7,8 +7,16 @@
   "desc": "Effective Monday, November 9, 31 Greenwood buses will divert via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
  },
+ "501 Queen: Detour eastbound via": {
+  "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
+  "header": "501 Queen: Detour eastbound via"
+ },
+ "501 Queen: Detour eastbound via #2": {
+  "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
+  "header": "501 Queen: Detour eastbound via"
+ },
  "501 Queen: Detour westbound via": {
-  "desc": "501 Queen: Detour westbound via Adelaide St W, Charlotte St and King St W while we deal with an operational problem.",
+  "desc": "501 Queen: Detour westbound via Adelaide St E, Charlotte St and King St W while we deal with an operational problem.",
   "header": "501 Queen: Detour westbound via"
  },
  "501B Service Change": {
