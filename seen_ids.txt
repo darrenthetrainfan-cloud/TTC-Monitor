@@ -1,4 +1,8 @@
 {
+ "167 Pharmacy North: Detour via D": {
+  "desc": "167 Pharmacy North: Detour via Don Mills Rd and Finch Ave E due to police activity.",
+  "header": "167 Pharmacy North: Detour via D"
+ },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
