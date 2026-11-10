@@ -51,6 +51,10 @@
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
  },
+ "Line 5 Eglinton: Delays eastboun": {
+  "desc": "Line 5 Eglinton: Delays eastbound at Laird station while the maintainer fixes a mechanical issue. Thank you for your patience. Line 5 is owned by Metrolinx, maintained by Crosslinx Transit Solutions Maintenance and proudly operated by the TTC.",
+  "header": "Line 5 Eglinton: Delays eastboun"
+ },
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
