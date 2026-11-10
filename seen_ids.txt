@@ -7,6 +7,10 @@
   "desc": "Effective Monday, November 9, 31 Greenwood buses will divert via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
  },
+ "501 Queen: Detour westbound via": {
+  "desc": "501 Queen: Detour westbound via Adelaide St W, Charlotte St and King St W while we deal with an operational problem.",
+  "header": "501 Queen: Detour westbound via"
+ },
  "501B Service Change": {
   "desc": "Effective Monday, November 9, eastbound 501B Queen buses will divert to Eastern Avenue between Leslie Street and Emdaabiimok Avenue due to construction.",
   "header": "501B Service Change"
@@ -18,6 +22,14 @@
  "504 King: Detour westbound via C": {
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
+ },
+ "510 Spadina: Detour southbound v": {
+  "desc": "510 Spadina: Detour southbound via Adelaide St W, Charlotte St and King St W while we deal with an operational problem.",
+  "header": "510 Spadina: Detour southbound v"
+ },
+ "511 Bathurst: Detour southbound": {
+  "desc": "511 Bathurst: Detour southbound via Adelaide St W, Charlotte St and King St W while we deal with an operational problem.",
+  "header": "511 Bathurst: Detour southbound"
  },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
@@ -46,6 +58,10 @@
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
+ },
+ "Line 1 Yonge-University: Delays": {
+  "desc": "Line 1 Yonge-University: Delays northbound at Cedarvale station due to a TPS investigation. Thank you for your patience.",
+  "header": "Line 1 Yonge-University: Delays"
  },
  "Line 1 Yonge-University: There i": {
   "desc": "Line 1 Yonge-University: There is limited subway service between Vaughan and Finch West stations due to structural maintenance. Thank you for your patience.",
