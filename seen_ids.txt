@@ -31,10 +31,6 @@
   "desc": "69 Warden South: Detour southbound via Hollis Ave and Birchcliff Ave due to construction.",
   "header": "69 Warden South: Detour southbou"
  },
- "75 Sherbourne: Detour northbound": {
-  "desc": "75 Sherbourne: Detour northbound via Lakeshore Blvd E and Front St E due to construction.",
-  "header": "75 Sherbourne: Detour northbound"
- },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
