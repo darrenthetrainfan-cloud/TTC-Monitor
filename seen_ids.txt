@@ -59,13 +59,13 @@
   "desc": "Leslie: Elevator out of service between bus platform, concourse and Line 4 centre platform while we perform maintenance.",
   "header": "Leslie: Elevator 59P1L out of se"
  },
- "Line 2 Bloor-Danforth: No servic": {
-  "desc": "Line 2 Bloor-Danforth: No service between Kipling and Islington stations due to a medical emergency. Thank you for your patience.",
-  "header": "Line 2 Bloor-Danforth: No servic"
- },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
+ },
+ "Line 5 Eglinton: No service betw": {
+  "desc": "Line 5 Eglinton: No service between Mount Dennis and Kennedy stations due to a server communications failure. Thank you for your patience.",
+  "header": "Line 5 Eglinton: No service betw"
  },
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
