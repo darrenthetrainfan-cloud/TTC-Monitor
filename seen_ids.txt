@@ -63,6 +63,10 @@
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
  },
+ "Main Street: Elevator 13D2L out": {
+  "desc": "Main Street: Elevator out of service between concourse and Line 2 westbound platform due to a technical problem.",
+  "header": "Main Street: Elevator 13D2L out"
+ },
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
