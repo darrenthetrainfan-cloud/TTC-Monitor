@@ -31,6 +31,10 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
+ "85 Sheppard East: Detour via Vic": {
+  "desc": "85 Sheppard East: Detour via Victoria Park Ave, Van Horne Ave and Don Mills Rd due to a collision.",
+  "header": "85 Sheppard East: Detour via Vic"
+ },
  "939 Finch Express: Detour via Mi": {
   "desc": "939 Finch Express: Detour via Midland Ave, Mcnicoll Ave and Kennedy Rd due to a blocked road.",
   "header": "939 Finch Express: Detour via Mi"
