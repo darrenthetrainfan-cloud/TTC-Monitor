@@ -63,10 +63,6 @@
   "desc": "Lansdowne: Elevator out of service between Lansdowne Avenue east side entrance and concourse while we perform maintenance.",
   "header": "Lansdowne: Elevator 7B1L out of"
  },
- "Line 2 Bloor-Danforth: No servic": {
-  "desc": "Line 2 Bloor-Danforth: No service between St George and Broadview stations due to an injury at track level. Shuttle buses are running. Thank you for your patience.",
-  "header": "Line 2 Bloor-Danforth: No servic"
- },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
