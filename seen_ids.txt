@@ -3,10 +3,6 @@
   "desc": "Effective Monday, November 9, 31 Greenwood buses will divert via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
  },
- "312 St Clair: No service between": {
-  "desc": "312 St Clair: No service between St Clair Station at Bay 1 and St Clair Ave West at Bathurst St West Side while we respond to a medical emergency.",
-  "header": "312 St Clair: No service between"
- },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
