@@ -1,4 +1,8 @@
 {
+ "27 Jane South: No service near J": {
+  "desc": "27 Jane South: No service near Jane Station at Bus Bay 5 due to construction.",
+  "header": "27 Jane South: No service near J"
+ },
  "31 Service Change": {
   "desc": "Effective Monday, November 9, 31 Greenwood buses will divert via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
