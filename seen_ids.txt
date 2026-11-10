@@ -27,10 +27,6 @@
   "desc": "506 Carlton: No service between Main Street Station at Bay 7 and Gerrard St East at Coxwell Ave due to a blocked track.",
   "header": "506 Carlton: No service between"
  },
- "506 Carlton: No service between #2": {
-  "desc": "506 Carlton: No service between Main Street Station at Bay 7 and Gerrard St East at Coxwell Ave due to a blocked track.",
-  "header": "506 Carlton: No service between"
- },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
