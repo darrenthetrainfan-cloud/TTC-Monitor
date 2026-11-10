@@ -4,10 +4,6 @@
   "header": "31 Service Change"
  },
  "501 Queen: Detour eastbound via": {
-  "desc": "501 Queen: Detour eastbound via King St W, Dufferin St and Queen St W due to a blocked track.",
-  "header": "501 Queen: Detour eastbound via"
- },
- "501 Queen: Detour eastbound via #2": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
  },
@@ -34,6 +30,10 @@
  "Cedarvale: Elevator ELV01-A out": {
   "desc": "Cedarvale: Elevator out of service between Line 5 platform, Line 1 southbound platform/west concourse, and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator ELV01-A out"
+ },
+ "Dundas West: Elevator 8B1L out o": {
+  "desc": "Dundas West: Elevator out of service between Dundas St W entrance and bus platform, concourse and Line 2 eastbound platform while we perform maintenance.",
+  "header": "Dundas West: Elevator 8B1L out o"
  },
  "Finch: Elevator out of service b": {
   "desc": "Finch: Elevator out of service between GO and YRT bus platform and fares concourse while we perform maintenance.",
