@@ -1,8 +1,4 @@
 {
- "127 Davenport: Detour eastbound": {
-  "desc": "127 Davenport: Detour eastbound via Macpherson Ave, Kendal Ave and Davenport Rd due to construction.",
-  "header": "127 Davenport: Detour eastbound"
- },
  "31 Service Change": {
   "desc": "Effective Monday, November 9, 31 Greenwood buses will divert via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
@@ -64,7 +60,7 @@
   "header": "Line 2 Bloor-Danforth: Trains ar"
  },
  "Line 5 Eglinton: No service betw": {
-  "desc": "Line 5 Eglinton: No service between Mount Dennis and Kennedy stations due to a server communications failure. Thank you for your patience.",
+  "desc": "Line 5 Eglinton: No service between Mount Dennis and Kennedy stations due to a server communications failure. Shuttle buses are on the way. Thank you for your patience.",
   "header": "Line 5 Eglinton: No service betw"
  },
  "Please look both ways": {
