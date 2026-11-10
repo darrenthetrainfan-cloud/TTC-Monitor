@@ -1,4 +1,8 @@
 {
+ "31 Service Change": {
+  "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
+  "header": "31 Service Change"
+ },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St W, Dufferin St and Queen St W due to a blocked track.",
   "header": "501 Queen: Detour eastbound via"
