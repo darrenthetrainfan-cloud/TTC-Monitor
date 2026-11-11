@@ -7,10 +7,6 @@
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
  },
- "39 Finch East: Detour via Midlan": {
-  "desc": "39 Finch East: Detour via Midland Ave, Mcnicoll Ave and Kennedy Rd due to a blocked road.",
-  "header": "39 Finch East: Detour via Midlan"
- },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
@@ -38,10 +34,6 @@
  "85 Sheppard East: Detour via Vic": {
   "desc": "85 Sheppard East: Detour via Victoria Park Ave, Van Horne Ave and Don Mills Rd due to a collision.",
   "header": "85 Sheppard East: Detour via Vic"
- },
- "939 Finch Express: Detour via Mi": {
-  "desc": "939 Finch Express: Detour via Midland Ave, Mcnicoll Ave and Kennedy Rd due to a blocked road.",
-  "header": "939 Finch Express: Detour via Mi"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
