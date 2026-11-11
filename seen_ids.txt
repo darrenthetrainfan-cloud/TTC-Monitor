@@ -3,6 +3,10 @@
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
  },
+ "41 Keele: Detour via Toro Rd, Ta": {
+  "desc": "41 Keele: Detour via Toro Rd, Tangiers Rd and Four Winds Dr due to a collision.",
+  "header": "41 Keele: Detour via Toro Rd, Ta"
+ },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
@@ -22,6 +26,10 @@
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
+ },
+ "941 Keele Express: Detour northb": {
+  "desc": "941 Keele Express: Detour northbound via Toro Rd, Tangiers Rd and Four Winds Dr due to a collision.",
+  "header": "941 Keele Express: Detour northb"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
