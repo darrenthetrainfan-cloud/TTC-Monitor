@@ -31,14 +31,6 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
- "60 Steeles West: Detour westboun": {
-  "desc": "60 Steeles West: Detour westbound via Allness, Finch Ave E, Sentinel Rd, The Pond Rd, Northwest Gate and Pioneer Village due to police activity.",
-  "header": "60 Steeles West: Detour westboun"
- },
- "960 Steeles West Express: Detour": {
-  "desc": "960 Steeles West Express: Detour via Allness, Finch Ave E, Sentinel Rd, The Pond Rd, Northwest Gate and Pioneer Village due to police activity.",
-  "header": "960 Steeles West Express: Detour"
- },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
