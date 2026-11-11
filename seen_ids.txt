@@ -47,6 +47,10 @@
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
  },
+ "Line 5 Eglinton: Trains are not": {
+  "desc": "Line 5 Eglinton: Bypass at Oakwood station due to a security incident. Thank you for your patience.",
+  "header": "Line 5 Eglinton: Trains are not"
+ },
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
