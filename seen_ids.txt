@@ -35,6 +35,10 @@
   "desc": "Dundas West: Elevator out of service between Dundas St W entrance and bus platform, concourse and Line 2 eastbound platform while we perform maintenance.",
   "header": "Dundas West: Elevator 8B1L out o"
  },
+ "Finch: Elevator 22Y1L out of ser": {
+  "desc": "Finch: Elevator out of service between fares concourse and Line 1 centre platform while we perform maintenance.",
+  "header": "Finch: Elevator 22Y1L out of ser"
+ },
  "Finch: Elevator out of service b": {
   "desc": "Finch: Elevator out of service between GO and YRT bus platform and fares concourse while we perform maintenance.",
   "header": "Finch: Elevator out of service b"
