@@ -55,13 +55,13 @@
   "desc": "Lansdowne: Elevator out of service between Lansdowne Avenue east side entrance and concourse while we perform maintenance.",
   "header": "Lansdowne: Elevator 7B1L out of"
  },
+ "Line 2 Bloor-Danforth: Delays ea": {
+  "desc": "Line 2 Bloor-Danforth: Delays eastbound at Coxwell station due to a medical emergency. Thank you for your patience.",
+  "header": "Line 2 Bloor-Danforth: Delays ea"
+ },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
- },
- "Line 5 Eglinton: Delays between": {
-  "desc": "Line 5 Eglinton: Delays between Mount Dennis and Kennedy stations while the maintainer fixes a signal issue. Thank you for your patience. Line 5 is owned by Metrolinx, maintained by Crosslinx Transit Solutions Maintenance and proudly operated by the TTC.",
-  "header": "Line 5 Eglinton: Delays between"
  },
  "Pape: Elevator 8D1L out of servi": {
   "desc": "Pape: Elevator out of service between Pape Ave entrance, concourse and Line 2 westbound platform while we perform maintenance.",
