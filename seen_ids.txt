@@ -35,9 +35,9 @@
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
  },
- "Davisville: Elevator 17Y4L out o": {
-  "desc": "Davisville: Elevator out of service between bus platform and concourse while we perform maintenance.",
-  "header": "Davisville: Elevator 17Y4L out o"
+ "Davisville: Elevator 17Y2L out o": {
+  "desc": "Davisville: Elevator out of service between concourse and Line 1 southbound platform while we perform maintenance.",
+  "header": "Davisville: Elevator 17Y2L out o"
  },
  "Dundas West: Elevator 8B1L out o": {
   "desc": "Dundas West: Elevator out of service between Dundas St W entrance and bus platform, concourse and Line 2 eastbound platform while we perform maintenance.",
@@ -52,7 +52,7 @@
   "header": "Have proof of payment ready for"
  },
  "Line 2 Bloor-Danforth: No servic": {
-  "desc": "Line 2 Bloor-Danforth: No service between Keele and Ossington stations due to a security incident. Shuttle buses are on the way. Thank you for your patience.",
+  "desc": "Line 2 Bloor-Danforth: No service between Keele and Ossington stations due to a security incident. Shuttle buses are running between Keele and Ossington. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: No servic"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
