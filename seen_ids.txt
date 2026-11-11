@@ -74,5 +74,9 @@
  "Spadina: Elevator 2B1L out of se": {
   "desc": "Spadina: Elevator out of service between Spadina Rd east side entrance and concourse while we perform maintenance.",
   "header": "Spadina: Elevator 2B1L out of se"
+ },
+ "St Andrew: Elevator out of servi": {
+  "desc": "St Andrew: Elevator out of service between 145 King St W entrance and concourse due to a technical problem.",
+  "header": "St Andrew: Elevator out of servi"
  }
 }
