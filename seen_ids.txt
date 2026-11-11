@@ -78,9 +78,5 @@
  "Royal York: Elevator 14B3L out o": {
   "desc": "Royal York: Elevator out of service between west concourse and Line 2 eastbound platform while we perform maintenance.",
   "header": "Royal York: Elevator 14B3L out o"
- },
- "Spadina: Elevator 2B1L out of se": {
-  "desc": "Spadina: Elevator out of service between Spadina Rd east side entrance and concourse while we perform maintenance.",
-  "header": "Spadina: Elevator 2B1L out of se"
  }
 }
