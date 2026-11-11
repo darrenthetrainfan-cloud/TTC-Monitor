@@ -1,4 +1,8 @@
 {
+ "11 Bayview: Buses are not stoppi": {
+  "desc": "11 Bayview: Bypass near Hospital Rd at Wellness Way East Side - Sunnybrook Main Entr due to an event.",
+  "header": "11 Bayview: Buses are not stoppi"
+ },
  "15 Evans: Detour via Norseman St": {
   "desc": "15 Evans: Detour via Norseman St, Islington Ave and The Queensway due to a Toronto fire investigation.",
   "header": "15 Evans: Detour via Norseman St"
@@ -50,10 +54,6 @@
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
- },
- "Line 2 Bloor-Danforth: No servic": {
-  "desc": "Line 2 Bloor-Danforth: No service between Keele and Ossington stations due to a security incident. Shuttle buses are running between Keele and Ossington. Thank you for your patience.",
-  "header": "Line 2 Bloor-Danforth: No servic"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
