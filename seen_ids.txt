@@ -51,6 +51,10 @@
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
  },
+ "Queen's Park: Elevator 3Y2L out": {
+  "desc": "Queen's Park: Elevator out of service between concourse and Line 1 centre platform while we perform maintenance.",
+  "header": "Queen's Park: Elevator 3Y2L out"
+ },
  "Royal York: Elevator 14B1L out o": {
   "desc": "Royal York: Elevator out of service between Royal York Rd entrance and west concourse while we perform maintenance.",
   "header": "Royal York: Elevator 14B1L out o"
