@@ -1,8 +1,4 @@
 {
- "15 Evans: Detour via Norseman St": {
-  "desc": "15 Evans: Detour via Norseman St, Islington Ave and The Queensway due to a Toronto fire investigation.",
-  "header": "15 Evans: Detour via Norseman St"
- },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
@@ -31,17 +27,9 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
- "76 Royal York South: Detour via": {
-  "desc": "76 Royal York South: Detour via Norseman St, Islington Ave and The Queensway due to a Toronto fire investigation.",
-  "header": "76 Royal York South: Detour via"
- },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
- },
- "Davisville: Elevator 17Y3L out o": {
-  "desc": "Davisville: Elevator out of service between concourse and Line 1 northbound platform while we perform maintenance.",
-  "header": "Davisville: Elevator 17Y3L out o"
  },
  "Dundas West: Elevator 8B1L out o": {
   "desc": "Dundas West: Elevator out of service between Dundas St W entrance and bus platform, concourse and Line 2 eastbound platform while we perform maintenance.",
@@ -58,6 +46,10 @@
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
+ },
+ "Pape: Elevator 8D1L out of servi": {
+  "desc": "Pape: Elevator out of service between Pape Ave entrance, concourse and Line 2 westbound platform while we perform maintenance.",
+  "header": "Pape: Elevator 8D1L out of servi"
  },
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
