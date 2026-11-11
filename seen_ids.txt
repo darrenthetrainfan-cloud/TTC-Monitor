@@ -3,9 +3,9 @@
   "desc": "116 Morningside: Detour eastbound via Sewells Rd, Littles Rd and Old Finch Ave due to a collision.",
   "header": "116 Morningside: Detour eastboun"
  },
- "16 Mccowan: Detour via Brimorton": {
-  "desc": "16 Mccowan: Detour via Brimorton Dr, Brimley Rd S and Lawrence Ave E due to a collision.",
-  "header": "16 Mccowan: Detour via Brimorton"
+ "16 Mccowan: Detour southbound vi": {
+  "desc": "16 Mccowan: Detour southbound via Brimorton Dr, Brimley Rd S and Lawrence Ave E due to a collision.",
+  "header": "16 Mccowan: Detour southbound vi"
  },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
