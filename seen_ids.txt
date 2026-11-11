@@ -63,10 +63,6 @@
   "desc": "Royal York: Elevator out of service between west concourse and Line 2 westbound platform while we perform maintenance.",
   "header": "Royal York: Elevator 14B2L out o"
  },
- "Royal York: Elevator 14B2L out o #2": {
-  "desc": "Royal York: Elevator out of service between west concourse and Line 2 westbound platform while we perform maintenance.",
-  "header": "Royal York: Elevator 14B2L out o"
- },
  "Royal York: Elevator 14B3L out o": {
   "desc": "Royal York: Elevator out of service between west concourse and Line 2 eastbound platform while we perform maintenance.",
   "header": "Royal York: Elevator 14B3L out o"
