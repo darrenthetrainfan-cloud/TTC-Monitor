@@ -1,8 +1,4 @@
 {
- "11 Bayview: Buses are not stoppi": {
-  "desc": "11 Bayview: Bypass near Hospital Rd at Wellness Way East Side - Sunnybrook Main Entr due to an event.",
-  "header": "11 Bayview: Buses are not stoppi"
- },
  "15 Evans: Detour via Norseman St": {
   "desc": "15 Evans: Detour via Norseman St, Islington Ave and The Queensway due to a Toronto fire investigation.",
   "header": "15 Evans: Detour via Norseman St"
