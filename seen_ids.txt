@@ -7,10 +7,6 @@
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
  },
- "501 Queen: No service between Qu": {
-  "desc": "501 Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we deal with a disruptive customer.",
-  "header": "501 Queen: No service between Qu"
- },
  "501B Service Change": {
   "desc": "501B Queen buses are diverting both ways to Eastern Avenue between Leslie Street and Emdaabiimok / Coxwell Avenue due to construction.",
   "header": "501B Service Change"
@@ -22,6 +18,10 @@
  "504 King: Detour westbound via C": {
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
+ },
+ "512 St Clair: No service between": {
+  "desc": "512 St Clair: No service between St Clair West Station at Bay 3 and St Clair Station at Bay 2 due to a Toronto Police investigation.",
+  "header": "512 St Clair: No service between"
  },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
