@@ -24,7 +24,7 @@
   "header": "504 King: Detour westbound via C"
  },
  "505 Dundas: Detour westbound via": {
-  "desc": "505 Dundas: Detour westbound via Ossington Ave and College St due to a power failure.",
+  "desc": "505 Dundas: Detour westbound via Ossington Ave and College St while we fix a mechanical problem.",
   "header": "505 Dundas: Detour westbound via"
  },
  "53 Steeles East: Detour via Maxo": {
