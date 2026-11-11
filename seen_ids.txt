@@ -1,4 +1,8 @@
 {
+ "306 Carlton: No service between": {
+  "desc": "306 Carlton: No service between Howard Park Ave at Parkside Dr East Side and College St at Lansdowne Ave while we respond to a medical emergency.",
+  "header": "306 Carlton: No service between"
+ },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
