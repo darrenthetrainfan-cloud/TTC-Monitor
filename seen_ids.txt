@@ -1,14 +1,14 @@
 {
+ "15 Evans: Detour via Norseman St": {
+  "desc": "15 Evans: Detour via Norseman St, Islington Ave and The Queensway due to a Toronto fire investigation.",
+  "header": "15 Evans: Detour via Norseman St"
+ },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
  },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
-  "header": "501 Queen: Detour eastbound via"
- },
- "501 Queen: Detour eastbound via #2": {
-  "desc": "501 Queen: Detour eastbound via Adelaide St W, Church St, King St E and Parliament St while we respond to a medical emergency.",
   "header": "501 Queen: Detour eastbound via"
  },
  "501B Service Change": {
@@ -26,6 +26,10 @@
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
+ },
+ "76 Royal York South: Detour via": {
+  "desc": "76 Royal York South: Detour via Norseman St, Islington Ave and The Queensway due to a Toronto fire investigation.",
+  "header": "76 Royal York South: Detour via"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
