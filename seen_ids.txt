@@ -23,6 +23,10 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
+ "72 Pape: No service between Over": {
+  "desc": "72 Pape: No service between Overlea Blvd at Thorncliffe Park Dr (West) and Thorncliffe Park Dr (East) at Overlea Blvd due to a collision.",
+  "header": "72 Pape: No service between Over"
+ },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
@@ -70,5 +74,9 @@
  "Royal York: Elevator 14B3L out o": {
   "desc": "Royal York: Elevator out of service between west concourse and Line 2 eastbound platform while we perform maintenance.",
   "header": "Royal York: Elevator 14B3L out o"
+ },
+ "Spadina: Elevator 2B1L out of se": {
+  "desc": "Spadina: Elevator out of service between Spadina Rd east side entrance and concourse while we perform maintenance.",
+  "header": "Spadina: Elevator 2B1L out of se"
  }
 }
