@@ -3,9 +3,9 @@
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
  },
- "41 Keele: Detour via Toro Rd, Ta": {
-  "desc": "41 Keele: Detour via Toro Rd, Tangiers Rd and Four Winds Dr due to a collision.",
-  "header": "41 Keele: Detour via Toro Rd, Ta"
+ "41 Keele: Detour northbound via": {
+  "desc": "41 Keele: Detour northbound via Toro Rd, Tangiers Rd and Four Winds Dr due to a collision.",
+  "header": "41 Keele: Detour northbound via"
  },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
@@ -22,10 +22,6 @@
  "504 King: Detour westbound via C": {
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
- },
- "506 Carlton: No service between": {
-  "desc": "506 Carlton: No service between High Park Loop and College St at Lansdowne Ave while we respond to a medical emergency.",
-  "header": "506 Carlton: No service between"
  },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
@@ -56,6 +52,10 @@
   "header": "Have proof of payment ready for"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
+  "desc": "Line 2 Bloor-Danforth: Bypass westbound at Coxwell station due to a mechanical issue. Thank you for your patience.",
+  "header": "Line 2 Bloor-Danforth: Trains ar"
+ },
+ "Line 2 Bloor-Danforth: Trains ar #2": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
  },
