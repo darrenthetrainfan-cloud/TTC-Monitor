@@ -47,6 +47,10 @@
   "desc": "Finch: Elevator out of service between GO and YRT bus platform and fares concourse while we perform maintenance.",
   "header": "Finch: Elevator out of service b"
  },
+ "Forest Hill: Elevator ELV02-B ou": {
+  "desc": "Forest Hill: Elevator out of service between Eglinton Avenue north east side entrance and concourse while we perform maintenance. Elevator is expected to be back in service November 11, 2026.",
+  "header": "Forest Hill: Elevator ELV02-B ou"
+ },
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
