@@ -3,10 +3,6 @@
   "desc": "160 Bathurst North: Detour southbound via Centre St and Bathurst St due to police activity.",
   "header": "160 Bathurst North: Detour south"
  },
- "167 Pharmacy North: Detour via D": {
-  "desc": "167 Pharmacy North: Detour via Don Mills Rd and Finch Ave E due to police activity.",
-  "header": "167 Pharmacy North: Detour via D"
- },
  "24 Victoria Park: Detour via She": {
   "desc": "24 Victoria Park: Detour via Sheppard Ave E, Victoria Park Ave and Van Horne Ave due to a collision.",
   "header": "24 Victoria Park: Detour via She"
