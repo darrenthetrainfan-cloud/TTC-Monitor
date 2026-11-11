@@ -23,10 +23,6 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
- "72 Pape: No service between Over": {
-  "desc": "72 Pape: No service between Overlea Blvd at Thorncliffe Park Dr (West) and Thorncliffe Park Dr (East) at Overlea Blvd due to a collision.",
-  "header": "72 Pape: No service between Over"
- },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
