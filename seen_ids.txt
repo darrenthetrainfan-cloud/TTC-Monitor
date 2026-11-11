@@ -23,10 +23,6 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
- "87 Cosburn: Detour via Greenwood": {
-  "desc": "87 Cosburn: Detour via Greenwood Ave, Mortimer Ave and Woodbine Ave due to an event.",
-  "header": "87 Cosburn: Detour via Greenwood"
- },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
