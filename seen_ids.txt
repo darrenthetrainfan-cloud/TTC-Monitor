@@ -27,10 +27,6 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
- "75 Sherbourne: Detour via Lakesh": {
-  "desc": "75 Sherbourne: Detour via Lakeshore Blvd E and Lower Sherbourne St due to construction.",
-  "header": "75 Sherbourne: Detour via Lakesh"
- },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
