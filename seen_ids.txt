@@ -27,6 +27,10 @@
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
  },
+ "Cedarvale: Elevator 4S1L out of": {
+  "desc": "Cedarvale: Elevator out of service between Bus Terminal entrance and Line 1 northbound platform due to a technical problem.",
+  "header": "Cedarvale: Elevator 4S1L out of"
+ },
  "Dundas West: Elevator 8B1L out o": {
   "desc": "Dundas West: Elevator out of service between Dundas St W entrance and bus platform, concourse and Line 2 eastbound platform while we perform maintenance.",
   "header": "Dundas West: Elevator 8B1L out o"
