@@ -1,7 +1,7 @@
 {
- "16 Mccowan: Detour southbound vi": {
-  "desc": "16 Mccowan: Detour southbound via Bellechasse St, Benshire Dr and Benleigh Dr due to a collision.",
-  "header": "16 Mccowan: Detour southbound vi"
+ "16 Mccowan: Detour via Brimorton": {
+  "desc": "16 Mccowan: Detour via Brimorton Dr, Brimley Rd S and Lawrence Ave E due to a collision.",
+  "header": "16 Mccowan: Detour via Brimorton"
  },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
