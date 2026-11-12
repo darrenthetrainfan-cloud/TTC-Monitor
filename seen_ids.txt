@@ -51,6 +51,10 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
+ "Line 1 Yonge-University: Delays": {
+  "desc": "Line 1 Yonge-University: Delays northbound at Bloor-Yonge station due to an emergency alarm on board a train. Thank you for your patience.",
+  "header": "Line 1 Yonge-University: Delays"
+ },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
