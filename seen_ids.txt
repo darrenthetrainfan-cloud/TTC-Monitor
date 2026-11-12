@@ -7,9 +7,17 @@
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
  },
+ "501 Queen: Detour eastbound via #2": {
+  "desc": "501 Queen: Detour eastbound via Adelaide St E and Sherbourne St due to a downed wire.",
+  "header": "501 Queen: Detour eastbound via"
+ },
  "501 Queen: Detour via Church St,": {
   "desc": "501 Queen: Detour via Church St, Parliament St, King St E and Church St due to a downed wire.",
   "header": "501 Queen: Detour via Church St,"
+ },
+ "501 Queen: Detour westbound via": {
+  "desc": "501 Queen: Detour westbound via Sherbourne St, Richmond St E and Church St due to a downed wire.",
+  "header": "501 Queen: Detour westbound via"
  },
  "501B Service Change": {
   "desc": "501B Queen buses are diverting both ways to Eastern Avenue between Leslie Street and Emdaabiimok / Coxwell Avenue due to construction.",
