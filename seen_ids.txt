@@ -15,10 +15,6 @@
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
  },
- "501 Queen: Detour westbound via": {
-  "desc": "501 Queen: Detour westbound via Spadina Ave, King St W and Shaw St while we respond to a medical emergency.",
-  "header": "501 Queen: Detour westbound via"
- },
  "501B Service Change": {
   "desc": "501B Queen buses are diverting both ways to Eastern Avenue between Leslie Street and Emdaabiimok / Coxwell Avenue due to construction.",
   "header": "501B Service Change"
