@@ -66,5 +66,9 @@
  "Queen's Park: Elevator 3Y2L out": {
   "desc": "Queen's Park: Elevator out of service between concourse and Line 1 centre platform while we perform maintenance.",
   "header": "Queen's Park: Elevator 3Y2L out"
+ },
+ "St George: Elevator 1Y2L out of": {
+  "desc": "St George: Elevator out of service between Bedford Rd west side entrance and concourse while we perform maintenance.",
+  "header": "St George: Elevator 1Y2L out of"
  }
 }
