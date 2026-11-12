@@ -4,8 +4,12 @@
   "header": "104 Faywood: Detour via Sheppard"
  },
  "129 Mccowan North: Detour southb": {
-  "desc": "129 Mccowan North: Detour southbound via Lawrence Ave E, Midland Ave and Eglinton Ave E while we fix a mechanical problem.",
+  "desc": "129 Mccowan North: Detour southbound via Lawrence Ave E, Midland Ave and Eglinton Ave E while we respond to a medical emergency.",
   "header": "129 Mccowan North: Detour southb"
+ },
+ "133 Neilson: Detour southbound v": {
+  "desc": "133 Neilson: Detour southbound via Ellesmere Rd, Midland Ave and Eglinton Ave E while we respond to a medical emergency.",
+  "header": "133 Neilson: Detour southbound v"
  },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
