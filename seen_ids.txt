@@ -1,6 +1,6 @@
 {
  "103 Mount Pleasant North: Detour": {
-  "desc": "103 Mount Pleasant North: Detour northbound via Lawrence Ave E, Ronan Ave and Ranleigh Ave due to a blocked road.",
+  "desc": "103 Mount Pleasant North: Detour northbound via Lawrence Ave E, Ronan Ave and Ranleigh Ave due to construction.",
   "header": "103 Mount Pleasant North: Detour"
  },
  "31 Service Change": {
