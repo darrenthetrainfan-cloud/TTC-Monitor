@@ -23,6 +23,10 @@
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
  },
+ "52 Lawrence West: Detour via Wan": {
+  "desc": "52 Lawrence West: Detour via Wanless Ave and Preston Rd due to construction.",
+  "header": "52 Lawrence West: Detour via Wan"
+ },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
