@@ -31,10 +31,6 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
- "7 Bathurst: Detour southbound vi": {
-  "desc": "7 Bathurst: Detour southbound via Dewbourne Ave, Chiltern Hill Rd and Strathearn Rd due to a collision.",
-  "header": "7 Bathurst: Detour southbound vi"
- },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
