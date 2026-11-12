@@ -55,6 +55,10 @@
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
  },
+ "Mount Dennis: Elevator ELV03-C o": {
+  "desc": "Mount Dennis: Elevator out of service between Line 5 concourse and grade (PPUDO entrance) while we perform maintenance.",
+  "header": "Mount Dennis: Elevator ELV03-C o"
+ },
  "Oakwood: Elevator ELV02-B out of": {
   "desc": "Oakwood: Elevator out of service between concourse and Eglinton Avenue north side entrance while we perform maintenance.",
   "header": "Oakwood: Elevator ELV02-B out of"
@@ -70,10 +74,6 @@
  "Queen's Park: Elevator 3Y2L out": {
   "desc": "Queen's Park: Elevator out of service between concourse and Line 1 centre platform while we perform maintenance.",
   "header": "Queen's Park: Elevator 3Y2L out"
- },
- "Rosedale: Elevator 14Y1L out of": {
-  "desc": "Rosedale: Elevator out of service between Cresent Road entrance and Line 1 sourthbound platform while we perform maintenance.",
-  "header": "Rosedale: Elevator 14Y1L out of"
  },
  "Royal York: Elevator 14B1L out o": {
   "desc": "Royal York: Elevator out of service between Royal York Rd entrance and west concourse while we perform maintenance. Elevator is expected to be back in service November 20, 2026.",
