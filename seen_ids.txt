@@ -1,4 +1,12 @@
 {
+ "104 Faywood: Detour via Sheppard": {
+  "desc": "104 Faywood: Detour via Sheppard Ave W, Goddard St and Codsell Ave due to a collision.",
+  "header": "104 Faywood: Detour via Sheppard"
+ },
+ "129 Mccowan North: Detour southb": {
+  "desc": "129 Mccowan North: Detour southbound via Lawrence Ave E, Midland Ave and Eglinton Ave E while we fix a mechanical problem.",
+  "header": "129 Mccowan North: Detour southb"
+ },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
