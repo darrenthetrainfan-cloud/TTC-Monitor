@@ -27,6 +27,10 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
+ "Broadview: Elevator 6D2L out of": {
+  "desc": "Broadview: Elevator out of service between concourse and Line 2 eastbound platform while we perform maintenance.",
+  "header": "Broadview: Elevator 6D2L out of"
+ },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
