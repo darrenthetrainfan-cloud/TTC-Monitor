@@ -35,6 +35,10 @@
   "desc": "71 Runnymede: Detour southbound via Castleton Ave and Liverpool St due to construction.",
   "header": "71 Runnymede: Detour southbound"
  },
+ "72 Pape: Detour northbound via L": {
+  "desc": "72 Pape: Detour northbound via Lakeshore Blvd E, Leslie St and Queen St E due to a collision.",
+  "header": "72 Pape: Detour northbound via L"
+ },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
