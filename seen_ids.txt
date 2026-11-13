@@ -7,6 +7,10 @@
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
  },
+ "43 Kennedy: Detour southbound vi": {
+  "desc": "43 Kennedy: Detour southbound via Midland Ave and Mcnicoll Ave due to construction.",
+  "header": "43 Kennedy: Detour southbound vi"
+ },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
