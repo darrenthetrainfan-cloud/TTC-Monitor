@@ -3,10 +3,6 @@
   "desc": "300 Bloor-Danforth: Detour via Bay St, Davenport Rd, Church St and Bloor St W due to crane lift and construction.",
   "header": "300 Bloor-Danforth: Detour via B"
  },
- "306 Carlton: Detour eastbound vi": {
-  "desc": "306 Carlton: Detour eastbound via Ossington Ave, Dundas St W and College St due to police activity.",
-  "header": "306 Carlton: Detour eastbound vi"
- },
  "306 Carlton: No service between": {
   "desc": "306 Carlton: No service between Gerrard St East at Coxwell Ave and Gerrard St East at Broadview Ave while we respond to a medical emergency.",
   "header": "306 Carlton: No service between"
