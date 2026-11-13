@@ -1,4 +1,8 @@
 {
+ "185 Sheppard Central: Detour via": {
+  "desc": "185 Sheppard Central: Detour via Burbank, Arrowstook Rd and Blue Ridge Rd due to a collision.",
+  "header": "185 Sheppard Central: Detour via"
+ },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
