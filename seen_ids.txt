@@ -4,10 +4,6 @@
   "header": "300 Bloor-Danforth: Detour via B"
  },
  "306 Carlton: Detour eastbound vi": {
-  "desc": "306 Carlton: Detour eastbound via Ossington Ave, Dundas St E and Spadina Station due to a blocked track.",
-  "header": "306 Carlton: Detour eastbound vi"
- },
- "306 Carlton: Detour eastbound vi #2": {
   "desc": "306 Carlton: Detour eastbound via Ossington Ave, Dundas St W and College St due to police activity.",
   "header": "306 Carlton: Detour eastbound vi"
  },
