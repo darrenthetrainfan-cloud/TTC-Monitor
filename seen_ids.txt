@@ -19,6 +19,10 @@
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
  },
+ "507 Long Branch: No service betw": {
+  "desc": "507 Long Branch: No service between Lake Shore Blvd West at Kipling Ave and Long Branch Loop due to a collision.",
+  "header": "507 Long Branch: No service betw"
+ },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
@@ -66,6 +70,10 @@
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
+ },
+ "Leslie: Elevator 59P2L out of se": {
+  "desc": "Leslie: Elevator out of service between Leslie St entrance and Line 4 centre platform while we perform maintenance.",
+  "header": "Leslie: Elevator 59P2L out of se"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
