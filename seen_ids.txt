@@ -15,10 +15,6 @@
   "desc": "503 Kingston Rd buses are diverting to Eastern Avenue between Leslie Street and Emdaabiimok / Coxwell Avenue due to construction.",
   "header": "503 Service Change"
  },
- "504 King: Detour eastbound via D": {
-  "desc": "504 King: Detour eastbound via Dufferin St, Queen St E and Shaw St due to a blocked track.",
-  "header": "504 King: Detour eastbound via D"
- },
  "504 King: Detour westbound via C": {
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
