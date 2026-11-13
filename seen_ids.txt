@@ -1,4 +1,8 @@
 {
+ "10 Van Horne: Detour eastbound v": {
+  "desc": "10 Van Horne: Detour eastbound via Don Mills Rd, Seneca Ave, Van Horne Ave, Shaughnessy Blvd and Goodview Rd due to a collision.",
+  "header": "10 Van Horne: Detour eastbound v"
+ },
  "25 Don Mills: Detour southbound": {
   "desc": "25 Don Mills: Detour southbound via Van Horne Ave, Shaughnessy Blvd and Goodview Rd due to a collision.",
   "header": "25 Don Mills: Detour southbound"
