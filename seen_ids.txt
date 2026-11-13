@@ -1,8 +1,4 @@
 {
- "24B Victoria Park: Detour via Yo": {
-  "desc": "24B Victoria Park: Detour via Yorkland Rd and Sheppard Ave E due to a blocked road.",
-  "header": "24B Victoria Park: Detour via Yo"
- },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
