@@ -58,17 +58,5 @@
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
- },
- "Royal York: Elevator 14B1L out o": {
-  "desc": "Royal York: Elevator out of service between Royal York Rd entrance and west concourse while we perform maintenance.",
-  "header": "Royal York: Elevator 14B1L out o"
- },
- "Royal York: Elevator 14B2L out o": {
-  "desc": "Royal York: Elevator out of service between west concourse and Line 2 westbound platform while we perform maintenance.",
-  "header": "Royal York: Elevator 14B2L out o"
- },
- "Royal York: Elevator 14B3L out o": {
-  "desc": "Royal York: Elevator out of service between west concourse and Line 2 eastbound platform while we perform maintenance.",
-  "header": "Royal York: Elevator 14B3L out o"
  }
 }
