@@ -70,9 +70,5 @@
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
- },
- "Queen's Quay: Elevator 2HF1L out": {
-  "desc": "Queen's Quay: Elevator out of service between Bay Street west side entrance and westbound streetcars while we perform maintenance.",
-  "header": "Queen's Quay: Elevator 2HF1L out"
  }
 }
