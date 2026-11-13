@@ -7,10 +7,6 @@
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
  },
- "501 Queen: No service between Qu": {
-  "desc": "501 Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we respond to a medical emergency.",
-  "header": "501 Queen: No service between Qu"
- },
  "501B Service Change": {
   "desc": "501B Queen buses are diverting both ways to Eastern Avenue between Leslie Street and Emdaabiimok / Coxwell Avenue due to construction.",
   "header": "501B Service Change"
@@ -23,10 +19,6 @@
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
  },
- "507 Long Branch: No service betw": {
-  "desc": "507 Long Branch: No service between Lake Shore Blvd West at Kipling Ave and Long Branch Loop due to a collision.",
-  "header": "507 Long Branch: No service betw"
- },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
@@ -38,10 +30,6 @@
  "71 Runnymede: Detour southbound": {
   "desc": "71 Runnymede: Detour southbound via Castleton Ave and Liverpool St due to construction.",
   "header": "71 Runnymede: Detour southbound"
- },
- "72 Pape: Detour northbound via L": {
-  "desc": "72 Pape: Detour northbound via Lakeshore Blvd E, Leslie St and Queen St E due to a collision.",
-  "header": "72 Pape: Detour northbound via L"
  },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
