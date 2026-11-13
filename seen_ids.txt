@@ -23,21 +23,9 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
- "71 Runnymede: Detour northbound": {
-  "desc": "71 Runnymede: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
-  "header": "71 Runnymede: Detour northbound"
- },
- "71 Runnymede: Detour southbound": {
-  "desc": "71 Runnymede: Detour southbound via Castleton Ave and Liverpool St due to construction.",
-  "header": "71 Runnymede: Detour southbound"
- },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
- },
- "79 Scarlett Rd: Detour southboun": {
-  "desc": "79 Scarlett Rd: Detour southbound via Castleton Ave and Liverpool St due to construction.",
-  "header": "79 Scarlett Rd: Detour southboun"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
