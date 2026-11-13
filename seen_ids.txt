@@ -23,9 +23,17 @@
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
  },
+ "505 Dundas: Detour westbound via": {
+  "desc": "505 Dundas: Detour westbound via College St, Bathurst St and Dundas St W due to a blocked track.",
+  "header": "505 Dundas: Detour westbound via"
+ },
  "506 Carlton: Detour eastbound vi": {
   "desc": "506 Carlton: Detour eastbound via Spadina Ave and Dundas St W due to a blocked track.",
   "header": "506 Carlton: Detour eastbound vi"
+ },
+ "510 Spadina: Detour southbound v": {
+  "desc": "510 Spadina: Detour southbound via College St, Bathurst St and Dundas St W due to a blocked track.",
+  "header": "510 Spadina: Detour southbound v"
  },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
