@@ -55,6 +55,10 @@
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
  },
+ "Main Street: Elevator 13D1L out": {
+  "desc": "Main Street: Elevator out of service between Main St east side entrance, concourse and Line 2 eastbound platform while we perform maintenance.",
+  "header": "Main Street: Elevator 13D1L out"
+ },
  "Oakwood: Elevator ELV02-B out of": {
   "desc": "Oakwood: Elevator out of service between concourse and Eglinton Avenue north side entrance while we perform maintenance.",
   "header": "Oakwood: Elevator ELV02-B out of"
