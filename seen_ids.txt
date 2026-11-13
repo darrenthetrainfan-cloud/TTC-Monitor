@@ -1,12 +1,4 @@
 {
- "10 Van Horne: Detour eastbound v": {
-  "desc": "10 Van Horne: Detour eastbound via Don Mills Rd, Seneca Ave, Van Horne Ave, Shaughnessy Blvd and Goodview Rd due to a collision.",
-  "header": "10 Van Horne: Detour eastbound v"
- },
- "25 Don Mills: Detour southbound": {
-  "desc": "25 Don Mills: Detour southbound via Van Horne Ave, Shaughnessy Blvd and Goodview Rd due to a collision.",
-  "header": "25 Don Mills: Detour southbound"
- },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
@@ -31,6 +23,14 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
+ "71 Runnymede: Detour northbound": {
+  "desc": "71 Runnymede: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
+  "header": "71 Runnymede: Detour northbound"
+ },
+ "71 Runnymede: Detour southbound": {
+  "desc": "71 Runnymede: Detour southbound via Castleton Ave and Liverpool St due to construction.",
+  "header": "71 Runnymede: Detour southbound"
+ },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
@@ -50,6 +50,10 @@
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
+ },
+ "Cedarvale: Elevator ELV01-A out": {
+  "desc": "Cedarvale: Elevator out of service between Line 5 platform, Line 1 southbound platform/west concourse, and upper concourse while we perform maintenance.",
+  "header": "Cedarvale: Elevator ELV01-A out"
  },
  "Cedarvale: Elevator ELV02-B out": {
   "desc": "Cedarvale: Elevator out of service between Line 5 platform, Line 1 northbound platform/east concourse, and upper concourse while we perform maintenance.",
