@@ -23,6 +23,10 @@
   "desc": "509 Harbourfront: No service between Exhibition Loop at Manitoba Dr and Fleet St at Bastion St due to a collision.",
   "header": "509 Harbourfront: No service bet"
  },
+ "511 Bathurst: No service between": {
+  "desc": "511 Bathurst: No service between Exhibition Loop and Fleet St at Bastion St due to a collision.",
+  "header": "511 Bathurst: No service between"
+ },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
