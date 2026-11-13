@@ -35,6 +35,10 @@
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
  },
+ "Eglinton: Elevator 18Y2L out of": {
+  "desc": "Eglinton: Elevator out of service between concourse and Line 1 centre platform due to an investigation.",
+  "header": "Eglinton: Elevator 18Y2L out of"
+ },
  "Finch: Elevator out of service b": {
   "desc": "Finch: Elevator out of service between GO and YRT bus platform and fares concourse while we perform maintenance.",
   "header": "Finch: Elevator out of service b"
