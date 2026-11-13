@@ -7,6 +7,10 @@
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
  },
+ "501 Queen: No service between Hu": {
+  "desc": "501 Queen: No service between Humber Loop at the Queensway and Queen St West at Roncesvalles Ave while we respond to a medical emergency.",
+  "header": "501 Queen: No service between Hu"
+ },
  "501B Service Change": {
   "desc": "501B Queen buses are diverting both ways to Eastern Avenue between Leslie Street and Emdaabiimok / Coxwell Avenue due to construction.",
   "header": "501B Service Change"
@@ -42,6 +46,10 @@
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
+ },
+ "Line 2 Bloor-Danforth: No servic": {
+  "desc": "Line 2 Bloor-Danforth: No service between Chester and St George stations due to a trespasser at track level. Thank you for your patience.",
+  "header": "Line 2 Bloor-Danforth: No servic"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
