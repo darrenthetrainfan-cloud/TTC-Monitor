@@ -28,7 +28,7 @@
   "header": "505 Dundas: Detour westbound via"
  },
  "506 Carlton: Detour eastbound vi": {
-  "desc": "506 Carlton: Detour eastbound via Spadina Ave and Dundas St W due to a blocked track.",
+  "desc": "506 Carlton: Detour eastbound via Ossington Ave and Dundas St W due to a blocked track.",
   "header": "506 Carlton: Detour eastbound vi"
  },
  "510 Spadina: Detour southbound v": {
