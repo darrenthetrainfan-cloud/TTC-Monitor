@@ -23,13 +23,13 @@
   "desc": "503 Kingston Rd buses are diverting to Eastern Avenue between Leslie Street and Emdaabiimok / Coxwell Avenue due to construction.",
   "header": "503 Service Change"
  },
+ "504 King: Detour eastbound via D": {
+  "desc": "504 King: Detour eastbound via Dufferin St, Queen St E and Shaw St due to a blocked track.",
+  "header": "504 King: Detour eastbound via D"
+ },
  "504 King: Detour westbound via C": {
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
- },
- "510 Spadina: Detour via College": {
-  "desc": "510 Spadina: Detour via College St, Bathurst St and Bathurst Station while we respond to a medical emergency.",
-  "header": "510 Spadina: Detour via College"
  },
  "512 St Clair: No service between": {
   "desc": "512 St Clair: No service between St Clair Ave West at Yonge St West Side and St Clair West Station at Bay 4 due to overhead issues. Shuttle buses are running between St Clair Ave West at Oakwood Ave and St Clair Ave West at Yonge St West Side.",
