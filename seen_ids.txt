@@ -55,10 +55,6 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
- "Line 1 Yonge-University: Delays": {
-  "desc": "Line 1 Yonge-University: Delays southbound at Osgoode station due to a medical emergency. Thank you for your patience.",
-  "header": "Line 1 Yonge-University: Delays"
- },
  "Line 1 Yonge-University: There i": {
   "desc": "Line 1 Yonge-University: There is limited subway service between Vaughan and Finch West stations due to structural maintenance. Thank you for your patience.",
   "header": "Line 1 Yonge-University: There i"
