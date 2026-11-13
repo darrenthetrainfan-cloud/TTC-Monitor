@@ -43,6 +43,10 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
+ "Leaside: Elevator ELV02-B out of": {
+  "desc": "Leaside: Elevator out of service between Eglinton Avenue north side entrance and concourse while we perform maintenance.",
+  "header": "Leaside: Elevator ELV02-B out of"
+ },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
