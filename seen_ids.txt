@@ -51,6 +51,10 @@
   "desc": "Line 1 Yonge-University: There is limited subway service between Vaughan and Finch West stations due to structural maintenance. Thank you for your patience.",
   "header": "Line 1 Yonge-University: There i"
  },
+ "Line 2 Bloor-Danforth: There is": {
+  "desc": "There is no subway service on Line 2 Bloor-Danforth between Keele and St George stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 13.",
+  "header": "Line 2 Bloor-Danforth: There is"
+ },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
