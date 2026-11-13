@@ -31,6 +31,14 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
+ "86 Scarborough: Detour via Old K": {
+  "desc": "86 Scarborough: Detour via Old Kingston Rd and Military Trl due to a blocked road.",
+  "header": "86 Scarborough: Detour via Old K"
+ },
+ "986 Scarborough Express: Detour": {
+  "desc": "986 Scarborough Express: Detour via Old Kingston Rd and Military Trl due to a blocked road.",
+  "header": "986 Scarborough Express: Detour"
+ },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
