@@ -3,14 +3,6 @@
   "desc": "300 Bloor-Danforth: Detour via Bay St, Davenport Rd, Church St and Bloor St W due to crane lift and construction.",
   "header": "300 Bloor-Danforth: Detour via B"
  },
- "306 Carlton: No service between": {
-  "desc": "306 Carlton: No service between Gerrard St East at Coxwell Ave and Gerrard St East at Broadview Ave while we respond to a medical emergency.",
-  "header": "306 Carlton: No service between"
- },
- "306 Carlton: No service eastboun": {
-  "desc": "306 Carlton: No service eastbound from Broadview Ave at Gerrard St East to Coxwell Ave at Gerrard St East while we respond to a medical emergency.",
-  "header": "306 Carlton: No service eastboun"
- },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
