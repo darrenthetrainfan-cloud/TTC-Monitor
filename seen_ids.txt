@@ -43,6 +43,10 @@
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
  },
+ "Cedarvale: Elevator ELV01-A out": {
+  "desc": "Cedarvale: Elevator out of service between Line 5 platform, Line 1 southbound platform/west concourse, and upper concourse due to a technical problem.",
+  "header": "Cedarvale: Elevator ELV01-A out"
+ },
  "Cedarvale: Elevator ELV02-B out": {
   "desc": "Cedarvale: Elevator out of service between Line 5 platform, Line 1 northbound platform/east concourse, and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator ELV02-B out"
@@ -62,10 +66,6 @@
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
- },
- "Line 5 Eglinton: Delays eastboun": {
-  "desc": "Line 5 Eglinton: Delays eastbound at Sunnybrook Park station while the maintainer fixes a mechanical issue. Thank you for your patience. Line 5 is owned by Metrolinx, maintained by Crosslinx Transit Solutions Maintenance and proudly operated by the TTC.",
-  "header": "Line 5 Eglinton: Delays eastboun"
  },
  "Oakwood: Elevator ELV02-B out of": {
   "desc": "Oakwood: Elevator out of service between concourse and Eglinton Avenue north side entrance while we perform maintenance. Elevator is expected to be back in service November 16, 2026.",
