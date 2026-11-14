@@ -35,10 +35,6 @@
   "desc": "94 Wellesley: Detour via Church St, Maitland St and Jarvis St due to construction.",
   "header": "94 Wellesley: Detour via Church"
  },
- "95 York Mills: Detour eastbound": {
-  "desc": "95 York Mills: Detour eastbound via Victoria Park Ave, Lawrence Ave E and Pharmacy Ave due to a collision.",
-  "header": "95 York Mills: Detour eastbound"
- },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
@@ -54,10 +50,6 @@
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
- },
- "Line 2 Bloor-Danforth: No servic": {
-  "desc": "Line 2 Bloor-Danforth: No service between Ossington and St George stations due to a mechanical issue. Thank you for your patience.",
-  "header": "Line 2 Bloor-Danforth: No servic"
  },
  "Line 2 Bloor-Danforth: There is": {
   "desc": "There is no subway service on Line 2 Bloor-Danforth between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 16.",
