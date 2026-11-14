@@ -1,8 +1,4 @@
 {
- "31 Greenwood: Detour via Gerrard": {
-  "desc": "31 Greenwood: Detour via Gerrard St E and Jones Ave due to a collision.",
-  "header": "31 Greenwood: Detour via Gerrard"
- },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
