@@ -59,10 +59,6 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
- "Line 1 Yonge-University: No serv": {
-  "desc": "Line 1 Yonge-University: No service between Union and Bloor-Yonge stations due to the power being shut off at track level. Thank you for your patience.",
-  "header": "Line 1 Yonge-University: No serv"
- },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
