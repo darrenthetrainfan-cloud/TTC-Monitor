@@ -27,10 +27,6 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
- "73B Royal York: Detour via Eglin": {
-  "desc": "73B Royal York: Detour via Eglinton Ave W due to construction.",
-  "header": "73B Royal York: Detour via Eglin"
- },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
@@ -39,10 +35,6 @@
   "desc": "94 Wellesley: Detour via Church St, Maitland St and Jarvis St due to construction.",
   "header": "94 Wellesley: Detour via Church"
  },
- "Bessarion: Elevator 57P1L out of": {
-  "desc": "Bessarion: Elevator out of service between Sheppard Ave E south side entrance and concourse while we perform maintenance.",
-  "header": "Bessarion: Elevator 57P1L out of"
- },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
@@ -50,10 +42,6 @@
  "Cedarvale: Elevator ELV02-B out": {
   "desc": "Cedarvale: Elevator out of service between Line 5 platform, Line 1 northbound platform/east concourse, and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator ELV02-B out"
- },
- "Downsview Park: Elevator 10S3L o": {
-  "desc": "Downsview Park: Elevator out of service between GO Station entrance and concourse while we perform maintenance.",
-  "header": "Downsview Park: Elevator 10S3L o"
  },
  "Finch: Elevator out of service b": {
   "desc": "Finch: Elevator out of service between GO and YRT bus platform and fares concourse while we perform maintenance.",
