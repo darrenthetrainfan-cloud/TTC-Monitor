@@ -1,4 +1,8 @@
 {
+ "162 Lawrence-Donway: Detour west": {
+  "desc": "162 Lawrence-Donway: Detour westbound via The Bridle Path and Post Rd due to a collision.",
+  "header": "162 Lawrence-Donway: Detour west"
+ },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
