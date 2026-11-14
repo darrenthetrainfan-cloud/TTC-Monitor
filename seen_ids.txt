@@ -1,4 +1,8 @@
 {
+ "131 Nugget: Detour via Lawrence": {
+  "desc": "131 Nugget: Detour via Lawrence Ave E, Midland Ave and Eglinton Ave E due to a collision.",
+  "header": "131 Nugget: Detour via Lawrence"
+ },
  "133 Neilson: Detour via Lawrence": {
   "desc": "133 Neilson: Detour via Lawrence Ave E, Midland Ave and Eglinton Ave E due to a collision.",
   "header": "133 Neilson: Detour via Lawrence"
@@ -58,6 +62,10 @@
  "Leaside: Elevator ELV02-B out of": {
   "desc": "Leaside: Elevator out of service between Eglinton Avenue north side entrance and concourse while we perform maintenance.",
   "header": "Leaside: Elevator ELV02-B out of"
+ },
+ "Line 1 Yonge-University: Delays": {
+  "desc": "Line 1 Yonge-University: Delays northbound at Rosedale station due to a security incident. Thank you for your patience.",
+  "header": "Line 1 Yonge-University: Delays"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
