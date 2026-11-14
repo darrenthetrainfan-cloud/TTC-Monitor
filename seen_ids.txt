@@ -27,6 +27,10 @@
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
  },
+ "505 Dundas: Detour westbound via": {
+  "desc": "505 Dundas: Detour westbound via Bay St, College St and Bathurst St due to a security incident.",
+  "header": "505 Dundas: Detour westbound via"
+ },
  "506 Carlton: No service between": {
   "desc": "506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a track problem.",
   "header": "506 Carlton: No service between"
