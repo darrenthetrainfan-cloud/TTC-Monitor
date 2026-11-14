@@ -1,8 +1,4 @@
 {
- "133 Neilson: Detour via Lawrence": {
-  "desc": "133 Neilson: Detour via Lawrence Ave E, Midland Ave and Eglinton Ave E due to a collision.",
-  "header": "133 Neilson: Detour via Lawrence"
- },
  "300 Bloor-Danforth: Detour via B": {
   "desc": "300 Bloor-Danforth: Detour via Bay St, Davenport Rd and Church St due to construction.",
   "header": "300 Bloor-Danforth: Detour via B"
