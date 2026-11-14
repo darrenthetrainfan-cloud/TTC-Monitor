@@ -1,16 +1,4 @@
 {
- "129 Mccowan North: Detour via El": {
-  "desc": "129 Mccowan North: Detour via Ellesmere Rd, Kennedy Ave and Lawrence Ave E due to a collision.",
-  "header": "129 Mccowan North: Detour via El"
- },
- "131 Nugget: Detour via Ellesmere": {
-  "desc": "131 Nugget: Detour via Ellesmere Rd, Kennedy Ave and Lawrence Ave E due to a collision.",
-  "header": "131 Nugget: Detour via Ellesmere"
- },
- "133 Neilson: Detour via Ellesmer": {
-  "desc": "133 Neilson: Detour via Ellesmere Rd, Kennedy Ave and Lawrence Ave E due to a collision.",
-  "header": "133 Neilson: Detour via Ellesmer"
- },
  "300 Bloor-Danforth: Detour via B": {
   "desc": "300 Bloor-Danforth: Detour via Bay St, Davenport Rd and Church St due to construction.",
   "header": "300 Bloor-Danforth: Detour via B"
@@ -18,10 +6,6 @@
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
- },
- "38 Highland Creek: Detour via El": {
-  "desc": "38 Highland Creek: Detour via Ellesmere Rd, Kennedy Ave and Lawrence Ave E due to a collision.",
-  "header": "38 Highland Creek: Detour via El"
  },
  "43 Kennedy: Detour southbound vi": {
   "desc": "43 Kennedy: Detour southbound via Midland Ave and Mcnicoll Ave due to construction.",
