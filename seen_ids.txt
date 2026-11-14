@@ -67,6 +67,10 @@
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
  },
+ "Line 5 Eglinton: Delays eastboun": {
+  "desc": "Line 5 Eglinton: Delays eastbound at Sunnybrook Park station due operational problem. Thank you for your patience.",
+  "header": "Line 5 Eglinton: Delays eastboun"
+ },
  "Oakwood: Elevator ELV02-B out of": {
   "desc": "Oakwood: Elevator out of service between concourse and Eglinton Avenue north side entrance while we perform maintenance. Elevator is expected to be back in service November 16, 2026.",
   "header": "Oakwood: Elevator ELV02-B out of"
