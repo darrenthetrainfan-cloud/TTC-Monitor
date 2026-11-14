@@ -7,6 +7,10 @@
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
  },
+ "39 Finch East: Detour eastbound": {
+  "desc": "39 Finch East: Detour eastbound via Don Mills Rd, Van Horne Ave and Victoria Park Ave due to a collision.",
+  "header": "39 Finch East: Detour eastbound"
+ },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
@@ -30,6 +34,10 @@
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
+ },
+ "939 Finch Express: Detour eastbo": {
+  "desc": "939 Finch Express: Detour eastbound via Don Mills Rd, Van Horne Ave and Victoria Park Ave due to a collision.",
+  "header": "939 Finch Express: Detour eastbo"
  },
  "94 Wellesley: Detour via Church": {
   "desc": "94 Wellesley: Detour via Church St, Maitland St and Jarvis St due to construction.",
