@@ -27,6 +27,10 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
+ "66 Prince Edward: Detour via Par": {
+  "desc": "66 Prince Edward: Detour via Park Lawn Rd and The Queensway due to a collision.",
+  "header": "66 Prince Edward: Detour via Par"
+ },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
@@ -58,10 +62,6 @@
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
- },
- "Line 5 Eglinton: Delays eastboun": {
-  "desc": "Line 5 Eglinton: Delays eastbound at Mount Dennis station due to a medical emergency. Thank you for your patience.",
-  "header": "Line 5 Eglinton: Delays eastboun"
  },
  "Oakwood: Elevator ELV02-B out of": {
   "desc": "Oakwood: Elevator out of service between concourse and Eglinton Avenue north side entrance while we perform maintenance. Elevator is expected to be back in service November 16, 2026.",
