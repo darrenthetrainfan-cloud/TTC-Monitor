@@ -1,8 +1,4 @@
 {
- "131 Nugget: Detour via Lawrence": {
-  "desc": "131 Nugget: Detour via Lawrence Ave E, Midland Ave and Eglinton Ave E due to a collision.",
-  "header": "131 Nugget: Detour via Lawrence"
- },
  "133 Neilson: Detour via Lawrence": {
   "desc": "133 Neilson: Detour via Lawrence Ave E, Midland Ave and Eglinton Ave E due to a collision.",
   "header": "133 Neilson: Detour via Lawrence"
