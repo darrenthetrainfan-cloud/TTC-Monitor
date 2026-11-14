@@ -35,6 +35,14 @@
   "desc": "94 Wellesley: Detour via Church St, Maitland St and Jarvis St due to construction.",
   "header": "94 Wellesley: Detour via Church"
  },
+ "95 York Mills: Detour eastbound": {
+  "desc": "95 York Mills: Detour eastbound via Victoria Park Ave, Lawrence Ave E and Pharmacy Ave due to a collision.",
+  "header": "95 York Mills: Detour eastbound"
+ },
+ "995 York Mills Express: Detour v": {
+  "desc": "995 York Mills Express: Detour via Victoria Park Ave, Lawrence Ave E and Pharmacy Ave due to a collision.",
+  "header": "995 York Mills Express: Detour v"
+ },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
