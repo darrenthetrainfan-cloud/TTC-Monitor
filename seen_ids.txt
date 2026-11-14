@@ -19,6 +19,10 @@
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
  },
+ "38 Highland Creek: Detour via El": {
+  "desc": "38 Highland Creek: Detour via Ellesmere Rd, Kennedy Ave and Lawrence Ave E due to a collision.",
+  "header": "38 Highland Creek: Detour via El"
+ },
  "43 Kennedy: Detour southbound vi": {
   "desc": "43 Kennedy: Detour southbound via Midland Ave and Mcnicoll Ave due to construction.",
   "header": "43 Kennedy: Detour southbound vi"
