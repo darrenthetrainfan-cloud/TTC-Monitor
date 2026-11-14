@@ -27,6 +27,10 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
+ "75 Sherbourne: Detour via Dundas": {
+  "desc": "75 Sherbourne: Detour via Dundas St E, Parliament St and Queen St E due to a collision.",
+  "header": "75 Sherbourne: Detour via Dundas"
+ },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
@@ -53,6 +57,10 @@
  },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
+  "header": "Line 2 Bloor-Danforth: Trains ar"
+ },
+ "Line 2 Bloor-Danforth: Trains ar #2": {
+  "desc": "Line 2 Bloor-Danforth: Bypass at Dundas West station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
  },
  "Oakwood: Elevator ELV02-B out of": {
