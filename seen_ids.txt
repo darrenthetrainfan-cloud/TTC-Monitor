@@ -47,10 +47,6 @@
   "desc": "Cedarvale: Elevator out of service between Line 5 platform, Line 1 northbound platform/east concourse, and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator ELV02-B out"
  },
- "College: Elevator 11Y2L out of s": {
-  "desc": "College: Elevator out of service between concourse and Line 1 Vaughan via Union (Southbound) platform while we perform maintenance.",
-  "header": "College: Elevator 11Y2L out of s"
- },
  "Finch: Elevator out of service b": {
   "desc": "Finch: Elevator out of service between GO and YRT bus platform and fares concourse while we perform maintenance.",
   "header": "Finch: Elevator out of service b"
