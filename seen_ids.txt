@@ -1,8 +1,4 @@
 {
- "162 Lawrence-Donway: Detour west": {
-  "desc": "162 Lawrence-Donway: Detour westbound via The Bridle Path and Post Rd due to a collision.",
-  "header": "162 Lawrence-Donway: Detour west"
- },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
@@ -66,10 +62,6 @@
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
- },
- "Line 5 Eglinton: Trains are not": {
-  "desc": "Line 5 Eglinton: Bypass at Keelesdale station due to a security incident. Thank you for your patience.",
-  "header": "Line 5 Eglinton: Trains are not"
  },
  "Oakwood: Elevator ELV02-B out of": {
   "desc": "Oakwood: Elevator out of service between concourse and Eglinton Avenue north side entrance while we perform maintenance. Elevator is expected to be back in service November 16, 2026.",
