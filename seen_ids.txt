@@ -1,8 +1,4 @@
 {
- "191 Underhill: Detour northbound": {
-  "desc": "191 Underhill: Detour northbound via Brookbanks Dr, Three Valleys Dr, Laurentide Dr, Tetbury Cres, Sandpiper Crt and Laurentide Dr due to a collision.",
-  "header": "191 Underhill: Detour northbound"
- },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
