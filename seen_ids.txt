@@ -3,6 +3,10 @@
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
  },
+ "320 Yonge: Detour southbound via": {
+  "desc": "320 Yonge: Detour southbound via Front St E and Bay St due to construction.",
+  "header": "320 Yonge: Detour southbound via"
+ },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
