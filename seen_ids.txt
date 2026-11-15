@@ -51,6 +51,10 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
+ "Line 1 Yonge-University: Delays": {
+  "desc": "Line 1 Yonge-University: Delays northbound at Bloor-Yonge station due to an investigation. Thank you for your patience.",
+  "header": "Line 1 Yonge-University: Delays"
+ },
  "Line 2 Bloor-Danforth: There is": {
   "desc": "There is no subway service on Line 2 Bloor-Danforth between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 16.",
   "header": "Line 2 Bloor-Danforth: There is"
