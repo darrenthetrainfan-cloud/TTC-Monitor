@@ -43,6 +43,10 @@
   "desc": "Cedarvale: Elevator out of service between Line 5 platform, Line 1 northbound platform/east concourse, and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator ELV02-B out"
  },
+ "Fairbank: Elevator ELV02-B out o": {
+  "desc": "Fairbank: Elevator out of service between Eglinton Avenue south east side entrance and concourse while we perform maintenance.",
+  "header": "Fairbank: Elevator ELV02-B out o"
+ },
  "Finch: Elevator out of service b": {
   "desc": "Finch: Elevator out of service between GO and YRT bus platform and fares concourse while we perform maintenance.",
   "header": "Finch: Elevator out of service b"
