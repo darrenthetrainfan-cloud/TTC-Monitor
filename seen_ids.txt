@@ -1,4 +1,8 @@
 {
+ "301, 301B Queen: No service betw": {
+  "desc": "301, 301B Queen: No service between Humber Loop at the Queensway and Queen St West at Roncesvalles Ave while we fix a mechanical problem.",
+  "header": "301, 301B Queen: No service betw"
+ },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
@@ -62,9 +66,5 @@
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
- },
- "St Andrew: Elevator 6Y2L out of": {
-  "desc": "St Andrew: Elevator out of service between concourse and Line 1 centre platform while we perform maintenance.",
-  "header": "St Andrew: Elevator 6Y2L out of"
  }
 }
