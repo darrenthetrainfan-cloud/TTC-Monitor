@@ -3,6 +3,10 @@
   "desc": "165 Weston Rd North: Detour eastbound via Dufferin St and Billy Bishop Way due to a collision.",
   "header": "165 Weston Rd North: Detour east"
  },
+ "29 Dufferin: Detour northbound v": {
+  "desc": "29 Dufferin: Detour northbound via Yorkdale Rd and Dufferin St due to a collision.",
+  "header": "29 Dufferin: Detour northbound v"
+ },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
