@@ -31,10 +31,6 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
- "939 Finch Express: Detour eastbo": {
-  "desc": "939 Finch Express: Detour eastbound via Don Mills Rd, Van Horne Ave and Victoria Park Ave due to a collision.",
-  "header": "939 Finch Express: Detour eastbo"
- },
  "94 Wellesley: Detour via Church": {
   "desc": "94 Wellesley: Detour via Church St, Maitland St and Jarvis St due to construction.",
   "header": "94 Wellesley: Detour via Church"
