@@ -1,4 +1,12 @@
 {
+ "117 Birchmount South: Detour via": {
+  "desc": "117 Birchmount South: Detour via Gerrard St E, Clonmore Dr and Warden Ave due to an event.",
+  "header": "117 Birchmount South: Detour via"
+ },
+ "12 Kingston Rd: Detour via Gerra": {
+  "desc": "12 Kingston Rd: Detour via Gerrard St E, Clonmore Dr and Warden Ave due to an event.",
+  "header": "12 Kingston Rd: Detour via Gerra"
+ },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
