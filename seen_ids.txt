@@ -1,8 +1,4 @@
 {
- "165 Weston Rd North: Detour east": {
-  "desc": "165 Weston Rd North: Detour eastbound via Dufferin St and Billy Bishop Way due to a collision.",
-  "header": "165 Weston Rd North: Detour east"
- },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
@@ -34,10 +30,6 @@
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
- },
- "96 Wilson: Detour eastbound via": {
-  "desc": "96 Wilson: Detour eastbound via Dufferin St and Billy Bishop Way due to a collision.",
-  "header": "96 Wilson: Detour eastbound via"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
