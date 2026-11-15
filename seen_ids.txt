@@ -1,12 +1,4 @@
 {
- "117 Birchmount South: Detour via": {
-  "desc": "117 Birchmount South: Detour via Gerrard St E, Clonmore Dr and Warden Ave due to an event.",
-  "header": "117 Birchmount South: Detour via"
- },
- "12 Kingston Rd: Detour via Gerra": {
-  "desc": "12 Kingston Rd: Detour via Gerrard St E, Clonmore Dr and Warden Ave due to an event.",
-  "header": "12 Kingston Rd: Detour via Gerra"
- },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
@@ -62,10 +54,6 @@
  "Laird: Elevator ELV01-A out of s": {
   "desc": "Laird: Elevator out of service between concourse and Line 5 centre platform due to a technical problem.",
   "header": "Laird: Elevator ELV01-A out of s"
- },
- "Line 1 Yonge-University: Delays": {
-  "desc": "Line 1 Yonge-University: Delays northbound at Museum station due to a medical emergency. Thank you for your patience.",
-  "header": "Line 1 Yonge-University: Delays"
  },
  "Line 2 Bloor-Danforth: There is": {
   "desc": "There is no subway service on Line 2 Bloor-Danforth between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 16.",
