@@ -59,10 +59,6 @@
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
  },
- "Line 6 Finch West: Delays westbo": {
-  "desc": "Line 6 Finch West: Delays westbound at Pearldale station due to an operational issue. Thank you for your patience.",
-  "header": "Line 6 Finch West: Delays westbo"
- },
  "Oakwood: Elevator ELV02-B out of": {
   "desc": "Oakwood: Elevator out of service between concourse and Eglinton Avenue north side entrance while we perform maintenance. Elevator is expected to be back in service November 16, 2026.",
   "header": "Oakwood: Elevator ELV02-B out of"
