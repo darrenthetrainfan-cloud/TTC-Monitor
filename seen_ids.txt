@@ -27,6 +27,10 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
+ "67 Pharmacy: Detour via Pharmacy": {
+  "desc": "67 Pharmacy: Detour via Pharmacy Ave, Kellyvale Rd, Marchington Crcl, Claudius Gt, Ellesmere Rd and Pharmacy Ave due to police activity.",
+  "header": "67 Pharmacy: Detour via Pharmacy"
+ },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
@@ -46,6 +50,10 @@
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
+ },
+ "Laird: Elevator ELV01-A out of s": {
+  "desc": "Laird: Elevator out of service between concourse and Line 5 centre platform due to a technical problem.",
+  "header": "Laird: Elevator ELV01-A out of s"
  },
  "Line 2 Bloor-Danforth: There is": {
   "desc": "There is no subway service on Line 2 Bloor-Danforth between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 16.",
