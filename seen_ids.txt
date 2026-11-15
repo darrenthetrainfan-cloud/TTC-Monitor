@@ -1,6 +1,6 @@
 {
  "165 Weston Rd North: Detour east": {
-  "desc": "165 Weston Rd North: Detour eastbound via Dufferin St, Ranee Ave and Bathurst St due to a collision.",
+  "desc": "165 Weston Rd North: Detour eastbound via Dufferin St and Billy Bishop Way due to a collision.",
   "header": "165 Weston Rd North: Detour east"
  },
  "31 Service Change": {
@@ -36,7 +36,7 @@
   "header": "79 Scarlett Rd: Detour northboun"
  },
  "96 Wilson: Detour eastbound via": {
-  "desc": "96 Wilson: Detour eastbound via Dufferin St, Ranee Ave and Bathurst St due to a collision.",
+  "desc": "96 Wilson: Detour eastbound via Dufferin St and Billy Bishop Way due to a collision.",
   "header": "96 Wilson: Detour eastbound via"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
