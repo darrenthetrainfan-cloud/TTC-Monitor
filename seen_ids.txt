@@ -39,9 +39,9 @@
   "desc": "79 Scarlett Rd: Detour southbound via Liverpool St and Runnymede Rd due to construction.",
   "header": "79 Scarlett Rd: Detour southboun"
  },
- "97 Yonge: No service between Moo": {
-  "desc": "97 Yonge: No service between Moore Park Ave at Yonge St West Side and Steeles Ave West at Yonge St - Centerpoint Mall due to construction.",
-  "header": "97 Yonge: No service between Moo"
+ "97 Yonge: No service between 34": {
+  "desc": "97 Yonge: No service between 34 Moore Park Ave and Hilda Ave at Steeles Ave West due to construction.",
+  "header": "97 Yonge: No service between 34"
  },
  "Caledonia: Elevator ELV01-A out": {
   "desc": "Caledonia: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance.",
