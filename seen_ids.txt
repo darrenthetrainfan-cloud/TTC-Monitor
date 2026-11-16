@@ -27,10 +27,6 @@
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
  },
- "504 King: Detour westbound via D": {
-  "desc": "504 King: Detour westbound via Dundas St E, Parliament St and King St E while we respond to a medical emergency.",
-  "header": "504 King: Detour westbound via D"
- },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
@@ -62,10 +58,6 @@
  "Keelesdale: Elevator ELV01-A out": {
   "desc": "Keelesdale: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance. Elevator is expected to be back in service November 16, 2026.",
   "header": "Keelesdale: Elevator ELV01-A out"
- },
- "Line 2 Bloor-Danforth: There is": {
-  "desc": "There is no subway service on Line 2 Bloor-Danforth between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 16.",
-  "header": "Line 2 Bloor-Danforth: There is"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
