@@ -8,7 +8,7 @@
   "header": "501 Queen: Detour eastbound via"
  },
  "501 Queen: Detour eastbound via #2": {
-  "desc": "501 Queen: Detour eastbound via Spadina Ave, Adelaide St E and Church St due to a collision.",
+  "desc": "501 Queen: Detour eastbound via Spadina Ave, Adelaide St W and Church St due to a collision.",
   "header": "501 Queen: Detour eastbound via"
  },
  "501B Service Change": {
