@@ -78,5 +78,9 @@
  "Rosedale: Elevator 14Y1L out of": {
   "desc": "Rosedale: Elevator out of service between Cresent Road entrance and Line 1 sourthbound platform due to a technical problem.",
   "header": "Rosedale: Elevator 14Y1L out of"
+ },
+ "Royal York: Elevator 14B1L out o": {
+  "desc": "Royal York: Elevator out of service between Royal York Rd entrance and west concourse while we perform maintenance.",
+  "header": "Royal York: Elevator 14B1L out o"
  }
 }
