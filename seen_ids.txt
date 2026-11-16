@@ -1,4 +1,8 @@
 {
+ "301 Queen: No service between Hu": {
+  "desc": "301 Queen: No service between Humber Loop at the Queensway and Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
+  "header": "301 Queen: No service between Hu"
+ },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
