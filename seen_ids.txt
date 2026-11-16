@@ -19,13 +19,17 @@
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
  },
- "506 Carlton: No service between": {
-  "desc": "506 Carlton: No service between High Park Loop and College St at Lansdowne Ave while we respond to a medical emergency.",
-  "header": "506 Carlton: No service between"
- },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
+ },
+ "75 Sherbourne: Detour northbound": {
+  "desc": "75 Sherbourne: Detour northbound via Adelaide St E, Berkeley St and Richmond St E due to a collision.",
+  "header": "75 Sherbourne: Detour northbound"
+ },
+ "75 Sherbourne: Detour southbound": {
+  "desc": "75 Sherbourne: Detour southbound via Richmond St E, George St and Adelaide St E due to a collision.",
+  "header": "75 Sherbourne: Detour southbound"
  },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
@@ -42,6 +46,10 @@
  "Cedarvale: Elevator ELV01-A out": {
   "desc": "Cedarvale: Elevator out of service between Line 5 platform, Line 1 southbound platform/west concourse, and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator ELV01-A out"
+ },
+ "Cedarvale: Elevator ELV02-B out": {
+  "desc": "Cedarvale: Elevator out of service between Line 5 platform, Line 1 northbound platform/east concourse, and upper concourse while we perform maintenance.",
+  "header": "Cedarvale: Elevator ELV02-B out"
  },
  "Fairbank: Elevator ELV02-B out o": {
   "desc": "Fairbank: Elevator out of service between Eglinton Avenue south east side entrance and concourse while we perform maintenance.",
