@@ -27,6 +27,10 @@
   "desc": "71 Runnymede: Detour via St Clair Ave W and Castleton Ave due to construction.",
   "header": "71 Runnymede: Detour via St Clai"
  },
+ "76 Royal York South: Detour sout": {
+  "desc": "76 Royal York South: Detour southbound via Buckingham St and Newcastle St due to an active fire.",
+  "header": "76 Royal York South: Detour sout"
+ },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
