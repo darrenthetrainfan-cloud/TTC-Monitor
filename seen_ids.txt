@@ -1,4 +1,8 @@
 {
+ "29 Dufferin: Detour northbound v": {
+  "desc": "29 Dufferin: Detour northbound via Dupont St, Lansdowne Ave and Bloor St W due to a collision.",
+  "header": "29 Dufferin: Detour northbound v"
+ },
  "29 Dufferin: Detour southbound v": {
   "desc": "29 Dufferin: Detour southbound via Dupont St, Lansdowne Ave and Bloor St W due to a collision.",
   "header": "29 Dufferin: Detour southbound v"
@@ -35,6 +39,14 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
+ "79 Scarlett Rd: Detour northboun #2": {
+  "desc": "79 Scarlett Rd: Detour northbound via St Clair Ave W and Castleton Ave due to construction.",
+  "header": "79 Scarlett Rd: Detour northboun"
+ },
+ "79 Scarlett Rd: Detour southboun": {
+  "desc": "79 Scarlett Rd: Detour southbound via Liverpool St and Runnymede Rd due to construction.",
+  "header": "79 Scarlett Rd: Detour southboun"
+ },
  "Caledonia: Elevator ELV01-A out": {
   "desc": "Caledonia: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance.",
   "header": "Caledonia: Elevator ELV01-A out"
@@ -54,14 +66,6 @@
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
- },
- "Line 1 Yonge-University: No serv": {
-  "desc": "Line 1 Yonge-University: No service between St George and St Andrew stations due to a mechanical issue. Thank you for your patience.",
-  "header": "Line 1 Yonge-University: No serv"
- },
- "Line 2 Bloor-Danforth: Delays we": {
-  "desc": "Line 2 Bloor-Danforth: Delays westbound from Kennedy to Donlands stations while we fix a signal problem. Thank you for your patience.",
-  "header": "Line 2 Bloor-Danforth: Delays we"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
