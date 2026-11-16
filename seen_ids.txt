@@ -1,8 +1,4 @@
 {
- "171 Mount Dennis: Detour via Tod": {
-  "desc": "171 Mount Dennis: Detour via Todd Baylis Blvd and Black Creek Dr due to a Toronto fire investigation.",
-  "header": "171 Mount Dennis: Detour via Tod"
- },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
@@ -26,10 +22,6 @@
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
- },
- "71 Runnymede: Detour southbound": {
-  "desc": "71 Runnymede: Detour southbound via Todd Baylis Blvd and Black Creek Blvd due to a Toronto fire investigation.",
-  "header": "71 Runnymede: Detour southbound"
  },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
