@@ -27,6 +27,10 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
+ "71 Runnymede: Detour via St Clai": {
+  "desc": "71 Runnymede: Detour via St Clair Ave W and Castleton Ave due to construction.",
+  "header": "71 Runnymede: Detour via St Clai"
+ },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
