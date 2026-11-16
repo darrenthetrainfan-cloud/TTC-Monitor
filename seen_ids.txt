@@ -55,6 +55,10 @@
   "desc": "Keelesdale: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance. Elevator is expected to be back in service November 16, 2026.",
   "header": "Keelesdale: Elevator ELV01-A out"
  },
+ "Line 1 Yonge-University: No serv": {
+  "desc": "Line 1 Yonge-University: No service between St Clair West and Wilson stations due to the power being shut off at track level. Thank you for your patience.",
+  "header": "Line 1 Yonge-University: No serv"
+ },
  "Line 2 Bloor-Danforth: There is": {
   "desc": "There is no subway service on Line 2 Bloor-Danforth between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 16.",
   "header": "Line 2 Bloor-Danforth: There is"
