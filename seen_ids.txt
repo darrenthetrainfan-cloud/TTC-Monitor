@@ -1,8 +1,4 @@
 {
- "25 Don Mills: Detour northbound": {
-  "desc": "25 Don Mills: Detour northbound via Lawrence Ave E and The Donway E due to a collision.",
-  "header": "25 Don Mills: Detour northbound"
- },
  "29 Dufferin: Detour southbound v": {
   "desc": "29 Dufferin: Detour southbound via Dupont St, Lansdowne Ave and Bloor St W due to a collision.",
   "header": "29 Dufferin: Detour southbound v"
