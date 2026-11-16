@@ -23,10 +23,6 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
- "57 Midland: Detour southbound vi": {
-  "desc": "57 Midland: Detour southbound via Mcnicoll Ave, Milliken Blvd and Finch Ave E due to a collision.",
-  "header": "57 Midland: Detour southbound vi"
- },
  "71 Runnymede: Detour via St Clai": {
   "desc": "71 Runnymede: Detour via St Clair Ave W and Castleton Ave due to construction.",
   "header": "71 Runnymede: Detour via St Clai"
