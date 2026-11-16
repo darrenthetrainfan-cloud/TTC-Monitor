@@ -1,4 +1,8 @@
 {
+ "171 Mount Dennis: Detour via Tod": {
+  "desc": "171 Mount Dennis: Detour via Todd Baylis Blvd and Black Creek Dr due to a Toronto fire investigation.",
+  "header": "171 Mount Dennis: Detour via Tod"
+ },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
@@ -74,9 +78,5 @@
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
- },
- "Woodbine: Elevator 12D2L out of": {
-  "desc": "Woodbine: Elevator out of service between concourse and Line 2 westbound platform while we perform maintenance.",
-  "header": "Woodbine: Elevator 12D2L out of"
  }
 }
