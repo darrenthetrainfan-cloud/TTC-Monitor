@@ -27,10 +27,6 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
- "95 York Mills: Detour eastbound": {
-  "desc": "95 York Mills: Detour eastbound via Don Mills Rd, Graydon Hall Dr, Fenelon Dr, Underpass Gt, Roywood Dr and Sandover Dr due to a blocked road.",
-  "header": "95 York Mills: Detour eastbound"
- },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
