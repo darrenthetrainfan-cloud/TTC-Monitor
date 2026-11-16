@@ -70,5 +70,9 @@
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
+ },
+ "Spadina: Elevator 2B1L out of se": {
+  "desc": "Spadina: Elevator out of service between Spadina Rd east side entrance and concourse while we perform maintenance.",
+  "header": "Spadina: Elevator 2B1L out of se"
  }
 }
