@@ -55,10 +55,6 @@
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
  },
- "Dufferin: Elevator 6B1L out of s": {
-  "desc": "Dufferin: Elevator out of service between Dufferin St west side entrance and concourse while we perform maintenance.",
-  "header": "Dufferin: Elevator 6B1L out of s"
- },
  "Finch: Elevator out of service b": {
   "desc": "Finch: Elevator out of service between GO and YRT bus platform and fares concourse while we perform maintenance.",
   "header": "Finch: Elevator out of service b"
@@ -74,9 +70,5 @@
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
- },
- "Royal York: Elevator 14B1L out o": {
-  "desc": "Royal York: Elevator out of service between Royal York Rd entrance and west concourse while we perform maintenance.",
-  "header": "Royal York: Elevator 14B1L out o"
  }
 }
