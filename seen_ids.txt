@@ -1,4 +1,8 @@
 {
+ "25 Don Mills: Detour northbound": {
+  "desc": "25 Don Mills: Detour northbound via Lawrence Ave E and The Donway E due to a collision.",
+  "header": "25 Don Mills: Detour northbound"
+ },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
