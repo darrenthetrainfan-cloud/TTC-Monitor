@@ -23,14 +23,6 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
- "75 Sherbourne: Detour northbound": {
-  "desc": "75 Sherbourne: Detour northbound via Adelaide St E, Berkeley St and Richmond St E due to a collision.",
-  "header": "75 Sherbourne: Detour northbound"
- },
- "75 Sherbourne: Detour southbound": {
-  "desc": "75 Sherbourne: Detour southbound via Richmond St E, George St and Adelaide St E due to a collision.",
-  "header": "75 Sherbourne: Detour southbound"
- },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
