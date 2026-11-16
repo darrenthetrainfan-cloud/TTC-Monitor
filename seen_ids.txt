@@ -7,17 +7,9 @@
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
  },
- "43 Kennedy: Detour northbound vi": {
-  "desc": "43 Kennedy: Detour northbound via Progress Ave, Midland Ave and Sheppard Ave E due to a collision.",
-  "header": "43 Kennedy: Detour northbound vi"
- },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
- },
- "501 Queen: No service between Qu": {
-  "desc": "501 Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we respond to a medical emergency.",
-  "header": "501 Queen: No service between Qu"
  },
  "501B Service Change": {
   "desc": "501B Queen buses are diverting both ways to Eastern Avenue between Leslie Street and Emdaabiimok / Coxwell Avenue due to construction.",
@@ -42,14 +34,6 @@
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
- },
- "85 Sheppard East: Detour eastbou": {
-  "desc": "85 Sheppard East: Detour eastbound via Kennedy Rd, Huntingwood Dr and Midland Ave due to a collision.",
-  "header": "85 Sheppard East: Detour eastbou"
- },
- "904 Don Mills-Scarborough Expres": {
-  "desc": "904 Don Mills-Scarborough Express: Detour eastbound via Kennedy Rd, Huntingwood Dr and Midland Ave due to a collision.",
-  "header": "904 Don Mills-Scarborough Expres"
  },
  "Caledonia: Elevator ELV01-A out": {
   "desc": "Caledonia: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance.",
