@@ -39,6 +39,10 @@
   "desc": "79 Scarlett Rd: Detour southbound via Liverpool St and Runnymede Rd due to construction.",
   "header": "79 Scarlett Rd: Detour southboun"
  },
+ "85 Sheppard East: Detour westbou": {
+  "desc": "85 Sheppard East: Detour westbound via Midland Ave, Havendale Rd and Kennedy Rd due to a collision.",
+  "header": "85 Sheppard East: Detour westbou"
+ },
  "97 Yonge: No service between 34": {
   "desc": "97 Yonge: No service between 34 Moore Park Ave and Hilda Ave at Steeles Ave West due to construction.",
   "header": "97 Yonge: No service between 34"
@@ -64,7 +68,7 @@
   "header": "Line 2 Bloor-Danforth: Trains ar"
  },
  "Line 6 Finch West: No service be": {
-  "desc": "Line 6 Finch West: No service between Duncanwoods and Rowntree Mills stations due to autos in collision. Thank you for your patience.",
+  "desc": "Line 6 Finch West: No service between Duncanwoods and Rowntree Mills stations due to autos in collision. Shuttle buses are on the way. Thank you for your patience.",
   "header": "Line 6 Finch West: No service be"
  },
  "Please look both ways": {
