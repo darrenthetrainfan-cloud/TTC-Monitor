@@ -64,7 +64,7 @@
   "header": "Line 2 Bloor-Danforth: Trains ar"
  },
  "Line 6 Finch West: No service be": {
-  "desc": "Line 6 Finch West: No service between Duncanwoods and Rowntree Mills stations due to autos in collision. Shuttle buses are on the way. Thank you for your patience.",
+  "desc": "Line 6 Finch West: No service between Duncanwoods and Rowntree Mills stations due to autos in collision. Shuttle buses are running between Duncanwoods and Rowntree Mills. Thank you for your patience.",
   "header": "Line 6 Finch West: No service be"
  },
  "Please look both ways": {
