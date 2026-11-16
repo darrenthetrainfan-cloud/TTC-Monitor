@@ -1,9 +1,5 @@
 {
  "301 Queen: Detour eastbound via": {
-  "desc": "301 Queen: Detour eastbound via Shaw St, King St W and Church St due to a blocked track.",
-  "header": "301 Queen: Detour eastbound via"
- },
- "301 Queen: Detour eastbound via #2": {
   "desc": "301 Queen: Detour eastbound via Spadina Ave, Adelaide St W and Church St due to a collision.",
   "header": "301 Queen: Detour eastbound via"
  },
