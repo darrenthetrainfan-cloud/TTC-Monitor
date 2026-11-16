@@ -23,29 +23,25 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
- "71 Runnymede: Detour via St Clai": {
-  "desc": "71 Runnymede: Detour via St Clair Ave W and Castleton Ave due to construction.",
-  "header": "71 Runnymede: Detour via St Clai"
- },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
- },
- "79 Scarlett Rd: Detour northboun #2": {
-  "desc": "79 Scarlett Rd: Detour northbound via St Clair Ave W and Castleton Ave due to construction.",
-  "header": "79 Scarlett Rd: Detour northboun"
- },
- "79 Scarlett Rd: Detour southboun": {
-  "desc": "79 Scarlett Rd: Detour southbound via Liverpool St and Runnymede Rd due to construction.",
-  "header": "79 Scarlett Rd: Detour southboun"
  },
  "85 Sheppard East: Detour westbou": {
   "desc": "85 Sheppard East: Detour westbound via Midland Ave, Havendale Rd and Kennedy Rd due to a collision.",
   "header": "85 Sheppard East: Detour westbou"
  },
+ "904 Don Mills-Scarborough Expres": {
+  "desc": "904 Don Mills-Scarborough Express: Detour westbound via Midland Ave, Havendale Rd and Kennedy Rd due to a collision.",
+  "header": "904 Don Mills-Scarborough Expres"
+ },
  "97 Yonge: No service between 34": {
   "desc": "97 Yonge: No service between 34 Moore Park Ave and Hilda Ave at Steeles Ave West due to construction.",
   "header": "97 Yonge: No service between 34"
+ },
+ "985 Sheppard East Express: Detou": {
+  "desc": "985 Sheppard East Express: Detour westbound via Midland Ave, Havendale Rd and Kennedy Rd due to a collision.",
+  "header": "985 Sheppard East Express: Detou"
  },
  "Caledonia: Elevator ELV01-A out": {
   "desc": "Caledonia: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance.",
