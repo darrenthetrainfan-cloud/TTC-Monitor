@@ -60,7 +60,7 @@
   "header": "Keelesdale: Elevator ELV01-A out"
  },
  "Line 1 Yonge-University: Delays": {
-  "desc": "Line 1 Yonge-University: Delays northbound at St Andrew station due to an emergency alarm on board a train. Thank you for your patience.",
+  "desc": "Line 1 Yonge-University: Delays northbound at St Andrew station due to a medical emergency. Thank you for your patience.",
   "header": "Line 1 Yonge-University: Delays"
  },
  "Line 2 Bloor-Danforth: There is": {
