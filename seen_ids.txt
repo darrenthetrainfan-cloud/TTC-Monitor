@@ -1,12 +1,4 @@
 {
- "301 Queen: Detour eastbound via": {
-  "desc": "301 Queen: Detour eastbound via Spadina Ave, Adelaide St W and Church St due to a collision.",
-  "header": "301 Queen: Detour eastbound via"
- },
- "301 Queen: Detour westbound via": {
-  "desc": "301 Queen: Detour westbound via Church St, King St E and Spadina Ave due to a collision.",
-  "header": "301 Queen: Detour westbound via"
- },
  "31 Service Change": {
   "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
   "header": "31 Service Change"
