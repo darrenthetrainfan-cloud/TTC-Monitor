@@ -27,10 +27,6 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
- "High Park: Elevator 10B2L out of": {
-  "desc": "High Park: Elevator out of service between Quebec Avenue entrance, concourse, and Line 2 westbound platform due to a technical problem.",
-  "header": "High Park: Elevator 10B2L out of"
- },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
