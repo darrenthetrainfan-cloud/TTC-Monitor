@@ -27,10 +27,6 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
- "97 Yonge: No service between 34": {
-  "desc": "97 Yonge: No service between 34 Moore Park Ave and Hilda Ave at Steeles Ave West due to construction.",
-  "header": "97 Yonge: No service between 34"
- },
  "Caledonia: Elevator ELV01-A out": {
   "desc": "Caledonia: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance.",
   "header": "Caledonia: Elevator ELV01-A out"
