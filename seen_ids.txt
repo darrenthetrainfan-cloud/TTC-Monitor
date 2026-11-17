@@ -15,21 +15,17 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
- "89 Weston: Detour northbound via": {
-  "desc": "89 Weston: Detour northbound via Black Creek Blvd and Eglinton Ave W due to a collision.",
-  "header": "89 Weston: Detour northbound via"
- },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
  },
+ "Dundas West: Elevator 8B1L out o": {
+  "desc": "Dundas West: Elevator out of service between Dundas St W entrance and bus platform, concourse and Line 2 eastbound platform while we perform maintenance.",
+  "header": "Dundas West: Elevator 8B1L out o"
+ },
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
- },
- "Keele: Elevator 9B1L out of serv": {
-  "desc": "Keele: Elevator out of service between Keele St entrance and bus platform to Line 2 Kipling (Westbound) while we perform maintenance.",
-  "header": "Keele: Elevator 9B1L out of serv"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
