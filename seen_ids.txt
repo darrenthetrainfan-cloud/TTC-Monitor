@@ -4,7 +4,7 @@
   "header": "501 Queen: Detour eastbound via"
  },
  "501 Queen: No service between Qu": {
-  "desc": "501 Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we respond to a medical emergency.",
+  "desc": "501 Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we respond to a medical emergency. Shuttle buses are on the way.",
   "header": "501 Queen: No service between Qu"
  },
  "504 King: Detour westbound via C": {
