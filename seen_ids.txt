@@ -3,21 +3,9 @@
   "desc": "131 Nugget: Detour eastbound via Sheppard Ave E, Markham Rd and Mclevin Ave due to a collision.",
   "header": "131 Nugget: Detour eastbound via"
  },
- "31 Service Change": {
-  "desc": "31 Greenwood buses are diverting via Dundas Street East, Jones Avenue, Queen Street East and Leslie Street due to construction.",
-  "header": "31 Service Change"
- },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
- },
- "501B Service Change": {
-  "desc": "501B Queen buses are diverting both ways to Eastern Avenue between Leslie Street and Emdaabiimok / Coxwell Avenue due to construction.",
-  "header": "501B Service Change"
- },
- "503 Service Change": {
-  "desc": "503 Kingston Rd buses are diverting to Eastern Avenue between Leslie Street and Emdaabiimok / Coxwell Avenue due to construction.",
-  "header": "503 Service Change"
  },
  "504 King: Detour westbound via C": {
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
@@ -30,10 +18,6 @@
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
- },
- "Caledonia: Elevator ELV01-A out": {
-  "desc": "Caledonia: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance.",
-  "header": "Caledonia: Elevator ELV01-A out"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
