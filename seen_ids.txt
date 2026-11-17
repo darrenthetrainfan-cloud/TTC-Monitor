@@ -19,10 +19,6 @@
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
  },
- "Dufferin: Elevator 6B2L out of s": {
-  "desc": "Dufferin: Elevator out of service between concourse and Line 2 eastbound platform due to a technical problem.",
-  "header": "Dufferin: Elevator 6B2L out of s"
- },
  "Finch: Elevator out of service b": {
   "desc": "Finch: Elevator out of service between GO and YRT bus platform and fares concourse while we perform maintenance.",
   "header": "Finch: Elevator out of service b"
