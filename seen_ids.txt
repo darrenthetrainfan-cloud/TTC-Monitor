@@ -7,10 +7,6 @@
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
  },
- "506 Carlton: No service between": {
-  "desc": "506 Carlton: No service between Main Street Station at Bay 7 and Coxwell Ave at Lower Gerrard St East while we respond to a medical emergency.",
-  "header": "506 Carlton: No service between"
- },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
@@ -32,11 +28,11 @@
   "header": "Have proof of payment ready for"
  },
  "Line 1 Yonge-University: There i": {
-  "desc": "Line 1 Yonge-University: There is limited subway service between Pioneer Village and Sheppard West stations for tunnel improvements. Thank you for your patience.",
+  "desc": "There is no subway service on Line 1 Yonge-University between York Mills and Eglinton stations due to structural maintenance. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 17.",
   "header": "Line 1 Yonge-University: There i"
  },
  "Line 1 Yonge-University: There i #2": {
-  "desc": "There is no subway service on Line 1 Yonge-University between York Mills and Eglinton stations due to structural maintenance. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 17.",
+  "desc": "Line 1 Yonge-University: There is limited subway service between Pioneer Village and Sheppard West stations for tunnel improvements. Thank you for your patience.",
   "header": "Line 1 Yonge-University: There i"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
