@@ -7,6 +7,10 @@
   "desc": "168 Symington: Detour northbound via Keele St and Lavender Rd due to a collision.",
   "header": "168 Symington: Detour northbound"
  },
+ "38 Highland Creek: Detour eastbo": {
+  "desc": "38 Highland Creek: Detour eastbound via Kennedy Rd and Lawrence Ave E due to construction.",
+  "header": "38 Highland Creek: Detour eastbo"
+ },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
