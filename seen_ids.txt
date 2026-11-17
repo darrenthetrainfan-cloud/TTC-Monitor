@@ -1,4 +1,12 @@
 {
+ "131 Nugget: No service near Tara": {
+  "desc": "131 Nugget: No service near Tara Mooregate due to construction.",
+  "header": "131 Nugget: No service near Tara"
+ },
+ "133 Neilson: No service near Tar": {
+  "desc": "133 Neilson: No service near Tara Mooregate due to construction.",
+  "header": "133 Neilson: No service near Tar"
+ },
  "161 Rogers Rd: Detour eastbound": {
   "desc": "161 Rogers Rd: Detour eastbound via Keele St, Lavender Rd and Old Weston Rd due to a collision.",
   "header": "161 Rogers Rd: Detour eastbound"
@@ -10,6 +18,10 @@
  "38 Highland Creek: Detour eastbo": {
   "desc": "38 Highland Creek: Detour eastbound via Kennedy Rd and Lawrence Ave E due to construction.",
   "header": "38 Highland Creek: Detour eastbo"
+ },
+ "38 Highland Creek: Detour westbo": {
+  "desc": "38 Highland Creek: Detour westbound via Lawrence Ave E and Midland Ave due to construction.",
+  "header": "38 Highland Creek: Detour westbo"
  },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
