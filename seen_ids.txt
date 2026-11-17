@@ -1,8 +1,4 @@
 {
- "109 Ranee: Detour northbound via": {
-  "desc": "109 Ranee: Detour northbound via Fairleigh Cres and Whitmore Ave due to a collision.",
-  "header": "109 Ranee: Detour northbound via"
- },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
