@@ -15,6 +15,10 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
+ "89 Weston: Detour northbound via": {
+  "desc": "89 Weston: Detour northbound via Black Creek Blvd and Eglinton Ave W due to a collision.",
+  "header": "89 Weston: Detour northbound via"
+ },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
