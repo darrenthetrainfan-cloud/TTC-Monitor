@@ -15,6 +15,14 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
+ "87 Cosburn: Buses are not stoppi": {
+  "desc": "87 Cosburn: Bypass near East York Acres Parking Lot at Haldon Ave while we respond to a medical emergency.",
+  "header": "87 Cosburn: Buses are not stoppi"
+ },
+ "87 Cosburn: Buses are not stoppi #2": {
+  "desc": "87 Cosburn: Bypass near East York Acres Parking Lot at Haldon Ave while we respond to a medical emergency.",
+  "header": "87 Cosburn: Buses are not stoppi"
+ },
  "Broadview: Elevator 6D2L out of": {
   "desc": "Broadview: Elevator out of service between concourse and Line 2 eastbound platform while we perform maintenance.",
   "header": "Broadview: Elevator 6D2L out of"
