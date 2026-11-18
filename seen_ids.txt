@@ -1,4 +1,8 @@
 {
+ "29C Dufferin: No service between": {
+  "desc": "29C Dufferin: No service between Princes' Gates Loop at Canada Blvd - CNE East Entrance and Dufferin St at Springhurst Ave due to construction.",
+  "header": "29C Dufferin: No service between"
+ },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
@@ -14,10 +18,6 @@
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
- },
- "87 Cosburn: Buses are not stoppi": {
-  "desc": "87 Cosburn: Bypass near East York Acres Parking Lot at Haldon Ave while we respond to a medical emergency.",
-  "header": "87 Cosburn: Buses are not stoppi"
  },
  "Broadview: Elevator 6D2L out of": {
   "desc": "Broadview: Elevator out of service between concourse and Line 2 eastbound platform while we perform maintenance.",
