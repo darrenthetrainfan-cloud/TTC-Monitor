@@ -7,10 +7,6 @@
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
  },
- "41 Keele: Detour northbound via": {
-  "desc": "41 Keele: Detour northbound via St Regis Cres, Ceramic Rd and Lepage Crt due to police activity.",
-  "header": "41 Keele: Detour northbound via"
- },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
