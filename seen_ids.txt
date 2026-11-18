@@ -1,8 +1,4 @@
 {
- "29C Dufferin: No service between": {
-  "desc": "29C Dufferin: No service between Princes' Gates Loop at Canada Blvd - CNE East Entrance and Dufferin St at Springhurst Ave due to construction.",
-  "header": "29C Dufferin: No service between"
- },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
