@@ -11,10 +11,6 @@
   "desc": "505 Dundas: Detour via Dundas St E, College St and Spadina Ave due to a security incident.",
   "header": "505 Dundas: Detour via Dundas St"
  },
- "506 Carlton: Detour eastbound vi": {
-  "desc": "506 Carlton: Detour eastbound via Mccaul St and Dundas St W due to a blocked track.",
-  "header": "506 Carlton: Detour eastbound vi"
- },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
