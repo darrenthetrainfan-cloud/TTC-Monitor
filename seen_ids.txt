@@ -1,8 +1,4 @@
 {
- "324 Victoria Park: Detour southb": {
-  "desc": "324 Victoria Park: Detour southbound via Craigton Dr, Pharmacy Ave, Eglinton Ave E and Eglinton Sq due to construction.",
-  "header": "324 Victoria Park: Detour southb"
- },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
