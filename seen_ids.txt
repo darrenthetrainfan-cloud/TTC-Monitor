@@ -3,10 +3,6 @@
   "desc": "103 Mount Pleasant North: Detour via Glenforest Rd, Ronan Ave and Lawrence Ave E due to a collision.",
   "header": "103 Mount Pleasant North: Detour"
  },
- "29C Dufferin: Detour southbound": {
-  "desc": "29C Dufferin: Detour southbound via Princes' Boulevard due to an event.",
-  "header": "29C Dufferin: Detour southbound"
- },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
