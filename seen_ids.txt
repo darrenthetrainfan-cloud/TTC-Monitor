@@ -1,4 +1,8 @@
 {
+ "103 Mount Pleasant North: Detour": {
+  "desc": "103 Mount Pleasant North: Detour via Glenforest Rd, Ronan Ave and Lawrence Ave E due to a collision.",
+  "header": "103 Mount Pleasant North: Detour"
+ },
  "29C Dufferin: Detour southbound": {
   "desc": "29C Dufferin: Detour southbound via Princes' Boulevard due to an event.",
   "header": "29C Dufferin: Detour southbound"
