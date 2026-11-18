@@ -1,8 +1,4 @@
 {
- "103 Mount Pleasant North: Detour": {
-  "desc": "103 Mount Pleasant North: Detour via Glenforest Rd, Ronan Ave and Lawrence Ave E due to a collision.",
-  "header": "103 Mount Pleasant North: Detour"
- },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
@@ -44,7 +40,7 @@
   "header": "Line 2 Bloor-Danforth: Trains ar"
  },
  "Line 5 Eglinton: No service betw": {
-  "desc": "Line 5 Eglinton: No service between Aga Khan Park & Museum and Pharmacy stations due to an injury at track level. Shuttle buses are on the way. Thank you for your patience.",
+  "desc": "Line 5 Eglinton: No service between Sloane and Pharmacy stations due to an injury at track level. Shuttle buses are running between Sloane and Pharmacy. Thank you for your patience.",
   "header": "Line 5 Eglinton: No service betw"
  },
  "Please look both ways": {
