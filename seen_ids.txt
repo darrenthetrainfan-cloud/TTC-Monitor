@@ -15,14 +15,6 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
- "95 York Mills: Detour westbound": {
-  "desc": "95 York Mills: Detour westbound via Kennedy Rd, Lawrence Ave E and Birchmount Rd due to a collision.",
-  "header": "95 York Mills: Detour westbound"
- },
- "995 York Mills Express: Detour v": {
-  "desc": "995 York Mills Express: Detour via Kennedy Rd, Lawrence Ave E and Birchmount Rd due to a collision.",
-  "header": "995 York Mills Express: Detour v"
- },
  "Broadview: Elevator 6D2L out of": {
   "desc": "Broadview: Elevator out of service between concourse and Line 2 eastbound platform while we perform maintenance.",
   "header": "Broadview: Elevator 6D2L out of"
@@ -46,9 +38,5 @@
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
- },
- "Victoria Park: Elevator 14D1L ou": {
-  "desc": "Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance.",
-  "header": "Victoria Park: Elevator 14D1L ou"
  }
 }
