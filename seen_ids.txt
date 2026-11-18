@@ -1,8 +1,4 @@
 {
- "306 Carlton: No service between": {
-  "desc": "306 Carlton: No service between Howard Park Ave at Parkside Dr East Side and College St at Lansdowne Ave while we respond to a medical emergency.",
-  "header": "306 Carlton: No service between"
- },
  "324 Victoria Park: Detour southb": {
   "desc": "324 Victoria Park: Detour southbound via Craigton Dr, Pharmacy Ave, Eglinton Ave E and Eglinton Sq due to construction.",
   "header": "324 Victoria Park: Detour southb"
