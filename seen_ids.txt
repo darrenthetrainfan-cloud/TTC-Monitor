@@ -1,4 +1,8 @@
 {
+ "14 Glencairn: Detour via Shermou": {
+  "desc": "14 Glencairn: Detour via Shermount Ave, Hillmount Ave and Englemount Ave due to a blocked road.",
+  "header": "14 Glencairn: Detour via Shermou"
+ },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
