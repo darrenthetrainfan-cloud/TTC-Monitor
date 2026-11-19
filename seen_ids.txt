@@ -51,10 +51,6 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
- "Line 1 Yonge-University: Delays": {
-  "desc": "Line 1 Yonge-University: Delays northbound at Sheppard West station due to an emergency alarm on board a train. Thank you for your patience.",
-  "header": "Line 1 Yonge-University: Delays"
- },
  "Line 1 Yonge-University: There i": {
   "desc": "There is no subway service on Line 1 Yonge-University between York Mills and Eglinton stations due to structural maintenance. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 19.",
   "header": "Line 1 Yonge-University: There i"
