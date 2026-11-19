@@ -47,6 +47,10 @@
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
  },
+ "Wilson: Elevator 8S1L out of ser": {
+  "desc": "Wilson: Elevator out of service between Line 1 platform and street while we perform maintenance.",
+  "header": "Wilson: Elevator 8S1L out of ser"
+ },
  "Woodbine: Elevator 12D2L out of": {
   "desc": "Woodbine: Elevator out of service between concourse and Line 2 westbound platform while we perform maintenance.",
   "header": "Woodbine: Elevator 12D2L out of"
