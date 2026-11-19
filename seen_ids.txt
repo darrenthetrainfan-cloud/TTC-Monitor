@@ -35,14 +35,6 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
- "Line 1 Yonge-University: There i": {
-  "desc": "There is no subway service on Line 1 Yonge-University between York Mills and Eglinton stations due to structural maintenance. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 19.",
-  "header": "Line 1 Yonge-University: There i"
- },
- "Line 1 Yonge-University: There i #2": {
-  "desc": "Line 1 Yonge-University: There is limited subway service between Pioneer Village and Sheppard West stations for tunnel improvements. Thank you for your patience.",
-  "header": "Line 1 Yonge-University: There i"
- },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
