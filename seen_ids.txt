@@ -15,10 +15,6 @@
   "desc": "504 King: No service between Broadview Station at Bay 7 and Broadview Ave at Gerrard St East due to a blocked track.",
   "header": "504 King: No service between Bro"
  },
- "505 Dundas: Detour westbound via": {
-  "desc": "505 Dundas: Detour westbound via Parliament St, Queen St E, Church St, Richmond St E, York St, Queen St E and Mccaul St due to a security incident.",
-  "header": "505 Dundas: Detour westbound via"
- },
  "505 Dundas: No service between B": {
   "desc": "505 Dundas: No service between Broadview Station at Bay 6 and Dundas St East at Parliament St due to a blocked track.",
   "header": "505 Dundas: No service between B"
