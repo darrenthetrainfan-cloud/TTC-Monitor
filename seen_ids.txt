@@ -54,9 +54,5 @@
  "St Clair West: Elevator 3S2L out": {
   "desc": "St Clair West: Elevator out of service between bus and streetcar platform, south concourse and Line 1 southbound platform while we perform maintenance.",
   "header": "St Clair West: Elevator 3S2L out"
- },
- "Warden: Elevator 15D1L out of se": {
-  "desc": "Warden: Elevator out of service between concourse and Line 2 platform due to an investigation.",
-  "header": "Warden: Elevator 15D1L out of se"
  }
 }
