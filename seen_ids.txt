@@ -12,7 +12,7 @@
   "header": "504 King: Detour westbound via C"
  },
  "504 King: Detour westbound via C #2": {
-  "desc": "504 King: Detour westbound via Church St and Wellington St W due to a blocked track.",
+  "desc": "504 King: Detour westbound via Church St, Wellington St W and York St due to a blocked track.",
   "header": "504 King: Detour westbound via C"
  },
  "53 Steeles East: Detour via Maxo": {
