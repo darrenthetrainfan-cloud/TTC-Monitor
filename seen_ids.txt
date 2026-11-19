@@ -8,7 +8,7 @@
   "header": "343 Kennedy: Detour southbound v"
  },
  "385 Sheppard East: Detour via Ne": {
-  "desc": "385 Sheppard East: Detour via Neilson Ave, Wickson Trl and Brenyon Way due to construction.",
+  "desc": "385 Sheppard East: Detour via Neilson Ave, Wickson Trl and Brenyon Way due to Toronto Hydro work.",
   "header": "385 Sheppard East: Detour via Ne"
  },
  "501 Queen: Detour eastbound via": {
@@ -26,10 +26,6 @@
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
- },
- "85 Sheppard East: Detour via Nei": {
-  "desc": "85 Sheppard East: Detour via Neilson Ave, Wickson Trl and Brenyon Way due to wires being down.",
-  "header": "85 Sheppard East: Detour via Nei"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
