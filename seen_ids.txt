@@ -67,6 +67,10 @@
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
  },
+ "Sherbourne: Elevator 4D1L out of": {
+  "desc": "Sherbourne: Elevator out of service between Sherbourne Street entrance, concourse and Line 2 Kennedy (eastbound) while we perform maintenance.",
+  "header": "Sherbourne: Elevator 4D1L out of"
+ },
  "Woodbine: Elevator 12D2L out of": {
   "desc": "Woodbine: Elevator out of service between concourse and Line 2 westbound platform while we perform maintenance.",
   "header": "Woodbine: Elevator 12D2L out of"
