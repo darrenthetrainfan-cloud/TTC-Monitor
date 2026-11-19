@@ -1,5 +1,9 @@
 {
  "116 Morningside: Detour eastboun": {
+  "desc": "116 Morningside: Detour eastbound via Markham Rd and Kingston Rd due to a collision.",
+  "header": "116 Morningside: Detour eastboun"
+ },
+ "116 Morningside: Detour eastboun #2": {
   "desc": "116 Morningside: Detour eastbound via Sewells Rd, Littles Rd and Old Finch Ave due to a collision.",
   "header": "116 Morningside: Detour eastboun"
  },
@@ -31,6 +35,10 @@
   "desc": "85 Sheppard East: Detour via Neilson Ave, Wickson Trl and Brenyon Way due to wires being down.",
   "header": "85 Sheppard East: Detour via Nei"
  },
+ "86 Scarborough: Detour eastbound": {
+  "desc": "86 Scarborough: Detour eastbound via Markham Rd and Kingston Rd due to a collision.",
+  "header": "86 Scarborough: Detour eastbound"
+ },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
@@ -46,10 +54,6 @@
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
- },
- "Line 5 Eglinton: No service betw": {
-  "desc": "Line 5 Eglinton: No service between Sloane and Pharmacy stations due to an injury at track level. Shuttle buses are running between Sloane and Pharmacy. Thank you for your patience.",
-  "header": "Line 5 Eglinton: No service betw"
  },
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
