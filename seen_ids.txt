@@ -1,8 +1,4 @@
 {
- "121 Esplanade-River: Detour east": {
-  "desc": "121 Esplanade-River: Detour eastbound via Eastern Ave and Cherry St due to a blocked road.",
-  "header": "121 Esplanade-River: Detour east"
- },
  "14 Glencairn: Detour via Shermou": {
   "desc": "14 Glencairn: Detour via Shermount Ave, Hillmount Ave and Englemount Ave due to a blocked road.",
   "header": "14 Glencairn: Detour via Shermou"
