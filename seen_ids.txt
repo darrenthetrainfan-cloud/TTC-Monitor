@@ -23,6 +23,14 @@
   "desc": "85 Sheppard East: Detour via Neilson Rd, Sewells Rd and Brenyon Way due to a blocked road.",
   "header": "85 Sheppard East: Detour via Nei"
  },
+ "903 Kennedy-Progress Express: De": {
+  "desc": "903 Kennedy-Progress Express: Detour southbound via Lawrence Ave E, Midland Ave and Eglinton Ave E while we respond to a security incident.",
+  "header": "903 Kennedy-Progress Express: De"
+ },
+ "903 Kennedy-Progress Express: De #2": {
+  "desc": "903 Kennedy-Progress Express: Detour northbound via Eglinton Ave E, Kennedy Ave and Lawrence Ave W while we respond to a security incident.",
+  "header": "903 Kennedy-Progress Express: De"
+ },
  "985 Sheppard East Express: Detou": {
   "desc": "985 Sheppard East Express: Detour via Neilson Rd, Sewells Rd and Brenyon Way due to a blocked road.",
   "header": "985 Sheppard East Express: Detou"
