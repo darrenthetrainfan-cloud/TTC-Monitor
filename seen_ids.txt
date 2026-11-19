@@ -1,4 +1,8 @@
 {
+ "102 Markham Rd: Detour via Selec": {
+  "desc": "102 Markham Rd: Detour via Select Ave, Tapscott Rd, Mcnicoll Ave and Markham Rd due to a collision.",
+  "header": "102 Markham Rd: Detour via Selec"
+ },
  "14 Glencairn: Detour via Shermou": {
   "desc": "14 Glencairn: Detour via Shermount Ave, Hillmount Ave and Englemount Ave due to a blocked road.",
   "header": "14 Glencairn: Detour via Shermou"
