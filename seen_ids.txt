@@ -1,8 +1,4 @@
 {
- "102 Markham Rd: Detour via Selec": {
-  "desc": "102 Markham Rd: Detour via Select Ave, Tapscott Rd, Mcnicoll Ave and Markham Rd due to a collision.",
-  "header": "102 Markham Rd: Detour via Selec"
- },
  "14 Glencairn: Detour via Shermou": {
   "desc": "14 Glencairn: Detour via Shermount Ave, Hillmount Ave and Englemount Ave due to a blocked road.",
   "header": "14 Glencairn: Detour via Shermou"
@@ -19,9 +15,9 @@
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
  },
- "505 Dundas: Detour westbound via": {
-  "desc": "505 Dundas: Detour westbound via Spadina Ave and College St while we respond to a medical emergency.",
-  "header": "505 Dundas: Detour westbound via"
+ "506 Carlton: Detour eastbound vi": {
+  "desc": "506 Carlton: Detour eastbound via Dundas St E and Broadview Ave due to a blocked track.",
+  "header": "506 Carlton: Detour eastbound vi"
  },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
