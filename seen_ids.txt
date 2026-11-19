@@ -15,10 +15,6 @@
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
  },
- "35 Jane: Detour southbound via F": {
-  "desc": "35 Jane: Detour southbound via Finch Ave W, Elana Dr, Firgrove Cres and Jane St due to a blocked road.",
-  "header": "35 Jane: Detour southbound via F"
- },
  "38 Highland Creek: No service be": {
   "desc": "38 Highland Creek: No service between Tara Mooregate and Ellesmere while we respond to a security incident.",
   "header": "38 Highland Creek: No service be"
@@ -46,10 +42,6 @@
  "903 Kennedy-Progress Express: No": {
   "desc": "903 Kennedy-Progress Express: No service between Tara Mooregate and Ellesmere while we respond to a security incident.",
   "header": "903 Kennedy-Progress Express: No"
- },
- "935 Jane Express: Detour southbo": {
-  "desc": "935 Jane Express: Detour southbound via Finch Ave W, Elana Dr, Firgrove Cres and Jane St due to a blocked road.",
-  "header": "935 Jane Express: Detour southbo"
  },
  "938 Highland Creek Express: No s": {
   "desc": "938 Highland Creek Express: No service between Tara Mooregate and Ellesmere while we respond to a security incident.",
