@@ -3,6 +3,10 @@
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
  },
+ "38 Highland Creek: Detour eastbo": {
+  "desc": "38 Highland Creek: Detour eastbound via Lawrence Ave E, Midland Ave and Eglinton Ave W while we respond to a security incident.",
+  "header": "38 Highland Creek: Detour eastbo"
+ },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
@@ -18,22 +22,6 @@
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
- },
- "85 Sheppard East: Detour via Nei": {
-  "desc": "85 Sheppard East: Detour via Neilson Rd, Sewells Rd and Brenyon Way due to a blocked road.",
-  "header": "85 Sheppard East: Detour via Nei"
- },
- "903 Kennedy-Progress Express: De": {
-  "desc": "903 Kennedy-Progress Express: Detour southbound via Lawrence Ave E, Midland Ave and Eglinton Ave E while we respond to a security incident.",
-  "header": "903 Kennedy-Progress Express: De"
- },
- "903 Kennedy-Progress Express: De #2": {
-  "desc": "903 Kennedy-Progress Express: Detour northbound via Eglinton Ave E, Kennedy Ave and Lawrence Ave W while we respond to a security incident.",
-  "header": "903 Kennedy-Progress Express: De"
- },
- "985 Sheppard East Express: Detou": {
-  "desc": "985 Sheppard East Express: Detour via Neilson Rd, Sewells Rd and Brenyon Way due to a blocked road.",
-  "header": "985 Sheppard East Express: Detou"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
