@@ -15,6 +15,10 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
+ "59B Maple Leaf: Detour via Churc": {
+  "desc": "59B Maple Leaf: Detour via Church St, Pine Ave and Dalbeattie Ave due to construction.",
+  "header": "59B Maple Leaf: Detour via Churc"
+ },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
