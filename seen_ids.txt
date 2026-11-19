@@ -16,7 +16,7 @@
   "header": "504 King: No service between Bro"
  },
  "505 Dundas: No service between B": {
-  "desc": "505 Dundas: No service between Broadview Station at Bay 6 and Dundas St East at Parliament St due to a security incident.",
+  "desc": "505 Dundas: No service between Broadview Station at Bay 6 and Dundas St East at Parliament St due to a blocked track.",
   "header": "505 Dundas: No service between B"
  },
  "53 Steeles East: Detour via Maxo": {
