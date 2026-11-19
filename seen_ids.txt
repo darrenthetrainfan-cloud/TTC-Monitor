@@ -47,10 +47,6 @@
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
  },
- "St Clair West: Elevator 3S2L out": {
-  "desc": "St Clair West: Elevator out of service between bus and streetcar platform, south concourse and Line 1 southbound platform while we perform maintenance.",
-  "header": "St Clair West: Elevator 3S2L out"
- },
  "Woodbine: Elevator 12D2L out of": {
   "desc": "Woodbine: Elevator out of service between concourse and Line 2 westbound platform while we perform maintenance.",
   "header": "Woodbine: Elevator 12D2L out of"
