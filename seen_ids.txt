@@ -11,14 +11,6 @@
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
  },
- "505 Dundas: Detour westbound via": {
-  "desc": "505 Dundas: Detour westbound via Parliament St, King St E and Spadina Ave while we respond to a medical emergency.",
-  "header": "505 Dundas: Detour westbound via"
- },
- "506 Carlton: Detour westbound vi": {
-  "desc": "506 Carlton: Detour westbound via Adelaide St E while we respond to a medical emergency.",
-  "header": "506 Carlton: Detour westbound vi"
- },
  "507 Long Branch: No service betw": {
   "desc": "507 Long Branch: No service between HUMBER LOOP AT THE QUEENSWAY and Lake Shore Blvd West at Kipling Ave due to a collision.",
   "header": "507 Long Branch: No service betw"
