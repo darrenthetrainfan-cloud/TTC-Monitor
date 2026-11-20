@@ -12,7 +12,7 @@
   "header": "301 Queen: No service near Lake"
  },
  "34 Eglinton: Detour westbound vi": {
-  "desc": "34 Eglinton: Detour westbound via Thermos Rd, Ashtonbee Rd, Hakimi Ave and Eglinton Ave E due to a collision.",
+  "desc": "34 Eglinton: Detour westbound via Warden Ave, Ashtonbee Rd and Hakimi Ave due to a collision.",
   "header": "34 Eglinton: Detour westbound vi"
  },
  "43 Kennedy: Detour southbound vi": {
