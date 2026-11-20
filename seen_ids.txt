@@ -23,6 +23,14 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
+ "85 Sheppard East: Detour westbou": {
+  "desc": "85 Sheppard East: Detour westbound via Midland Ave, Huntingwood Dr and Kennedy Rd due to a blocked road.",
+  "header": "85 Sheppard East: Detour westbou"
+ },
+ "985 Sheppard East Express: Detou": {
+  "desc": "985 Sheppard East Express: Detour via Midland Ave, Huntingwood Dr and Kennedy Rd due to a blocked road.",
+  "header": "985 Sheppard East Express: Detou"
+ },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
