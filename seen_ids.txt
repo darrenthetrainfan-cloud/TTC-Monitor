@@ -31,10 +31,6 @@
   "desc": "59B Maple Leaf: Detour via Church St, Pine Ave and Dalbeattie Ave due to construction.",
   "header": "59B Maple Leaf: Detour via Churc"
  },
- "7 Bathurst: Detour via Joicey Bl": {
-  "desc": "7 Bathurst: Detour via Joicey Blvd, Falkirk St and Brooke Ave due to a collision.",
-  "header": "7 Bathurst: Detour via Joicey Bl"
- },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
