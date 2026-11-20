@@ -51,6 +51,10 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
+ "Jane: Elevator 12B1L out of serv": {
+  "desc": "Jane: Elevator out of service between Jane St entrance and concourse while we perform maintenance.",
+  "header": "Jane: Elevator 12B1L out of serv"
+ },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
