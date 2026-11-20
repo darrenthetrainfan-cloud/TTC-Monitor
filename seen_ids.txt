@@ -23,10 +23,6 @@
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
  },
- "501 Queen: Detour westbound via": {
-  "desc": "501 Queen: Detour westbound via Church St, King St W and Spadina Ave while we respond to a medical emergency.",
-  "header": "501 Queen: Detour westbound via"
- },
  "504 King: Detour westbound via C": {
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
@@ -54,6 +50,10 @@
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
+ },
+ "Line 1 Yonge-University: No serv": {
+  "desc": "Line 1 Yonge-University: No service between St George and St Andrew stations due to a mechanical issue. Thank you for your patience.",
+  "header": "Line 1 Yonge-University: No serv"
  },
  "Line 1 Yonge-University: There i": {
   "desc": "There is no subway service on Line 1 Yonge-University between Finch West and Wilson stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 20.",
