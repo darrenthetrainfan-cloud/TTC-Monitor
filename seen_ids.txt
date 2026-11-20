@@ -1,8 +1,4 @@
 {
- "301 Queen: No service between Lo": {
-  "desc": "301 Queen: No service between Long Branch Loop and Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
-  "header": "301 Queen: No service between Lo"
- },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
@@ -26,10 +22,6 @@
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
- },
- "Broadview: Elevator 6D2L out of": {
-  "desc": "Broadview: Elevator out of service between concourse and Line 2 eastbound platform while we perform maintenance.",
-  "header": "Broadview: Elevator 6D2L out of"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
