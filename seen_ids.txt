@@ -23,18 +23,6 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
- "85 Sheppard East: Detour westbou": {
-  "desc": "85 Sheppard East: Detour westbound via Midland Ave, Huntingwood Dr and Kennedy Rd due to a blocked road.",
-  "header": "85 Sheppard East: Detour westbou"
- },
- "904 Don Mills-Scarborough Expres": {
-  "desc": "904 Don Mills-Scarborough Express: Detour via Midland Ave, Huntingwood Dr and Kennedy Rd due to a blocked road.",
-  "header": "904 Don Mills-Scarborough Expres"
- },
- "985 Sheppard East Express: Detou": {
-  "desc": "985 Sheppard East Express: Detour via Midland Ave, Huntingwood Dr and Kennedy Rd due to a blocked road.",
-  "header": "985 Sheppard East Express: Detou"
- },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
@@ -44,7 +32,7 @@
   "header": "Have proof of payment ready for"
  },
  "Line 2 Bloor-Danforth: No servic": {
-  "desc": "Line 2 Bloor-Danforth: No service between Woodbine and Broadview stations due to a medical emergency. Thank you for your patience.",
+  "desc": "Line 2 Bloor-Danforth: No service between Woodbine and Broadview stations due to a medical emergency. Shuttle buses are on the way. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: No servic"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
