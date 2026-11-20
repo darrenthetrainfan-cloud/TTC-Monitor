@@ -27,6 +27,10 @@
   "desc": "85 Sheppard East: Detour westbound via Midland Ave, Huntingwood Dr and Kennedy Rd due to a blocked road.",
   "header": "85 Sheppard East: Detour westbou"
  },
+ "904 Don Mills-Scarborough Expres": {
+  "desc": "904 Don Mills-Scarborough Express: Detour via Midland Ave, Huntingwood Dr and Kennedy Rd due to a blocked road.",
+  "header": "904 Don Mills-Scarborough Expres"
+ },
  "985 Sheppard East Express: Detou": {
   "desc": "985 Sheppard East Express: Detour via Midland Ave, Huntingwood Dr and Kennedy Rd due to a blocked road.",
   "header": "985 Sheppard East Express: Detou"
