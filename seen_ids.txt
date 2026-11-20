@@ -3,6 +3,10 @@
   "desc": "113 Danforth: Detour westbound via Victoria Park Ave, Gerrard St E and Main St due to construction.",
   "header": "113 Danforth: Detour westbound v"
  },
+ "134 Progress: Detour via Finch A": {
+  "desc": "134 Progress: Detour via Finch Ave E, Tapscott Rd, Newgate Rd and Finchdene Sq due to a collision.",
+  "header": "134 Progress: Detour via Finch A"
+ },
  "20 Cliffside: Detour westbound v": {
   "desc": "20 Cliffside: Detour westbound via Victoria Park Ave, Gerrard St E and Main St due to construction.",
   "header": "20 Cliffside: Detour westbound v"
