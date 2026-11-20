@@ -11,10 +11,6 @@
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
  },
- "34 Eglinton: Detour westbound vi": {
-  "desc": "34 Eglinton: Detour westbound via Warden Ave, Ashtonbee Rd and Hakimi Ave due to a collision.",
-  "header": "34 Eglinton: Detour westbound vi"
- },
  "43 Kennedy: Detour southbound vi": {
   "desc": "43 Kennedy: Detour southbound via Midland Ave and Mcnicoll Ave due to construction.",
   "header": "43 Kennedy: Detour southbound vi"
@@ -34,6 +30,10 @@
  "59B Maple Leaf: Detour via Churc": {
   "desc": "59B Maple Leaf: Detour via Church St, Pine Ave and Dalbeattie Ave due to construction.",
   "header": "59B Maple Leaf: Detour via Churc"
+ },
+ "7 Bathurst: Detour via Joicey Bl": {
+  "desc": "7 Bathurst: Detour via Joicey Blvd, Falkirk St and Brooke Ave due to a collision.",
+  "header": "7 Bathurst: Detour via Joicey Bl"
  },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
