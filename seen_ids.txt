@@ -11,6 +11,10 @@
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
  },
+ "34 Eglinton: Detour westbound vi": {
+  "desc": "34 Eglinton: Detour westbound via Thermos Rd, Ashtonbee Rd, Hakimi Ave and Eglinton Ave E due to a collision.",
+  "header": "34 Eglinton: Detour westbound vi"
+ },
  "43 Kennedy: Detour southbound vi": {
   "desc": "43 Kennedy: Detour southbound via Midland Ave and Mcnicoll Ave due to construction.",
   "header": "43 Kennedy: Detour southbound vi"
