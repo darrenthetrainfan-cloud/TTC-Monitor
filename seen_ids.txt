@@ -1,8 +1,4 @@
 {
- "127 Davenport: Detour eastbound": {
-  "desc": "127 Davenport: Detour eastbound via Lansdowne Ave, Dupont St and Dufferin St due to a collision.",
-  "header": "127 Davenport: Detour eastbound"
- },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
