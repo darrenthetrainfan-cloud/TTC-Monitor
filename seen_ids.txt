@@ -27,10 +27,6 @@
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
  },
- "Don Mills: Elevator 61P2L out of": {
-  "desc": "Don Mills: Elevator out of service between bus platform and concourse while we perform maintenance.",
-  "header": "Don Mills: Elevator 61P2L out of"
- },
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
