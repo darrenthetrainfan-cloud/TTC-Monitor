@@ -35,10 +35,6 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
- "83 Jones: Delays near Leslie St": {
-  "desc": "83 Jones: Delays near Leslie St at Lake Shore Blvd East while we deal with an operational problem.",
-  "header": "83 Jones: Delays near Leslie St"
- },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
