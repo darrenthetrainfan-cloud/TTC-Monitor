@@ -46,5 +46,9 @@
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
+ },
+ "St Clair West: Elevator 3S3L out": {
+  "desc": "St Clair West: Elevator out of service between south concourse and Line 1 northbound platform while we perform maintenance.",
+  "header": "St Clair West: Elevator 3S3L out"
  }
 }
