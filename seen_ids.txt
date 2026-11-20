@@ -1,8 +1,4 @@
 {
- "113 Danforth: Detour westbound v": {
-  "desc": "113 Danforth: Detour westbound via Victoria Park Ave, Gerrard St E and Main St due to construction.",
-  "header": "113 Danforth: Detour westbound v"
- },
  "300 Bloor-Danforth: Detour westb": {
   "desc": "300 Bloor-Danforth: Detour westbound via Victoria Park Ave, Gerrard St E and Main St due to construction.",
   "header": "300 Bloor-Danforth: Detour westb"
