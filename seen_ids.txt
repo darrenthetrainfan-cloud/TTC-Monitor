@@ -1,4 +1,8 @@
 {
+ "127 Davenport: Detour eastbound": {
+  "desc": "127 Davenport: Detour eastbound via Lansdowne Ave, Dupont St and Dufferin St due to a collision.",
+  "header": "127 Davenport: Detour eastbound"
+ },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
@@ -22,10 +26,6 @@
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
- },
- "Cedarvale: Elevator 4S1L out of": {
-  "desc": "Cedarvale: Elevator out of service between Bus Terminal entrance and Line 1 northbound platform while we perform maintenance.",
-  "header": "Cedarvale: Elevator 4S1L out of"
  },
  "Donlands: Elevator 9D1L out of s": {
   "desc": "Donlands: Elevator out of service between Donlands Ave entrance, concourse and Line 2 eastbound platform while we perform maintenance.",
