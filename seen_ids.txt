@@ -1,23 +1,7 @@
 {
- "129 Mccowan North: No service be": {
-  "desc": "129 Mccowan North: No service between Tara Mooregate and Ellesmere while we respond to a security incident.",
-  "header": "129 Mccowan North: No service be"
- },
- "131 Nugget: No service between T": {
-  "desc": "131 Nugget: No service between Tara Mooregate and Ellesmere while we respond to a security incident.",
-  "header": "131 Nugget: No service between T"
- },
- "133 Neilson: No service between": {
-  "desc": "133 Neilson: No service between Tara Mooregate and Ellesmere while we respond to a security incident.",
-  "header": "133 Neilson: No service between"
- },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
- },
- "38 Highland Creek: No service be": {
-  "desc": "38 Highland Creek: No service between Tara Mooregate and Ellesmere while we respond to a security incident.",
-  "header": "38 Highland Creek: No service be"
  },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
@@ -26,6 +10,10 @@
  "504 King: Detour westbound via C": {
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
+ },
+ "505 Dundas: Detour westbound via": {
+  "desc": "505 Dundas: Detour westbound via Parliament St, King St E and Spadina Ave while we respond to a medical emergency.",
+  "header": "505 Dundas: Detour westbound via"
  },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
@@ -38,18 +26,6 @@
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
- },
- "903 Kennedy-Progress Express: No": {
-  "desc": "903 Kennedy-Progress Express: No service between Tara Mooregate and Ellesmere while we respond to a security incident.",
-  "header": "903 Kennedy-Progress Express: No"
- },
- "938 Highland Creek Express: No s": {
-  "desc": "938 Highland Creek Express: No service between Tara Mooregate and Ellesmere while we respond to a security incident.",
-  "header": "938 Highland Creek Express: No s"
- },
- "943 Kennedy Express: No service": {
-  "desc": "943 Kennedy Express: No service between Tara Mooregate and Ellesmere while we respond to a security incident.",
-  "header": "943 Kennedy Express: No service"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
