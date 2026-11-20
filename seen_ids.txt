@@ -3,6 +3,10 @@
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
  },
+ "33 Forest Hill: Detour southboun": {
+  "desc": "33 Forest Hill: Detour southbound via Ardmore Rd, Vesta Dr and Burton Rd due to a collision.",
+  "header": "33 Forest Hill: Detour southboun"
+ },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
