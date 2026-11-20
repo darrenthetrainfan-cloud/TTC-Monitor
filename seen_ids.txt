@@ -7,6 +7,10 @@
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
  },
+ "343 Kennedy: Detour southbound v": {
+  "desc": "343 Kennedy: Detour southbound via Midland Ave and Mcnicoll Ave due to construction.",
+  "header": "343 Kennedy: Detour southbound v"
+ },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
