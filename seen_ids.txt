@@ -31,6 +31,10 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
+ "Jane: Elevator 12B1L out of serv": {
+  "desc": "Jane: Elevator out of service between Jane St entrance and concourse while we perform maintenance.",
+  "header": "Jane: Elevator 12B1L out of serv"
+ },
  "Kennedy: Elevator 16D3L out of s": {
   "desc": "Kennedy: Elevator out of service between bus platform A, concourse, and Transway Crescent entrance and bus platform B while we perform maintenance.",
   "header": "Kennedy: Elevator 16D3L out of s"
