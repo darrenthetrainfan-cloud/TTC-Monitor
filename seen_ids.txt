@@ -3,6 +3,10 @@
   "desc": "127 Davenport: Detour eastbound via Lansdowne Ave, Dupont St and Dufferin St due to a collision.",
   "header": "127 Davenport: Detour eastbound"
  },
+ "167 Pharmacy North: Detour south": {
+  "desc": "167 Pharmacy North: Detour southbound via Yorkland Rd and Sheppard Ave E due to traffic congestion.",
+  "header": "167 Pharmacy North: Detour south"
+ },
  "24 Victoria Park: Detour northbo": {
   "desc": "24 Victoria Park: Detour northbound via Yorkland Rd and Sheppard Ave E due to traffic congestion.",
   "header": "24 Victoria Park: Detour northbo"
