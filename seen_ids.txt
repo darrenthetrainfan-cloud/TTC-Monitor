@@ -3,22 +3,6 @@
   "desc": "127 Davenport: Detour eastbound via Lansdowne Ave, Dupont St and Dufferin St due to a collision.",
   "header": "127 Davenport: Detour eastbound"
  },
- "167 Pharmacy North: Detour north": {
-  "desc": "167 Pharmacy North: Detour northbound via Consumers Rd and Victoria Park Ave due to traffic congestion.",
-  "header": "167 Pharmacy North: Detour north"
- },
- "167 Pharmacy North: Detour south": {
-  "desc": "167 Pharmacy North: Detour southbound via Yorkland Rd and Sheppard Ave E due to traffic congestion.",
-  "header": "167 Pharmacy North: Detour south"
- },
- "24 Victoria Park: Detour northbo": {
-  "desc": "24 Victoria Park: Detour northbound via Yorkland Rd and Sheppard Ave E due to traffic congestion.",
-  "header": "24 Victoria Park: Detour northbo"
- },
- "24 Victoria Park: Detour southbo": {
-  "desc": "24 Victoria Park: Detour southbound via Consumers Rd and Victoria Park Ave due to traffic congestion.",
-  "header": "24 Victoria Park: Detour southbo"
- },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
