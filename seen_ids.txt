@@ -59,6 +59,10 @@
   "desc": "There is no subway service on Line 1 Yonge-University between Finch West and Wilson stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 20.",
   "header": "Line 1 Yonge-University: There i"
  },
+ "Line 1 Yonge-University: Trains": {
+  "desc": "Line 1 Yonge-University: Bypass at St George station due to a security incident. Thank you for your patience.",
+  "header": "Line 1 Yonge-University: Trains"
+ },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
