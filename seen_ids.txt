@@ -1,8 +1,4 @@
 {
- "111 East Mall: Detour via Willow": {
-  "desc": "111 East Mall: Detour via Willowridge Rd due to a collision.",
-  "header": "111 East Mall: Detour via Willow"
- },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
