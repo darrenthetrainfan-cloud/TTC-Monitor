@@ -1,7 +1,19 @@
 {
+ "111 East Mall: Detour via Willow": {
+  "desc": "111 East Mall: Detour via Willowridge Rd due to a collision.",
+  "header": "111 East Mall: Detour via Willow"
+ },
+ "111 East Mall: Detour via Willow #2": {
+  "desc": "111 East Mall: Detour via Willowridge Rd due to a collision.",
+  "header": "111 East Mall: Detour via Willow"
+ },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
+ },
+ "47 Lansdowne: Detour via Kitchen": {
+  "desc": "47 Lansdowne: Detour via Kitchener Ave and Nairn Ave due to a blocked road.",
+  "header": "47 Lansdowne: Detour via Kitchen"
  },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
@@ -38,6 +50,10 @@
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
+ },
+ "Line 5 Eglinton: Trains are not": {
+  "desc": "Line 5 Eglinton: Bypass at Caledonia station due to a security incident. Thank you for your patience.",
+  "header": "Line 5 Eglinton: Trains are not"
  },
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
