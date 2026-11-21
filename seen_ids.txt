@@ -31,6 +31,10 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
+ "Line 2 Bloor-Danforth: There is": {
+  "desc": "There is no subway service on Line 2 Bloor-Danforth between St George and Broadview stations due to for planned signal work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 22.",
+  "header": "Line 2 Bloor-Danforth: There is"
+ },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
