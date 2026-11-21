@@ -19,10 +19,6 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
- "97 Yonge: Detour via Dundas St E": {
-  "desc": "97 Yonge: Detour via Dundas St E and Church St due to a demonstration.",
-  "header": "97 Yonge: Detour via Dundas St E"
- },
  "Bathurst: Elevator 3B1L out of s": {
   "desc": "Bathurst: Elevator out of service between Bathurst St east side entrance, concourse and Line 2 westbound platform while we perform maintenance.",
   "header": "Bathurst: Elevator 3B1L out of s"
