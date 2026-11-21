@@ -40,7 +40,7 @@
   "header": "Line 2 Bloor-Danforth: Trains ar"
  },
  "Line 5 Eglinton: No service betw": {
-  "desc": "Line 5 Eglinton: No service between Sloane and Birchmount stations due to a collision. Shuttle buses are on the way. Thank you for your patience.",
+  "desc": "Line 5 Eglinton: No service between Hakimi Lebovic and Birchmount stations due to a collision. Shuttle buses are on the way. Thank you for your patience.",
   "header": "Line 5 Eglinton: No service betw"
  },
  "Please look both ways": {
