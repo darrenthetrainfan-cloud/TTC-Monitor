@@ -15,6 +15,10 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
+ "7 Bathurst: Detour southbound vi": {
+  "desc": "7 Bathurst: Detour southbound via Carmichael Ave, Clyde Ave and Dunblaine Ave due to a blocked road.",
+  "header": "7 Bathurst: Detour southbound vi"
+ },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
