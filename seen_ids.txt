@@ -3,10 +3,6 @@
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
  },
- "47 Lansdowne: Detour via Kitchen": {
-  "desc": "47 Lansdowne: Detour via Kitchener Ave and Nairn Ave due to a blocked road.",
-  "header": "47 Lansdowne: Detour via Kitchen"
- },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
