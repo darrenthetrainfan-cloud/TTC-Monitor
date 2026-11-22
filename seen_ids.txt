@@ -19,10 +19,6 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
- "939 Finch Express: Detour via Sa": {
-  "desc": "939 Finch Express: Detour via Sandhurst Cir and Finch Ave E due to a collision.",
-  "header": "939 Finch Express: Detour via Sa"
- },
  "Bathurst: Elevator 3B1L out of s": {
   "desc": "Bathurst: Elevator out of service between Bathurst St east side entrance, concourse and Line 2 westbound platform while we perform maintenance.",
   "header": "Bathurst: Elevator 3B1L out of s"
