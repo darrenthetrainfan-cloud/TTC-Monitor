@@ -3,6 +3,10 @@
   "desc": "116 Morningside: Detour via Coronation Dr, Poplar Ave and Cumber Ave due to construction.",
   "header": "116 Morningside: Detour via Coro"
  },
+ "13 Avenue Rd: Detour northbound": {
+  "desc": "13 Avenue Rd: Detour northbound via Clarendon Ave, Poplar Plains Rd and St Clair Ave W due to a collision.",
+  "header": "13 Avenue Rd: Detour northbound"
+ },
  "131 Nugget: Detour via Brimley R": {
   "desc": "131 Nugget: Detour via Brimley Rd, Progress Ave and Midland Ave due to police activity.",
   "header": "131 Nugget: Detour via Brimley R"
