@@ -1,4 +1,8 @@
 {
+ "116 Morningside: Detour via Coro": {
+  "desc": "116 Morningside: Detour via Coronation Dr, Poplar Ave and Cumber Ave due to construction.",
+  "header": "116 Morningside: Detour via Coro"
+ },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
