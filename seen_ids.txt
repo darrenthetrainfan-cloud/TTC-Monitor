@@ -15,10 +15,6 @@
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
  },
- "334 Eglinton: Detour via Gallowa": {
-  "desc": "334 Eglinton: Detour via Galloway Rd and Coronation Dr due to emergency railway signal repairs.",
-  "header": "334 Eglinton: Detour via Gallowa"
- },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
