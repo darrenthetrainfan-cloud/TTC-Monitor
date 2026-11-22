@@ -7,6 +7,10 @@
   "desc": "129 Mccowan North: Detour via Midland Ave, Progress Ave and Brimley Rd due to police activity.",
   "header": "129 Mccowan North: Detour via Mi"
  },
+ "301 Queen: No service between Qu": {
+  "desc": "301 Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we respond to a medical emergency.",
+  "header": "301 Queen: No service between Qu"
+ },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
