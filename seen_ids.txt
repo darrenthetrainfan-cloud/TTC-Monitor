@@ -19,17 +19,9 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
- "Bathurst: Elevator 3B1L out of s": {
-  "desc": "Bathurst: Elevator out of service between Bathurst St east side entrance, concourse and Line 2 westbound platform while we perform maintenance.",
-  "header": "Bathurst: Elevator 3B1L out of s"
- },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
- },
- "Donlands: Elevator 9D1L out of s": {
-  "desc": "Donlands: Elevator out of service between Donlands Ave entrance, concourse and Line 2 eastbound platform while we perform maintenance.",
-  "header": "Donlands: Elevator 9D1L out of s"
  },
  "Finch: Elevator 22Y3L out of ser": {
   "desc": "Finch: Elevator out of service between bus platform and bus concourse while we perform maintenance.",
@@ -38,14 +30,6 @@
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
- },
- "Jane: Elevator 12B1L out of serv": {
-  "desc": "Jane: Elevator out of service between Jane St entrance and concourse while we perform maintenance.",
-  "header": "Jane: Elevator 12B1L out of serv"
- },
- "Lansdowne: Elevator 7B2L out of": {
-  "desc": "Lansdowne: Elevator out of service between concourse and Line 2 (Kipling) westbound while we perform maintenance.",
-  "header": "Lansdowne: Elevator 7B2L out of"
  },
  "Line 2 Bloor-Danforth: There is": {
   "desc": "There is no subway service on Line 2 Bloor-Danforth between St George and Broadview stations due to for planned signal work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 22.",
