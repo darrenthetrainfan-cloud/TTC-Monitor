@@ -1,8 +1,4 @@
 {
- "113 Danforth: Detour via Woodbin": {
-  "desc": "113 Danforth: Detour via Woodbine Ave and Woodbine Station due to police activity.",
-  "header": "113 Danforth: Detour via Woodbin"
- },
  "116 Morningside: Detour via Coro": {
   "desc": "116 Morningside: Detour via Coronation Dr, Poplar Ave and Cumber Ave due to construction.",
   "header": "116 Morningside: Detour via Coro"
@@ -14,18 +10,6 @@
  "133 Neilson: Detour via Brimley": {
   "desc": "133 Neilson: Detour via Brimley Rd, Progress Ave and Midland Ave due to police activity.",
   "header": "133 Neilson: Detour via Brimley"
- },
- "135 Gerrard: Detour via Woodbine": {
-  "desc": "135 Gerrard: Detour via Woodbine Ave and Woodbine Station due to police activity.",
-  "header": "135 Gerrard: Detour via Woodbine"
- },
- "20 Cliffside: Detour via Woodbin": {
-  "desc": "20 Cliffside: Detour via Woodbine Ave and Woodbine Station due to police activity.",
-  "header": "20 Cliffside: Detour via Woodbin"
- },
- "23 Dawes: Detour via Woodbine Av": {
-  "desc": "23 Dawes: Detour via Woodbine Ave and Woodbine Station due to police activity.",
-  "header": "23 Dawes: Detour via Woodbine Av"
  },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
@@ -39,29 +23,13 @@
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
  },
- "506 Carlton: No service between": {
-  "desc": "506 Carlton: No service between Main Street Station at Bay 7 and Gerrard St East at Coxwell Ave due to police activity.",
-  "header": "506 Carlton: No service between"
- },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
- "62 Mortimer: Detour via Woodbine": {
-  "desc": "62 Mortimer: Detour via Woodbine Ave and Woodbine Station due to police activity.",
-  "header": "62 Mortimer: Detour via Woodbine"
- },
- "64 Main: Detour via Woodbine Ave": {
-  "desc": "64 Main: Detour via Woodbine Ave and Woodbine Station due to police activity.",
-  "header": "64 Main: Detour via Woodbine Ave"
- },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
- },
- "87 Cosburn: Detour via Woodbine": {
-  "desc": "87 Cosburn: Detour via Woodbine Ave and Woodbine Station due to police activity.",
-  "header": "87 Cosburn: Detour via Woodbine"
  },
  "903 Kennedy-Progress Express: De": {
   "desc": "903 Kennedy-Progress Express: Detour via Midland Ave, Progress Ave, Brimley Rd and Triton Rd due to police activity.",
