@@ -1,7 +1,7 @@
 {
- "116 Morningside: Detour via Coro": {
-  "desc": "116 Morningside: Detour via Coronation Dr, Poplar Ave and Cumber Ave due to construction.",
-  "header": "116 Morningside: Detour via Coro"
+ "116 Morningside: Detour via Cumb": {
+  "desc": "116 Morningside: Detour via Cumber Ave, Dearham Wood, Galloway Rd and Coronation Dr due to construction.",
+  "header": "116 Morningside: Detour via Cumb"
  },
  "131 Nugget: Detour via Brimley R": {
   "desc": "131 Nugget: Detour via Brimley Rd, Progress Ave and Midland Ave due to police activity.",
