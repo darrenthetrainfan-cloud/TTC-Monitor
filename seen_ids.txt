@@ -55,6 +55,10 @@
   "desc": "Don Valley: Elevator out of service between concourse and Don Mills Road east side entrance and bus terminal while we perform maintenance.",
   "header": "Don Valley: Elevator ELV02-B out"
  },
+ "Donlands: Elevator 9D1L out of s": {
+  "desc": "Donlands: Elevator out of service between Donlands Ave entrance, concourse and Line 2 eastbound platform due to a technical problem.",
+  "header": "Donlands: Elevator 9D1L out of s"
+ },
  "Finch: Elevator 22Y3L out of ser": {
   "desc": "Finch: Elevator out of service between bus platform and bus concourse while we perform maintenance.",
   "header": "Finch: Elevator 22Y3L out of ser"
