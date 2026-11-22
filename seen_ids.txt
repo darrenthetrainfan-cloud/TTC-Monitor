@@ -19,6 +19,10 @@
   "desc": "334 Eglinton: Detour via Galloway Rd and Coronation Dr due to emergency railway signal repairs.",
   "header": "334 Eglinton: Detour via Gallowa"
  },
+ "395 York Mills: Detour via Briml": {
+  "desc": "395 York Mills: Detour via Brimley Rd, Progress Ave and Midland Ave due to police activity.",
+  "header": "395 York Mills: Detour via Briml"
+ },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
@@ -38,6 +42,10 @@
  "95 York Mills: Detour via Brimle": {
   "desc": "95 York Mills: Detour via Brimley Rd, Progress Ave and Midland Ave due to police activity.",
   "header": "95 York Mills: Detour via Brimle"
+ },
+ "Caledonia: Elevator ELV02-B out": {
+  "desc": "Caledonia: Elevator out of service between Eglinton Avenue north side entrance and concourse while we perform maintenance.",
+  "header": "Caledonia: Elevator ELV02-B out"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
