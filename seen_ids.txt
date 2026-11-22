@@ -3,17 +3,9 @@
   "desc": "116 Morningside: Detour via Cumber Ave, Dearham Wood, Galloway Rd and Coronation Dr due to construction.",
   "header": "116 Morningside: Detour via Cumb"
  },
- "129 Mccowan North: Detour via Mi": {
-  "desc": "129 Mccowan North: Detour via Midland Ave, Progress Ave and Brimley Rd due to police activity.",
-  "header": "129 Mccowan North: Detour via Mi"
- },
  "131 Nugget: Detour via Brimley R": {
   "desc": "131 Nugget: Detour via Brimley Rd, Progress Ave and Midland Ave due to police activity.",
   "header": "131 Nugget: Detour via Brimley R"
- },
- "133 Neilson: Detour via Brimley": {
-  "desc": "133 Neilson: Detour via Brimley Rd, Progress Ave and Midland Ave due to police activity.",
-  "header": "133 Neilson: Detour via Brimley"
  },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
@@ -43,17 +35,9 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
- "903 Kennedy-Progress Express: De": {
-  "desc": "903 Kennedy-Progress Express: Detour via Midland Ave, Progress Ave, Brimley Rd and Triton Rd due to police activity.",
-  "header": "903 Kennedy-Progress Express: De"
- },
  "95 York Mills: Detour via Brimle": {
   "desc": "95 York Mills: Detour via Brimley Rd, Progress Ave and Midland Ave due to police activity.",
   "header": "95 York Mills: Detour via Brimle"
- },
- "995 York Mills Express: Detour v": {
-  "desc": "995 York Mills Express: Detour via Brimley Rd, Progress Ave and Midland Ave due to police activity.",
-  "header": "995 York Mills Express: Detour v"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
