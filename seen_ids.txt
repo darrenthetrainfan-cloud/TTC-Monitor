@@ -1,19 +1,7 @@
 {
- "129 Mccowan North: Detour northb": {
-  "desc": "129 Mccowan North: Detour northbound via Sandhurst Cir due to a blocked road.",
-  "header": "129 Mccowan North: Detour northb"
- },
- "129 Mccowan North: Detour southb": {
-  "desc": "129 Mccowan North: Detour southbound via Sandhurst Cir due to a blocked road.",
-  "header": "129 Mccowan North: Detour southb"
- },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
- },
- "39 Finch East: Detour via Sandhu": {
-  "desc": "39 Finch East: Detour via Sandhurst Cir and Mccowan Rd due to a collision.",
-  "header": "39 Finch East: Detour via Sandhu"
  },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
@@ -63,12 +51,8 @@
   "desc": "Lansdowne: Elevator out of service between concourse and Line 2 (Kipling) westbound while we perform maintenance.",
   "header": "Lansdowne: Elevator 7B2L out of"
  },
- "Line 1 Yonge-University: Delays": {
-  "desc": "Line 1 Yonge-University: Delays northbound at King station due to an emergency alarm on board a train. Thank you for your patience.",
-  "header": "Line 1 Yonge-University: Delays"
- },
  "Line 1 Yonge-University: No serv": {
-  "desc": "Line 1 Yonge-University: No service between Spadina and College stations due to a trespasser at track level. Thank you for your patience.",
+  "desc": "Line 1 Yonge-University: No service between Spadina and St Andrew stations due to a trespasser at track level. Thank you for your patience.",
   "header": "Line 1 Yonge-University: No serv"
  },
  "Line 2 Bloor-Danforth: There is": {
