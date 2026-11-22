@@ -3,6 +3,10 @@
   "desc": "116 Morningside: Detour via Cumber Ave, Dearham Wood, Galloway Rd and Coronation Dr due to construction.",
   "header": "116 Morningside: Detour via Cumb"
  },
+ "129 Mccowan North: Detour via Mi": {
+  "desc": "129 Mccowan North: Detour via Midland Ave, Progress Ave and Brimley Rd due to police activity.",
+  "header": "129 Mccowan North: Detour via Mi"
+ },
  "131 Nugget: Detour via Brimley R": {
   "desc": "131 Nugget: Detour via Brimley Rd, Progress Ave and Midland Ave due to police activity.",
   "header": "131 Nugget: Detour via Brimley R"
