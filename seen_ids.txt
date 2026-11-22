@@ -39,6 +39,10 @@
   "desc": "95 York Mills: Detour via Brimley Rd, Progress Ave and Midland Ave due to police activity.",
   "header": "95 York Mills: Detour via Brimle"
  },
+ "995 York Mills Express: Detour v": {
+  "desc": "995 York Mills Express: Detour via Brimley Rd, Progress Ave and Midland Ave due to police activity.",
+  "header": "995 York Mills Express: Detour v"
+ },
  "Caledonia: Elevator ELV02-B out": {
   "desc": "Caledonia: Elevator out of service between Eglinton Avenue north side entrance and concourse while we perform maintenance.",
   "header": "Caledonia: Elevator ELV02-B out"
