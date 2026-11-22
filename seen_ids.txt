@@ -3,9 +3,9 @@
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
  },
- "39 Finch East: Detour eastbound": {
-  "desc": "39 Finch East: Detour eastbound via Mccowan Rd and Sandhurst Cir due to a collision.",
-  "header": "39 Finch East: Detour eastbound"
+ "39 Finch East: Detour via Mccowa": {
+  "desc": "39 Finch East: Detour via Mccowan Rd and Sandhurst Cir due to a collision.",
+  "header": "39 Finch East: Detour via Mccowa"
  },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
@@ -31,9 +31,9 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
- "939 Finch Express: Detour eastbo": {
-  "desc": "939 Finch Express: Detour eastbound via Mccowan Rd and Sandhurst Cir due to a collision.",
-  "header": "939 Finch Express: Detour eastbo"
+ "939 Finch Express: Detour via Mc": {
+  "desc": "939 Finch Express: Detour via Mccowan Rd and Sandhurst Cir due to a collision.",
+  "header": "939 Finch Express: Detour via Mc"
  },
  "Bathurst: Elevator 3B1L out of s": {
   "desc": "Bathurst: Elevator out of service between Bathurst St east side entrance, concourse and Line 2 westbound platform while we perform maintenance.",
