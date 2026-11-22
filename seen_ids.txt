@@ -24,7 +24,7 @@
   "header": "79 Scarlett Rd: Detour northboun"
  },
  "939 Finch Express: Detour via Sa": {
-  "desc": "939 Finch Express: Detour via Sandhurst Cir and Mccowan Rd due to a collision.",
+  "desc": "939 Finch Express: Detour via Sandhurst Cir and Finch Ave E due to a collision.",
   "header": "939 Finch Express: Detour via Sa"
  },
  "Bathurst: Elevator 3B1L out of s": {
