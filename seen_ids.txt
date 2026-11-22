@@ -4,7 +4,7 @@
   "header": "116 Morningside: Detour via Coro"
  },
  "13 Avenue Rd: Detour northbound": {
-  "desc": "13 Avenue Rd: Detour northbound via Clarendon Ave, Poplar Plains Rd and St Clair Ave W due to a collision.",
+  "desc": "13 Avenue Rd: Detour northbound via Edmund Ave, Poplar Ave and St Clair Ave W due to a collision.",
   "header": "13 Avenue Rd: Detour northbound"
  },
  "131 Nugget: Detour via Brimley R": {
