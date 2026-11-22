@@ -1,4 +1,12 @@
 {
+ "129 Mccowan North: Detour northb": {
+  "desc": "129 Mccowan North: Detour northbound via Sandhurst Cir due to a blocked road.",
+  "header": "129 Mccowan North: Detour northb"
+ },
+ "129 Mccowan North: Detour southb": {
+  "desc": "129 Mccowan North: Detour southbound via Sandhurst Cir due to a blocked road.",
+  "header": "129 Mccowan North: Detour southb"
+ },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
