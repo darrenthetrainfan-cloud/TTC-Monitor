@@ -3,10 +3,6 @@
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
  },
- "304 King: Detour via Dufferin St": {
-  "desc": "304 King: Detour via Dufferin St and Queen St W due to a Toronto fire investigation.",
-  "header": "304 King: Detour via Dufferin St"
- },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
