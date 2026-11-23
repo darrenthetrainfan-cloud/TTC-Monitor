@@ -43,10 +43,6 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
- "Line 1 Yonge-University: Trains": {
-  "desc": "Line 1 Yonge-University: Bypass at York Mills station due to a security incident. Thank you for your patience.",
-  "header": "Line 1 Yonge-University: Trains"
- },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
