@@ -19,6 +19,10 @@
   "desc": "506 Carlton: Detour via Dundas St W and Spadina Ave due to a collision.",
   "header": "506 Carlton: Detour via Dundas S"
  },
+ "506 Carlton: Detour westbound vi": {
+  "desc": "506 Carlton: Detour westbound via Bay St, Dundas St W and University Ave due to a collision.",
+  "header": "506 Carlton: Detour westbound vi"
+ },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
