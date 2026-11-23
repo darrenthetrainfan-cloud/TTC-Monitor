@@ -7,10 +7,6 @@
   "desc": "304 King: Detour via Dufferin St and Queen St W due to a Toronto fire investigation.",
   "header": "304 King: Detour via Dufferin St"
  },
- "306 Carlton: No service between": {
-  "desc": "306 Carlton: No service between Gerrard St East at Broadview Ave and Main Street Station at Bay 7 due to a blocked track.",
-  "header": "306 Carlton: No service between"
- },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
