@@ -1,8 +1,4 @@
 {
- "18 Caledonia: Detour southbound": {
-  "desc": "18 Caledonia: Detour southbound via Glengrove Ave, Lansdowne Ave and Tycos Dr due to a Toronto fire investigation.",
-  "header": "18 Caledonia: Detour southbound"
- },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
