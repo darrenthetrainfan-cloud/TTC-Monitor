@@ -3,53 +3,9 @@
   "desc": "116 Morningside: Detour via Cumber Ave, Dearham Wood, Galloway Rd and Coronation Dr due to construction.",
   "header": "116 Morningside: Detour via Cumb"
  },
- "129 Mccowan North: No service ne": {
-  "desc": "129 Mccowan North: No service near Scarborough Centre Station at Bus Bay 10 due to a Toronto Police investigation.",
-  "header": "129 Mccowan North: No service ne"
- },
- "130 Middlefield: No service near": {
-  "desc": "130 Middlefield: No service near Scarborough Centre Station at Bus Bay 10 due to a Toronto Police investigation.",
-  "header": "130 Middlefield: No service near"
- },
- "131 Nugget: No service near Scar": {
-  "desc": "131 Nugget: No service near Scarborough Centre Station at Bus Bay 10 due to a Toronto Police investigation.",
-  "header": "131 Nugget: No service near Scar"
- },
- "132 Milner: No service near Scar": {
-  "desc": "132 Milner: No service near Scarborough Centre Station at Bus Bay 10 due to a Toronto Police investigation.",
-  "header": "132 Milner: No service near Scar"
- },
- "133 Neilson: No service near Sca": {
-  "desc": "133 Neilson: No service near Scarborough Centre Station at Bus Bay 10 due to a Toronto Police investigation.",
-  "header": "133 Neilson: No service near Sca"
- },
- "134 Progress: No service near Sc": {
-  "desc": "134 Progress: No service near Scarborough Centre Station at Bus Bay 10 due to a Toronto Police investigation.",
-  "header": "134 Progress: No service near Sc"
- },
- "16 Mccowan: No service near Scar": {
-  "desc": "16 Mccowan: No service near Scarborough Centre Station at Bus Bay 10 due to a Toronto Police investigation.",
-  "header": "16 Mccowan: No service near Scar"
- },
- "169 Huntingwood: No service near": {
-  "desc": "169 Huntingwood: No service near Scarborough Centre Station at Bus Bay 10 due to a Toronto Police investigation.",
-  "header": "169 Huntingwood: No service near"
- },
- "21 Brimley: No service near Scar": {
-  "desc": "21 Brimley: No service near Scarborough Centre Station at Bus Bay 10 due to a Toronto Police investigation.",
-  "header": "21 Brimley: No service near Scar"
- },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
- },
- "38 Highland Creek: No service ne": {
-  "desc": "38 Highland Creek: No service near Scarborough Centre Station at Bus Bay 10 due to a Toronto Police investigation.",
-  "header": "38 Highland Creek: No service ne"
- },
- "43 Kennedy: No service near Scar": {
-  "desc": "43 Kennedy: No service near Scarborough Centre Station at Bus Bay 10 due to a Toronto Police investigation.",
-  "header": "43 Kennedy: No service near Scar"
  },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
@@ -66,18 +22,6 @@
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
- },
- "9 Bellamy: No service near Scarb": {
-  "desc": "9 Bellamy: No service near Scarborough Centre Station at Bus Bay 10 due to a Toronto Police investigation.",
-  "header": "9 Bellamy: No service near Scarb"
- },
- "904 Don Mills-Scarborough Expres": {
-  "desc": "904 Don Mills-Scarborough Express: No service near Scarborough Centre Station at Bus Bay 10 due to a Toronto Police investigation.",
-  "header": "904 Don Mills-Scarborough Expres"
- },
- "939 Finch Express: No service ne": {
-  "desc": "939 Finch Express: No service near Scarborough Centre Station at Bus Bay 10 due to a Toronto Police investigation.",
-  "header": "939 Finch Express: No service ne"
  },
  "Castle Frank: Elevator 5D1L out": {
   "desc": "Castle Frank: Elevator out of service between Castle Frank Rd entrance and Line 2 Kipling (westbound) platform while we perform maintenance.",
