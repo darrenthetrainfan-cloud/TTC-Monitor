@@ -66,9 +66,5 @@
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
- },
- "Runnymede: Elevator 11B1L out of": {
-  "desc": "Runnymede: Elevator out of service between Runnymede Rd entrance and concourse while we perform maintenance.",
-  "header": "Runnymede: Elevator 11B1L out of"
  }
 }
