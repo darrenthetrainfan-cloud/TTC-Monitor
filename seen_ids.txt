@@ -4,7 +4,7 @@
   "header": "301 Queen: No service near Lake"
  },
  "304 King: Detour via Dufferin St": {
-  "desc": "304 King: Detour via Dufferin St and King St W due to a Toronto Police investigation.",
+  "desc": "304 King: Detour via Dufferin St and Queen St W due to a Toronto fire investigation.",
   "header": "304 King: Detour via Dufferin St"
  },
  "306 Carlton: No service between": {
