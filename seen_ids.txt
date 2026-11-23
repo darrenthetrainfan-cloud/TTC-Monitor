@@ -3,6 +3,10 @@
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
  },
+ "304 King: Detour via Dufferin St": {
+  "desc": "304 King: Detour via Dufferin St and King St W due to a Toronto Police investigation.",
+  "header": "304 King: Detour via Dufferin St"
+ },
  "306 Carlton: No service between": {
   "desc": "306 Carlton: No service between Gerrard St East at Broadview Ave and Main Street Station at Bay 7 due to a blocked track.",
   "header": "306 Carlton: No service between"
