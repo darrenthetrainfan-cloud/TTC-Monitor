@@ -7,6 +7,10 @@
   "desc": "305 Dundas: Detour eastbound via Parliament St and Gerrard St E while we respond to a medical emergency.",
   "header": "305 Dundas: Detour eastbound via"
  },
+ "34 Eglinton: Detour westbound vi": {
+  "desc": "34 Eglinton: Detour westbound via Don Mills Rd, Overlea Blvd, Millwood Rd and Laird Dr due to a collision.",
+  "header": "34 Eglinton: Detour westbound vi"
+ },
  "47 Lansdowne: Detour via Eglinto": {
   "desc": "47 Lansdowne: Detour via Eglinton Ave W, Keele St and Rogers Rd due to construction.",
   "header": "47 Lansdowne: Detour via Eglinto"
