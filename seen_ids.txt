@@ -7,10 +7,6 @@
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
  },
- "304 King: Detour eastbound via P": {
-  "desc": "304 King: Detour eastbound via Parliament St, Gerrard St E and Broadview Ave due to a blocked track.",
-  "header": "304 King: Detour eastbound via P"
- },
  "305 Dundas: Detour eastbound via": {
   "desc": "305 Dundas: Detour eastbound via Parliament St and Gerrard St E while we respond to a medical emergency.",
   "header": "305 Dundas: Detour eastbound via"
