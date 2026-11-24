@@ -27,6 +27,10 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
+ "83 Jones: Detour via Danforth Av": {
+  "desc": "83 Jones: Detour via Danforth Ave, Greenwood Ave and Gerrard St E due to a blocked road.",
+  "header": "83 Jones: Detour via Danforth Av"
+ },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
@@ -50,9 +54,5 @@
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
- },
- "Victoria Park: Elevator 14D1L ou": {
-  "desc": "Victoria Park: Elevator out of service between overpass, Victoria Park Ave entrance and concourse while we perform maintenance.",
-  "header": "Victoria Park: Elevator 14D1L ou"
  }
 }
