@@ -1,8 +1,4 @@
 {
- "169 Huntingwood: Detour eastboun": {
-  "desc": "169 Huntingwood: Detour eastbound via Birchmount Rd and Finch Ave E due to construction.",
-  "header": "169 Huntingwood: Detour eastboun"
- },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
