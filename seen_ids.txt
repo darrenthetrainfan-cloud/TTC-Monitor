@@ -15,6 +15,10 @@
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
  },
+ "501 Queen: No service between Br": {
+  "desc": "501 Queen: No service between Broadview Ave at Gerrard St East and Gerrard St East at Coxwell Ave due to a security incident.",
+  "header": "501 Queen: No service between Br"
+ },
  "504 King: Detour westbound via C": {
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
