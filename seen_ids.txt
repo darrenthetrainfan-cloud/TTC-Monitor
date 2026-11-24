@@ -3,29 +3,25 @@
   "desc": "300 Bloor-Danforth: Detour westbound via Victoria Park Ave, Gerrard St E and Main St due to construction.",
   "header": "300 Bloor-Danforth: Detour westb"
  },
- "301 Queen: No service between Qu": {
-  "desc": "301 Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we respond to a medical emergency.",
-  "header": "301 Queen: No service between Qu"
- },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
+ },
+ "304 King: Detour eastbound via P": {
+  "desc": "304 King: Detour eastbound via Parliament St, Gerrard St E and Broadview Ave due to a blocked track.",
+  "header": "304 King: Detour eastbound via P"
+ },
+ "305 Dundas: Detour eastbound via": {
+  "desc": "305 Dundas: Detour eastbound via Parliament St and Gerrard St E while we respond to a medical emergency.",
+  "header": "305 Dundas: Detour eastbound via"
  },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
  },
- "504 King: Detour eastbound via P": {
-  "desc": "504 King: Detour eastbound via Parliament St, Gerrard St E and Broadview Ave due to a blocked track.",
-  "header": "504 King: Detour eastbound via P"
- },
  "504 King: Detour westbound via C": {
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
- },
- "505 Dundas: Detour eastbound via": {
-  "desc": "505 Dundas: Detour eastbound via Parliament St and Gerrard St E while we respond to a medical emergency.",
-  "header": "505 Dundas: Detour eastbound via"
  },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
@@ -58,10 +54,6 @@
  "Kennedy: Elevator 16D3L out of s": {
   "desc": "Kennedy: Elevator out of service between bus platform A, concourse, and Transway Crescent entrance and bus platform B while we perform maintenance.",
   "header": "Kennedy: Elevator 16D3L out of s"
- },
- "Line 1 Yonge-University: There i": {
-  "desc": "There is no subway service on Line 1 Yonge-University between Bloor-Yonge and Osgoode stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 24.",
-  "header": "Line 1 Yonge-University: There i"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
