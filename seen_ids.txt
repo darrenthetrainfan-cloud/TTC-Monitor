@@ -35,6 +35,14 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
+ "89 Weston: Detour via Gunns Rd a": {
+  "desc": "89 Weston: Detour via Gunns Rd and St Clair Ave W due to police activity.",
+  "header": "89 Weston: Detour via Gunns Rd a"
+ },
+ "989 Weston Express: Detour via G": {
+  "desc": "989 Weston Express: Detour via Gunns Rd and St Clair Ave W due to police activity.",
+  "header": "989 Weston Express: Detour via G"
+ },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
