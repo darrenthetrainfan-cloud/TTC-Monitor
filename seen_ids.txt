@@ -7,9 +7,17 @@
   "desc": "300 Bloor-Danforth: Detour westbound via Victoria Park Ave, Gerrard St E and Main St due to construction.",
   "header": "300 Bloor-Danforth: Detour westb"
  },
+ "301 Queen: No service between Qu": {
+  "desc": "301 Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we respond to a medical emergency.",
+  "header": "301 Queen: No service between Qu"
+ },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
+ },
+ "306 Carlton: No service between": {
+  "desc": "306 Carlton: No service between Main Street Station at Bay 7 and Coxwell Ave at Lower Gerrard St East while we respond to a medical emergency.",
+  "header": "306 Carlton: No service between"
  },
  "47 Lansdowne: Detour via Eglinto": {
   "desc": "47 Lansdowne: Detour via Eglinton Ave W, Keele St and Rogers Rd due to construction.",
