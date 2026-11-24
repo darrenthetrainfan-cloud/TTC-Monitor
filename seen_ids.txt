@@ -39,10 +39,6 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
- "Lawrence: Elevator 19Y1L out of": {
-  "desc": "Lawrence: Elevator out of service between Young Street west side entrance and Concourse while we perform maintenance.",
-  "header": "Lawrence: Elevator 19Y1L out of"
- },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
