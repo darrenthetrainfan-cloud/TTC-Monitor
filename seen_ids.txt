@@ -23,6 +23,10 @@
   "desc": "505 Dundas: Detour eastbound via Spadina Ave, Queen St E, York St, Adelaide St E and Church St due to a security incident.",
   "header": "505 Dundas: Detour eastbound via"
  },
+ "506 Carlton: Detour eastbound vi": {
+  "desc": "506 Carlton: Detour eastbound via Spadina Ave, King St E and Parliament St due to a blocked track.",
+  "header": "506 Carlton: Detour eastbound vi"
+ },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
@@ -38,10 +42,6 @@
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
- },
- "Line 2 Bloor-Danforth: No servic": {
-  "desc": "Line 2 Bloor-Danforth: No service between St George and Ossington stations due to a medical emergency. Thank you for your patience.",
-  "header": "Line 2 Bloor-Danforth: No servic"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
