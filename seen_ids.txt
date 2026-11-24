@@ -1,12 +1,4 @@
 {
- "113 Danforth: Detour eastbound v": {
-  "desc": "113 Danforth: Detour eastbound via Denton Ave, Pharmacy Ave and Danforth Ave due to construction.",
-  "header": "113 Danforth: Detour eastbound v"
- },
- "20 Cliffside: Detour eastbound v": {
-  "desc": "20 Cliffside: Detour eastbound via Denton Ave, Pharmacy Ave and Danforth Ave due to construction.",
-  "header": "20 Cliffside: Detour eastbound v"
- },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
