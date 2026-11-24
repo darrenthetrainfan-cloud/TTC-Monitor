@@ -1,4 +1,8 @@
 {
+ "168 Symington: Detour northbound": {
+  "desc": "168 Symington: Detour northbound via Laughton Ave, St Clair Ave W, Old Weston Rd and Toronto St due to a Toronto fire investigation.",
+  "header": "168 Symington: Detour northbound"
+ },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
