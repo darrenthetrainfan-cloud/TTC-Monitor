@@ -51,16 +51,8 @@
   "desc": "Kennedy: Elevator out of service between bus platform A, concourse, and Transway Crescent entrance and bus platform B while we perform maintenance.",
   "header": "Kennedy: Elevator 16D3L out of s"
  },
- "Line 1 Yonge-University: No serv": {
-  "desc": "Line 1 Yonge-University: No service between St George and St Clair West stations due to a trespasser at track level. Thank you for your patience.",
-  "header": "Line 1 Yonge-University: No serv"
- },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
-  "header": "Line 2 Bloor-Danforth: Trains ar"
- },
- "Line 2 Bloor-Danforth: Trains ar #2": {
-  "desc": "Line 2 Bloor-Danforth: Bypass at Spadina station due to a trespasser at track level. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
  },
  "Mount Dennis: Elevator ELV03-C o": {
