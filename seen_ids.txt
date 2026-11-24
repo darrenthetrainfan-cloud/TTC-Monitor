@@ -47,18 +47,6 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
- "Kennedy: Elevator 16D1L out of s": {
-  "desc": "Kennedy: Elevator out of service between Transway Cresent entrance and bus platform B and concourse while we perform maintenance.",
-  "header": "Kennedy: Elevator 16D1L out of s"
- },
- "Kennedy: Elevator 16D2L out of s": {
-  "desc": "Kennedy: Elevator out of service between concourse and Line 2 centre platform while we perform maintenance.",
-  "header": "Kennedy: Elevator 16D2L out of s"
- },
- "Kennedy: Elevator 16D3L out of s": {
-  "desc": "Kennedy: Elevator out of service between bus platform A, concourse, and Transway Crescent entrance and bus platform B while we perform maintenance.",
-  "header": "Kennedy: Elevator 16D3L out of s"
- },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
