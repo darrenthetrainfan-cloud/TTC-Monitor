@@ -3,10 +3,6 @@
   "desc": "113 Danforth: Detour westbound via Victoria Park Ave, Gerrard St E and Main St due to construction.",
   "header": "113 Danforth: Detour westbound v"
  },
- "161 Rogers Rd: Detour via Davenp": {
-  "desc": "161 Rogers Rd: Detour via Davenport Rd, Dufferin St and Dupont St due to police activity.",
-  "header": "161 Rogers Rd: Detour via Davenp"
- },
  "20 Cliffside: Detour westbound v": {
   "desc": "20 Cliffside: Detour westbound via Victoria Park Ave, Gerrard St E and Main St due to construction.",
   "header": "20 Cliffside: Detour westbound v"
