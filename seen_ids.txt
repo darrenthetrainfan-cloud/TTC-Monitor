@@ -55,6 +55,10 @@
   "desc": "Kennedy: Elevator out of service between bus platform A, concourse, and Transway Crescent entrance and bus platform B while we perform maintenance.",
   "header": "Kennedy: Elevator 16D3L out of s"
  },
+ "Line 1 Yonge-University: There i": {
+  "desc": "There is no subway service on Line 1 Yonge-University between Bloor-Yonge and Osgoode stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 24.",
+  "header": "Line 1 Yonge-University: There i"
+ },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
