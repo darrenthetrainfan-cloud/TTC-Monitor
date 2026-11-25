@@ -7,6 +7,10 @@
   "desc": "20 Cliffside: Detour eastbound via Pharmacy Ave, Denton Ave, Victoria Park Ave, Gerrard St E and Main St due to construction.",
   "header": "20 Cliffside: Detour eastbound v"
  },
+ "23 Dawes: Detour northbound via": {
+  "desc": "23 Dawes: Detour northbound via Main St, Doncaster Ave, Barrington Ave and Secord Ave due to construction.",
+  "header": "23 Dawes: Detour northbound via"
+ },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
