@@ -55,10 +55,6 @@
   "desc": "960 Steeles West Express: Detour via 2a W Kingston Rd Ramp, Keele St, Canarctic Dr and Petrolia Rd due to a collision.",
   "header": "960 Steeles West Express: Detour"
  },
- "Bloor-Yonge: Elevator 3D1L out o": {
-  "desc": "Bloor-Yonge: Elevator out of service between Line 1 northbound platform and Line 2 centre platform while we perform maintenance.",
-  "header": "Bloor-Yonge: Elevator 3D1L out o"
- },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
