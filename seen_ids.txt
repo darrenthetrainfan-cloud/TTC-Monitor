@@ -1,7 +1,15 @@
 {
+ "113 Danforth: Detour westbound v": {
+  "desc": "113 Danforth: Detour westbound via Victoria Park Ave, Gerrard St E, Main St and Main Street Station due to construction.",
+  "header": "113 Danforth: Detour westbound v"
+ },
  "17 Birchmount: Detour via Allanf": {
   "desc": "17 Birchmount: Detour via Allanford Rd and Sheppard Ave E due to a collision.",
   "header": "17 Birchmount: Detour via Allanf"
+ },
+ "20 Cliffside: Detour westbound v": {
+  "desc": "20 Cliffside: Detour westbound via Victoria Park Ave, Gerrard St E, Main St and Main Street Station due to construction.",
+  "header": "20 Cliffside: Detour westbound v"
  },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
@@ -22,10 +30,6 @@
  "504 King: Detour westbound via C": {
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
- },
- "506 Carlton: Detour eastbound vi": {
-  "desc": "506 Carlton: Detour eastbound via Spadina Ave, King St E and Parliament St due to a blocked track.",
-  "header": "506 Carlton: Detour eastbound vi"
  },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
