@@ -1,4 +1,8 @@
 {
+ "20 Cliffside: Detour via Pharmac": {
+  "desc": "20 Cliffside: Detour via Pharmacy Ave, Denton Ave, Victoria Park Ave, Gerrard St E and Main St due to construction.",
+  "header": "20 Cliffside: Detour via Pharmac"
+ },
  "300 Bloor-Danforth: Detour via P": {
   "desc": "300 Bloor-Danforth: Detour via Pharmacy Ave, Denton Ave, Victoria Park Ave, Gerrard St E and Main St due to construction.",
   "header": "300 Bloor-Danforth: Detour via P"
