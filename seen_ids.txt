@@ -3,10 +3,6 @@
   "desc": "113 Danforth: Detour eastbound via Pharmacy Ave, Denton Ave, Victoria Park Ave, Gerrard St E and Main St due to construction.",
   "header": "113 Danforth: Detour eastbound v"
  },
- "127 Davenport: Detour eastbound": {
-  "desc": "127 Davenport: Detour eastbound via Bathurst St and Dupont St due to construction.",
-  "header": "127 Davenport: Detour eastbound"
- },
  "20 Cliffside: Detour eastbound v": {
   "desc": "20 Cliffside: Detour eastbound via Pharmacy Ave, Denton Ave, Victoria Park Ave, Gerrard St E and Main St due to construction.",
   "header": "20 Cliffside: Detour eastbound v"
@@ -62,6 +58,10 @@
  "Leaside: Elevator ELV01-A out of": {
   "desc": "Leaside: Elevator out of service between concourse and Line 5 centre platform while we perform maintenance. Elevator is expected to be back in service November 27, 2026.",
   "header": "Leaside: Elevator ELV01-A out of"
+ },
+ "Line 2 Bloor-Danforth: No servic": {
+  "desc": "Line 2 Bloor-Danforth: No service between Kennedy and Warden stations due to a security incident. Thank you for your patience.",
+  "header": "Line 2 Bloor-Danforth: No servic"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
