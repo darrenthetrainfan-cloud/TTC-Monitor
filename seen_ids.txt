@@ -31,9 +31,17 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
+ "53 Steeles East: Detour westboun": {
+  "desc": "53 Steeles East: Detour westbound via Hillcroft Dr, Wilclay Ave and Brimley Rd due to a collision.",
+  "header": "53 Steeles East: Detour westboun"
+ },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
+ },
+ "953 Steeles East Express: Detour": {
+  "desc": "953 Steeles East Express: Detour westbound via Hillcroft Dr, Wilclay Ave and Brimley Rd due to a collision.",
+  "header": "953 Steeles East Express: Detour"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
@@ -42,10 +50,6 @@
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
- },
- "Line 2 Bloor-Danforth: Delays we": {
-  "desc": "Line 2 Bloor-Danforth: Delays westbound at Runnymede station due to a medical emergency. Thank you for your patience.",
-  "header": "Line 2 Bloor-Danforth: Delays we"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
