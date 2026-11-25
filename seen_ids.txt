@@ -39,9 +39,9 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
- "72 Pape: Buses are not stopping": {
-  "desc": "72 Pape: Bypass near Overlea Blvd at Thorncliffe Park Dr (West) due to a collision.",
-  "header": "72 Pape: Buses are not stopping"
+ "72 Pape: Detour southbound via O": {
+  "desc": "72 Pape: Detour southbound via Overlea Blvd due to a collision.",
+  "header": "72 Pape: Detour southbound via O"
  },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
