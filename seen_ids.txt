@@ -23,10 +23,6 @@
   "desc": "305 Dundas: Detour eastbound via Parliament St and Gerrard St E while we respond to a medical emergency.",
   "header": "305 Dundas: Detour eastbound via"
  },
- "39 Finch East: Detour eastbound": {
-  "desc": "39 Finch East: Detour eastbound via Morningside Ave and Sewells Rd due to police activity.",
-  "header": "39 Finch East: Detour eastbound"
- },
  "47 Lansdowne: Detour via Rogers": {
   "desc": "47 Lansdowne: Detour via Rogers Rd, Keele St and Eglinton Ave W due to construction.",
   "header": "47 Lansdowne: Detour via Rogers"
