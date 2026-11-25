@@ -15,6 +15,10 @@
   "desc": "305 Dundas: Detour eastbound via Parliament St and Gerrard St E while we respond to a medical emergency.",
   "header": "305 Dundas: Detour eastbound via"
  },
+ "47 Lansdowne: Detour via Rogers": {
+  "desc": "47 Lansdowne: Detour via Rogers Rd, Keele St and Eglinton Ave W due to construction.",
+  "header": "47 Lansdowne: Detour via Rogers"
+ },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
