@@ -86,9 +86,5 @@
  "Runnymede: Elevator 11B3L out of": {
   "desc": "Runnymede: Elevator out of service between concourse and Line 2 eastbound platform while we perform maintenance.",
   "header": "Runnymede: Elevator 11B3L out of"
- },
- "Sherbourne: Elevator 4D2L out of": {
-  "desc": "Sherbourne: Elevator out of service between concourse and Line 2 Kipling (westbound) while we perform maintenance.",
-  "header": "Sherbourne: Elevator 4D2L out of"
  }
 }
