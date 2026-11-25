@@ -7,10 +7,6 @@
   "desc": "20 Cliffside: Detour westbound via Victoria Park Ave, Gerrard St E, Main St and Main Street Station due to construction.",
   "header": "20 Cliffside: Detour westbound v"
  },
- "29C Dufferin: No service between": {
-  "desc": "29C Dufferin: No service between Nunavut Rd - Horse Palace and Nova Scotia Ave at Manitoba Dr due to an event.",
-  "header": "29C Dufferin: No service between"
- },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
