@@ -39,9 +39,17 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
+ "60 Steeles West: Detour via Keel": {
+  "desc": "60 Steeles West: Detour via Keele St, Canarctic Dr and Petrolia Rd due to a collision.",
+  "header": "60 Steeles West: Detour via Keel"
+ },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
+ },
+ "960 Steeles West Express: Detour": {
+  "desc": "960 Steeles West Express: Detour via 2a W Kingston Rd Ramp, Keele St, Canarctic Dr and Petrolia Rd due to a collision.",
+  "header": "960 Steeles West Express: Detour"
  },
  "Bloor-Yonge: Elevator 3D1L out o": {
   "desc": "Bloor-Yonge: Elevator out of service between Line 1 northbound platform and Line 2 centre platform while we perform maintenance.",
