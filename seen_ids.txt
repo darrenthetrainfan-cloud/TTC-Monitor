@@ -3,6 +3,10 @@
   "desc": "113 Danforth: Detour eastbound via Pharmacy Ave, Denton Ave, Victoria Park Ave, Gerrard St E and Main St due to construction.",
   "header": "113 Danforth: Detour eastbound v"
  },
+ "127 Davenport: Detour eastbound": {
+  "desc": "127 Davenport: Detour eastbound via Bathurst St and Dupont St due to construction.",
+  "header": "127 Davenport: Detour eastbound"
+ },
  "20 Cliffside: Detour eastbound v": {
   "desc": "20 Cliffside: Detour eastbound via Pharmacy Ave, Denton Ave, Victoria Park Ave, Gerrard St E and Main St due to construction.",
   "header": "20 Cliffside: Detour eastbound v"
