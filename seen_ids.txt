@@ -3,10 +3,6 @@
   "desc": "113 Danforth: Detour westbound via Victoria Park Ave, Gerrard St E, Main St and Main Street Station due to construction.",
   "header": "113 Danforth: Detour westbound v"
  },
- "17 Birchmount: Detour via Allanf": {
-  "desc": "17 Birchmount: Detour via Allanford Rd and Sheppard Ave E due to a collision.",
-  "header": "17 Birchmount: Detour via Allanf"
- },
  "20 Cliffside: Detour westbound v": {
   "desc": "20 Cliffside: Detour westbound via Victoria Park Ave, Gerrard St E, Main St and Main Street Station due to construction.",
   "header": "20 Cliffside: Detour westbound v"
