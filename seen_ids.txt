@@ -7,10 +7,6 @@
   "desc": "305 Dundas: Detour eastbound via Parliament St and Gerrard St E while we respond to a medical emergency.",
   "header": "305 Dundas: Detour eastbound via"
  },
- "47 Lansdowne: Detour via Eglinto": {
-  "desc": "47 Lansdowne: Detour via Eglinton Ave W, Keele St and Rogers Rd due to construction.",
-  "header": "47 Lansdowne: Detour via Eglinto"
- },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
@@ -34,10 +30,6 @@
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
- },
- "Line 1 Yonge-University: There i": {
-  "desc": "There is no subway service on Line 1 Yonge-University between Bloor-Yonge and Osgoode stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 25.",
-  "header": "Line 1 Yonge-University: There i"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
