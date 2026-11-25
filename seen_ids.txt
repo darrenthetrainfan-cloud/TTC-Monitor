@@ -59,6 +59,10 @@
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
  },
+ "Cedarvale: Elevator ELV02-B out": {
+  "desc": "Cedarvale: Elevator out of service between Line 5 platform, Line 1 northbound platform/east concourse, and upper concourse due to a technical problem.",
+  "header": "Cedarvale: Elevator ELV02-B out"
+ },
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
