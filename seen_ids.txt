@@ -23,6 +23,10 @@
   "desc": "47 Lansdowne: Detour via Eglinton Ave W, Keele St and Rogers Rd due to construction.",
   "header": "47 Lansdowne: Detour via Eglinto"
  },
+ "501 Queen: Delays near Queen St": {
+  "desc": "501 Queen: Delays near Queen St West at Roncesvalles Ave East Side due to a collision.",
+  "header": "501 Queen: Delays near Queen St"
+ },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
