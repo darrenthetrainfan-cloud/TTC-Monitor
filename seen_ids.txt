@@ -23,9 +23,9 @@
   "desc": "47 Lansdowne: Detour via Eglinton Ave W, Keele St and Rogers Rd due to construction.",
   "header": "47 Lansdowne: Detour via Eglinto"
  },
- "501 Queen: Delays near Queen St": {
-  "desc": "501 Queen: Delays near Queen St West at Roncesvalles Ave East Side due to a collision.",
-  "header": "501 Queen: Delays near Queen St"
+ "501 Queen: Delays between Queen": {
+  "desc": "501 Queen: Delays between Queen St West at Roncesvalles Ave and Humber Loop at the Queensway due to a collision. Shuttle buses are running between Queen St West at Roncesvalles Ave and Humber Loop at the Queensway.",
+  "header": "501 Queen: Delays between Queen"
  },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
@@ -43,9 +43,9 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
- "60 Steeles West: Detour via Keel": {
-  "desc": "60 Steeles West: Detour via Keele St, Canarctic Dr and Petrolia Rd due to a collision.",
-  "header": "60 Steeles West: Detour via Keel"
+ "60 Steeles West: Detour eastboun": {
+  "desc": "60 Steeles West: Detour eastbound via Keele St, Canarctic Dr and Petrolia Rd due to a collision.",
+  "header": "60 Steeles West: Detour eastboun"
  },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
