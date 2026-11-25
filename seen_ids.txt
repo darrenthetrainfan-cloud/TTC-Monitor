@@ -11,6 +11,10 @@
   "desc": "20 Cliffside: Detour westbound via Victoria Park Ave, Gerrard St E, Main St and Main Street Station due to construction.",
   "header": "20 Cliffside: Detour westbound v"
  },
+ "29C Dufferin: No service between": {
+  "desc": "29C Dufferin: No service between Nunavut Rd - Horse Palace and Nova Scotia Ave at Manitoba Dr due to an event.",
+  "header": "29C Dufferin: No service between"
+ },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
@@ -47,12 +51,20 @@
   "desc": "60 Steeles West: Detour eastbound via Keele St, Canarctic Dr and Petrolia Rd due to a collision.",
   "header": "60 Steeles West: Detour eastboun"
  },
+ "60 Steeles West: Detour westboun": {
+  "desc": "60 Steeles West: Detour westbound via Petrolia Rd, Canarctic Dr and Ian Macdonald Blvd due to a collision.",
+  "header": "60 Steeles West: Detour westboun"
+ },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
  "960 Steeles West Express: Detour": {
-  "desc": "960 Steeles West Express: Detour via 2a W Kingston Rd Ramp, Keele St, Canarctic Dr and Petrolia Rd due to a collision.",
+  "desc": "960 Steeles West Express: Detour eastbound via Keele St, Canarctic Dr and Petrolia Rd due to a collision.",
+  "header": "960 Steeles West Express: Detour"
+ },
+ "960 Steeles West Express: Detour #2": {
+  "desc": "960 Steeles West Express: Detour westbound via Petrolia Rd, Canarctic Dr and Ian Macdonald Blvd due to a collision.",
   "header": "960 Steeles West Express: Detour"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
