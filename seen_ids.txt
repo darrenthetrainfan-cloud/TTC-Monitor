@@ -19,10 +19,6 @@
   "desc": "305 Dundas: Detour eastbound via Parliament St and Gerrard St E while we respond to a medical emergency.",
   "header": "305 Dundas: Detour eastbound via"
  },
- "31 Greenwood: Detour southbound": {
-  "desc": "31 Greenwood: Detour southbound via Coxwell Ave, Queen St E and Eastern Ave due to a blocked road.",
-  "header": "31 Greenwood: Detour southbound"
- },
  "47 Lansdowne: Detour via Eglinto": {
   "desc": "47 Lansdowne: Detour via Eglinton Ave W, Keele St and Rogers Rd due to construction.",
   "header": "47 Lansdowne: Detour via Eglinto"
