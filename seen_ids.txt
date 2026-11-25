@@ -39,6 +39,10 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
+ "68 Warden: Detour southbound via": {
+  "desc": "68 Warden: Detour southbound via 14th Ave, Hood Cres and Mcnab Blvd due to a collision.",
+  "header": "68 Warden: Detour southbound via"
+ },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
