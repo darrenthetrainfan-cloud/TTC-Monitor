@@ -39,6 +39,10 @@
   "desc": "505 Dundas: Detour eastbound via Spadina Ave, Adelaide St W and Church St due to a collision.",
   "header": "505 Dundas: Detour eastbound via"
  },
+ "505 Dundas: Detour westbound via": {
+  "desc": "505 Dundas: Detour westbound via Bay St, College St and Spadina Ave due to a collision.",
+  "header": "505 Dundas: Detour westbound via"
+ },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
