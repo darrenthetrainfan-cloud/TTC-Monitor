@@ -27,6 +27,10 @@
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
  },
+ "501 Queen: No service between Lo": {
+  "desc": "501 Queen: No service between Long Branch Loop and Lake Shore Blvd West at Kipling Ave while we deal with a disruptive customer.",
+  "header": "501 Queen: No service between Lo"
+ },
  "504 King: Detour westbound via C": {
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
