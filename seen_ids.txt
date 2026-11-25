@@ -1,12 +1,4 @@
 {
- "113 Danforth: Detour westbound v": {
-  "desc": "113 Danforth: Detour westbound via Victoria Park Ave, Gerrard St E, Main St and Main Street Station due to construction.",
-  "header": "113 Danforth: Detour westbound v"
- },
- "20 Cliffside: Detour westbound v": {
-  "desc": "20 Cliffside: Detour westbound via Victoria Park Ave, Gerrard St E, Main St and Main Street Station due to construction.",
-  "header": "20 Cliffside: Detour westbound v"
- },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
