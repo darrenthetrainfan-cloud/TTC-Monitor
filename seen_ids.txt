@@ -39,6 +39,10 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
+ "72 Pape: Buses are not stopping": {
+  "desc": "72 Pape: Bypass near Overlea Blvd at Thorncliffe Park Dr (West) due to a collision.",
+  "header": "72 Pape: Buses are not stopping"
+ },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
@@ -54,10 +58,6 @@
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
- },
- "Line 1 Yonge-University: Delays": {
-  "desc": "Line 1 Yonge-University: Delays southbound at Bloor-Yonge station due to a security incident. Thank you for your patience.",
-  "header": "Line 1 Yonge-University: Delays"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
