@@ -35,17 +35,9 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
- "53 Steeles East: Detour westboun": {
-  "desc": "53 Steeles East: Detour westbound via Hillcroft Dr, Wilclay Ave and Brimley Rd due to a collision.",
-  "header": "53 Steeles East: Detour westboun"
- },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
- },
- "953 Steeles East Express: Detour": {
-  "desc": "953 Steeles East Express: Detour westbound via Hillcroft Dr, Wilclay Ave and Brimley Rd due to a collision.",
-  "header": "953 Steeles East Express: Detour"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
@@ -63,8 +55,16 @@
   "desc": "Mount Dennis: Elevator out of service between Line 5 concourse and grade (PPUDO entrance) while we perform maintenance. Elevator is expected to be back in service November 25, 2026.",
   "header": "Mount Dennis: Elevator ELV03-C o"
  },
+ "Ossington: Elevator 5B2L out of": {
+  "desc": "Ossington: Elevator out of service between concourse and Line 2 westbound platform while we perform maintenance.",
+  "header": "Ossington: Elevator 5B2L out of"
+ },
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
+ },
+ "Sherbourne: Elevator 4D1L out of": {
+  "desc": "Sherbourne: Elevator out of service between Sherbourne Street entrance, concourse and Line 2 Kennedy (eastbound) while we perform maintenance.",
+  "header": "Sherbourne: Elevator 4D1L out of"
  }
 }
