@@ -59,10 +59,6 @@
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
  },
- "Mount Dennis: Elevator ELV03-C o": {
-  "desc": "Mount Dennis: Elevator out of service between Line 5 concourse and grade (PPUDO entrance) while we perform maintenance. Elevator is expected to be back in service November 25, 2026.",
-  "header": "Mount Dennis: Elevator ELV03-C o"
- },
  "Ossington: Elevator 5B1L out of": {
   "desc": "Ossington: Elevator out of service between Ossington Ave entrance and bus platform, concourse and Line 2 eastbound platform while we perform maintenance.",
   "header": "Ossington: Elevator 5B1L out of"
