@@ -67,30 +67,6 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
- "903 Kennedy-Progress Express: De": {
-  "desc": "903 Kennedy-Progress Express: Detour via Ellesmere Rd, Midland Ave and Lawrence Ave E due to an obstruction on roadway.",
-  "header": "903 Kennedy-Progress Express: De"
- },
- "903 Kennedy-Progress Express: De #2": {
-  "desc": "903 Kennedy-Progress Express: Detour via Ellesmere Rd, Midland Ave and Lawrence Ave E due to an open drain cover.",
-  "header": "903 Kennedy-Progress Express: De"
- },
- "938 Highland Creek Express: Deto": {
-  "desc": "938 Highland Creek Express: Detour via Ellesmere Rd, Midland Ave and Lawrence Ave E due to an obstruction on roadway.",
-  "header": "938 Highland Creek Express: Deto"
- },
- "938 Highland Creek Express: Deto #2": {
-  "desc": "938 Highland Creek Express: Detour via Ellesmere Rd, Midland Ave and Lawrence Ave E due to an open drain cover.",
-  "header": "938 Highland Creek Express: Deto"
- },
- "943 Kennedy Express: Detour via": {
-  "desc": "943 Kennedy Express: Detour via Ellesmere Rd, Midland Ave and Lawrence Ave E due to an obstruction on roadway.",
-  "header": "943 Kennedy Express: Detour via"
- },
- "943 Kennedy Express: Detour via #2": {
-  "desc": "943 Kennedy Express: Detour via Ellesmere Rd, Midland Ave and Lawrence Ave E due to an open drain cover.",
-  "header": "943 Kennedy Express: Detour via"
- },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
