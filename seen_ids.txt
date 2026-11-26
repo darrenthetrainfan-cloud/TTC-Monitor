@@ -1,8 +1,4 @@
 {
- "100 Flemingdon Park: Detour nort": {
-  "desc": "100 Flemingdon Park: Detour northbound via Thorncliffe Park Dr due to a collision.",
-  "header": "100 Flemingdon Park: Detour nort"
- },
  "113 Danforth: Detour eastbound v": {
   "desc": "113 Danforth: Detour eastbound via Pharmacy Ave, Denton Ave, Victoria Park Ave, Gerrard St E and Main St due to construction.",
   "header": "113 Danforth: Detour eastbound v"
@@ -42,10 +38,6 @@
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
- },
- "72 Pape: Detour southbound via O": {
-  "desc": "72 Pape: Detour southbound via Overlea Blvd due to a collision.",
-  "header": "72 Pape: Detour southbound via O"
  },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
