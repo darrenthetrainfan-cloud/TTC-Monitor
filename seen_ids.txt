@@ -31,6 +31,14 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
+ "97 Yonge: Detour northbound via": {
+  "desc": "97 Yonge: Detour northbound via Glengrove Ave, Duplex Ave and Roselawn Ave due to a collision.",
+  "header": "97 Yonge: Detour northbound via"
+ },
+ "97 Yonge: Detour southbound via": {
+  "desc": "97 Yonge: Detour southbound via Glengrove Ave, Duplex Ave and Roselawn Ave due to a collision.",
+  "header": "97 Yonge: Detour southbound via"
+ },
  "Bloor-Yonge: Elevator 3D1L out o": {
   "desc": "Bloor-Yonge: Elevator out of service between Line 1 northbound platform and Line 2 centre platform while we perform maintenance.",
   "header": "Bloor-Yonge: Elevator 3D1L out o"
