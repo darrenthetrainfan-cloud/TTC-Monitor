@@ -1,4 +1,8 @@
 {
+ "165 Weston Rd North: No service": {
+  "desc": "165 Weston Rd North: No service between Wilson Ave at Bathurst St and Wilson Ave at Bathurst St West Side due to a collision.",
+  "header": "165 Weston Rd North: No service"
+ },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
@@ -13,10 +17,6 @@
  },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
-  "header": "501 Queen: Detour eastbound via"
- },
- "501 Queen: Detour eastbound via #2": {
-  "desc": "501 Queen: Detour eastbound via Parliament St, Dundas St E and Broadview Ave due to a security incident.",
   "header": "501 Queen: Detour eastbound via"
  },
  "504 King: Detour westbound via C": {
