@@ -3,14 +3,6 @@
   "desc": "113 Danforth: Detour eastbound via Pharmacy Ave, Denton Ave, Victoria Park Ave, Gerrard St E and Main St due to construction.",
   "header": "113 Danforth: Detour eastbound v"
  },
- "131 Nugget: Detour westbound via": {
-  "desc": "131 Nugget: Detour westbound via Ellesmere Rd, Midland Ave and Lawrence Ave E due to an obstruction on roadway.",
-  "header": "131 Nugget: Detour westbound via"
- },
- "133 Neilson: Detour southbound v": {
-  "desc": "133 Neilson: Detour southbound via Ellesmere Rd, Midland Ave and Lawrence Ave E due to an obstruction on roadway.",
-  "header": "133 Neilson: Detour southbound v"
- },
  "20 Cliffside: Detour eastbound v": {
   "desc": "20 Cliffside: Detour eastbound via Pharmacy Ave, Denton Ave, Victoria Park Ave, Gerrard St E and Main St due to construction.",
   "header": "20 Cliffside: Detour eastbound v"
@@ -26,10 +18,6 @@
  "305 Dundas: Detour eastbound via": {
   "desc": "305 Dundas: Detour eastbound via Parliament St and Gerrard St E while we respond to a medical emergency.",
   "header": "305 Dundas: Detour eastbound via"
- },
- "38 Highland Creek: Detour westbo": {
-  "desc": "38 Highland Creek: Detour westbound via Ellesmere Rd, Midland Ave and Lawrence Ave E due to an obstruction on roadway.",
-  "header": "38 Highland Creek: Detour westbo"
  },
  "47 Lansdowne: Detour via Rogers": {
   "desc": "47 Lansdowne: Detour via Rogers Rd, Keele St and Eglinton Ave W due to construction.",
