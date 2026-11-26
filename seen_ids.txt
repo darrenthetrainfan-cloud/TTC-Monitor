@@ -39,6 +39,10 @@
   "desc": "54 Lawrence East: Detour eastbound via Morningside Ave, Ling Rd and Lawrence Ave E due to a collision.",
   "header": "54 Lawrence East: Detour eastbou"
  },
+ "65 Parliament: Detour via Dundas": {
+  "desc": "65 Parliament: Detour via Dundas St E, Sherbourne St and Queen St E due to a collision.",
+  "header": "65 Parliament: Detour via Dundas"
+ },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
