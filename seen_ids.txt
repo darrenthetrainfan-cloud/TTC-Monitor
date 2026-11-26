@@ -1,4 +1,8 @@
 {
+ "29C Dufferin: Detour northbound": {
+  "desc": "29C Dufferin: Detour northbound via Princes' Boulevard due to construction.",
+  "header": "29C Dufferin: Detour northbound"
+ },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
