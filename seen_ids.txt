@@ -59,10 +59,6 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
- "Line 2 Bloor-Danforth: Delays we": {
-  "desc": "Line 2 Bloor-Danforth: Delays westbound at Castle Frank station due to a mechanical issue. Thank you for your patience.",
-  "header": "Line 2 Bloor-Danforth: Delays we"
- },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
