@@ -15,6 +15,10 @@
   "desc": "34 Eglinton: Detour eastbound via Eglinton Station due to construction.",
   "header": "34 Eglinton: Detour eastbound vi"
  },
+ "37 Islington: Detour southbound": {
+  "desc": "37 Islington: Detour southbound via The Westway, Wincott Dr and Eglinton Ave W due to a watermain break.",
+  "header": "37 Islington: Detour southbound"
+ },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
