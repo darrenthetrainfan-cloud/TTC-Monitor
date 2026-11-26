@@ -72,10 +72,6 @@
   "header": "Line 1 Yonge-University: There i"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
-  "desc": "Line 2 Bloor-Danforth: Bypass at Warden station due to a security incident. Thank you for your patience.",
-  "header": "Line 2 Bloor-Danforth: Trains ar"
- },
- "Line 2 Bloor-Danforth: Trains ar #2": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
  },
