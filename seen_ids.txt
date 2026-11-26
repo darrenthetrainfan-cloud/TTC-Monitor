@@ -51,10 +51,6 @@
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
  },
- "St Patrick: Elevator 4Y1L out of": {
-  "desc": "St Patrick: Elevator out of service between concourse and Line 1 centre platform while we perform maintenance.",
-  "header": "St Patrick: Elevator 4Y1L out of"
- },
  "Union: Elevator 7Y2L out of serv": {
   "desc": "Union: Elevator out of service between concourse and Line 1 Finch platform while we perform maintenance.",
   "header": "Union: Elevator 7Y2L out of serv"
