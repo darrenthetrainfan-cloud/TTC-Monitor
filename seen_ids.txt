@@ -31,17 +31,9 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
- "63 Ossington: Detour via Eglinto": {
-  "desc": "63 Ossington: Detour via Eglinton Ave W, Glenholme Ave and Vaughan Rd due to a Toronto fire investigation.",
-  "header": "63 Ossington: Detour via Eglinto"
- },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
- },
- "90 Vaughan: Detour via Eglinton": {
-  "desc": "90 Vaughan: Detour via Eglinton Ave W, Glenholme Ave and Vaughan Rd due to a Toronto fire investigation.",
-  "header": "90 Vaughan: Detour via Eglinton"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
@@ -62,5 +54,9 @@
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
+ },
+ "St Patrick: Elevator 4Y1L out of": {
+  "desc": "St Patrick: Elevator out of service between concourse and Line 1 centre platform while we perform maintenance.",
+  "header": "St Patrick: Elevator 4Y1L out of"
  }
 }
