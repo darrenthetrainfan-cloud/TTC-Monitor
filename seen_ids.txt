@@ -1,7 +1,7 @@
 {
- "300 Bloor-Danforth: Detour via M": {
-  "desc": "300 Bloor-Danforth: Detour via Main St, Gerrard St E, Victoria Park Ave, Denton Ave and Pharmacy Ave due to construction.",
-  "header": "300 Bloor-Danforth: Detour via M"
+ "300 Bloor-Danforth: Detour eastb": {
+  "desc": "300 Bloor-Danforth: Detour eastbound via Main St, Gerrard St E, Victoria Park Ave, Denton Ave and Pharmacy Ave due to construction.",
+  "header": "300 Bloor-Danforth: Detour eastb"
  },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
