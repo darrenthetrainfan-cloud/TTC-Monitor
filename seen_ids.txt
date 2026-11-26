@@ -1,4 +1,8 @@
 {
+ "112 West Mall: Detour northbound": {
+  "desc": "112 West Mall: Detour northbound via Rathburn Rd, Renforth Dr, Torrington Dr and Westwood Ave due to a collision.",
+  "header": "112 West Mall: Detour northbound"
+ },
  "165 Weston Rd North: No service": {
   "desc": "165 Weston Rd North: No service between Wilson Ave at Bathurst St and Wilson Ave at Bathurst St West Side due to a collision.",
   "header": "165 Weston Rd North: No service"
