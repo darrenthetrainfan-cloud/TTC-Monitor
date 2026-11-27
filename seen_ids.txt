@@ -39,6 +39,10 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
+ "905 Eglinton East Express: Detou": {
+  "desc": "905 Eglinton East Express: Detour via Ellesmere Rd and Morningside Ave due to a collision.",
+  "header": "905 Eglinton East Express: Detou"
+ },
  "97 Yonge: Detour southbound via": {
   "desc": "97 Yonge: Detour southbound via Glengrove Ave, Duplex Ave and Roselawn Ave due to a collision.",
   "header": "97 Yonge: Detour southbound via"
