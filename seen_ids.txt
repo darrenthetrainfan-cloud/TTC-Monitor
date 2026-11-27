@@ -3,6 +3,10 @@
   "desc": "102 Markham Rd: Detour via Highway 7, Wootten Way, Fincham, 16th Ave, Williamson Rd, Bur Oak Ave and Markham Rd due to an event.",
   "header": "102 Markham Rd: Detour via Highw"
  },
+ "113 Danforth: Detour eastbound v": {
+  "desc": "113 Danforth: Detour eastbound via Kennedy Rd, St Clair Ave E and Midland Ave due to a collision.",
+  "header": "113 Danforth: Detour eastbound v"
+ },
  "24 Victoria Park: Detour via Yor": {
   "desc": "24 Victoria Park: Detour via Yorkland Blvd, Yorkland Rd and Don Mills Rd due to a blocked road.",
   "header": "24 Victoria Park: Detour via Yor"
