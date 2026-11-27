@@ -15,6 +15,10 @@
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
  },
+ "501 Queen: Detour westbound via": {
+  "desc": "501 Queen: Detour westbound via Bathurst St, Dundas St W, Howard Park Ave and Roncesvalles Ave due to a blocked track.",
+  "header": "501 Queen: Detour westbound via"
+ },
  "504 King: Detour westbound via B": {
   "desc": "504 King: Detour westbound via Bathurst St and Dundas St W due to a blocked track.",
   "header": "504 King: Detour westbound via B"
@@ -26,10 +30,6 @@
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
- },
- "54 Lawrence East: Detour eastbou": {
-  "desc": "54 Lawrence East: Detour eastbound via Morningside Ave, Ling Rd and Lawrence Ave E due to a collision.",
-  "header": "54 Lawrence East: Detour eastbou"
  },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
@@ -47,9 +47,17 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
+ "Line 2 Bloor-Danforth: No servic": {
+  "desc": "Line 2 Bloor-Danforth: No service between Broadview and Woodbine stations due to a security incident. Thank you for your patience.",
+  "header": "Line 2 Bloor-Danforth: No servic"
+ },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
+ },
+ "Line 5 Eglinton: Delays between": {
+  "desc": "Line 5 Eglinton: Delays between Mount Dennis and Kennedy stations while the maintainer fixes a track issue. Thank you for your patience. Line 5 is owned by Metrolinx, maintained by Crosslinx Transit Solutions Maintenance and proudly operated by the TTC.",
+  "header": "Line 5 Eglinton: Delays between"
  },
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
