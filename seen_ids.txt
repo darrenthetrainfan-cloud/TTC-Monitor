@@ -23,10 +23,6 @@
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
  },
- "501 Queen: Detour westbound via": {
-  "desc": "501 Queen: Detour westbound via Bathurst St, Dundas St W, Howard Park Ave and Roncesvalles Ave due to a blocked track.",
-  "header": "501 Queen: Detour westbound via"
- },
  "504 King: Detour westbound via B": {
   "desc": "504 King: Detour westbound via Bathurst St and Dundas St W due to a blocked track.",
   "header": "504 King: Detour westbound via B"
@@ -65,10 +61,6 @@
  },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
-  "header": "Line 2 Bloor-Danforth: Trains ar"
- },
- "Line 2 Bloor-Danforth: Trains ar #2": {
-  "desc": "Line 2 Bloor-Danforth: Bypass at Woodbine station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
  },
  "Line 5 Eglinton: Delays between": {
