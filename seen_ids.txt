@@ -38,9 +38,5 @@
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
- },
- "Rosedale: Elevator 14Y1L out of": {
-  "desc": "Rosedale: Elevator out of service between Cresent Road entrance and Line 1 sourthbound platform due to a technical problem.",
-  "header": "Rosedale: Elevator 14Y1L out of"
  }
 }
