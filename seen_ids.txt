@@ -15,10 +15,6 @@
   "desc": "305 Dundas: Detour eastbound via Parliament St and Gerrard St E while we respond to a medical emergency.",
   "header": "305 Dundas: Detour eastbound via"
  },
- "43 Kennedy: Detour northbound vi": {
-  "desc": "43 Kennedy: Detour northbound via Ellesmere Rd, Midland Ave and Progress Ave due to a collision.",
-  "header": "43 Kennedy: Detour northbound vi"
- },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
