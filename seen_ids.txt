@@ -47,6 +47,10 @@
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
  },
+ "Line 4 Sheppard: Delays westboun": {
+  "desc": "Line 4 Sheppard: Delays westbound at Bayview station due to an emergency alarm on board a train. Thank you for your patience.",
+  "header": "Line 4 Sheppard: Delays westboun"
+ },
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
