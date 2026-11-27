@@ -15,6 +15,10 @@
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
  },
+ "504 King: Detour westbound via B": {
+  "desc": "504 King: Detour westbound via Bathurst St and Dundas St W due to a blocked track.",
+  "header": "504 King: Detour westbound via B"
+ },
  "504 King: Detour westbound via C": {
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
@@ -26,10 +30,6 @@
  "54 Lawrence East: Detour eastbou": {
   "desc": "54 Lawrence East: Detour eastbound via Morningside Ave, Ling Rd and Lawrence Ave E due to a collision.",
   "header": "54 Lawrence East: Detour eastbou"
- },
- "72 Pape: Detour via Overlea Blvd": {
-  "desc": "72 Pape: Detour via Overlea Blvd due to a blocked road.",
-  "header": "72 Pape: Detour via Overlea Blvd"
  },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
