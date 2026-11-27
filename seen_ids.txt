@@ -1,8 +1,4 @@
 {
- "102 Markham Rd: Detour via Highw": {
-  "desc": "102 Markham Rd: Detour via Highway 7, Wootten Way, Fincham, 16th Ave, Williamson Rd, Bur Oak Ave and Markham Rd due to an event.",
-  "header": "102 Markham Rd: Detour via Highw"
- },
  "113 Danforth: Detour eastbound v": {
   "desc": "113 Danforth: Detour eastbound via Kennedy Rd, St Clair Ave E and Midland Ave due to a collision.",
   "header": "113 Danforth: Detour eastbound v"
@@ -54,10 +50,6 @@
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
- },
- "Line 1 Yonge-University: Trains": {
-  "desc": "Line 1 Yonge-University: Bypass at York Mills station due to a TPS investigation. Thank you for your patience.",
-  "header": "Line 1 Yonge-University: Trains"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
