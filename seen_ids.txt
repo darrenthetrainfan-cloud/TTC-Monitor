@@ -19,9 +19,9 @@
   "desc": "34 Eglinton: Detour eastbound via Eglinton Station due to construction.",
   "header": "34 Eglinton: Detour eastbound vi"
  },
- "43 Kennedy: Detour via Ellesmere": {
-  "desc": "43 Kennedy: Detour via Ellesmere Rd, Midland Ave and Progress Ave due to a collision.",
-  "header": "43 Kennedy: Detour via Ellesmere"
+ "43 Kennedy: Detour northbound vi": {
+  "desc": "43 Kennedy: Detour northbound via Ellesmere Rd, Midland Ave and Progress Ave due to a collision.",
+  "header": "43 Kennedy: Detour northbound vi"
  },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
