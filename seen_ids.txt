@@ -39,10 +39,6 @@
   "desc": "97 Yonge: Detour southbound via Glengrove Ave, Duplex Ave and Roselawn Ave due to a collision.",
   "header": "97 Yonge: Detour southbound via"
  },
- "97 Yonge: Detour southbound via #2": {
-  "desc": "97 Yonge: Detour southbound via Glengrove Ave, Duplex Ave and Roselawn Ave due to a collision.",
-  "header": "97 Yonge: Detour southbound via"
- },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
   "header": "Cedarvale: Elevator 06-ELV-B out"
