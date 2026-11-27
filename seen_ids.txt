@@ -35,10 +35,6 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
- "89 Weston: Detour via Denison Av": {
-  "desc": "89 Weston: Detour via Denison Ave, Jane St and Lawrence Ave W due to a Toronto fire investigation.",
-  "header": "89 Weston: Detour via Denison Av"
- },
  "97 Yonge: Detour northbound via": {
   "desc": "97 Yonge: Detour northbound via Glengrove Ave, Duplex Ave and Roselawn Ave due to a collision.",
   "header": "97 Yonge: Detour northbound via"
@@ -56,7 +52,7 @@
   "header": "Have proof of payment ready for"
  },
  "Line 1 Yonge-University: No serv": {
-  "desc": "Line 1 Yonge-University: No service between Sheppard West and Lawrence West stations due to a security incident. Thank you for your patience.",
+  "desc": "Line 1 Yonge-University: No service between Sheppard West and Lawrence West stations due to a security incident. Shuttle buses are on the way. Thank you for your patience.",
   "header": "Line 1 Yonge-University: No serv"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
