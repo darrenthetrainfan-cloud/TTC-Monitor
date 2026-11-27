@@ -43,6 +43,10 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
+ "79 Scarlett Rd: No service betwe": {
+  "desc": "79 Scarlett Rd: No service between Scarlett Rd at Lawrence Ave West and Lawrence Ave West at Jane St due to a road closure.",
+  "header": "79 Scarlett Rd: No service betwe"
+ },
  "905 Eglinton East Express: Detou": {
   "desc": "905 Eglinton East Express: Detour via Ellesmere Rd and Morningside Ave due to a collision.",
   "header": "905 Eglinton East Express: Detou"
