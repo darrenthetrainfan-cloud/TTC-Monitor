@@ -1,4 +1,8 @@
 {
+ "12 Kingston Rd: Detour eastbound": {
+  "desc": "12 Kingston Rd: Detour eastbound via Military Trl and Ellesmere Rd due to a collision.",
+  "header": "12 Kingston Rd: Detour eastbound"
+ },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
@@ -48,7 +52,7 @@
   "header": "Have proof of payment ready for"
  },
  "Line 1 Yonge-University: Delays": {
-  "desc": "Line 1 Yonge-University: Delays northbound at Finch West station due to an emergency alarm on board a train. Thank you for your patience.",
+  "desc": "Line 1 Yonge-University: Delays northbound at Finch West station due to a medical emergency. Thank you for your patience.",
   "header": "Line 1 Yonge-University: Delays"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
