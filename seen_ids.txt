@@ -1,8 +1,4 @@
 {
- "165 Weston Rd North: No service": {
-  "desc": "165 Weston Rd North: No service between Wilson Ave at Bathurst St and Wilson Ave at Bathurst St West Side due to a collision.",
-  "header": "165 Weston Rd North: No service"
- },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
@@ -30,6 +26,10 @@
  "54 Lawrence East: Detour eastbou": {
   "desc": "54 Lawrence East: Detour eastbound via Morningside Ave, Ling Rd and Lawrence Ave E due to a collision.",
   "header": "54 Lawrence East: Detour eastbou"
+ },
+ "72 Pape: Detour via Overlea Blvd": {
+  "desc": "72 Pape: Detour via Overlea Blvd due to a blocked road.",
+  "header": "72 Pape: Detour via Overlea Blvd"
  },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
