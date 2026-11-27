@@ -1,4 +1,8 @@
 {
+ "167 Pharmacy North: Detour via C": {
+  "desc": "167 Pharmacy North: Detour via Consumers Rd due to a blocked road.",
+  "header": "167 Pharmacy North: Detour via C"
+ },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
@@ -22,6 +26,10 @@
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
+ },
+ "Caledonia: Elevator ELV02-B out": {
+  "desc": "Caledonia: Elevator out of service between Eglinton Avenue north side entrance and concourse due to a technical problem.",
+  "header": "Caledonia: Elevator ELV02-B out"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
