@@ -7,6 +7,10 @@
   "desc": "158 Trethewey: Detour via Church Ave and Jane St due to a collision.",
   "header": "158 Trethewey: Detour via Church"
  },
+ "29 Dufferin: Detour southbound v": {
+  "desc": "29 Dufferin: Detour southbound via Princes' Boulevard and Princess St due to an event.",
+  "header": "29 Dufferin: Detour southbound v"
+ },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
