@@ -55,10 +55,6 @@
   "desc": "79 Scarlett Rd: No service between Scarlett Rd at Lawrence Ave West and Lawrence Ave West at Jane St due to a road closure.",
   "header": "79 Scarlett Rd: No service betwe"
  },
- "89 Weston: Detour via Little Ave": {
-  "desc": "89 Weston: Detour via Little Ave, Hickory Tree Rd and Bellevue Ave due to a collision.",
-  "header": "89 Weston: Detour via Little Ave"
- },
  "905 Eglinton East Express: Detou": {
   "desc": "905 Eglinton East Express: Detour via Ellesmere Rd and Morningside Ave due to a collision.",
   "header": "905 Eglinton East Express: Detou"
@@ -74,6 +70,10 @@
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
+ },
+ "Line 1 Yonge-University: There i": {
+  "desc": "There is no subway service on Line 1 Yonge-University between Bloor-Yonge and Osgoode stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 27.",
+  "header": "Line 1 Yonge-University: There i"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
