@@ -11,6 +11,10 @@
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
  },
+ "501 Queen: No service between Qu": {
+  "desc": "501 Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we respond to a medical emergency.",
+  "header": "501 Queen: No service between Qu"
+ },
  "504 King: Detour westbound via C": {
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
@@ -38,5 +42,9 @@
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
+ },
+ "Queen's Park: Elevator 3Y2L out": {
+  "desc": "Queen's Park: Elevator out of service between concourse and Line 1 centre platform while we perform maintenance.",
+  "header": "Queen's Park: Elevator 3Y2L out"
  }
 }
