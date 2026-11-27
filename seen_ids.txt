@@ -35,6 +35,10 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
+ "89 Weston: Detour via Denison Av": {
+  "desc": "89 Weston: Detour via Denison Ave, Jane St and Lawrence Ave W due to a Toronto fire investigation.",
+  "header": "89 Weston: Detour via Denison Av"
+ },
  "97 Yonge: Detour northbound via": {
   "desc": "97 Yonge: Detour northbound via Glengrove Ave, Duplex Ave and Roselawn Ave due to a collision.",
   "header": "97 Yonge: Detour northbound via"
@@ -42,10 +46,6 @@
  "97 Yonge: Detour southbound via": {
   "desc": "97 Yonge: Detour southbound via Glengrove Ave, Duplex Ave and Roselawn Ave due to a collision.",
   "header": "97 Yonge: Detour southbound via"
- },
- "986 Scarborough Express: Detour": {
-  "desc": "986 Scarborough Express: Detour eastbound via Lawrence Ave E, Collinsgrove Rd and Kingston Rd due to a collision.",
-  "header": "986 Scarborough Express: Detour"
  },
  "Cedarvale: Elevator 06-ELV-B out": {
   "desc": "Cedarvale: Elevator out of service between platform and upper concourse while we perform maintenance.",
