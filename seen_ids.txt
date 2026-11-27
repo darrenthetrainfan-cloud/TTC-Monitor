@@ -43,10 +43,6 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
- "Line 1 Yonge-University: No serv": {
-  "desc": "Line 1 Yonge-University: No service between Vaughan and Pioneer Village stations due to a York Region Police investigation. Thank you for your patience.",
-  "header": "Line 1 Yonge-University: No serv"
- },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
@@ -54,9 +50,5 @@
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
   "header": "Please look both ways"
- },
- "Queen's Park: Elevator 3Y2L out": {
-  "desc": "Queen's Park: Elevator out of service between concourse and Line 1 centre platform while we perform maintenance.",
-  "header": "Queen's Park: Elevator 3Y2L out"
  }
 }
