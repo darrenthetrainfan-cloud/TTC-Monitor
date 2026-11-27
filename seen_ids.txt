@@ -3,6 +3,10 @@
   "desc": "167 Pharmacy North: Detour via Consumers Rd due to a blocked road.",
   "header": "167 Pharmacy North: Detour via C"
  },
+ "24 Victoria Park: Detour via Yor": {
+  "desc": "24 Victoria Park: Detour via Yorkland Blvd, Yorkland Rd and Don Mills Rd due to a blocked road.",
+  "header": "24 Victoria Park: Detour via Yor"
+ },
  "29 Dufferin: Detour via Princess": {
   "desc": "29 Dufferin: Detour via Princess Margaret Blvd and Manitoba Dr due to an event.",
   "header": "29 Dufferin: Detour via Princess"
