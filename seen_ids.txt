@@ -51,9 +51,17 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
+ "Line 1 Yonge-University: Trains": {
+  "desc": "Line 1 Yonge-University: Bypass at York Mills station due to a TPS investigation. Thank you for your patience.",
+  "header": "Line 1 Yonge-University: Trains"
+ },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
+ },
+ "Line 6 Finch West: Delays betwee": {
+  "desc": "Line 6 Finch West: Delays between Tobermory and Finch West stations while the maintainer fixes a mechanical issue. Thank you for your patience. Line 6 is owned by Metrolinx, maintained by Mosaic Transit Partners Maintenance and proudly operated by the TTC.",
+  "header": "Line 6 Finch West: Delays betwee"
  },
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
