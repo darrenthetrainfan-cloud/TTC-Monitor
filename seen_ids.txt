@@ -63,6 +63,10 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
+ "Line 1 Yonge-University: Delays": {
+  "desc": "Line 1 Yonge-University: Delays between Finch and Bloor-Yonge stations due to planned track work from Bloor to Osgoode. Thank you for your patience.",
+  "header": "Line 1 Yonge-University: Delays"
+ },
  "Line 1 Yonge-University: There i": {
   "desc": "There is no subway service on Line 1 Yonge-University between Bloor-Yonge and Osgoode stations due to planned track work. Shuttle buses are running. Follow the station signs or speak to a TTC employee for help. Service will resume November 27.",
   "header": "Line 1 Yonge-University: There i"
