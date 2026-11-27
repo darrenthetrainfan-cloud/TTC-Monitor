@@ -27,6 +27,10 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
+ "54 Lawrence East: Detour eastbou": {
+  "desc": "54 Lawrence East: Detour eastbound via Morningside Ave and Ling Rd due to a collision.",
+  "header": "54 Lawrence East: Detour eastbou"
+ },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
@@ -46,10 +50,6 @@
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
- },
- "Line 4 Sheppard: Delays westboun": {
-  "desc": "Line 4 Sheppard: Delays westbound at Bayview station due to an emergency alarm on board a train. Thank you for your patience.",
-  "header": "Line 4 Sheppard: Delays westboun"
  },
  "Please look both ways": {
   "desc": "Please look both ways for cyclists before exiting.",
