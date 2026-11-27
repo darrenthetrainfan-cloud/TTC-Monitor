@@ -35,10 +35,6 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
- "54 Lawrence East: Detour eastbou": {
-  "desc": "54 Lawrence East: Detour eastbound via Morningside Ave and Ling Rd due to a collision.",
-  "header": "54 Lawrence East: Detour eastbou"
- },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
