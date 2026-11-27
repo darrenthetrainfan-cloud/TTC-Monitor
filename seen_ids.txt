@@ -1,4 +1,8 @@
 {
+ "102 Markham Rd: Detour via Highw": {
+  "desc": "102 Markham Rd: Detour via Highway 7, Wootten Way, Fincham, 16th Ave, Williamson Rd, Bur Oak Ave and Markham Rd due to an event.",
+  "header": "102 Markham Rd: Detour via Highw"
+ },
  "167 Pharmacy North: Detour via C": {
   "desc": "167 Pharmacy North: Detour via Consumers Rd due to a blocked road.",
   "header": "167 Pharmacy North: Detour via C"
