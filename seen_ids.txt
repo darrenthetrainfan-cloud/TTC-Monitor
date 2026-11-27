@@ -79,6 +79,10 @@
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
  },
+ "Line 2 Bloor-Danforth: Delays ea": {
+  "desc": "Line 2 Bloor-Danforth: Delays eastbound from Castle Frank to Victoria Park stations due to service adjustments. Thank you for your patience.",
+  "header": "Line 2 Bloor-Danforth: Delays ea"
+ },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass eastbound at Broadview station due to a security incident. Thank you for your patience.",
   "header": "Line 2 Bloor-Danforth: Trains ar"
