@@ -1,8 +1,4 @@
 {
- "12 Kingston Rd: Detour eastbound": {
-  "desc": "12 Kingston Rd: Detour eastbound via Military Trl and Ellesmere Rd due to a collision.",
-  "header": "12 Kingston Rd: Detour eastbound"
- },
  "158 Trethewey: Detour via Church": {
   "desc": "158 Trethewey: Detour via Church Ave and Jane St due to a collision.",
   "header": "158 Trethewey: Detour via Church"
