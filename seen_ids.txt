@@ -3,10 +3,6 @@
   "desc": "24 Victoria Park: Detour via Yorkland Blvd, Yorkland Rd and Don Mills Rd due to a blocked road.",
   "header": "24 Victoria Park: Detour via Yor"
  },
- "29 Dufferin: Detour via Princess": {
-  "desc": "29 Dufferin: Detour via Princess Margaret Blvd and Manitoba Dr due to an event.",
-  "header": "29 Dufferin: Detour via Princess"
- },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
