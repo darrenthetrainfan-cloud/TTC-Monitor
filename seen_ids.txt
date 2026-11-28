@@ -1,8 +1,4 @@
 {
- "113 Danforth: Detour eastbound v": {
-  "desc": "113 Danforth: Detour eastbound via Kennedy Rd, St Clair Ave E and Midland Ave due to a collision.",
-  "header": "113 Danforth: Detour eastbound v"
- },
  "24 Victoria Park: Detour via Yor": {
   "desc": "24 Victoria Park: Detour via Yorkland Blvd, Yorkland Rd and Don Mills Rd due to a blocked road.",
   "header": "24 Victoria Park: Detour via Yor"
@@ -18,10 +14,6 @@
  "305 Dundas: Detour eastbound via": {
   "desc": "305 Dundas: Detour eastbound via Parliament St and Gerrard St E while we respond to a medical emergency.",
   "header": "305 Dundas: Detour eastbound via"
- },
- "41 Keele: Detour via The Pond Rd": {
-  "desc": "41 Keele: Detour via The Pond Rd and Ian Macdonald Blvd due to a collision.",
-  "header": "41 Keele: Detour via The Pond Rd"
  },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
