@@ -11,6 +11,14 @@
   "desc": "305 Dundas: Detour eastbound via Parliament St and Gerrard St E while we respond to a medical emergency.",
   "header": "305 Dundas: Detour eastbound via"
  },
+ "41 Keele: Detour northbound via": {
+  "desc": "41 Keele: Detour northbound via Junction Rd and Old Weston Rd due to a collision.",
+  "header": "41 Keele: Detour northbound via"
+ },
+ "41 Keele: Detour southbound via": {
+  "desc": "41 Keele: Detour southbound via Gunns Rd, Old Stock Yards Rd and West Toronto St due to a collision.",
+  "header": "41 Keele: Detour southbound via"
+ },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
@@ -20,10 +28,6 @@
   "header": "504 King: Detour westbound via C"
  },
  "512 St Clair: No service between": {
-  "desc": "512 St Clair: No service between Gunns Loop at St Clair Ave West and St Clair Ave West at Lansdowne Ave East Side due to a collision.",
-  "header": "512 St Clair: No service between"
- },
- "512 St Clair: No service between #2": {
   "desc": "512 St Clair: No service between Gunns Loop at St Clair Ave West and St Clair Ave West at Lansdowne Ave East Side due to a collision.",
   "header": "512 St Clair: No service between"
  },
