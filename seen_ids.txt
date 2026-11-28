@@ -7,6 +7,10 @@
   "desc": "24 Victoria Park: Detour via Yorkland Blvd, Yorkland Rd and Don Mills Rd due to a blocked road.",
   "header": "24 Victoria Park: Detour via Yor"
  },
+ "29 Dufferin: Detour via Dufferin": {
+  "desc": "29 Dufferin: Detour via Dufferin St, Princess Ave and Manitoba Dr due to a blocked road.",
+  "header": "29 Dufferin: Detour via Dufferin"
+ },
  "29 Dufferin: Detour via Princess": {
   "desc": "29 Dufferin: Detour via Princess Margaret Blvd and Manitoba Dr due to an event.",
   "header": "29 Dufferin: Detour via Princess"
@@ -47,6 +51,10 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
+ "929 Dufferin Express: Detour via": {
+  "desc": "929 Dufferin Express: Detour via Dufferin St, Princess Ave and Manitoba Dr due to a blocked road.",
+  "header": "929 Dufferin Express: Detour via"
+ },
  "Caledonia: Elevator ELV02-B out": {
   "desc": "Caledonia: Elevator out of service between Eglinton Avenue north side entrance and concourse due to a technical problem.",
   "header": "Caledonia: Elevator ELV02-B out"
@@ -58,10 +66,6 @@
  "Have proof of payment ready for": {
   "desc": "Have proof of payment ready for inspection.",
   "header": "Have proof of payment ready for"
- },
- "Line 2 Bloor-Danforth: No servic": {
-  "desc": "Line 2 Bloor-Danforth: No service between Keele and Ossington stations due to a medical emergency. Thank you for your patience.",
-  "header": "Line 2 Bloor-Danforth: No servic"
  },
  "Line 2 Bloor-Danforth: Trains ar": {
   "desc": "Line 2 Bloor-Danforth: Bypass at Main Street station due to a security incident. Thank you for your patience.",
