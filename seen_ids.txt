@@ -1,8 +1,4 @@
 {
- "116 Morningside: Detour eastboun": {
-  "desc": "116 Morningside: Detour eastbound via Sheppard Ave E, Water Tower Gt, Venture Dr and Casebridge Crt due to a collision.",
-  "header": "116 Morningside: Detour eastboun"
- },
  "19 Bay: Detour via Davenport Rd": {
   "desc": "19 Bay: Detour via Davenport Rd and Yorkville Ave due to a collision.",
   "header": "19 Bay: Detour via Davenport Rd"
