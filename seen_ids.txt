@@ -43,14 +43,6 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
- "75 Sherbourne: Detour northbound": {
-  "desc": "75 Sherbourne: Detour northbound via Wellesley Ave, Jarvis St and Bloor St E due to construction.",
-  "header": "75 Sherbourne: Detour northbound"
- },
- "75 Sherbourne: Detour southbound": {
-  "desc": "75 Sherbourne: Detour southbound via Bloor St E, Rogers Rd, Jarvis St and Wellesley Ave due to construction.",
-  "header": "75 Sherbourne: Detour southbound"
- },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
