@@ -35,10 +35,6 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
- "94A Wellesley: Detour via Bay St": {
-  "desc": "94A Wellesley: Detour via Bay St, Grosvenor St, Alexander St, Church St and Wellesley Ave due to construction.",
-  "header": "94A Wellesley: Detour via Bay St"
- },
  "Caledonia: Elevator ELV02-B out": {
   "desc": "Caledonia: Elevator out of service between Eglinton Avenue north side entrance and concourse due to a technical problem.",
   "header": "Caledonia: Elevator ELV02-B out"
