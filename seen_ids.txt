@@ -3,10 +3,6 @@
   "desc": "19 Bay: Detour via Davenport Rd and Yorkville Ave due to a collision.",
   "header": "19 Bay: Detour via Davenport Rd"
  },
- "24 Victoria Park: Detour via Yor": {
-  "desc": "24 Victoria Park: Detour via Yorkland Blvd, Yorkland Rd and Don Mills Rd due to a blocked road.",
-  "header": "24 Victoria Park: Detour via Yor"
- },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
@@ -30,10 +26,6 @@
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
- },
- "68 Warden: Detour southbound via": {
-  "desc": "68 Warden: Detour southbound via Bertrand Ave, Thermos Rd and Eglinton Ave E due to a collision.",
-  "header": "68 Warden: Detour southbound via"
  },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
