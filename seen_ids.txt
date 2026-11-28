@@ -28,7 +28,7 @@
   "header": "504 King: Detour westbound via C"
  },
  "512 St Clair: No service between": {
-  "desc": "512 St Clair: No service between Gunns Loop at St Clair Ave West and St Clair Ave West at Lansdowne Ave East Side due to a collision.",
+  "desc": "512 St Clair: No service between Gunns Loop at St Clair Ave West and St Clair Ave West at Lansdowne Ave East Side due to a collision. Shuttle buses are on the way.",
   "header": "512 St Clair: No service between"
  },
  "53 Steeles East: Detour via Maxo": {
@@ -50,6 +50,10 @@
  "89 Weston: Detour via Gunns Rd,": {
   "desc": "89 Weston: Detour via Gunns Rd, West Toronto St and Keele St due to a collision.",
   "header": "89 Weston: Detour via Gunns Rd,"
+ },
+ "Bloor-Yonge: Elevator 13Y3L out": {
+  "desc": "Bloor-Yonge: Elevator out of service between south concourse and Line 1 southbound platform due to a technical problem.",
+  "header": "Bloor-Yonge: Elevator 13Y3L out"
  },
  "Caledonia: Elevator ELV02-B out": {
   "desc": "Caledonia: Elevator out of service between Eglinton Avenue north side entrance and concourse due to a technical problem.",
