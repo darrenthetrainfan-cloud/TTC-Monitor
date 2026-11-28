@@ -31,6 +31,14 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
+ "82 Rosedale: Detour eastbound vi": {
+  "desc": "82 Rosedale: Detour eastbound via Sherbourne St, Maple Ave and Glen Rd due to construction.",
+  "header": "82 Rosedale: Detour eastbound vi"
+ },
+ "82 Rosedale: Detour westbound vi": {
+  "desc": "82 Rosedale: Detour westbound via Glen Rd, Elm Rd and Sherbourne St due to construction.",
+  "header": "82 Rosedale: Detour westbound vi"
+ },
  "Caledonia: Elevator ELV02-B out": {
   "desc": "Caledonia: Elevator out of service between Eglinton Avenue north side entrance and concourse due to a technical problem.",
   "header": "Caledonia: Elevator ELV02-B out"
