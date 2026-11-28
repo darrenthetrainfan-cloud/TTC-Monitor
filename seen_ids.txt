@@ -31,6 +31,10 @@
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
  },
+ "67 Pharmacy: Detour via Holswade": {
+  "desc": "67 Pharmacy: Detour via Holswade Rd, Victoria Park Ave, Craigton Dr, Rannock St and Pharmacy Ave due to a collision.",
+  "header": "67 Pharmacy: Detour via Holswade"
+ },
  "68 Warden: Detour southbound via": {
   "desc": "68 Warden: Detour southbound via Bertrand Ave, Thermos Rd and Eglinton Ave E due to a collision.",
   "header": "68 Warden: Detour southbound via"
