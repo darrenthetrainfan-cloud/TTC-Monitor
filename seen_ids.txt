@@ -27,10 +27,6 @@
   "desc": "504 King: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.",
   "header": "504 King: Detour westbound via C"
  },
- "505 Dundas: No service between D": {
-  "desc": "505 Dundas: No service between Dundas St West at Lansdowne Ave and Dundas West Station at Bay 5 due to a collision.",
-  "header": "505 Dundas: No service between D"
- },
  "512 St Clair: No service between": {
   "desc": "512 St Clair: No service between Gunns Loop at St Clair Ave West and St Clair Ave West at Lansdowne Ave East Side due to a collision. Shuttle buses are running between Gunns Loop at St Clair Ave West and St Clair Ave West at Lansdowne Ave East Side.",
   "header": "512 St Clair: No service between"
