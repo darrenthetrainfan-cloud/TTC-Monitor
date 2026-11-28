@@ -1,8 +1,4 @@
 {
- "19 Bay: Detour via Davenport Rd": {
-  "desc": "19 Bay: Detour via Davenport Rd and Yorkville Ave due to a collision.",
-  "header": "19 Bay: Detour via Davenport Rd"
- },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
