@@ -1,4 +1,8 @@
 {
+ "21 Brimley: Detour via Lawrence": {
+  "desc": "21 Brimley: Detour via Lawrence Ave E, Midland Ave and Ellesmere Rd due to a collision.",
+  "header": "21 Brimley: Detour via Lawrence"
+ },
  "301 Queen: No service near Lake": {
   "desc": "301 Queen: No service near Lake Shore Blvd West at Kipling Ave while we respond to a medical emergency.",
   "header": "301 Queen: No service near Lake"
