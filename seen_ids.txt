@@ -31,10 +31,6 @@
   "desc": "505 Dundas: Detour eastbound via Spadina Ave, Queen St E and Mccaul St due to a collision.",
   "header": "505 Dundas: Detour eastbound via"
  },
- "512 St Clair: No service between": {
-  "desc": "512 St Clair: No service between Gunns Loop at St Clair Ave West and St Clair Ave West at Lansdowne Ave East Side due to a collision. Shuttle buses are running between Gunns Loop at St Clair Ave West and St Clair Ave West at Lansdowne Ave East Side.",
-  "header": "512 St Clair: No service between"
- },
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
