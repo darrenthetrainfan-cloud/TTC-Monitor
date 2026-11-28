@@ -47,6 +47,10 @@
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
  },
+ "89 Weston: Detour via Gunns Rd,": {
+  "desc": "89 Weston: Detour via Gunns Rd, West Toronto St and Keele St due to a collision.",
+  "header": "89 Weston: Detour via Gunns Rd,"
+ },
  "Caledonia: Elevator ELV02-B out": {
   "desc": "Caledonia: Elevator out of service between Eglinton Avenue north side entrance and concourse due to a technical problem.",
   "header": "Caledonia: Elevator ELV02-B out"
