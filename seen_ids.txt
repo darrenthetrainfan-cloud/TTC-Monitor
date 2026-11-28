@@ -7,10 +7,6 @@
   "desc": "305 Dundas: Detour eastbound via Parliament St and Gerrard St E while we respond to a medical emergency.",
   "header": "305 Dundas: Detour eastbound via"
  },
- "307 Bathurst: Detour northbound": {
-  "desc": "307 Bathurst: Detour northbound via Davenport Rd, Walmer Rd, Spadina Ave and St Clair Ave W due to a collision.",
-  "header": "307 Bathurst: Detour northbound"
- },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
