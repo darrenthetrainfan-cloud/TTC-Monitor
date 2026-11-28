@@ -7,6 +7,10 @@
   "desc": "305 Dundas: Detour eastbound via Parliament St and Gerrard St E while we respond to a medical emergency.",
   "header": "305 Dundas: Detour eastbound via"
  },
+ "307 Bathurst: Detour northbound": {
+  "desc": "307 Bathurst: Detour northbound via Davenport Rd, Walmer Rd, Spadina Ave and St Clair Ave W due to a collision.",
+  "header": "307 Bathurst: Detour northbound"
+ },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
@@ -22,10 +26,6 @@
  "53 Steeles East: Detour via Maxo": {
   "desc": "53 Steeles East: Detour via Maxome Ave, Newton Dr and Bayview Ave due to construction.",
   "header": "53 Steeles East: Detour via Maxo"
- },
- "63 Ossington: Detour northbound": {
-  "desc": "63 Ossington: Detour northbound via Davenport Rd, Walmer Rd, Spadina Ave and St Clair Ave W due to a collision.",
-  "header": "63 Ossington: Detour northbound"
  },
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
