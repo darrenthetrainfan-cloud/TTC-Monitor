@@ -11,14 +11,6 @@
   "desc": "305 Dundas: Detour eastbound via Parliament St and Gerrard St E while we respond to a medical emergency.",
   "header": "305 Dundas: Detour eastbound via"
  },
- "41 Keele: Detour northbound via": {
-  "desc": "41 Keele: Detour northbound via Junction Rd and Old Weston Rd due to a collision.",
-  "header": "41 Keele: Detour northbound via"
- },
- "41 Keele: Detour southbound via": {
-  "desc": "41 Keele: Detour southbound via Gunns Rd, Old Stock Yards Rd and West Toronto St due to a collision.",
-  "header": "41 Keele: Detour southbound via"
- },
  "501 Queen: Detour eastbound via": {
   "desc": "501 Queen: Detour eastbound via King St E and Church St while we deal with an operational problem.",
   "header": "501 Queen: Detour eastbound via"
@@ -38,10 +30,6 @@
  "79 Scarlett Rd: Detour northboun": {
   "desc": "79 Scarlett Rd: Detour northbound via Runnymede Rd, St Clair Ave W and Castleton Ave due to construction.",
   "header": "79 Scarlett Rd: Detour northboun"
- },
- "89 Weston: Detour via Gunns Rd,": {
-  "desc": "89 Weston: Detour via Gunns Rd, West Toronto St and Keele St due to a collision.",
-  "header": "89 Weston: Detour via Gunns Rd,"
  },
  "Caledonia: Elevator ELV02-B out": {
   "desc": "Caledonia: Elevator out of service between Eglinton Avenue north side entrance and concourse due to a technical problem.",
