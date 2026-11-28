@@ -51,10 +51,6 @@
   "desc": "89 Weston: Detour via Gunns Rd, West Toronto St and Keele St due to a collision.",
   "header": "89 Weston: Detour via Gunns Rd,"
  },
- "Bloor-Yonge: Elevator 13Y3L out": {
-  "desc": "Bloor-Yonge: Elevator out of service between south concourse and Line 1 southbound platform due to a technical problem.",
-  "header": "Bloor-Yonge: Elevator 13Y3L out"
- },
  "Caledonia: Elevator ELV02-B out": {
   "desc": "Caledonia: Elevator out of service between Eglinton Avenue north side entrance and concourse due to a technical problem.",
   "header": "Caledonia: Elevator ELV02-B out"
